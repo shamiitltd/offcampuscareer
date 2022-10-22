@@ -1,0 +1,62 @@
+<div class="job-box" data-id="<%- company.courseId  %>">
+    <div class="deleteBox flex-row bgdel invisible"><i title="Delete it" class="far fa-trash-alt"></i></div>
+    <div class="company-card flex-column">
+        <div class="course-logo">
+            <img src="<%- company.courseImgUrl %>" alt="" class="company-logo-img">
+        </div>
+        <div class="course-info flex-column">
+            <div class="course-description">
+                <span class="job-name"><%= company.courseTitle %></span>
+            </div>
+            <div class="job-description flex-row invisible">
+                <% if(company.courseKeyWords){ %>
+                <div class="jd-skills font-small"><span class="jd-skills-text"><%= company.courseKeyWords %></span>
+                </div>
+                <% } %>
+            </div>
+            <div class="job-description single-line">
+                <% if(company.courseAuthor){ %>
+                <span class="job-type font-small"><%= company.courseAuthor %></span><span
+                    class="job-type font-small"></span>
+                <% } %>
+            </div>
+            <div class="job-description">
+                <% if(company.courseUpdated){ %>
+                <span class="dot">.</span><span class="job-date font-small">Updated
+                    [<%= company.courseUpdated.toDateString() %>]</span>
+                <% } %>
+            </div>
+            <div class="job-description assured">
+                <% if(company.courseOrganisation){%>
+                <% if(company.courseOrganisation=='Government'){%>
+                <span class="job-gov font-small" title="Government Course"> <span>Government</span> <i
+                        class="fas fa-check-circle"></i></span>
+                <%} else{%>
+                <div class="jd-skills font-small"><span class="jd-skills-text"><%= company.courseOrganisation %></span>
+                </div>
+                <%}%>
+                <%}%>
+            </div>
+            <div class="job-description flex-row course-footer">
+                <div class="flex-column">
+                    <% if(company.courseChapters){%>
+                    <div><%= company.courseChapters %></div>
+                    <div class="course-fo-text">chapters</div>
+                    <% } %>
+                </div>
+                <div class="flex-column">
+                    <% if(company.courseInterviews){%>
+                    <div><%= company.courseInterviews %></div>
+                    <div class="course-fo-text">Interview</div>
+                    <% } %>
+                </div>
+                <div class="flex-column">
+                    <% if(company.courseHours){%>
+                    <div><%= company.courseHours %></div>
+                    <div class="course-fo-text">Hours</div>
+                    <% } %>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

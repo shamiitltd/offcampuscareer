@@ -1,0 +1,96 @@
+.searchform {
+    margin-top: 1em;
+    width: 98%;
+    justify-content: center;
+}
+
+.searchbar {
+    width: 98%;
+    margin: 0.5em;
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+    justify-content: space-around;
+    border: 0.06rem solid saddlebrown;
+    border-radius: 0.4rem;
+}
+
+
+.where {
+    width: 40%;
+    height: 2em;
+    border: 0.06em solid rebeccapurple;
+    border-radius: 0.4em;
+}
+
+.where div {
+    padding-left: 0.062em;
+}
+
+.where input {
+    flex-basis: 2em;
+    flex-shrink: 1;
+    flex-grow: 1;
+    font-size: 0.8em;
+    outline: none;
+    border: none;
+    padding-left: 0.5rem;
+    height: 2em;
+    width: 50%;
+    border-radius: 0.4em;
+    color: blueviolet;
+}
+
+
+.submit {
+    border: 0.062em solid slategray;
+    padding: 0.42em;
+    height: 100%;
+}
+
+.searchHint {
+    display: none;
+}
+
+.filters {
+    width: 100%;
+    flex-wrap: wrap;
+}
+
+.filters-selected {
+    flex-wrap: wrap;
+}
+
+.sub-filter {
+    border-radius: 0.43rem;
+    border: 0.062rem solid saddlebrown;
+    padding: 0.12rem;
+    margin: 0.12rem 0.24rem 0.24rem 0rem;
+}
+
+.sub-filter-close,
+.sub-filter-text {
+    margin: 0.18rem;
+}
+
+.total-search {
+    width: 100%;
+    margin: 0.5em;
+}
+
+.nwhere {
+    width: 85%;
+}
+
+
+@media screen and (max-width:1000px) {
+    .searchbar {
+        flex-direction: column;
+        padding: 0.2rem;
+    }
+
+    .where {
+        width: 90%;
+        margin-top: 0.5rem;
+    }
+
+}

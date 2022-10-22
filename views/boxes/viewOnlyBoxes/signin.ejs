@@ -1,0 +1,81 @@
+<div class="signin-container flex-row">
+    <div class="signup-form-box flex-row ">
+        <div class="loading-spinner invisible">
+            <div class="sk-chase">
+                <div class="sk-chase-dot"></div>
+                <div class="sk-chase-dot"></div>
+                <div class="sk-chase-dot"></div>
+                <div class="sk-chase-dot"></div>
+                <div class="sk-chase-dot"></div>
+                <div class="sk-chase-dot"></div>
+            </div>
+        </div>
+        <form class="signin-form flex-column " action="#">
+            <div class="su-form-header flex-column">
+                <div>
+                    <h2 class="su-name"> Offcampuscareer</h2>
+                </div>
+                <div>
+                    <h3 class="su-title">Sign In</h3>
+                </div>
+            </div>
+            <div class="social-container flex-row">
+                <a href="/auth/facebook" class="social-a facebook"><i class="fab fa-facebook-f"></i></a>
+                <a href="/auth/google" class="social-a google"><i class="fab fa-google-plus-g"></i></a>
+                <a href="/auth/linkedin" class="social-a linkedin"><i class="fab fa-linkedin-in"></i></a>
+            </div>
+            <span class="su-desc error invisible" id="sierror">Error Sign In</span>
+            <span class="su-desc">or use your oc2 account</span>
+            <input id="siEmail" class="signin-input" type="email" name="email" placeholder="Email" required />
+            <input id="siPass" class="signin-input" type="password" name="password" placeholder="Password" required />
+            <div class="flex-row signinButtons">
+                <button type="button" id="newuser">New user</button>
+                <button type="submit" id="signIn" class="signin-button">Sign In</button>
+            </div>
+            <button type="button" id="forgot">Forgot your password?</button>
+        </form>
+        <form class="signup-form flex-column invisible" action="#">
+            <div class="su-form-header flex-column">
+                <div>
+                    <h2 class="su-name"> Offcampuscareer</h2>
+                </div>
+                <div>
+                    <h3 class="su-title">Sign Up</h3>
+                </div>
+            </div>
+            <div class="social-container flex-row">
+                <a href="/auth/facebook" class="social-a facebook"><i class="fab fa-facebook-f"></i></a>
+                <a href="/auth/google" class="social-a google"><i class="fab fa-google-plus-g"></i></a>
+                <a href="/auth/linkedin" class="social-a linkedin"><i class="fab fa-linkedin-in"></i></a>
+            </div>
+            <span class="su-desc error invisible" id="suerror">Error Sign Up</span>
+            <span class="su-desc">or use your email for registration</span>
+            <input id="suName" class="signin-input" type="text" name="name" placeholder="Name" required />
+            <input id="suEmail" class="signin-input" type="email" name="email" placeholder="Email" required />
+            <input id="suPass" class="signin-input" type="password" placeholder="Password" required />
+            <input id="suCPass" class="signin-input" type="password" placeholder="Confirm Password" required />
+            <div class="flex-row signinButtons">
+                <button type="button" id="back2signin">Already having a account</button>
+                <button type="submit" id="signUp" class="signin-button">Sign Up</button>
+            </div>
+        </form>
+        <form class="resetpass-form flex-column invisible" action="#">
+            <div class="su-form-header flex-column">
+                <div>
+                    <h2> Offcampuscareer</h2>
+                </div>
+                <div>
+                    <h3>Find your Account</h3>
+                </div>
+            </div>
+            <span class="su-desc error invisible" id="rsperror">Error Sign Up</span>
+            <span>Please enter your email address or userHandle</span>
+            <input id="rsEmail" class="signin-input" type="email" name="email" placeholder="Email" required />
+            <div class="flex-row signinButtons">
+                <button type="button" id="backtosignin">Back to Sign In</button>
+                <button type="submit" id="resetpass" class="signin-button">Reset Password</button>
+            </div>
+
+        </form>
+    </div>
+</div>

@@ -1,0 +1,165 @@
+.homeRecommendation {
+    width: 100%;
+}
+
+.jobs {
+    width: 100%;
+}
+
+.job-types {
+    align-items: flex-end;
+}
+
+.job-title {
+    width: 100%;
+    justify-content: space-between;
+}
+
+.cards {
+    width: 100%;
+    justify-content: start;
+    align-items: flex-start;
+}
+
+
+.job-info {
+    width: 80%;
+}
+
+.more a {
+    border-radius: 1.8rem;
+    height: 1.2rem;
+    margin: 1em;
+    padding: 0.1em 0.3em 0.1em 0.3em;
+    background-color: inherit;
+    box-shadow: 0.31rem 0.31rem 2.1rem rgba(182, 90, 90, 0.514);
+    color: rgb(121, 134, 77);
+    justify-content: flex-end;
+}
+
+.more a:hover {
+    color: rgb(163, 194, 61);
+}
+
+.item-bar {
+    width: 100%;
+    display: flex;
+    justify-content: flex-start;
+    box-shadow: 0 0.2rem 0.3rem 0 rgba(216, 216, 216, 0.24),
+        0 1rem 3rem 0 rgba(212, 211, 211, 0.19);
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+
+.item-bar>span {
+    margin: 0% 2%;
+    display: inline-block;
+    white-space: nowrap;
+    margin: 0.25rem;
+    margin-right: 2rem;
+    cursor: pointer;
+}
+
+#qsearch,
+.topic-selected,
+.stopic-selected {
+    color: #3601f7 !important;
+    font-weight: bold;
+}
+
+div::-webkit-scrollbar {
+    height: 0.3rem;
+}
+
+div::-webkit-scrollbar-thumb {
+    background-color: rgb(155, 137, 137);
+}
+
+.two-box {
+    width: 50%;
+    justify-content: flex-start;
+    align-items: flex-start;
+}
+
+.course-footer {
+    margin-top: 0.5em;
+    justify-content: space-between;
+}
+
+.course-fo-text {
+    justify-content: flex-start;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    display: -webkit-box;
+    -webkit-line-clamp: 1;
+    /* number of lines to show */
+    line-clamp: 1;
+    -webkit-box-orient: vertical;
+}
+
+.single-line {
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+
+.greenb,
+#delQsearch,
+.deletePC {
+    color: rgb(28, 199, 94);
+    margin-left: 1em;
+    cursor: pointer;
+}
+
+#delQsearch,
+.deleteBox,
+.deletePC {
+    color: rgb(255, 0, 0);
+}
+
+.deleteBox {
+    padding: 0.5em;
+    justify-content: center;
+    cursor: pointer;
+}
+
+.deleteBox>i {
+    font-size: 2rem;
+}
+
+.bgdel {
+    background-color: rgba(187, 86, 86, 0.13);
+}
+
+
+@media screen and (max-width: 980px) {
+
+    .cards,
+    .four-box {
+        flex-direction: column;
+    }
+
+    .two-box {
+        width: 100%;
+    }
+}
+
+@media screen and (min-width: 980px) and (max-width: 1150px) {
+    .two-box:nth-child(2)>div:nth-child(2) {
+        display: none;
+    }
+
+    .two-box:first-child {
+        width: 66%;
+    }
+
+    .two-box:nth-child(2) {
+        width: 34%;
+    }
+}
+
+@media screen and (max-width: 500px) {
+    .two-box {
+        flex-direction: column;
+    }
+}

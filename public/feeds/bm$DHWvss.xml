@@ -1,0 +1,575 @@
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:content="http://purl.org/rss/1.0/modules/content/"
+    xmlns:atom="http://www.w3.org/2005/Atom"
+    xmlns:media="http://search.yahoo.com/mrss/" version="2.0">
+    <channel>
+        <title>
+            <![CDATA[ offcamuscareer.com ]]>
+        </title>
+        <description>
+            <![CDATA[ offcamuscareer.com ]]>
+        </description>
+        <link>https://www.offcampuscareer.com/sitemapscanner/new</link>
+        <image>
+            <url>https://www.offcampuscareer.com/favicon.ico</url>
+            <title>offcamuscareer.com</title>
+            <link>https://www.offcampuscareer.com/sitemapscanner/new</link>
+        </image>
+        <generator>https://www.offcampuscareer.com</generator>
+        <lastBuildDate>Sat Oct 22 2022 12:45:45 GMT+0000 (Coordinated Universal Time)</lastBuildDate>
+        <atom:link href="https://www.offcampuscareer.com/feeds/bm$DHWvss.xml" rel="self" type="application/rss+xml"/>
+        <language>
+            <![CDATA[ en ]]>
+        </language>
+
+        <item>
+            <title>
+                <![CDATA[ Skip to main content ]]>
+            </title>
+            <link>https://raleighnc.gov#main-content</link>
+            <guid isPermaLink="false">1666442745651</guid>
+            <dc:creator>
+                <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
+            </dc:creator>
+        </item>
+        <item>
+            <title>
+                <![CDATA[ News ]]>
+            </title>
+            <link>https://raleighnc.gov/news</link>
+            <guid isPermaLink="false">1666442745652</guid>
+            <dc:creator>
+                <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
+            </dc:creator>
+        </item>
+        <item>
+            <title>
+                <![CDATA[ Events ]]>
+            </title>
+            <link>https://raleighnc.gov/events</link>
+            <guid isPermaLink="false">1666442745653</guid>
+            <dc:creator>
+                <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
+            </dc:creator>
+        </item>
+        <item>
+            <title>
+                <![CDATA[ Services ]]>
+            </title>
+            <link>https://raleighnc.gov/services</link>
+            <guid isPermaLink="false">1666442745654</guid>
+            <dc:creator>
+                <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
+            </dc:creator>
+        </item>
+        <item>
+            <title>
+                <![CDATA[ Projects ]]>
+            </title>
+            <link>https://raleighnc.gov/projects</link>
+            <guid isPermaLink="false">1666442745655</guid>
+            <dc:creator>
+                <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
+            </dc:creator>
+        </item>
+        <item>
+            <title>
+                <![CDATA[ Departments ]]>
+            </title>
+            <link>https://raleighnc.gov/departments</link>
+            <guid isPermaLink="false">1666442745656</guid>
+            <dc:creator>
+                <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
+            </dc:creator>
+        </item>
+        <item>
+            <title>
+                <![CDATA[ Apps, Maps, and Open Data ]]>
+            </title>
+            <link>https://raleighnc.gov/services/apps-maps-and-open-data</link>
+            <guid isPermaLink="false">1666442745657</guid>
+            <dc:creator>
+                <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
+            </dc:creator>
+        </item>
+        <item>
+            <title>
+                <![CDATA[ Arts ]]>
+            </title>
+            <link>https://raleighnc.gov/services/arts</link>
+            <guid isPermaLink="false">1666442745658</guid>
+            <dc:creator>
+                <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
+            </dc:creator>
+        </item>
+        <item>
+            <title>
+                <![CDATA[ Careers, Jobs, and Volunteering ]]>
+            </title>
+            <link>https://raleighnc.gov/services/careers-jobs-and-volunteering</link>
+            <guid isPermaLink="false">1666442745659</guid>
+            <dc:creator>
+                <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
+            </dc:creator>
+        </item>
+        <item>
+            <title>
+                <![CDATA[ Community ]]>
+            </title>
+            <link>https://raleighnc.gov/services/community</link>
+            <guid isPermaLink="false">1666442745660</guid>
+            <dc:creator>
+                <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
+            </dc:creator>
+        </item>
+        <item>
+            <title>
+                <![CDATA[ Diversity, Equity, and Inclusion ]]>
+            </title>
+            <link>https://raleighnc.gov/services/diversity-equity-and-inclusion</link>
+            <guid isPermaLink="false">1666442745661</guid>
+            <dc:creator>
+                <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
+            </dc:creator>
+        </item>
+        <item>
+            <title>
+                <![CDATA[ Doing Business ]]>
+            </title>
+            <link>https://raleighnc.gov/services/doing-business</link>
+            <guid isPermaLink="false">1666442745662</guid>
+            <dc:creator>
+                <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
+            </dc:creator>
+        </item>
+        <item>
+            <title>
+                <![CDATA[ Education and Learning ]]>
+            </title>
+            <link>https://raleighnc.gov/services/education-and-learning</link>
+            <guid isPermaLink="false">1666442745663</guid>
+            <dc:creator>
+                <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
+            </dc:creator>
+        </item>
+        <item>
+            <title>
+                <![CDATA[ Engage with the City ]]>
+            </title>
+            <link>https://raleighnc.gov/services/engage-city</link>
+            <guid isPermaLink="false">1666442745664</guid>
+            <dc:creator>
+                <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
+            </dc:creator>
+        </item>
+        <item>
+            <title>
+                <![CDATA[ Fix It, Report It, Request It ]]>
+            </title>
+            <link>https://raleighnc.gov/services/fix-it-report-it-request-it</link>
+            <guid isPermaLink="false">1666442745665</guid>
+            <dc:creator>
+                <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
+            </dc:creator>
+        </item>
+        <item>
+            <title>
+                <![CDATA[ Government ]]>
+            </title>
+            <link>https://raleighnc.gov/services/government</link>
+            <guid isPermaLink="false">1666442745666</guid>
+            <dc:creator>
+                <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
+            </dc:creator>
+        </item>
+        <item>
+            <title>
+                <![CDATA[ Grants, Funding, and Relief ]]>
+            </title>
+            <link>https://raleighnc.gov/services/grants-funding-and-relief</link>
+            <guid isPermaLink="false">1666442745667</guid>
+            <dc:creator>
+                <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
+            </dc:creator>
+        </item>
+        <item>
+            <title>
+                <![CDATA[ Housing ]]>
+            </title>
+            <link>https://raleighnc.gov/services/housing</link>
+            <guid isPermaLink="false">1666442745668</guid>
+            <dc:creator>
+                <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
+            </dc:creator>
+        </item>
+        <item>
+            <title>
+                <![CDATA[ Make Payments ]]>
+            </title>
+            <link>https://raleighnc.gov/services/make-payments</link>
+            <guid isPermaLink="false">1666442745669</guid>
+            <dc:creator>
+                <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
+            </dc:creator>
+        </item>
+        <item>
+            <title>
+                <![CDATA[ Parks ]]>
+            </title>
+            <link>https://raleighnc.gov/services/parks</link>
+            <guid isPermaLink="false">1666442745670</guid>
+            <dc:creator>
+                <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
+            </dc:creator>
+        </item>
+        <item>
+            <title>
+                <![CDATA[ Permits ]]>
+            </title>
+            <link>https://raleighnc.gov/services/permits</link>
+            <guid isPermaLink="false">1666442745671</guid>
+            <dc:creator>
+                <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
+            </dc:creator>
+        </item>
+        <item>
+            <title>
+                <![CDATA[ Planning ]]>
+            </title>
+            <link>https://raleighnc.gov/services/planning</link>
+            <guid isPermaLink="false">1666442745672</guid>
+            <dc:creator>
+                <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
+            </dc:creator>
+        </item>
+        <item>
+            <title>
+                <![CDATA[ Safety ]]>
+            </title>
+            <link>https://raleighnc.gov/services/safety</link>
+            <guid isPermaLink="false">1666442745673</guid>
+            <dc:creator>
+                <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
+            </dc:creator>
+        </item>
+        <item>
+            <title>
+                <![CDATA[ Stormwater ]]>
+            </title>
+            <link>https://raleighnc.gov/services/stormwater</link>
+            <guid isPermaLink="false">1666442745674</guid>
+            <dc:creator>
+                <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
+            </dc:creator>
+        </item>
+        <item>
+            <title>
+                <![CDATA[ Climate Action and Sustainability ]]>
+            </title>
+            <link>https://raleighnc.gov/services/climate-action-and-sustainability</link>
+            <guid isPermaLink="false">1666442745675</guid>
+            <dc:creator>
+                <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
+            </dc:creator>
+        </item>
+        <item>
+            <title>
+                <![CDATA[ Transit, Streets, and Sidewalks ]]>
+            </title>
+            <link>https://raleighnc.gov/services/transit-streets-and-sidewalks</link>
+            <guid isPermaLink="false">1666442745676</guid>
+            <dc:creator>
+                <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
+            </dc:creator>
+        </item>
+        <item>
+            <title>
+                <![CDATA[ Trash, Recycling, and Clean Up ]]>
+            </title>
+            <link>https://raleighnc.gov/services/trash-recycling-and-clean</link>
+            <guid isPermaLink="false">1666442745677</guid>
+            <dc:creator>
+                <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
+            </dc:creator>
+        </item>
+        <item>
+            <title>
+                <![CDATA[ Water and Sewer ]]>
+            </title>
+            <link>https://raleighnc.gov/services/water-and-sewer</link>
+            <guid isPermaLink="false">1666442745678</guid>
+            <dc:creator>
+                <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
+            </dc:creator>
+        </item>
+        <item>
+            <title>
+                <![CDATA[ Places ]]>
+            </title>
+            <link>https://raleighnc.gov/places</link>
+            <guid isPermaLink="false">1666442745679</guid>
+            <dc:creator>
+                <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
+            </dc:creator>
+        </item>
+        <item>
+            <title>
+                <![CDATA[ Staff Directory ]]>
+            </title>
+            <link>https://raleighnc.gov/directory</link>
+            <guid isPermaLink="false">1666442745680</guid>
+            <dc:creator>
+                <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
+            </dc:creator>
+        </item>
+        <item>
+            <title>
+                <![CDATA[  ]]>
+            </title>
+            <link>https://raleighnc.gov/</link>
+            <guid isPermaLink="false">1666442745681</guid>
+            <dc:creator>
+                <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
+            </dc:creator>
+        </item>
+        <item>
+            <title>
+                <![CDATA[ Updates on Mass Shooting, including Vigil Live Streaming Information ]]>
+            </title>
+            <link>https://raleighnc.gov/news/mass-shooting</link>
+            <guid isPermaLink="false">1666442745682</guid>
+            <dc:creator>
+                <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
+            </dc:creator>
+        </item>
+        <item>
+            <title>
+                <![CDATA[  ]]>
+            </title>
+            <link>undefined</link>
+            <guid isPermaLink="false">1666442745683</guid>
+            <dc:creator>
+                <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
+            </dc:creator>
+        </item>
+        <item>
+            <title>
+                <![CDATA[ Save the Date - Holiday Express Tickets on Sale November 10 ]]>
+            </title>
+            <link>https://raleighnc.gov/parks/save-date-holiday-express-tickets-sale-november-10</link>
+            <guid isPermaLink="false">1666442745684</guid>
+            <dc:creator>
+                <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
+            </dc:creator>
+        </item>
+        <item>
+            <title>
+                <![CDATA[ City to Consider Naming Opportunity for the Center for Performing Arts ]]>
+            </title>
+            <link>https://raleighnc.gov/government/city-consider-naming-opportunity-center-performing-arts</link>
+            <guid isPermaLink="false">1666442745685</guid>
+            <dc:creator>
+                <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
+            </dc:creator>
+        </item>
+        <item>
+            <title>
+                <![CDATA[ Sixth Annual Day of the Dead Celebration ]]>
+            </title>
+            <link>https://raleighnc.gov/6th-annual-day-dead-celebration</link>
+            <guid isPermaLink="false">1666442745686</guid>
+            <dc:creator>
+                <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
+            </dc:creator>
+        </item>
+        <item>
+            <title>
+                <![CDATA[ Fall Wellness Fair at Marsh Creek Park ]]>
+            </title>
+            <link>https://raleighnc.gov/parks/fall-wellness-fair-marsh-creek-park</link>
+            <guid isPermaLink="false">1666442745687</guid>
+            <dc:creator>
+                <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
+            </dc:creator>
+        </item>
+        <item>
+            <title>
+                <![CDATA[ Yard Waste Pick-up Running Behind ]]>
+            </title>
+            <link>https://raleighnc.gov/trash-recycling-and-clean/yard-waste-pick-running-behind</link>
+            <guid isPermaLink="false">1666442745688</guid>
+            <dc:creator>
+                <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
+            </dc:creator>
+        </item>
+        <item>
+            <title>
+                <![CDATA[ The Haunted at the Pines ]]>
+            </title>
+            <link>https://raleighnc.gov/parks/haunted-pines</link>
+            <guid isPermaLink="false">1666442745689</guid>
+            <dc:creator>
+                <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
+            </dc:creator>
+        </item>
+        <item>
+            <title>
+                <![CDATA[ Teen Town Hall ]]>
+            </title>
+            <link>https://raleighnc.gov/parks/teen-town-hall</link>
+            <guid isPermaLink="false">1666442745690</guid>
+            <dc:creator>
+                <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
+            </dc:creator>
+        </item>
+        <item>
+            <title>
+                <![CDATA[ Trunk or Treat at Sanderford Road ]]>
+            </title>
+            <link>https://raleighnc.gov/parks/trunk-or-treat-sanderford-road</link>
+            <guid isPermaLink="false">1666442745691</guid>
+            <dc:creator>
+                <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
+            </dc:creator>
+        </item>
+        <item>
+            <title>
+                <![CDATA[ The Produce Project Expanding to Abbotts Creek and Kiwanis ]]>
+            </title>
+            <link>https://raleighnc.gov/parks/produce-project-expanding-abbotts-creek-and-kiwanis</link>
+            <guid isPermaLink="false">1666442745692</guid>
+            <dc:creator>
+                <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
+            </dc:creator>
+        </item>
+        <item>
+            <title>
+                <![CDATA[ Volunteer on Make a Difference Day ]]>
+            </title>
+            <link>https://raleighnc.gov/parks/volunteer-make-difference-day</link>
+            <guid isPermaLink="false">1666442745693</guid>
+            <dc:creator>
+                <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
+            </dc:creator>
+        </item>
+        <item>
+            <title>
+                <![CDATA[ Magic and Mischief: A Wizard’s Market ]]>
+            </title>
+            <link>https://raleighnc.gov/parks/magic-and-mischief-wizards-market</link>
+            <guid isPermaLink="false">1666442745694</guid>
+            <dc:creator>
+                <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
+            </dc:creator>
+        </item>
+        <item>
+            <title>
+                <![CDATA[ Mission and Vision ]]>
+            </title>
+            <link>https://raleighnc.gov/supportpages/mission-and-vision</link>
+            <guid isPermaLink="false">1666442745695</guid>
+            <dc:creator>
+                <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
+            </dc:creator>
+        </item>
+        <item>
+            <title>
+                <![CDATA[ Privacy and Legal Notices ]]>
+            </title>
+            <link>https://raleighnc.gov/supportpages/privacy-and-legal-notices</link>
+            <guid isPermaLink="false">1666442745696</guid>
+            <dc:creator>
+                <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
+            </dc:creator>
+        </item>
+        <item>
+            <title>
+                <![CDATA[ Accessibility ]]>
+            </title>
+            <link>https://raleighnc.gov/services/content/itechwebservices/articles/accessibility.html</link>
+            <guid isPermaLink="false">1666442745697</guid>
+            <dc:creator>
+                <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
+            </dc:creator>
+        </item>
+        <item>
+            <title>
+                <![CDATA[ Careers and Jobs ]]>
+            </title>
+            <link>https://raleighnc.gov/careers-jobs-and-volunteering/careers-and-jobs</link>
+            <guid isPermaLink="false">1666442745698</guid>
+            <dc:creator>
+                <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
+            </dc:creator>
+        </item>
+        <item>
+            <title>
+                <![CDATA[ Employee Access ]]>
+            </title>
+            <link>https://raleighnc.gov/communication-and-outreach/city-raleigh-employee-access</link>
+            <guid isPermaLink="false">1666442745699</guid>
+            <dc:creator>
+                <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
+            </dc:creator>
+        </item>
+        <item>
+            <title>
+                <![CDATA[ Media Kit ]]>
+            </title>
+            <link>https://raleighnc.gov/media-kit</link>
+            <guid isPermaLink="false">1666442745700</guid>
+            <dc:creator>
+                <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
+            </dc:creator>
+        </item>
+        <item>
+            <title>
+                <![CDATA[ Twitter ]]>
+            </title>
+            <link>http://twitter.com/raleighgov</link>
+            <guid isPermaLink="false">1666442745701</guid>
+            <dc:creator>
+                <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
+            </dc:creator>
+        </item>
+        <item>
+            <title>
+                <![CDATA[ YouTube ]]>
+            </title>
+            <link>http://youtube.com/cityofraleigh</link>
+            <guid isPermaLink="false">1666442745702</guid>
+            <dc:creator>
+                <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
+            </dc:creator>
+        </item>
+        <item>
+            <title>
+                <![CDATA[ Facebook ]]>
+            </title>
+            <link>http://www.facebook.com/cityofraleigh</link>
+            <guid isPermaLink="false">1666442745703</guid>
+            <dc:creator>
+                <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
+            </dc:creator>
+        </item>
+        <item>
+            <title>
+                <![CDATA[ Instagram ]]>
+            </title>
+            <link>http://instagram.com/raleighgov</link>
+            <guid isPermaLink="false">1666442745704</guid>
+            <dc:creator>
+                <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
+            </dc:creator>
+        </item>
+        <item>
+            <title>
+                <![CDATA[ SEE ALL SOCIAL MEDIA ]]>
+            </title>
+            <link>https://raleighnc.gov/communication-and-outreach/social-media</link>
+            <guid isPermaLink="false">1666442745705</guid>
+            <dc:creator>
+                <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
+            </dc:creator>
+        </item></channel>
+</rss>

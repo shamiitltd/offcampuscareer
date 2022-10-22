@@ -1,0 +1,32 @@
+.main {
+    margin-bottom: 1em;
+}
+
+.main-content {
+    width: 70%;
+    justify-content: space-between;
+}
+
+.main-content:first-child {
+    flex: 1 0 0rem;
+    min-width: 0rem;
+}
+
+.main-content:last-child {
+    flex: 1 0 0rem;
+    min-width: 0rem;
+}
+
+@media screen and (max-width:900px) {
+    .main-content {
+        width: 85%;
+    }
+
+}
+
+@media screen and (max-width:700px) {
+    .main-content {
+        width: 95%;
+    }
+
+}

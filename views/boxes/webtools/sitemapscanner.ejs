@@ -1,0 +1,191 @@
+<form class="flex-column full-width-normal" action="/postsitemaptorss" method="post">
+    <h1 class="full-width-normal ">Sitemap to Rss Feed generator</h1>
+    <div class="half-width-normal flex-row top-border">
+        <div class="half-width-normal flex-row">
+            <div class="half-width-normal">
+                <label for="ns">Normal Scanner (Default)</label>
+            </div>
+            <div class="half-width-normal">
+                <input checked="checked" type="radio" class="s-checkbox" id="ns" name="ndtype" data-value="false"
+                    value="ns" <%-dataObject.ndtype && dataObject.ndtype === 'ns'?'checked':''  %>>
+            </div>
+        </div>
+        <div class="half-width-normal flex-row">
+            <div class="half-width-normal">
+                <label for="ds">Deep Scanner (Disabled for now)</label>
+            </div>
+            <div class="half-width-normal">
+                <input type="radio" class="s-checkbox" id="ds" name="ndtype" data-value="false" value="ds"
+                    <%-dataObject.ndtype && dataObject.ndtype === 'ds'?'checked':''  %>>
+            </div>
+        </div>
+
+    </div>
+
+    <div class="flex-row full-width-normal bottom-border top-border">
+        <div class="half-width-normal">
+            <h2>Welcome to offcampuscareer </h2>
+        </div>
+        <div class="half-width-normal">
+            <h2><%-dataObject.username %></h2>
+        </div>
+    </div>
+
+    <div class="flex-row full-width-normal bottom-border">
+        <div class="half-width-normal">
+            <label for="emails">Enter Email ID's to receive output mail (Multiple select allowed) </label>
+        </div>
+        <div class="half-width-normal">
+            <div class="chosen-container">
+                <div class="chosen-choices flex-row flex-wrap" id="emails">
+                    <% if(dataObject.emails){ %>
+                    <% for(let i=0; i < dataObject.emails.length; i++ ) {%>
+                    <li class="search-choice" data-key="emails">
+                        <span><%-dataObject.emails[i] %></span>
+                        <input class="invisible" type="text" value="<%-dataObject.emails[i] %>" name="emails">
+                        <a class="search-choice-close fas fa-times" title="Remove this tag"
+                            data-val="<%-dataObject.emails[i] %>"></a>
+                    </li>
+                    <% } %>
+                    <% } %>
+                    <!-- <input type="text" placeholder="e.g. Computer Science" class="invisible"  name="emails" value="" data-value="" autocomplete="none"> -->
+
+                    <!-- <li class="search-choice"><span>Backend Developer</span>
+                                    <a class="search-choice-close fas fa-times" data-option-array-index="0"></a>
+                                </li> -->
+                    <li class="search-field">
+                        <input type="text" placeholder="e.g. jhon@gmail.com" class="searchInput" autocomplete="off">
+                    </li>
+                </div>
+                <div class="search-suggestions">
+                    <div class="autocom-box">
+                        <!-- <li class="result-selected" data-option-array-index="0">Computer Science</li> -->
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="flex-row full-width-normal bottom-border">
+        <div class="half-width-normal">
+            <label for="urls">Enter Sitemap Urls (Multiple select allowed) </label>
+        </div>
+        <div class="half-width-normal">
+            <div class="chosen-container">
+                <div class="chosen-choices flex-row flex-wrap" id="urls">
+                    <% if(dataObject.urls){ %>
+                    <% for(let i=0; i < dataObject.urls.length; i++ ) {%>
+                    <li class="search-choice" data-key="urls">
+                        <span><%-dataObject.urls[i] %></span>
+                        <input class="invisible" type="text" value="<%-dataObject.urls[i] %>" name="urls">
+                        <a class="search-choice-close fas fa-times" title="Remove this tag"
+                            data-val="<%-dataObject.urls[i] %>"></a>
+                    </li>
+                    <% } %>
+                    <% } %>
+                    <!-- <input type="text" placeholder="e.g. Computer Science" class="invisible"  name="urls" value="" data-value="" autocomplete="none"> -->
+                    <li class="search-field">
+                        <input type="text" placeholder="e.g. https://..com/smap.xml" class="searchInput"
+                            autocomplete="off">
+                    </li>
+                </div>
+                <div class="search-suggestions ">
+                    <div class="autocom-box">
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="flex-row full-width-normal bottom-border">
+        <div class="half-width-normal">
+            <label for="included">Enter Keywords Included (Multiple select allowed)</label>
+        </div>
+        <div class="half-width-normal">
+            <div class="chosen-container">
+                <div class="chosen-choices flex-row flex-wrap" id="included">
+                    <% if(dataObject.included){ %>
+                    <% for(let i=0; i < dataObject.included.length; i++ ) {%>
+                    <li class="search-choice" data-key="included">
+                        <span><%-dataObject.included[i] %></span>
+                        <input class="invisible" type="text" value="<%-dataObject.included[i] %>" name="included">
+                        <a class="search-choice-close fas fa-times" title="Remove this tag"
+                            data-val="<%-dataObject.included[i] %>"></a>
+                    </li>
+                    <% } %>
+                    <% } %>
+                    <!-- <input type="text" placeholder="e.g. Computer Science" class="invisible"  name="included" value="" data-value="" autocomplete="none"> -->
+                    <li class="search-field">
+                        <input type="text" placeholder="e.g. story included" class="searchInput" autocomplete="off">
+                    </li>
+                </div>
+                <div class="search-suggestions ">
+                    <div class="autocom-box">
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="flex-row full-width-normal bottom-border">
+        <div class="half-width-normal">
+            <label for="excluded">Enter Keywords Excluded (Multiple select allowed) </label>
+        </div>
+        <div class="half-width-normal">
+            <div class="chosen-container">
+                <div class="chosen-choices flex-row flex-wrap" id="excluded">
+                    <% if(dataObject.excluded){ %>
+                    <% for(let i=0; i < dataObject.excluded.length; i++ ) {%>
+                    <li class="search-choice" data-key="excluded">
+                        <span><%-dataObject.excluded[i] %></span>
+                        <input class="invisible" type="text" value="<%-dataObject.excluded[i] %>" name="excluded">
+                        <a class="search-choice-close fas fa-times" title="Remove this tag"
+                            data-val="<%-dataObject.excluded[i] %>"></a>
+                    </li>
+                    <% } %>
+                    <% } %>
+                    <!-- <input type="text" placeholder="e.g. Computer Science" class="invisible"  name="excluded" value="" data-value="" autocomplete="none"> -->
+                    <li class="search-field">
+                        <input type="text" placeholder="e.g. .jpg" class="searchInput" autocomplete="off">
+                    </li>
+                </div>
+                <div class="search-suggestions ">
+                    <div class="autocom-box">
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="flex-row full-width-normal bottom-border">
+        <div class="half-width-normal">
+            <label for="language">Select language </label>
+        </div>
+        <div class="half-width-normal">
+            <select class="select-box select-margin3p" id="language" name="language">
+                <% for(let i=0; i < language.name.length; i++) {%>
+                <% if(language.code[i] == dataObject.language){ %>
+                <option selected="selected" value="<%- language.code[i] %>"><%- language.name[i] %>
+                </option>
+                <% }else{ %>
+                <option value="<%- language.code[i] %>"><%- language.name[i] %></option>
+                <% } %>
+                <% } %>
+            </select>
+        </div>
+    </div>
+
+    <div class="flex-row full-width-normal bottom-border">
+        <div class="half-width-normal">
+            <label for="frequency">File generation update frequency/day max(100/day)</label>
+        </div>
+        <div class="half-width-normal">
+            <input type="number" min="0" max="100" name="frequency" id="frequency" value="<%-dataObject.frequency %>"
+                placeholder="Freq/day" class="full-wrap">
+        </div>
+    </div>
+
+    <input class="invisible" type="text" value="<%-dataObject.uid %>" name="userid">
+    <% if(dataObject.rssid){ %>
+    <input class="invisible" type="text" value="<%-dataObject.rssid %>" name="rssid">
+    <% } %>
+    <div class="flex-row">
+        <button type="submit">Submit</button>
+    </div>
+</form>

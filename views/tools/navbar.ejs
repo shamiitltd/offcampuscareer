@@ -1,0 +1,107 @@
+<!-- navigation-header -->
+<nav class="toolbar">
+    <!-- Main toolbar -->
+    <div class="bar-box flex-column" id="bar-box">
+        <span class="bars"></span>
+        <span class="bars"></span>
+        <span class="bars"></span>
+    </div>
+
+    <section class="section-toolbar flex-row ">
+        <div class="main-toolbar ">
+        </div>
+        <div class="main-toolbar-mobile flex-row">
+            <div class="content-main-toolbar-mobile ">
+                <a href="/" class="home flex-row">
+                    <picture>
+                        <source srcset="/images/logo.avif" type="image/avif" />
+                        <source srcset="/images/logo.webp" type="image/webp">
+                        <source srcset="/images/logo.png" type="image/png">
+                        <img src="/images/logo.jpeg" alt="Oc2" class="logo">
+                    </picture>
+                    <span class="oc2">Offcampuscareer</span>
+                </a>
+            </div>
+        </div>
+        <div class="main-toolbar "></div>
+    </section>
+    <div class="side-bar flex-row">
+        <div class="side-bar-div flex-column">
+            <a class="content-side-bar" href="/jobs">
+                <div>Jobs </div>
+            </a>
+            <a class="content-side-bar" href="/internships">
+                <div>Internships </div>
+            </a>
+            <a class="content-side-bar" href="/referral">
+                <div>Referrals </div>
+            </a>
+            <a class="content-side-bar" href="/scholarships">
+                <div>Scholarships </div>
+            </a>
+            <a class="content-side-bar" href="/forwomen">
+                <div>Exciting for women </div>
+            </a>
+            <a class="content-side-bar top-border" href="/courses">
+                <div>Courses </div>
+            </a>
+            <a class="content-side-bar" href="/resume">
+                <div>Resume </div>
+            </a>
+            <a class="content-side-bar" href="/recruiters">
+                <div>Recruiters </div>
+            </a>
+            <div class="side-bar-signin ">
+                <% if(user){ %>
+                <a href="/signOutFromOc2"><button class="login_b">Sign Out </button></a>
+                <% }else{ %>
+                <a href="/signin"><button class="login_b">Sign In </button></a>
+                <% } %>
+            </div>
+
+        </div>
+        <div class="side-bar-div blur-box"></div>
+    </div>
+    <section class="section-toolbar flex-row">
+        <div class="main-toolbar "></div>
+        <div class="main-toolbar flex-row">
+            <div class="content-main-toolbar ">
+                <a href="/" class="home flex-row">
+                    <picture>
+                        <source srcset="/images/logo.avif" type="image/avif" />
+                        <source srcset="/images/logo.webp" type="image/webp">
+                        <source srcset="/images/logo.png" type="image/png">
+                        <img src="/images/logo.jpeg" alt="Oc2" class="logo">
+                    </picture>
+                    <span class="oc2">Offcampuscareer</span>
+                </a>
+            </div>
+            <div class="content-main-toolbar"><a href="/courses">Courses</a> </div>
+            <div class="content-main-toolbar"><a href="/resume">Resume</a> </div>
+            <div class="content-main-toolbar"><a href="/recruiters">Recruiters</a> </div>
+            <div class="content-main-toolbar flex-row">
+                <% if(user){ %>
+                <a href="/signOutFromOc2"><button class="login_b">Sign Out </button></a>
+                <% }else{ %>
+                <a href="/signin"><button class="login_b">Sign In </button></a>
+                <% } %>
+            </div>
+        </div>
+        <div class="main-toolbar "></div>
+    </section>
+    <!--section class="section-toolbar"></section-->
+
+    <!-- Sub toolbar -->
+    <section class="section-toolbar flex-row">
+        <div class="sub-toolbar "></div>
+        <div class="sub-toolbar flex-row">
+            <div class="content-sub-toolbar"><a href="/jobs">Jobs</a> </div>
+            <div class="content-sub-toolbar"><a href="/internships">Internships</a> </div>
+            <div class="content-sub-toolbar"><a href="/referral">Referrals</a> </div>
+            <div class="content-sub-toolbar"><a href="/scholarships">Scholarships</a> </div>
+            <div class="content-sub-toolbar"><a href="/forwomen">Exciting for women</a> </div>
+        </div>
+        <div class="sub-toolbar "></div>
+    </section>
+
+</nav>

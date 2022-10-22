@@ -1,0 +1,57 @@
+<div class="jdb tips flex-column">
+    <div class="tips-header">
+        <h1 class="titleHeading pageTitle" id="titleHeading"> <%= editorialDetails.titleDesc %></h1>
+        <div class="basic-details flex-row">
+            <div class="sub-basic-details">
+                <% if(editorialDetails.companyName){ %>
+                <div class="line-h-1">
+                    <span class="static-sub-basic-details"><b>Company Name&colon; </b></span>
+                    <span class="dynamic-sub-basic-details" id="#dsbd-degree">
+                        <%= editorialDetails.companyName %></span>
+                </div>
+                <% } %>
+                <% if(experienceLevelExchange[editorialDetails.minexp] || experienceLevelExchange[editorialDetails.maxexp]){ %>
+                <div class="line-h-1">
+                    <span class="static-sub-basic-details"><b>Experience&colon; </b></span>
+
+                    <span class="dynamic-sub-basic-details" id="#dsbd-experience">
+                        <% for(let exp = editorialDetails.minexp; exp <= editorialDetails.maxexp; exp++){ %>
+                        <%= experienceLevelExchange[exp] %>,
+                        <% } %>
+                    </span>
+                </div>
+                <% } %>
+
+            </div>
+            <div class="sub-basic-details">
+
+                <% if(editorialDetails.role){ %>
+                <div class="line-h-1">
+                    <span class="static-sub-basic-details"><b>Role&colon; </b></span>
+                    <span class="dynamic-sub-basic-details" id="#dsbd-companySize"><%= editorialDetails.role  %></span>
+                </div>
+                <% } %>
+                <% if(editorialDetails.minSalary || editorialDetails.maxSalary ){ %>
+                <span class="static-sub-basic-details"><b>Average Salary&colon; </b></span>
+                <span class="dynamic-sub-basic-details" id="#dsbd-companySize"><%= editorialDetails.currency %>
+                    <%= Number(editorialDetails.minSalary)/( Number(currencyExchange[editorialDetails.currency])*1000) %>k
+                    -
+                    <%= Number(editorialDetails.maxSalary)? Number(editorialDetails.maxSalary)/( Number(currencyExchange[editorialDetails.currency])*1000) : ''%><%=Number(editorialDetails.maxSalary)?'k':'+' %></span>
+                <% } %>
+            </div>
+        </div>
+    </div>
+
+    <div class="jdb-main flex-column" id="#jobdetail">
+        <div class="job-description">
+            <h4 class="heading">Selection Process</h4>
+            <% if(editorialDetails.fullDesc){ %>
+            <p class="about-this-job descFull"><%- editorialDetails.fullDesc %></p>
+            <% } %>
+
+        </div>
+    </div>
+    <div class="jdb-footer" id="#companydetail">
+
+    </div>
+</div>

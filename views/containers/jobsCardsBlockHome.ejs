@@ -1,0 +1,14 @@
+<div class="job-title flex-row">
+    <h3 id="jobheadder"><%- result.type %></h3>
+    <div class="more flex-row">
+        <a href="/morejobs" class="flex-row shadow moreJobs" aria-label="freshers jobs" title="Freshers jobs">
+            <i class="fas fa-angle-double-right"></i>
+            <h3>&nbsp;<%- result.totalDocs>3? result.totalDocs-3:0 %>&nbsp;more</h3>
+        </a>
+    </div>
+</div>
+<div class="cards flex-row" id="<%- result.type %>" data-count="<%- result.totalDocs  %>">
+    <% for(company of result.docs){ %>
+    <%- include("../boxes/viewOnlyBoxes/jobbox", {currencyExchange,  experienceLevelExchange, company}) %>
+    <% } %>
+</div>

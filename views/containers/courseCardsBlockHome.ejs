@@ -1,0 +1,10 @@
+<div class="two-box flex-row">
+    <% for(let i=0; i < companiesData.length && i < 4; i=i+2){ %>
+    <%- include(`../boxes/viewOnlyBoxes/${repeatingBox}`, { company:companiesData[i] }) %>
+    <% } %>
+</div>
+<div class="two-box flex-row">
+    <% for(let i=1; i < companiesData.length && i < 4;  i=i+2){ %>
+    <%- include(`../boxes/viewOnlyBoxes/${repeatingBox}`, {company:companiesData[i] }) %>
+    <% } %>
+</div>

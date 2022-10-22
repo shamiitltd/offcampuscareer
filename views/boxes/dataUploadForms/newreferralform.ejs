@@ -1,0 +1,574 @@
+<form class="flex-column full-width-normal" action="/postReferral" method="post">
+    <h2 class="full-width-normal ">Referral Basic Info</h2>
+    <div class="flex-row full-width-normal bottom-border top-border">
+        <div class="half-width-normal">
+            <label for="majSub">Enter Major subject (Multiple select allowed) </label>
+        </div>
+        <div class="half-width-normal">
+            <div class="chosen-container">
+                <div class="chosen-choices flex-row flex-wrap" id="majSub">
+                    <% if(dataObject.majSub){ %>
+                    <% for(let i=0; i < dataObject.majSub.length; i++ ) {%>
+                    <li class="search-choice" data-key="majSub">
+                        <span><%-dataObject.majSub[i] %></span>
+                        <input class="invisible" type="text" value="<%-dataObject.majSub[i] %>" name="majSub">
+                        <a class="search-choice-close fas fa-times" title="Remove this tag"
+                            data-val="<%-dataObject.majSub[i] %>"></a>
+                    </li>
+                    <% } %>
+                    <% } %>
+                    <!-- <input type="text" placeholder="e.g. Computer Science" class="invisible"  name="majSub" value="" data-value="" autocomplete="none"> -->
+
+                    <!-- <li class="search-choice"><span>Backend Developer</span>
+                                    <a class="search-choice-close fas fa-times" data-option-array-index="0"></a>
+                                </li> -->
+                    <li class="search-field">
+                        <input type="text" placeholder="e.g. Computer Science" class="searchInput" autocomplete="off">
+                    </li>
+                </div>
+                <div class="search-suggestions">
+                    <div class="autocom-box">
+                        <!-- <li class="result-selected" data-option-array-index="0">Computer Science</li> -->
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="flex-row full-width-normal bottom-border">
+        <div class="half-width-normal">
+            <label for="aoi">Enter Area of Interest (Multiple select allowed) </label>
+        </div>
+        <div class="half-width-normal">
+            <div class="chosen-container">
+                <div class="chosen-choices flex-row flex-wrap" id="aoi">
+                    <% if(dataObject.aoi){ %>
+                    <% for(let i=0; i < dataObject.aoi.length; i++ ) {%>
+                    <li class="search-choice" data-key="aoi">
+                        <span><%-dataObject.aoi[i] %></span>
+                        <input class="invisible" type="text" value="<%-dataObject.aoi[i] %>" name="aoi">
+                        <a class="search-choice-close fas fa-times" title="Remove this tag"
+                            data-val="<%-dataObject.aoi[i] %>"></a>
+                    </li>
+                    <% } %>
+                    <% } %>
+                    <!-- <input type="text" placeholder="e.g. Computer Science" class="invisible"  name="aoi" value="" data-value="" autocomplete="none"> -->
+                    <li class="search-field">
+                        <input type="text" placeholder="e.g. C, C++" class="searchInput" autocomplete="off">
+                    </li>
+                </div>
+                <div class="search-suggestions ">
+                    <div class="autocom-box">
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="flex-row full-width-normal bottom-border">
+        <div class="half-width-normal">
+            <label for="role">Enter role (Multiple select allowed)</label>
+        </div>
+        <div class="half-width-normal">
+            <div class="chosen-container">
+                <div class="chosen-choices flex-row flex-wrap" id="role">
+                    <% if(dataObject.role){ %>
+                    <% for(let i=0; i < dataObject.role.length; i++ ) {%>
+                    <li class="search-choice" data-key="role">
+                        <span><%-dataObject.role[i] %></span>
+                        <input class="invisible" type="text" value="<%-dataObject.role[i] %>" name="role">
+                        <a class="search-choice-close fas fa-times" title="Remove this tag"
+                            data-val="<%-dataObject.role[i] %>"></a>
+                    </li>
+                    <% } %>
+                    <% } %>
+                    <!-- <input type="text" placeholder="e.g. Computer Science" class="invisible"  name="role" value="" data-value="" autocomplete="none"> -->
+                    <li class="search-field">
+                        <input type="text" placeholder="e.g. Software engineer" class="searchInput" autocomplete="off">
+                    </li>
+                </div>
+                <div class="search-suggestions ">
+                    <div class="autocom-box">
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="flex-row full-width-normal bottom-border">
+        <div class="half-width-normal">
+            <label for="industries">Enter industry (Multiple select allowed) </label>
+        </div>
+        <div class="half-width-normal">
+            <div class="chosen-container">
+                <div class="chosen-choices flex-row flex-wrap" id="industries">
+                    <% if(dataObject.industries){ %>
+                    <% for(let i=0; i < dataObject.industries.length; i++ ) {%>
+                    <li class="search-choice" data-key="industries">
+                        <span><%-dataObject.industries[i] %></span>
+                        <input class="invisible" type="text" value="<%-dataObject.industries[i] %>" name="industries">
+                        <a class="search-choice-close fas fa-times" title="Remove this tag"
+                            data-val="<%-dataObject.industries[i] %>"></a>
+                    </li>
+                    <% } %>
+                    <% } %>
+                    <!-- <input type="text" placeholder="e.g. Computer Science" class="invisible"  name="industries" value="" data-value="" autocomplete="none"> -->
+                    <li class="search-field">
+                        <input type="text" placeholder="e.g. IT Industry" class="searchInput" autocomplete="off">
+                    </li>
+                </div>
+                <div class="search-suggestions ">
+                    <div class="autocom-box">
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="flex-row full-width-normal bottom-border">
+        <div class="half-width-normal">
+            <label for="companies">Enter company name (Select only one) </label>
+        </div>
+        <div class="half-width-normal">
+            <div class="chosen-container">
+                <div class="chosen-choices flex-row flex-wrap" id="companies">
+                    <% if(dataObject.companies){ %>
+                    <li class="search-choice" data-key="companies">
+                        <span><%-dataObject.companies %></span>
+                        <input class="invisible" type="text" value="<%-dataObject.companies %>" name="companies">
+                        <a class="search-choice-close fas fa-times" title="Remove this tag"
+                            data-val="<%-dataObject.companies %>"></a>
+                    </li>
+                    <% } %>
+                    <!-- <input type="text" placeholder="e.g. Computer Science" class="invisible"  name="companies" value="" data-value="" autocomplete="none"> -->
+                    <li class="search-field">
+                        <input type="text" placeholder="e.g. Google, Microsoft" class="searchInput" autocomplete="off">
+                    </li>
+                </div>
+                <div class="search-suggestions ">
+                    <div class="autocom-box">
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="flex-row full-width-normal bottom-border">
+        <div class="half-width-normal">
+            <label for="qualification">Enter Highest Qualification (Multiple select allowed) </label>
+        </div>
+        <div class="half-width-normal">
+            <div class="chosen-container">
+                <div class="chosen-choices flex-row flex-wrap" id="qualification">
+                    <% if(dataObject.qualification){ %>
+                    <% for(let i=0; i < dataObject.qualification.length; i++ ) {%>
+                    <li class="search-choice" data-key="qualification">
+                        <span><%-dataObject.qualification[i] %></span>
+                        <input class="invisible" type="text" value="<%-dataObject.qualification[i] %>"
+                            name="qualification">
+                        <a class="search-choice-close fas fa-times" title="Remove this tag"
+                            data-val="<%-dataObject.qualification[i] %>"></a>
+                    </li>
+                    <% } %>
+                    <% } %>
+
+                    <li class="search-field">
+                        <input type="text" placeholder="Select Highest Qualification" class="searchInput"
+                            autocomplete="off">
+                    </li>
+                </div>
+                <div class="search-suggestions">
+                    <div class="autocom-box">
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="flex-row full-width-normal bottom-border">
+        <div class="half-width-normal">
+            <label for="jobTitle">Enter Referral Title </label>
+        </div>
+        <div class="half-width-normal">
+            <div class="chosen-container">
+                <div class="chosen-choices flex-row flex-wrap" id="jobTitle">
+                    <% if(dataObject.jobTitle){ %>
+                    <li class="search-choice" data-key="jobTitle">
+                        <span><%-dataObject.jobTitle %></span>
+                        <input class="invisible" type="text" value="<%-dataObject.jobTitle %>" name="jobTitle">
+                        <a class="search-choice-close fas fa-times" title="Remove this tag"
+                            data-val="<%-dataObject.jobTitle %>"></a>
+                    </li>
+                    <% } %>
+
+                    <li class="search-field">
+                        <input type="text" placeholder="Referral Title" class="searchInput" autocomplete="off">
+                    </li>
+                </div>
+                <div class="search-suggestions">
+                    <div class="autocom-box">
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="flex-row full-width-normal bottom-border">
+        <div class="half-width-normal">
+            <label for="currency">Enter currency </label>
+        </div>
+        <div class="half-width-normal">
+            <select class="select-box select-margin3p" id="currency" name="currency">
+                <% for(let i=0; i < suggestions.currency.length; i++) {%>
+                <% if(suggestions.currency[i] == dataObject.currency){ %>
+                <option selected="selected" value="<%- suggestions.currency[i] %>"><%- suggestions.currency[i] %>
+                </option>
+                <% }else{ %>
+                <option value="<%- suggestions.currency[i] %>"><%- suggestions.currency[i] %></option>
+                <% } %>
+                <% } %>
+            </select>
+        </div>
+    </div>
+    <div class="flex-row full-width-normal bottom-border">
+        <div class="half-width-normal">
+            <label for="minSalary">Enter Min Salary </label>
+        </div>
+        <div class="half-width-normal">
+            <div class="flex-row sub-container-salary">
+                <input autocomplete="none" placeholder="Min Salary" class="salary-input select-box"
+                    data-initial-value="" id="minSalary" name="minSalary" type="number"
+                    value="<%- dataObject.minSalary?dataObject.minSalary:'' %>">
+                <span class="salary-plus-sign">+</span>
+            </div>
+
+        </div>
+    </div>
+    <div class="flex-row full-width-normal bottom-border">
+        <div class="half-width-normal">
+            <label for="maxSalary">Enter Max Salary </label>
+        </div>
+        <div class="half-width-normal">
+            <div class="flex-row sub-container-salary">
+                <input autocomplete="none" placeholder="Max Salary" class="salary-input select-box"
+                    data-initial-value="" id="maxSalary" name="maxSalary" type="number"
+                    value="<%- dataObject.maxSalary? dataObject.maxSalary:'' %>">
+                <span class="salary-plus-sign">/-</span>
+            </div>
+        </div>
+    </div>
+    <div class="flex-row full-width-normal bottom-border">
+        <div class="half-width-normal">
+            <label for="exp1">Enter experience </label>
+        </div>
+        <div class="half-width-normal">
+            <div class="data-subbox flex-row">
+                <div class="experience">
+                    <select class="select-box select-margin3p" id="minexp" name="minexp">
+                        <% if(dataObject.minexp){ %>
+                        <option value="0">select min exp.</option>
+                        <% }else{ %>
+                        <option selected="selected" value="0">select min exp.</option>
+                        <% } %>
+
+                        <% for(let i=0; i < suggestions.experienceLevel.length; i++){ %>
+                        <% if(dataObject.minexp && dataObject.minexp ==  i+1 ){ %>
+                        <option selected="selected" value="<%- i+1 %> "><%- suggestions.experienceLevel[i]  %> </option>
+                        <% }else{ %>
+                        <option value="<%- i+1 %> "><%- suggestions.experienceLevel[i]  %> </option>
+                        <% } %>
+                        <% } %>
+
+                        <!-- <option value="EUR">EUR (€)</option> -->
+                    </select>
+                </div>
+                <div class="experience">To</div>
+                <div class="experience">
+                    <select class="select-box select-margin3p" id="maxexp" name="maxexp">
+                        <% if(dataObject.maxexp){ %>
+                        <option value="7">select max exp.</option>
+                        <% }else{ %>
+                        <option selected="selected" value="7">select max exp.</option>
+                        <% } %>
+
+                        <% for(let i=0; i < suggestions.experienceLevel.length; i++){ %>
+                        <% if(dataObject.maxexp && dataObject.maxexp ==  i+1 ){ %>
+                        <option selected="selected" value="<%- i+1 %> ">
+                            <%- suggestions.experienceLevel[i]  %> </option>
+                        <% }else{ %>
+                        <option value="<%- i+1 %> "><%- suggestions.experienceLevel[i]  %>
+                        </option>
+                        <% } %>
+                        <% } %>
+
+                    </select>
+                </div>
+            </div>
+        </div>
+
+    </div>
+
+
+    <div class="flex-row full-width-normal bottom-border">
+        <div class="half-width-normal flex-row ">
+            <div class="half-width-normal flex-row">
+                <div class="half-width-normal">
+                    <label for="ft">Full Time</label>
+                </div>
+                <div class="half-width-normal">
+                    <input type="checkbox" class="s-checkbox" id="ft" name="ft" data-value="false" value="Full Time"
+                        <%-dataObject.jtp && dataObject.jtp.includes('Full Time')?'checked':''  %>>
+                </div>
+            </div>
+            <div class="half-width-normal flex-row">
+                <div class="half-width-normal">
+                    <label for="pt">Part Time</label>
+                </div>
+                <div class="half-width-normal">
+                    <input type="checkbox" class="s-checkbox" id="pt" name="pt" data-value="false" value="Part Time"
+                        <%-dataObject.jtp && dataObject.jtp.includes('Part Time')?'checked':''  %>>
+                </div>
+            </div>
+
+        </div>
+        <div class="half-width-normal  flex-row">
+            <div class="half-width-normal flex-row">
+                <div class="half-width-normal">
+                    <label for="ct">Contract</label>
+                </div>
+                <div class="half-width-normal">
+                    <input type="checkbox" class="s-checkbox" id="ct" name="ct" data-value="false" value="Contract"
+                        <%-dataObject.jtp && dataObject.jtp.includes('Contract')?'checked':''  %>>
+                </div>
+            </div>
+            <div class="half-width-normal flex-row">
+                <div class="half-width-normal">
+                    <label for="st">Seasonal / Temprary</label>
+                </div>
+                <div class="half-width-normal">
+                    <input type="checkbox" class="s-checkbox" id="st" name="st" data-value="false"
+                        value="Seasonal/Temprary"
+                        <%-dataObject.jtp && dataObject.jtp.includes('Seasonal/Temprary')?'checked':''  %>>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="flex-row full-width-normal bottom-border">
+        <div class="half-width-normal flex-row">
+            <div class="half-width-normal flex-row">
+                <div class="half-width-normal">
+                    <label for="r">Remote (Work From Home)</label>
+                </div>
+                <div class="half-width-normal">
+                    <input type="radio" class="s-checkbox" id="r" name="r" data-value="false"
+                        value="Remote (Work From Home)"
+                        <%-dataObject.r && dataObject.r === 'Remote (Work From Home)'?'checked':''  %>>
+                </div>
+            </div>
+            <div class="half-width-normal flex-row">
+                <div class="half-width-normal">
+                    <label for="pr">Partial Remote</label>
+                </div>
+                <div class="half-width-normal">
+                    <input type="radio" class="s-checkbox" id="pr" name="r" data-value="false" value="Partial Remote"
+                        <%-dataObject.r && dataObject.r === 'Partial Remote'?'checked':''  %>>
+                </div>
+            </div>
+
+        </div>
+        <div class="half-width-normal flex-row">
+            <div class="half-width-normal flex-row">
+                <div class="half-width-normal">
+                    <label for="visaSponser">Enter visa Sponser </label>
+                </div>
+                <div class="half-width-normal">
+                    <input type="checkbox" name="visaSponser" id="visaSponser" placeholder="visaSponser"
+                        value="Visa Sponser"
+                        <%-dataObject.perks && dataObject.perks.includes('Visa Sponser')?'checked':''  %>>
+                </div>
+            </div>
+            <div class="half-width-normal flex-row">
+                <div class="half-width-normal">
+                    <label for="paidRelocation">Enter paid Relocation </label>
+                </div>
+                <div class="half-width-normal">
+                    <input type="checkbox" name="paidRelocation" id="paidRelocation" placeholder="paidRelocation"
+                        value="Paid Relocation"
+                        <%-dataObject.perks && dataObject.perks.includes('Paid Relocation')?'checked':''  %>>
+                </div>
+            </div>
+
+        </div>
+    </div>
+
+    <div class="flex-row full-width-normal bottom-border">
+        <div class="half-width-normal ">
+            <div class="full-width-normal flex-row ">
+                <div class="half-width-normal">
+                    <label for="g">Government</label>
+                </div>
+                <div class="half-width-normal">
+                    <input type="checkbox" class="s-checkbox" id="g" name="g" data-value="false" value="Government"
+                        <%-dataObject.g?'checked':''  %>>
+                </div>
+            </div>
+        </div>
+        <div class="half-width-normal">
+            <div class="full-width-normal flex-row">
+                <div class="half-width-normal">
+                    <label for="quickApply">Enter quick Apply </label>
+                </div>
+                <div class="half-width-normal">
+                    <input type="checkbox" name="quickApply" id="quickApply" placeholder="quickApply"
+                        value="Quick Apply" <%-dataObject.quickApply?'checked':''  %>>
+                </div>
+            </div>
+        </div>
+
+    </div>
+
+    <!--div class="flex-row full-width-normal bottom-border">
+        <div class="half-width-normal">
+            <label for="expYears">Enter experience Years </label>
+        </div>
+        <div class="half-width-normal">
+            <div class="flex-row sub-container-salary">
+                <input autocomplete="none" class="salary-input select-box" data-initial-value="" id="expYears" name="expYears" type="number" value="">
+                <span class="salary-plus-sign">+</span>
+            </div>
+        </div>
+    </div-->
+    <div class="flex-row full-width-normal bottom-border">
+        <div class="half-width-normal">
+            <label for="lastDate">Enter last Date <span class="red">*</span> </label>
+        </div>
+        <div class="half-width-normal">
+            <input type="date" name="lastDate" id="lastDate"
+                value="<%-dataObject.lastDate? dataObject.lastDate.toISOString().split('T')[0]:'' %>"
+                placeholder="lastDate" class="full-wrap" required>
+        </div>
+    </div>
+    <div class="flex-row full-width-normal bottom-border">
+        <div class="half-width-normal">
+            <label for="responseRate">Enter response Rate (Between 1 to 5) </label>
+        </div>
+        <div class="half-width-normal">
+            <input type="number" name="responseRate" id="responseRate" value="<%-dataObject.responseRate %>"
+                placeholder="responseRate" class="full-wrap">
+        </div>
+    </div>
+    <div class="flex-row full-width-normal bottom-border">
+        <div class="half-width-normal">
+            <label for="logoUrlVal">Enter Logo Url <span class="red">*</span> </label>
+        </div>
+        <div class="half-width-normal">
+            <input type="url" name="logoUrl" id="logoUrlVal" value="<%-dataObject.logoUrl %>" placeholder="Logo Url"
+                class="full-wrap" required>
+            <div class="company-logo flex-row">
+                <img id="loadUrlImg" src="<%-dataObject.logoUrl %>" alt="No Url" class="company-logo-img">
+            </div>
+        </div>
+    </div>
+
+    <div class="flex-row full-width-normal bottom-border">
+        <div class="half-width-normal">
+            <label for="country">Enter country name </label>
+        </div>
+        <div class="half-width-normal">
+            <input type="text" name="country" id="country" value="<%-dataObject.country %>" placeholder="country"
+                class="full-wrap">
+        </div>
+    </div>
+    <div class="flex-row full-width-normal bottom-border">
+        <div class="half-width-normal">
+            <label for="city">Enter city name </label>
+        </div>
+        <div class="half-width-normal">
+            <input type="text" name="city" id="city" value="<%-dataObject.city %>" placeholder="city" class="full-wrap">
+        </div>
+    </div>
+
+    <div class="flex-row full-width-normal">
+        <div class="half-width-normal">
+            <h2 class="full-width-normal">Referral Details</h2>
+        </div>
+        <div class="half-width-normal flex-row">
+            <div class="half-width-normal">
+                <span>Standard / Advance (Method) </span>
+            </div>
+            <div class="half-width-normal">
+                <label class="switch">
+                    <input id="toggleBAM" type="checkbox" checked>
+                    <span class="slider round"></span>
+                </label>
+            </div>
+        </div>
+    </div>
+    <div id="basicJD" class="full-width-normal" hidden>
+        <%- include("./jobDescription/jdBasic", {dataObject}) %>
+    </div>
+    <div id="advanceJD" class="full-width-normal">
+        <%- include("./jobDescription/jdAdvance", {dataObject}) %>
+    </div>
+    <div class="flex-row full-width-normal bottom-border" id="organizationTypeB">
+        <div class="half-width-normal">
+            <label for="organizationType">Enter Organization Type (optional) </label>
+        </div>
+        <div class="half-width-normal">
+            <input type="text" name="organizationType" id="organizationType" placeholder="Organization Type"
+                class="full-wrap" value="<%-dataObject.organizationType %>">
+        </div>
+    </div>
+    <div class="flex-row full-width-normal bottom-border">
+        <div class="half-width-normal">
+            <label for="companySize">Enter Company Size </label>
+        </div>
+        <div class="half-width-normal">
+            <select name="companySize" id="companySize" class="full-width-normal select-box">
+                <% if(dataObject.companySize){ %>
+                <option value="">Select Company Size</option>
+                <% }else{ %>
+                <option selected="selected" value="">Select Company Size</option>
+                <% } %>
+
+                <% for(let i=0; i < suggestions.companySize.length; i++){ %>
+                <% if(dataObject.companySize && dataObject.companySize ==  suggestions.companySize[i]  ){ %>
+                <option selected="selected" value="<%- suggestions.companySize[i]  %>">
+                    <%- suggestions.companySize[i]  %> </option>
+                <% }else{ %>
+                <option value="<%- suggestions.companySize[i]  %>"><%- suggestions.companySize[i]  %>
+                </option>
+                <% } %>
+                <% } %>
+            </select>
+        </div>
+    </div>
+    <div class="flex-row full-width-normal bottom-border">
+        <div class="half-width-normal">
+            <label for="websiteUrlVal">Enter Website Url (or About You) <span class="red">*</span></label>
+        </div>
+        <div class="half-width-normal">
+            <input type="url" name="websiteUrl" id="websiteUrlVal" value="<%-dataObject.websiteUrl %>"
+                placeholder="Website Url" class="full-wrap" required>
+        </div>
+    </div>
+
+    <div class="flex-row full-width-normal bottom-border">
+        <div class="half-width-normal">
+            <label for="applyUrl">Enter Apply Url <span class="red">*</span></label>
+        </div>
+        <div class="half-width-normal">
+            <input type="text" name="applyUrl" id="applyUrl" placeholder="Apply or Quick Apply Url" class="full-wrap"
+                value="<%-dataObject.applyUrl %>" required>
+        </div>
+    </div>
+    <div class="flex-row full-width-normal bottom-border">
+        <div class="half-width-normal">
+            <label for="tipsUrl">Enter Tips to get selected Url <span class="red">*</span></label>
+        </div>
+        <div class="half-width-normal">
+            <input type="text" name="tipsUrl" id="tipsUrl" placeholder="Tips Url" class="full-wrap"
+                value="<%-dataObject.tipsUrl %>" required>
+        </div>
+    </div>
+    <% if(dataObject._id){ %>
+    <input class="invisible" type="text" value="<%-dataObject._id %>" name="id">
+    <% } %>
+    <div class="flex-row">
+        <button type="submit">Submit</button>
+    </div>
+</form>

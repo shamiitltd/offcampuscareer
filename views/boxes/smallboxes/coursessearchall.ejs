@@ -1,0 +1,16 @@
+<div class="flex-column">
+    <% for(let j=0; j < companiesData.length; j=j+4){ %>
+    <div class="four-box flex-row full-width-normal">
+        <div class="two-box flex-row">
+            <% for(let i=j; i < companiesData.length && i < j+4; i=i+2){ %>
+            <%- include(`../viewOnlyBoxes/${repeatingBox}`, { company:companiesData[i] }) %>
+            <% } %>
+        </div>
+        <div class="two-box flex-row">
+            <% for(let i=j+1; i < companiesData.length && i < j+4;  i=i+2){ %>
+            <%- include(`../viewOnlyBoxes/${repeatingBox}`, {company:companiesData[i] }) %>
+            <% } %>
+        </div>
+    </div>
+    <% } %>
+</div>

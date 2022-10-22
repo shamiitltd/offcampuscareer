@@ -1,0 +1,241 @@
+<div class="jdb flex-column" data-id="<%- companyDetails.jid  %>">
+  <div class="jdb-header bottom-border">
+    <div class="job-box-as-header">
+      <div class="company-card flex-row">
+        <div class="company-logo">
+          <a class="company-link" href="<%= companyDetails.websiteUrl %>" target="_blank">
+            <img src="<%= companyDetails.logoUrl %>" id="logoUrl" alt="" class="company-logo-img"
+              title="Visit Web Site">
+          </a>
+        </div>
+        <div class="job-info flex-column">
+          <div class="job-description">
+            <span class="job-name pageTitle" id="jobTitle"><%= companyDetails.jobTitle %></span>
+          </div>
+          <div class="job-description">
+            <span class="job-company"><a class="company-link" href="<%= companyDetails.websiteUrl %>" target="_blank"
+                title="Visit Web Site"><%= companyDetails.companies %></a></span>
+            <% if(companyDetails.country || companyDetails.city ){ %>
+            <span class="dot">.</span><span class="job-location font-small"><%= companyDetails.country%> -
+              <%=companyDetails.city  %></span>
+            <% }else{ %>
+            <span class="dot">.</span><span class="job-location font-small">No Office location</span>
+            <% } %>
+          </div>
+          <div class="job-description">
+            <% if(companyDetails.minSalary || companyDetails.maxSalary ){ %>
+            <span class="dot">.</span><span class="job-salary font-small"><%= companyDetails.currency %>
+              <%= Number(companyDetails.minSalary)/( Number(currencyExchange[companyDetails.currency])*1000) %>k
+              -
+              <%= Number(companyDetails.maxSalary)? Number(companyDetails.maxSalary)/( Number(currencyExchange[companyDetails.currency])*1000) : ''%><%=Number(companyDetails.maxSalary)?'k':'+' %></span>
+            <% } %>
+          </div>
+          <div class="job-description" id="extraInfo">
+            <% if(companyDetails.startDate){ %>
+            <span class="dot">.</span><span class="job-start-date font-small date"
+              data-updated="<%- companyDetails.startDate.toDateString() %>">Updated on
+              [<%= companyDetails.startDate.toDateString() %>]</span>
+            <% } %>
+            <% if(companyDetails.lastDate){ %>
+            <span class=" dot">.</span><span class="job-date font-small date">Last Date
+              [<%= companyDetails.lastDate.toDateString() %>]</span>
+            <% } %>
+          </div>
+          <div class="job-description assured">
+            <% if(companyDetails.g){%>
+            <span class="job-gov font-small" title="Government Job"> <span>Government</span> <i
+                class="fas fa-check-circle"></i></span>
+            <%}%>
+            <% if(companyDetails.quickApply){%>
+            <span class="job-gov font-small" title="Response assured"> <span>Oc2</span> <i
+                class="fas fa-check-circle"></i></span>
+            <%}%>
+          </div>
+          <div class="job-description apply-box flex-row">
+            <div class="job-apply">
+              <button class="job-save shadow" title="Save"><i class="far fa-heart fa-lg "></i></button>
+              <a href="<%= companyDetails.applyUrl %>" target="_blank"><button
+              class="apply-button"><%= companyDetails.quickApply? 'Quick Apply':'Apply'%></button></a>
+            <a href="<%= companyDetails.tipsUrl %>" target="_blank"><button class="apply-button">Tips to get
+                selected</button></a>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="jd-company-button flex-row invisible">
+      <a class="jd-buttons" href="#jobdetail">Job details</a>
+      <a class="jd-buttons" href="#companydetail">Company details</a>
+    </div>
+  </div>
+</div>
+<div class="jdb-main-outer">
+  <div class="jdb-main flex-column " id="#jobdetail">
+    <h4 class="heading">Basic Details</h4>
+    <div class="basic-details flex-row">
+      <div id="#dsbd-skills-box">
+        <% if( companyDetails.aoi){ %>
+        <span class="static-sub-basic-details"><b>Skills&colon; </b></span>
+        <span class="dynamic-sub-basic-details" id="#dsbd-skills">
+          <div class="job-description flex-row">
+            <% for(let skill of companyDetails.aoi){ %>
+            <div class="jd-skills font-small"><span class="jd-skills-text"><%= skill %></span></div>
+            <% } %>
+          </div>
+        </span>
+        <% } %>
+        <br>
+      </div>
+    </div>
+    <div class="basic-details flex-row">
+      <div class="sub-basic-details">
+        <% if(companyDetails.qualification){ %>
+        <div class="line-h-1">
+          <span
+            class="static-sub-basic-details"><b>Degree<%= companyDetails.qualification.length !== 1? ' (Any)':''  %>&colon;
+            </b></span>
+          <% for(let quali of companyDetails.qualification){ %>
+          <span class="dynamic-sub-basic-details"><%= quali  %>, </span>
+          <% } %>
+        </div>
+        <% } %>
+        <% if(companyDetails.r || companyDetails.jtp ){ %>
+        <div class="line-h-1">
+          <span class="static-sub-basic-details"><b>Job Type&colon; </b></span>
+          <span class="dynamic-sub-basic-details" id="#dsbd-jobType">
+            <%= companyDetails.r %><%= companyDetails.r?',':'' %>
+            <%= companyDetails.jtp %>
+          </span>
+        </div>
+        <% } %>
+        <% if(companyDetails.organizationType){ %>
+        <div class="line-h-1">
+          <span class="static-sub-basic-details"><b>Org. Type&colon; </b></span>
+          <span class="dynamic-sub-basic-details">
+            <%= companyDetails.organizationType  %></span>
+        </div>
+        <% } %>
+        <% if(companyDetails.role){ %>
+        <div class="line-h-1">
+          <span class="static-sub-basic-details"><b>Role&colon; </b></span>
+          <% for(let roleName of companyDetails.role){ %>
+          <span class="dynamic-sub-basic-details"><%= roleName  %>, </span>
+          <% } %>
+        </div>
+        <% } %>
+      </div>
+      <div class="sub-basic-details">
+        <% if(experienceLevelExchange[companyDetails.minexp] || experienceLevelExchange[companyDetails.maxexp]){ %>
+        <div class="line-h-1">
+          <span class="static-sub-basic-details"><b>Experience&colon; </b></span>
+          <span class="dynamic-sub-basic-details" id="#dsbd-experience">
+            <% for(let exp = companyDetails.minexp; exp <= companyDetails.maxexp; exp++){ %>
+            <%= experienceLevelExchange[exp] %>,
+            <% } %>
+          </span>
+        </div>
+        <% } %>
+
+        <% if(companyDetails.industries){ %>
+        <div class="line-h-1">
+          <span class="static-sub-basic-details"><b>Industry&colon; </b></span>
+          <% for(let industry of companyDetails.industries){ %>
+          <span class="dynamic-sub-basic-details" id="#dsbd-industry"><%= industry %>, </span>
+          <% } %>
+        </div>
+        <% } %>
+        <% if(companyDetails.companySize){ %>
+        <div class="line-h-1">
+          <span class="static-sub-basic-details"><b>Org. Size&colon; </b></span>
+          <span class="dynamic-sub-basic-details" id="#dsbd-companySize"><%= companyDetails.companySize  %></span>
+        </div>
+        <% } %>
+        <% if(companyDetails.perks){ %>
+        <div class="line-h-1">
+          <span class="static-sub-basic-details"><b>Perks&colon; </b></span>
+          <span class="dynamic-sub-basic-details" id="#dsbd-location"><%= companyDetails.perks %>
+          </span>
+        </div>
+        <% } %>
+      </div>
+    </div>
+    <!--div class="basic-details flex-row">
+                  <div class="sub-basic-details">
+                  </div>
+                  <div class="sub-basic-details">
+                  </div>
+              </div-->
+    <div class="job-description">
+      <h4 class="heading">Job Description</h4>
+      <% if(companyDetails.jdFull){ %>
+      <p class="about-this-job descFull">
+        <%- companyDetails.jdFull %>
+      </p>
+      <% } else{ %>
+      <% if(companyDetails.reqSkills ){ %>
+      <h4 class="sub-heading">Required Skills</h4>
+      <ul class="bullet-text-box">
+        <% for(let i = 0; i < companyDetails.reqSkills.length; i++){ %>
+        <li class="heading-bullet-text">
+          <%= companyDetails.reqSkills[i] %>
+        </li>
+        <% } %>
+      </ul>
+      <% } %>
+      <% if(companyDetails.optionalSkills ){ %>
+      <h4 class="sub-heading">Good to have Skills</h4>
+      <ul class="bullet-text-box">
+        <% for(let i = 0; i < companyDetails.optionalSkills.length; i++){ %>
+        <li class="heading-bullet-text">
+          <%= companyDetails.optionalSkills[i] %>
+        </li>
+        <% } %>
+      </ul>
+      <% } %>
+      <% if(companyDetails.responsibility){ %>
+      <h4 class="sub-heading">Responsibility</h4>
+      <ul class="bullet-text-box">
+        <% for(let i = 0; i < companyDetails.responsibility.length; i++){ %>
+        <li class="heading-bullet-text">
+          <%= companyDetails.responsibility[i] %>
+        </li>
+        <% } %>
+      </ul>
+      <% } %>
+      <% if(companyDetails.about){ %>
+      <h4 class="sub-heading" id="#companydetail">About this Job</h4>
+      <p class="about-this-job">
+        <%= companyDetails.about %>
+      </p>
+      <% } %>
+      <% if(companyDetails.note){ %>
+      <h4 class="sub-heading">Note</h4>
+      <p class="about-this-job">
+        <%= companyDetails.note %>
+      </p>
+      <% } %>
+      <% if(companyDetails.aboutCompany){ %>
+      <h4 class="sub-heading">About Company</h4>
+      <p class="about-this-job">
+        <%- companyDetails.aboutCompany %>
+      </p>
+      <% } %>
+      <% } %>
+    </div>
+  </div>
+
+</div>
+
+<div class="jdb-footer" id="#companydetail">
+  <div class="job-description apply-box flex-row">
+    <div class="job-apply">
+      <button class="job-save shadow" title="Save">
+        <i class="far fa-heart fa-lg "></i>
+      </button>
+      <a href="<%= companyDetails.applyUrl %>" target="_blank"><button
+          class="apply-button"><%= companyDetails.quickApply? 'Quick Apply':'Apply'%></button></a>
+      <a href="<%= companyDetails.tipsUrl %>" target="_blank"><button class="apply-button">Tips to get
+          selected</button></a>
+    </div>
+  </div>
+</div>
+</div>

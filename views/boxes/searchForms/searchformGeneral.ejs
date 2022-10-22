@@ -1,0 +1,314 @@
+<form action="" method="get" class="searchform flex-column" id="submitform">
+    <div class="flex-row searchbar">
+        <div class="searchHint"><b>What</b></div>
+        <div class="where flex-row">
+            <div><b>What</b></div>
+            <input class="inputwhere" type="search" id="searchAll" name="searchAll"
+                value="<%- (typeof queryString.searchAll !== 'undefined')? queryString.searchAll: '' %>"
+                placeholder="Title or keywords" maxlength="120" autocomplete="none">
+        </div>
+        <div class="searchHint"><b>Where</b></div>
+        <div class="where flex-row">
+            <div><b>Where</b></div>
+            <input class="inputlocation" type="search" id="location" name="location"
+                value="<%- (typeof queryString.location !== 'undefined')? queryString.location: '' %>"
+                placeholder="office location" maxlength="120" autocomplete="off">
+        </div>
+        <div>
+            <button class="submit search-button" type="submit">Search</button>
+        </div>
+    </div>
+    <div class="flex-row filters">
+        <section class="popper-section">
+            <button type="button" id="popper-button-jobtype" class="popper-button">Job Type
+                <i class="fas fa-sort-down"></i>
+            </button>
+            <div id="popper-popup-jobtype" class="popper-popup">
+                <div class="popper-arrow"></div>
+                <fieldset class="popper-popup-box flex-column" id="jobtype">
+                    <!--<div class="data-subbox">
+                        <input type="checkbox" class="s-checkbox" name="r" id="r" value="1">
+                        <label for="r" class="r">Remote</label> 
+                    </div>-->
+                    <div class="data-subbox">
+                        <button type="submit" class="apply-button">Apply Filter</button>
+                        <button type="button" class="cancel-button">Cancel</button>
+                    </div>
+                </fieldset>
+            </div>
+        </section>
+
+        <section class="popper-section">
+            <button id="popper-button-skills" class="popper-button">Skills
+                <i class="fas fa-sort-down"></i>
+            </button>
+            <div id="popper-popup-skills" class="popper-popup">
+                <div class="popper-arrow"></div>
+                <fieldset class="popper-popup-box flex-column">
+                    <div class="data-subbox">
+                        <h4 class="heading-l">Highest Qualification</h4>
+                    </div>
+
+                    <div class="data-subbox">
+                        <select name="qualification" id="qualification" class="full-width-normal select-box">
+                            <option selected="selected" value>Select Qua...(Default All)</option>
+                        </select>
+                    </div>
+                    <div class="data-subbox">
+                        <h4 class="heading-l">Branch / Course / subject</h4>
+                        <h3 class="heading-s">Add up to 5 </h3>
+                        <div class="chosen-container">
+                            <div class="chosen-choices flex-row flex-wrap" id="majSub">
+                                <!-- <input type="text" placeholder="e.g. Computer Science" class="invisible"  name="majSub" value="" data-value="" autocomplete="none"> -->
+
+                                <!-- <li class="search-choice"><span>Backend Developer</span>
+                                    <a class="search-choice-close fas fa-times" data-option-array-index="0"></a>
+                                </li> -->
+                                <li class="search-field">
+                                    <input type="text" placeholder="e.g. Computer Science" class="searchInput"
+                                        autocomplete="off">
+                                </li>
+                            </div>
+                            <div class="search-suggestions">
+                                <div class="autocom-box">
+                                    <!-- <li class="result-selected" data-option-array-index="0">Computer Science</li> -->
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="data-subbox">
+                        <h4 class="heading-l">Area of Interest</h4>
+                        <h3 class="heading-s">Add up to 5 </h3>
+                        <div class="chosen-container">
+                            <div class="chosen-choices flex-row flex-wrap" id="aoi">
+                                <!-- <input type="text" placeholder="e.g. Computer Science" class="invisible"  name="aoi" value="" data-value="" autocomplete="none"> -->
+                                <li class="search-field">
+                                    <input type="text" placeholder="e.g. C, C++" class="searchInput" autocomplete="off">
+                                </li>
+                            </div>
+                            <div class="search-suggestions ">
+                                <div class="autocom-box">
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="data-subbox">
+                        <button type="submit" class="apply-button">Apply Filter</button>
+                        <button type="button" class="cancel-button">Cancel</button>
+                    </div>
+                </fieldset>
+            </div>
+        </section>
+
+        <section class="popper-section">
+            <button id="popper-button-bg" class="popper-button">Salary
+                <i class="fas fa-sort-down"></i>
+            </button>
+            <div id="popper-popup-bg" class="popper-popup">
+                <div class="popper-arrow"></div>
+                <fieldset class="popper-popup-box flex-column">
+                    <div class="data-subbox">
+                        <div class="grid gs4 gsy fd-column">
+                            <label for="s" class="heading-l">Minimum Annual Salary</label>
+                            <div class="flex-row container-salary">
+                                <div class="flex-row sub-container-salary">
+                                    <input autocomplete="none" class="salary-input select-box" data-initial-value=""
+                                        id="salary" name="salary" type="text" value="">
+                                    <span class="salary-plus-sign">+</span>
+                                </div>
+                                <div class="sub-container-salary">
+                                    <div class="s-select">
+                                        <select class="select-box select-margin3p" data-initial-value="USD"
+                                            id="currency" name="currency">
+                                            <!-- <option selected="selected" value="USD">USD ($)</option>-->
+                                        </select>
+                                    </div>
+                                </div>
+
+                            </div>
+                        </div>
+
+                    </div>
+                    <!-- <div class="data-subbox">
+                        <h4 class="heading-l">Others </h4>
+                        <input type="checkbox" class="s-checkbox" name="t" id="t" value="true">
+                        <label for="r" class="r">Visa sponser</label>
+                    </div>
+                    <div class="data-subbox">
+                        <input type="checkbox" class="s-checkbox" name="t" id="t" value="true">
+                        <label for="r" class="r">Seasonal/Temprary</label>
+                    </div> -->
+                    <div class="data-subbox">
+                        <button type="submit" class="apply-button">Apply Filter</button>
+                        <button type="button" class="cancel-button">Cancel</button>
+                    </div>
+                </fieldset>
+            </div>
+        </section>
+
+        <section class="popper-section">
+            <button id="popper-button-compensation" class="popper-button">Background
+                <i class="fas fa-sort-down"></i>
+            </button>
+            <div id="popper-popup-compensation" class="popper-popup">
+                <div class="popper-arrow"></div>
+                <fieldset class="popper-popup-box flex-column">
+                    <div class="data-subbox">
+                        <h4 class="heading-l">Experience</h4>
+                    </div>
+                    <div class="data-subbox flex-row">
+                        <div class="experience">
+                            <select class="select-box select-margin3p" data-initial-value="USD" id="minexp"
+                                name="minexp">
+                                <option selected="selected" value="0">select min exp.</option>
+                                <!-- <option value="EUR">EUR (€)</option> -->
+                            </select>
+                        </div>
+                        <div class="experience">To</div>
+                        <div class="experience">
+                            <select class="select-box select-margin3p" data-initial-value="USD" id="maxexp"
+                                name="maxexp">
+                                <option selected="selected" value="7">select max exp.</option>
+                            </select>
+                        </div>
+
+                    </div>
+                    <div class="data-subbox">
+                        <h4 class="heading-l">Role</h4>
+                        <h3 class="heading-s">Add up to 5 </h3>
+                        <div class="chosen-container">
+                            <div class="chosen-choices flex-row flex-wrap" id="role">
+                                <!-- <input type="text" placeholder="e.g. Computer Science" class="invisible"  name="role" value="" data-value="" autocomplete="none"> -->
+                                <li class="search-field">
+                                    <input type="text" placeholder="e.g. Software engineer" class="searchInput"
+                                        autocomplete="off">
+                                </li>
+                            </div>
+                            <div class="search-suggestions ">
+                                <div class="autocom-box">
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="data-subbox">
+                        <button type="submit" class="apply-button">Apply Filter</button>
+                        <button type="button" class="cancel-button">Cancel</button>
+                    </div>
+                </fieldset>
+            </div>
+        </section>
+
+        <section class="popper-section">
+            <button id="popper-button-others" class="popper-button">Others
+                <i class="fas fa-sort-down"></i>
+            </button>
+            <div id="popper-popup-others" class="popper-popup">
+                <div class="popper-arrow"></div>
+                <fieldset class="popper-popup-box flex-column">
+                    <div class="data-subbox">
+                        <h4 class="heading-l">Industry</h4>
+                        <h3 class="heading-s">Add up to 5 </h3>
+                        <div class="chosen-container">
+                            <div class="chosen-choices flex-row flex-wrap" id="industries">
+                                <!-- <input type="text" placeholder="e.g. Computer Science" class="invisible"  name="industries" value="" data-value="" autocomplete="none"> -->
+                                <li class="search-field">
+                                    <input type="text" placeholder="e.g. IT Industry" class="searchInput"
+                                        autocomplete="off">
+                                </li>
+                            </div>
+                            <div class="search-suggestions ">
+                                <div class="autocom-box">
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="data-subbox">
+                        <h4 class="heading-l">Companies</h4>
+                        <h3 class="heading-s">Add up to 5 </h3>
+                        <div class="chosen-container">
+                            <div class="chosen-choices flex-row flex-wrap" id="companies">
+                                <!-- <input type="text" placeholder="e.g. Computer Science" class="invisible"  name="companies" value="" data-value="" autocomplete="none"> -->
+                                <li class="search-field">
+                                    <input type="text" placeholder="e.g. Google, Microsoft" class="searchInput"
+                                        autocomplete="off">
+                                </li>
+                            </div>
+                            <div class="search-suggestions ">
+                                <div class="autocom-box">
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="data-subbox">
+                        <button type="submit" class="apply-button">Apply Filter</button>
+                        <button type="button" class="cancel-button">Cancel</button>
+                    </div>
+                </fieldset>
+            </div>
+        </section>
+        <section class="popper-section">
+            <button id="alertButton" class="" title="Get notifications on mail">Make alert
+                <i class="far fa-bell"></i>
+            </button>
+        </section>
+
+    </div>
+    <div class="flex-row filters-selected normal-li">
+        <!-- li class="search-choice">
+            <span>Backend Developer</span>
+            <a class="search-choice-close fas fa-times" data-option-array-index="0"></a>
+        </li -->
+        <% for(const key in queryString){ %>
+        <% if(Array.isArray(queryString[key])){ %>
+        <% queryString[key].forEach((element) => { %>
+        <li class="search-choice" data-key="<%- key %>">
+            <span><%= element %></span>
+            <a class="selected-filters search-choice-close fas fa-times" title="Remove this tag"
+                data-val="<%- element %>"></a>
+        </li>
+        <% }) %>
+        <% } else if(key === 'salary'){ %>
+        <% if(queryString[key]){ %>
+        <li class="search-choice" data-key="<%- key %>" data-key-sub="currency">
+            <span><%= Number(queryString[key])/(1000)%>k <%= queryString.currency %>+ </span>
+            <a class="selected-filters search-choice-close fas fa-times" title="Remove this tag"
+                data-val="<%- (queryString[key]) %>" data-val-sub="<%- queryString.currency  %>"></a>
+        </li>
+        <% } %>
+        <% } else if((key !== 'searchAll' && key !== 'location' && key !== 'currency' && key !== 'maxexp' && key !== 'minexp' && key !== 'id') && queryString[key]){ %>
+        <li class="search-choice" data-key="<%- key %>">
+            <span><%= queryString[key] %></span>
+            <a class="selected-filters search-choice-close fas fa-times" title="Remove this tag"
+                data-val="<%- queryString[key]  %>"></a>
+        </li>
+        <% } %>
+        <% } %>
+        <!-- 3 cases -->
+
+        <% if(Number(queryString.minexp) > 0 || Number(queryString.maxexp) < 7){ %>
+        <% if(Number(queryString.minexp) > 0 && Number(queryString.maxexp) < 7){%>
+        <li class="search-choice" data-key="minexp" data-key-sub="maxexp">
+            <span><%= experienceLevelExchange[queryString.minexp] %>(min) To
+                <%= experienceLevelExchange[queryString.maxexp] %>(max) </span>
+            <a class="selected-filters search-choice-close fas fa-times" title="Remove this tag"
+                data-val="<%- queryString.minexp %>" data-val-sub="<%- queryString.maxexp %>"></a>
+        </li>
+        <% } else if(Number(queryString.minexp) > 0){%>
+        <li class="search-choice" data-key="minexp" data-key-sub="maxexp">
+            <span><%= experienceLevelExchange[queryString.minexp] %>(min)</span>
+            <a class="selected-filters search-choice-close fas fa-times" title="Remove this tag"
+                data-val="<%- queryString.minexp  %>" data-val-sub="7"></a>
+        </li>
+        <% } else{ %>
+        <li class="search-choice" data-key="minexp" data-key-sub="maxexp">
+            <span><%= experienceLevelExchange[queryString.maxexp] %>(max)</span>
+            <a class="selected-filters search-choice-close fas fa-times" title="Remove this tag" data-val="0"
+                data-val-sub="<%- queryString.maxexp %>"></a>
+        </li>
+        <% } %>
+        <% }%>
+        <li class="sub-filter clear-all"><span class="filter-text" id="clearAll">Clear All</span></li>
+    </div>
+    <div class="total-search"><span id="searchCount">0</span><span> Found</span></div>
+</form>

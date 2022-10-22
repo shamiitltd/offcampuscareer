@@ -1,0 +1,85 @@
+/* Most of the data present in jobdesc.css file */
+.company-card {
+    width: 100%;
+    height: auto;
+    margin: 0.12rem;
+    flex: 1 1 6.25rem;
+    align-items: flex-start;
+}
+
+
+.job-box {
+    cursor: pointer;
+    margin: 0.12rem;
+    margin-bottom: 0.31rem;
+    box-shadow: 0 0.2rem 0.3rem 0 rgba(216, 216, 216, 0.24), 0 1rem 3rem 0 rgba(212, 211, 211, 0.19);
+}
+
+.jd-skills {
+    width: -moz-fit-content;
+    width: fit-content;
+    border: 0.062rem solid saddlebrown;
+    padding: 0.12rem;
+    border-radius: 0.43rem;
+    margin: 0.12rem;
+}
+
+.jd-skills-text {
+    padding: 0.12rem;
+    margin: 0.12rem;
+}
+
+.job-company * {
+    color: rgba(2, 122, 18, 0.712);
+}
+
+.job-start-date {
+    color: rgb(70, 177, 97);
+}
+
+.job-date {
+    color: rgb(197, 47, 47);
+}
+
+.anchor:hover {
+    color: black;
+}
+
+.job-gov {
+    border: 0.062rem solid #5D3190;
+    border-radius: 0.5rem;
+    margin: 0.3rem;
+    padding: 0.1rem;
+}
+
+.assured {
+    margin-top: 0.2rem;
+    margin-bottom: 0.2rem;
+}
+
+.job-gov>span {
+    padding: 0.2rem;
+}
+
+.fa-check-circle {
+    color: #5D3190;
+    padding: 0.2rem;
+}
+
+.course-info {
+    width: 96%;
+    padding: 0.3em;
+}
+
+.course-description {
+    flex-wrap: wrap;
+    justify-content: flex-start;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    display: -webkit-box;
+    -webkit-line-clamp: 2;
+    /* number of lines to show */
+    line-clamp: 2;
+    -webkit-box-orient: vertical;
+    width: 100%;
+}

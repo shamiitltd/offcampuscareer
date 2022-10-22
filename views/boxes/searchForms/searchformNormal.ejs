@@ -1,0 +1,15 @@
+<form action="/courses/search/" method="get" class="searchform flex-column" id="submitform">
+    <div class="flex-row searchbar">
+        <div class="searchHint"><b>What</b></div>
+        <div class="where flex-row nwhere">
+            <div><b>What</b></div>
+            <input class="inputwhere" type="search" id="searchAll" name="searchAll"
+                value="<%- (typeof queryString.searchAll !== 'undefined')? queryString.searchAll: '' %>"
+                placeholder="Title or keywords" maxlength="120" autocomplete="none">
+        </div>
+        <div>
+            <button class="submit search-button" type="submit">Search</button>
+        </div>
+    </div>
+    <div class="total-search"><span id="searchCount">0</span><span> Found</span></div>
+</form>

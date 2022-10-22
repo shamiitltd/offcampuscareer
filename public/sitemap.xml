@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+	<sitemap>
+		<loc>https://offcampuscareer.com/sitemaps/sitemap_courses_v1.xml</loc>
+	</sitemap>
+	<sitemap>
+		<loc>https://offcampuscareer.com/sitemaps/sitemap_forwomens_v1.xml</loc>
+	</sitemap>
+	<sitemap>
+		<loc>https://offcampuscareer.com/sitemaps/sitemap_internships_v1.xml</loc>
+	</sitemap>
+	<sitemap>
+		<loc>https://offcampuscareer.com/sitemaps/sitemap_jobs_v1.xml</loc>
+	</sitemap>
+	<sitemap>
+		<loc>https://offcampuscareer.com/sitemaps/sitemap_referrals_v1.xml</loc>
+	</sitemap>
+	<sitemap>
+		<loc>https://offcampuscareer.com/sitemaps/sitemap_scholarships_v1.xml</loc>
+	</sitemap>
+</sitemapindex>

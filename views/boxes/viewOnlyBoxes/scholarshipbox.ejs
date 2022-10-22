@@ -1,0 +1,62 @@
+<div class="job-box" data-id="<%- company._id  %>">
+    <div class="company-card flex-row">
+        <div class="company-logo">
+            <img src="<%= company.logoUrl %>" alt="" class="company-logo-img">
+        </div>
+        <div class="job-info flex-column">
+            <div class="job-description">
+                <span class="job-name"><%= company.jobTitle %></span>
+            </div>
+            <div class="job-description">
+                <span class="job-company"><%= company.companies %></span>
+                <% if(company.country || company.city ){ %>
+                <span class="dot">.</span><span class="job-location font-small"><%= company.country%> -
+                    <%=company.city  %></span>
+                <% }else{ %>
+                <span class="dot">.</span><span class="job-location font-small">No Office location</span>
+                <% } %>
+            </div>
+            <div class="job-description flex-row">
+                <% if(company.aoi){ %>
+                <% for(skill of company.aoi){ %>
+                <div class="jd-skills font-small"><span class="jd-skills-text"><%= skill %></span></div>
+                <% } %>
+                <% } %>
+            </div>
+            <div class="job-description">
+                <% if(company.minSalary || company.maxSalary ){ %>
+                <span class="dot">.</span><span class="job-salary font-small"><%= company.currency %>
+                    <%= Number(company.minSalary)/( Number(currencyExchange[company.currency])*1000) %>k -
+                    <%= Number(company.maxSalary)? Number(company.maxSalary)/( Number(currencyExchange[company.currency])*1000) : ''%><%=Number(company.maxSalary)?'k':'+' %></span>
+                <% } %>
+            </div>
+            <div class="job-description">
+                <% if(company.startDate){ %>
+                <span class="dot">.</span><span class="job-start-date font-small">Start Date
+                    [<%= company.startDate.toDateString() %>]</span>
+                <% } %>
+            </div>
+            <div class="job-description">
+                <% if(company.lastDate){ %>
+                <span class="dot">.</span><span class="job-date font-small">Last Date
+                    [<%= company.lastDate.toDateString() %>]</span>
+                <% } %>
+            </div>
+            <div class="job-description">
+                <% if(company.responseRate >= 4) {%>
+                <span class="dot">.</span><span class="job-response font-small">High Response</span>
+                <%} %>
+            </div>
+            <div class="job-description assured">
+                <% if(company.g){%>
+                <span class="job-gov font-small" title="Government assured"> <span>Government</span> <i
+                        class="fas fa-check-circle"></i></span>
+                <%}%>
+                <% if(company.quickApply){%>
+                <span class="job-gov font-small" title="Response assured"> <span>Oc2</span> <i
+                        class="fas fa-check-circle"></i></span>
+                <%}%>
+            </div>
+        </div>
+    </div>
+</div>

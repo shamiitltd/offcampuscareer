@@ -1,0 +1,14 @@
+<div class="filterd-jobs flex-row">
+    <div class="jd flex-column" id="basicBlock" data-count="<%- companiesData.totalDocs  %>">
+        <%- include("../boxes/viewOnlyBoxes/paginationbox", {companiesData}) %>
+        <% for(company of companiesData.docs){ %>
+        <%- include(`../boxes/viewOnlyBoxes/${repeatingBox}`, {currencyExchange,  experienceLevelExchange, company}) %>
+        <% } %>
+        <%- include("../boxes/viewOnlyBoxes/paginationbox", {companiesData}) %>
+    </div>
+    <div class="jd" id="jobDesc">
+        <% if(typeof companyDetails != "undefined" && Object.keys(companyDetails).length !== 0){ %>
+        <%- include(`../boxes/viewOnlyBoxes/${descriptionBox}`, {currencyExchange,  experienceLevelExchange, companyDetails}) %>
+        <% } %>
+    </div>
+</div>

@@ -1,0 +1,156 @@
+<form class="flex-column full-width-normal" action="/postEditorial" method="post">
+    <h2 class="full-width-normal ">New Editorial Post</h2>
+    <div class="flex-row full-width-normal bottom-border top-border">
+        <div class="half-width-normal">
+            <label for="titleDesc">Enter Editorial Title </label>
+        </div>
+        <div class="half-width-normal">
+            <div class="chosen-container">
+                <div class="chosen-choices flex-row flex-wrap" id="titleDesc">
+                    <li class="search-field">
+                        <input type="text" placeholder="Editorial Title" class="searchInput" autocomplete="off">
+                    </li>
+                </div>
+                <div class="search-suggestions">
+                    <div class="autocom-box">
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="flex-row full-width-normal bottom-border">
+        <div class="half-width-normal">
+            <label for="companyName">Enter company name (Select only one) </label>
+        </div>
+        <div class="half-width-normal">
+            <div class="chosen-container">
+                <div class="chosen-choices flex-row flex-wrap" id="companyName">
+                    <!-- <input type="text" placeholder="e.g. Computer Science" class="invisible"  name="companies" value="" data-value="" autocomplete="none"> -->
+                    <li class="search-field">
+                        <input type="text" placeholder="e.g. Google, Microsoft" class="searchInput" autocomplete="off">
+                    </li>
+                </div>
+                <div class="search-suggestions ">
+                    <div class="autocom-box">
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="flex-row full-width-normal bottom-border">
+        <div class="half-width-normal">
+            <label for="role">Enter role (Multiple select allowed)</label>
+        </div>
+        <div class="half-width-normal">
+            <div class="chosen-container">
+                <div class="chosen-choices flex-row flex-wrap" id="role">
+                    <!-- <input type="text" placeholder="e.g. Computer Science" class="invisible"  name="role" value="" data-value="" autocomplete="none"> -->
+                    <li class="search-field">
+                        <input type="text" placeholder="e.g. Software engineer" class="searchInput" autocomplete="off">
+                    </li>
+                </div>
+                <div class="search-suggestions ">
+                    <div class="autocom-box">
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="flex-row full-width-normal bottom-border">
+        <div class="half-width-normal">
+            <label for="exp1">Enter experience </label>
+        </div>
+        <div class="half-width-normal">
+            <div class="data-subbox flex-row">
+                <div class="experience">
+                    <select class="select-box select-margin3p" data-initial-value="USD" id="minexp" name="minexp">
+                        <option selected="selected" value="0">select min exp.</option>
+                        <!-- <option value="EUR">EUR (€)</option> -->
+                    </select>
+                </div>
+                <div class="experience">To</div>
+                <div class="experience">
+                    <select class="select-box select-margin3p" data-initial-value="USD" id="maxexp" name="maxexp">
+                        <option selected="selected" value="7">select max exp.</option>
+                    </select>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="flex-row full-width-normal bottom-border">
+        <div class="half-width-normal">
+            <label for="currency">Enter currency </label>
+        </div>
+        <div class="half-width-normal">
+            <select class="select-box select-margin3p" data-initial-value="USD" id="currency" name="currency">
+                <!-- <option selected="selected" value="USD">USD ($)</option>-->
+            </select>
+        </div>
+    </div>
+    <div class="flex-row full-width-normal bottom-border">
+        <div class="half-width-normal">
+            <label for="minSalary">Enter Min Salary </label>
+        </div>
+        <div class="half-width-normal">
+            <div class="flex-row sub-container-salary">
+                <input autocomplete="none" placeholder="Min Salary" class="salary-input select-box"
+                    data-initial-value="" id="minSalary" name="minSalary" type="number" value="">
+                <span class="salary-plus-sign">+</span>
+            </div>
+
+        </div>
+    </div>
+    <div class="flex-row full-width-normal bottom-border">
+        <div class="half-width-normal">
+            <label for="maxSalary">Enter Max Salary </label>
+        </div>
+        <div class="half-width-normal">
+            <div class="flex-row sub-container-salary">
+                <input autocomplete="none" placeholder="Max Salary" class="salary-input select-box"
+                    data-initial-value="" id="maxSalary" name="maxSalary" type="number" value="">
+                <span class="salary-plus-sign">/-</span>
+            </div>
+        </div>
+    </div>
+
+    <div class="flex-row full-width-normal bottom-border">
+        <div class="half-width-normal">
+            <label for="logoUrlVal">Enter Logo Url <span class="red">*</span> </label>
+        </div>
+        <div class="half-width-normal">
+            <input type="url" name="logoUrl" id="logoUrlVal" placeholder="Logo Url" class="full-wrap" required>
+            <div class="company-logo flex-row">
+                <img id="loadUrlImg" src="" alt="No Url" class="company-logo-img">
+            </div>
+        </div>
+    </div>
+    <div class="flex-row full-width-normal bottom-border">
+        <div class="half-width-normal">
+            <label for="websiteUrlVal">Enter Website Url (or About You) <span class="red">*</span></label>
+        </div>
+        <div class="half-width-normal">
+            <input type="url" name="websiteUrl" id="websiteUrlVal" placeholder="Website Url" class="full-wrap" required>
+        </div>
+    </div>
+    <div class="flex-row full-width-normal bottom-border">
+        <div class="half-width-normal">
+            <label for="applyUrl">Enter Apply Url </label>
+        </div>
+        <div class="half-width-normal">
+            <input type="text" name="applyUrl" id="applyUrl" placeholder="Apply or Quick Apply Url" class="full-wrap"
+                value>
+        </div>
+    </div>
+
+    <div class="flex-row full-width-normal">
+        <h2 class="full-width-normal">Full Description</h2>
+    </div>
+    <div id="advanceJD" class="full-width-normal">
+        <textarea type="text" name="fullDesc" id="fullDesc" placeholder="Full Description" class="full-wrap" value
+            hidden></textarea>
+    </div>
+    <div class="flex-row">
+        <button type="submit">Submit</button>
+    </div>
+</form>

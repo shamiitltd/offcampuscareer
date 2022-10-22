@@ -1,0 +1,261 @@
+<div class="homeRecommendation">
+    <div class="jobs">
+        <div class="job-types flex-column">
+            <h3 class="job-title">Your Past checkouts <span><i id="savePC" title="Save checkouts"
+                        class="far fa-save greenb invisible"></i><i id="editPC" title="Edit past checkouts"
+                        class="fas fa-edit greenb"></i><i id="deletePC" title="Delete all checkouts"
+                        class="far fa-trash-alt deletePC"></i></span></h3>
+            <div class="cards flex-row">
+            </div>
+            <div class="spinner">
+                <div class="bounce1"></div>
+                <div class="bounce2"></div>
+                <div class="bounce3"></div>
+            </div>
+            <div class="more flex-row">
+                <a href="/morejobs" class="flex-row shadow" id="moreJobs">
+                    <i class="fas fa-angle-double-right"></i>
+                    <h3>more</h3>
+                </a>
+            </div>
+        </div>
+        <div class="job-types flex-column">
+            <h3 class="job-title">Recommended / Trending</h3>
+            <div class="cards flex-row">
+            </div>
+            <div class="spinner">
+                <div class="bounce1"></div>
+                <div class="bounce2"></div>
+                <div class="bounce3"></div>
+            </div>
+            <div class="more flex-row">
+                <a href="/morejobs" class="flex-row shadow" id="moreJobs">
+                    <i class="fas fa-angle-double-right"></i>
+                    <h3>more</h3>
+                </a>
+            </div>
+        </div>
+        <div class="job-types flex-column">
+            <h3 class="job-title">Based on your search "<a href="" id="qsearch"></a>" <span id="delQsearch"
+                    title="Delete this search"><i class="far fa-trash-alt"></i></span></h3>
+            <div class="cards flex-row">
+            </div>
+            <div class="spinner">
+                <div class="bounce1"></div>
+                <div class="bounce2"></div>
+                <div class="bounce3"></div>
+            </div>
+            <div class="more flex-row">
+                <a href="/morejobs" class="flex-row shadow" id="moreJobs">
+                    <i class="fas fa-angle-double-right"></i>
+                    <h3>more</h3>
+                </a>
+            </div>
+        </div>
+        <div class="job-types flex-column">
+            <h3 class="job-title">Interview</h3>
+            <div class="cards flex-row">
+            </div>
+            <div class="spinner">
+                <div class="bounce1"></div>
+                <div class="bounce2"></div>
+                <div class="bounce3"></div>
+            </div>
+            <div class="more flex-row">
+                <a href="/morejobs" class="flex-row shadow" id="moreJobs">
+                    <i class="fas fa-angle-double-right"></i>
+                    <h3>more</h3>
+                </a>
+            </div>
+        </div>
+        <div class="job-types flex-column">
+            <h3 class="job-title">Learn from General</h3>
+            <div class="cards flex-row">
+            </div>
+            <div class="spinner">
+                <div class="bounce1"></div>
+                <div class="bounce2"></div>
+                <div class="bounce3"></div>
+            </div>
+            <div class="more flex-row">
+                <a href="/morejobs" class="flex-row shadow" id="moreJobs">
+                    <i class="fas fa-angle-double-right"></i>
+                    <h3>more</h3>
+                </a>
+            </div>
+        </div>
+        <div class="job-types flex-column">
+            <h3 class="job-title">Engineering Colleges</h3>
+            <div class="item-bar level1">
+                <% for(let i=0; i<courses.eng.types["name"].length; i++) {%>
+                <% if(i===ssvar.eng){ %>
+                <span class="major-topic topic-selected" data-ctype="eng"
+                    data-id="<%-i%>"><%-courses.eng.types["name"][i] %></span>
+                <% }else{ %>
+                <span class="major-topic" data-ctype="eng" data-id="<%-i%>"><%-courses.eng.types["name"][i] %></span>
+                <% } %>
+                <% } %>
+            </div>
+            <div class="item-bar level2">
+                <% for(let i=0; i < courses.eng[courses.eng.types['data'][ssvar.eng]].length && i < 4; i++) {%>
+                <% if(i==0) {%>
+                <span class="sub-topic stopic-selected"
+                    title="<%-courses.eng.fF[courses.eng[courses.eng.types['data'][ssvar.eng]][i]] ? courses.eng.fF[courses.eng[courses.eng.types['data'][ssvar.eng]][i]]:''  %>"><%- courses.eng[courses.eng.types['data'][ssvar.eng]][i] %></span>
+                <% }else{ %>
+                <span class="sub-topic"
+                    title="<%-courses.eng.fF[courses.eng[courses.eng.types['data'][ssvar.eng]][i]] ? courses.eng.fF[courses.eng[courses.eng.types['data'][ssvar.eng]][i]]:''  %>"><%- courses.eng[courses.eng.types['data'][ssvar.eng]][i] %></span>
+                <% } %>
+                <% } %>
+                <% if(courses.eng[courses.eng.types['data'][ssvar.eng]].length-4>0 ) {%>
+                <span class="rsub-topic"><a href="/courses/engineering/<%-courses.eng.types["path"][ssvar.eng]%>">
+                        <i class="fas fa-angle-double-right"></i>
+                        <%-  courses.eng[courses.eng.types['data'][ssvar.eng]].length-4+' more courses' %></a></span>
+                <% } %>
+            </div>
+            <div class="cards flex-row">
+            </div>
+            <div class="spinner">
+                <div class="bounce1"></div>
+                <div class="bounce2"></div>
+                <div class="bounce3"></div>
+            </div>
+            <div class="more flex-row">
+                <a href="/morejobs" class="flex-row shadow" id="moreJobs">
+                    <i class="fas fa-angle-double-right"></i>
+                    <h3>more</h3>
+                </a>
+            </div>
+        </div>
+        <div class="job-types flex-column">
+            <h3 class="job-title">Medical Colleges</h3>
+            <div class="item-bar level1">
+                <% for(let i=0; i<courses.med.types["name"].length; i++) {%>
+                <% if(i===ssvar.med){ %>
+                <span class="major-topic topic-selected" data-ctype="med"
+                    data-id="<%-i%>"><%-courses.med.types["name"][i] %></span>
+                <% }else{ %>
+                <span class="major-topic" data-ctype="med" data-id="<%-i%>"><%-courses.med.types["name"][i] %></span>
+                <% } %>
+                <% } %>
+            </div>
+            <div class="item-bar level2">
+                <% for(let i=0; i < courses.med[courses.med.types['data'][ssvar.med]].length && i < 4; i++) {%>
+                <% if(i==0) {%>
+                <span class="sub-topic stopic-selected"
+                    title="<%-courses.med.fF[courses.med[courses.med.types['data'][ssvar.med]][i]] ? courses.med.fF[courses.med[courses.med.types['data'][ssvar.med]][i]]: ''  %>"><%- courses.med[courses.med.types['data'][ssvar.med]][i] %></span>
+                <% }else{ %>
+                <span class="sub-topic"
+                    title="<%-courses.med.fF[courses.med[courses.med.types['data'][ssvar.med]][i]] ? courses.med.fF[courses.med[courses.med.types['data'][ssvar.med]][i]]: ''  %>"><%- courses.med[courses.med.types['data'][ssvar.med]][i] %></span>
+                <% } %>
+                <% } %>
+                <% if(courses.med[courses.med.types['data'][ssvar.med]].length-4>0 ) {%>
+                <span class="rsub-topic"><a href="/courses/medical/<%-courses.med.types["path"][ssvar.med]%>">
+                        <i class="fas fa-angle-double-right"></i>
+                        <%-  courses.med[courses.med.types['data'][ssvar.med]].length-4+' more courses' %></a></span>
+                <% } %>
+            </div>
+            <div class="cards flex-row">
+            </div>
+            <div class="spinner">
+                <div class="bounce1"></div>
+                <div class="bounce2"></div>
+                <div class="bounce3"></div>
+            </div>
+            <div class="more flex-row">
+                <a href="/morejobs" class="flex-row shadow" id="moreJobs">
+                    <i class="fas fa-angle-double-right"></i>
+                    <h3>more</h3>
+                </a>
+            </div>
+        </div>
+        <div class="job-types flex-column">
+            <h3 class="job-title">Miscellaneous Colleges</h3>
+            <div class="item-bar level1">
+                <% for(let i=0; i<courses.misc.types["name"].length; i++) {%>
+                <% if(i===ssvar.misc){ %>
+                <span class="major-topic topic-selected" data-ctype="misc"
+                    data-id="<%-i%>"><%-courses.misc.types["name"][i] %></span>
+                <% }else{ %>
+                <span class="major-topic" data-ctype="misc" data-id="<%-i%>"><%-courses.misc.types["name"][i] %></span>
+                <% } %>
+                <% } %>
+            </div>
+            <div class="item-bar level2">
+                <% for(let i=0; i < courses.misc[courses.misc.types['data'][ssvar.misc]].length && i < 4; i++) {%>
+                <% if(i==0) {%>
+                <span class="sub-topic stopic-selected"
+                    title="<%-courses.misc.fF[courses.misc[courses.misc.types['data'][ssvar.misc]][i]] ? courses.misc.fF[courses.misc[courses.misc.types['data'][ssvar.misc]][i]]:''  %>"><%- courses.misc[courses.misc.types['data'][ssvar.misc]][i] %></span>
+                <% }else{ %>
+                <span class="sub-topic"
+                    title="<%-courses.misc.fF[courses.misc[courses.misc.types['data'][ssvar.misc]][i]] ? courses.misc.fF[courses.misc[courses.misc.types['data'][ssvar.misc]][i]]:''  %>"><%- courses.misc[courses.misc.types['data'][ssvar.misc]][i] %></span>
+                <% } %>
+                <% } %>
+                <% if(courses.misc[courses.misc.types['data'][ssvar.misc]].length-4>0 ) {%>
+                <span class="rsub-topic">
+                    <a href="/courses/miscellaneousexams/<%-courses.misc.types["path"][ssvar.misc]%>">
+                        <i class="fas fa-angle-double-right"></i>
+                        <%-  courses.misc[courses.misc.types['data'][ssvar.misc]].length-4+' more courses' %></a>
+                </span>
+                <% } %>
+            </div>
+            <div class="cards flex-row">
+            </div>
+            <div class="spinner">
+                <div class="bounce1"></div>
+                <div class="bounce2"></div>
+                <div class="bounce3"></div>
+            </div>
+            <div class="more flex-row">
+                <a href="/morejobs" class="flex-row shadow" id="moreJobs">
+                    <i class="fas fa-angle-double-right"></i>
+                    <h3>more</h3>
+                </a>
+            </div>
+        </div>
+        <div class="job-types flex-column">
+            <h3 class="job-title">Competitive Exams</h3>
+            <div class="item-bar level1">
+                <% for(let i=0; i<courses.comp.types["name"].length; i++) {%>
+                <% if(i===ssvar.comp){ %>
+                <span class="major-topic topic-selected" data-ctype="comp"
+                    data-id="<%-i%>"><%-courses.comp.types["name"][i] %></span>
+                <% }else{ %>
+                <span class="major-topic" data-ctype="comp" data-id="<%-i%>"><%-courses.comp.types["name"][i] %></span>
+                <% } %>
+                <% } %>
+            </div>
+            <div class="item-bar level2">
+                <% for(let i=0; i < courses.comp[courses.comp.types['data'][ssvar.comp]].length && i < 4; i++) {%>
+                <% if(i==0) {%>
+                <span class="sub-topic stopic-selected"
+                    title="<%-courses.comp.fF[courses.comp[courses.comp.types['data'][ssvar.comp]][i]] ? courses.comp.fF[courses.comp[courses.comp.types['data'][ssvar.comp]][i]]:''  %>"><%- courses.comp[courses.comp.types['data'][ssvar.comp]][i] %></span>
+                <% }else{ %>
+                <span class="sub-topic"
+                    title="<%-courses.comp.fF[courses.comp[courses.comp.types['data'][ssvar.comp]][i]] ? courses.comp.fF[courses.comp[courses.comp.types['data'][ssvar.comp]][i]]:''  %>"><%- courses.comp[courses.comp.types['data'][ssvar.comp]][i] %></span>
+                <% } %>
+                <% } %>
+                <% if(courses.comp[courses.comp.types['data'][ssvar.comp]].length-4>0 ) {%>
+                <span class="rsub-topic">
+                    <a href="/courses/competitiveexams/<%-courses.comp.types["path"][ssvar.comp]%>">
+                        <i class="fas fa-angle-double-right"></i>
+                        <%-  courses.comp[courses.comp.types['data'][ssvar.comp]].length-4+' more exams' %></a>
+                </span>
+                <% } %>
+            </div>
+            <div class="cards flex-row">
+            </div>
+            <div class="spinner">
+                <div class="bounce1"></div>
+                <div class="bounce2"></div>
+                <div class="bounce3"></div>
+            </div>
+            <div class="more flex-row">
+                <a href="/morejobs" class="flex-row shadow" id="moreJobs">
+                    <i class="fas fa-angle-double-right"></i>
+                    <h3>more</h3>
+                </a>
+            </div>
+        </div>
+
+    </div>
+</div>

@@ -1,0 +1,14 @@
+<% for(let i=0; i < courses[ctype][courses[ctype].types['data'][spos]].length && i < 4; i++) {%>
+<% if(i==0) {%>
+<span class="sub-topic stopic-selected"
+    title="<%-courses[ctype].fF[courses[ctype][courses[ctype].types['data'][spos]][i]] ? courses[ctype].fF[courses[ctype][courses[ctype].types['data'][spos]][i]]: ''  %>"><%- courses[ctype][courses[ctype].types['data'][spos]][i] %></span>
+<% }else{ %>
+<span class="sub-topic"
+    title="<%-courses[ctype].fF[courses[ctype][courses[ctype].types['data'][spos]][i]] ? courses[ctype].fF[courses[ctype][courses[ctype].types['data'][spos]][i]]: ''  %>"><%- courses[ctype][courses[ctype].types['data'][spos]][i] %></span>
+<% } %>
+<% } %>
+<% if(courses[ctype][courses[ctype].types['data'][spos]].length-4>0 ) {%>
+<span class="rsub-topic"><a href="/courses/medical/<%-courses[ctype].types["path"][spos]%>">
+        <i class="fas fa-angle-double-right"></i>
+        <%-  courses[ctype][courses[ctype].types['data'][spos]].length-4+' more courses' %></a></span>
+<% } %>

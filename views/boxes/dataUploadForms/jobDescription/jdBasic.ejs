@@ -1,0 +1,114 @@
+<div class="flex-row full-width-normal bottom-border top-border">
+    <div class="half-width-normal">
+        <label for="reqSkills">Enter Required Skills (Multiple Allowed) </label>
+    </div>
+    <div class="half-width-normal">
+        <div class="chosen-container">
+            <div class="chosen-choices flex-row flex-wrap" id="reqSkills">
+                <% if(dataObject.reqSkills){ %>
+                <% for(let i=0; i < dataObject.reqSkills.length; i++ ) {%>
+                <li class="search-choice" data-key="reqSkills">
+                    <span><%-dataObject.reqSkills[i] %></span>
+                    <input class="invisible" type="text" name="reqSkills">
+                    <a class="search-choice-close fas fa-times" title="Remove this tag"
+                        data-val="<%-dataObject.reqSkills[i] %>"></a>
+                </li>
+                <% } %>
+                <% } %>
+
+                <li class="search-field">
+                    <input type="text" placeholder="Required Skills (Multiple)" class="searchInput" autocomplete="off">
+                </li>
+            </div>
+            <div class="search-suggestions">
+                <div class="autocom-box">
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="flex-row full-width-normal bottom-border">
+    <div class="half-width-normal">
+        <label for="optionalSkills">Enter Good to have Skills (Multiple Allowed) </label>
+    </div>
+    <div class="half-width-normal">
+        <div class="chosen-container">
+            <div class="chosen-choices flex-row flex-wrap" id="optionalSkills">
+                <% if(dataObject.optionalSkills){ %>
+                <% for(let i=0; i < dataObject.optionalSkills.length; i++ ) {%>
+                <li class="search-choice" data-key="optionalSkills">
+                    <span><%-dataObject.optionalSkills[i] %></span>
+                    <input class="invisible" type="text" name="optionalSkills">
+                    <a class="search-choice-close fas fa-times" title="Remove this tag"
+                        data-val="<%-dataObject.optionalSkills[i] %>"></a>
+                </li>
+                <% } %>
+                <% } %>
+
+                <li class="search-field">
+                    <input type="text" placeholder="Good to have Skills (Multiple)" class="searchInput"
+                        autocomplete="off">
+                </li>
+            </div>
+            <div class="search-suggestions">
+                <div class="autocom-box">
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="flex-row full-width-normal bottom-border">
+    <div class="half-width-normal">
+        <label for="responsibility">Enter Responsibility (Multiple Allowed) </label>
+    </div>
+    <div class="half-width-normal">
+        <div class="chosen-container">
+            <div class="chosen-choices flex-row flex-wrap" id="responsibility">
+                <% if(dataObject.responsibility){ %>
+                <% for(let i=0; i < dataObject.responsibility.length; i++ ) {%>
+                <li class="search-choice" data-key="responsibility">
+                    <span><%-dataObject.responsibility[i] %></span>
+                    <input class="invisible" type="text" name="responsibility">
+                    <a class="search-choice-close fas fa-times" title="Remove this tag"
+                        data-val="<%-dataObject.responsibility[i] %>"></a>
+                </li>
+                <% } %>
+                <% } %>
+
+                <li class="search-field">
+                    <input type="text" placeholder=" Responsibility (Multiple)" class="searchInput" autocomplete="off">
+                </li>
+            </div>
+            <div class="search-suggestions">
+                <div class="autocom-box">
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="flex-row full-width-normal bottom-border">
+    <div class="half-width-normal">
+        <label for="about">Enter About this Job </label>
+    </div>
+    <div class="half-width-normal">
+        <input type="text" name="about" id="about" value="<%-dataObject.about %>" placeholder="About Job"
+            class="full-wrap">
+    </div>
+</div>
+<div class="flex-row full-width-normal bottom-border">
+    <div class="half-width-normal">
+        <label for="note">Enter Note </label>
+    </div>
+    <div class="half-width-normal">
+        <input type="text" name="note" id="note" value="<%-dataObject.note %>" placeholder="Note" class="full-wrap">
+    </div>
+</div>
+<div class="flex-row full-width-normal bottom-border">
+    <div class="half-width-normal">
+        <label for="aboutCompany">Enter About Company </label>
+    </div>
+    <div class="half-width-normal">
+        <input type="text" name="aboutCompany" id="aboutCompany" value="<%-dataObject.aboutCompany %>"
+            placeholder="About Company" class="full-wrap">
+    </div>
+</div>

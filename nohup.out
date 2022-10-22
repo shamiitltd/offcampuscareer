@@ -1,0 +1,10 @@
+
+> offcampuscareer@1.0.0 start
+> node app.js
+
+Warning: connect.session() MemoryStore is not
+designed for a production environment, as it will leak
+memory, and will not scale past a single process.
+Server is running on port 3002 !!!
+MySql Connected as id 76730239
+Database connected Successfully !!!

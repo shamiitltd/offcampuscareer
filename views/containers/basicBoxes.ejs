@@ -1,0 +1,7 @@
+<div class="full-width-normal flex-column" id="basicBlock" data-count="<%- companiesData.totalDocs %>">
+    <%- include("../boxes/viewOnlyBoxes/paginationbox", {companiesData}) %>
+    <% for(company of companiesData.docs){ %>
+    <%- include(`../boxes/viewOnlyBoxes/${repeatingBox}`, {currencyExchange,  experienceLevelExchange, company}) %>
+    <% } %>
+    <%- include("../boxes/viewOnlyBoxes/paginationbox", {companiesData}) %>
+</div>

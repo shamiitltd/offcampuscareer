@@ -1,0 +1,43 @@
+<%- include("../tools/header") %>
+<%- include("../tools/navbar") %>
+    <main class="main flex-row">
+        <div class="main-content"></div>
+        <div class="main-content flex-column">
+
+            <div class=" ">
+                <div class="chosen-container">
+                    <div class="chosen-choices flex-row flex-wrap " id="add-course">
+                        <li class="search-choice"><span>Backend Developer</span>
+                            <a class="search-choice-close fas fa-times" data-option-array-index="0"></a>
+                        </li>
+                        <li class="search-choice"><span>Designer</span>
+                            <a class="search-choice-close fas fa-times" data-option-array-index="3"></a>
+                        </li>
+                        <li class="search-choice"><span>Designer</span>
+                            <a class="search-choice-close fas fa-times" data-option-array-index="3"></a>
+                        </li>
+                        <li class="search-choice"><span>Designer</span>
+                            <a class="search-choice-close fas fa-times" data-option-array-index="3"></a>
+                        </li>
+                    </div>
+                    <div class="search-input ">
+                        <input type="text" placeholder="e.g. Full Stack Developer" class="" id="" autocomplete="off">
+                        <div class="icon"><i class="fas fa-search"></i></div>
+                        <div class="autocom-box">
+                            <li class="result-selected" data-option-array-index="0">Computer Science</li>
+                            <li class="active-result" data-option-array-index="1">Electrical</li>
+                            <li class="active-result" data-option-array-index="2">Electronics</li>
+                            <li class="result-selected" data-option-array-index="3">Machanical</li>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+
+
+        </div>
+        <div class="main-content"></div>
+    </main>
+    <script src="/js/data/suggestions.js"></script>
+    <script src="/js/help/help.js"></script>
+<%- include("../tools/footer") %>

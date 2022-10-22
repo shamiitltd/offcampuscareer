@@ -1,0 +1,285 @@
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:content="http://purl.org/rss/1.0/modules/content/"
+    xmlns:atom="http://www.w3.org/2005/Atom"
+    xmlns:media="http://search.yahoo.com/mrss/" version="2.0">
+    <channel>
+        <title>
+            <![CDATA[ offcamuscareer.com ]]>
+        </title>
+        <description>
+            <![CDATA[ offcamuscareer.com ]]>
+        </description>
+        <link>https://www.offcampuscareer.com/sitemapscanner/new</link>
+        <image>
+            <url>https://www.offcampuscareer.com/favicon.ico</url>
+            <title>offcamuscareer.com</title>
+            <link>https://www.offcampuscareer.com/sitemapscanner/new</link>
+        </image>
+        <generator>https://www.offcampuscareer.com</generator>
+        <lastBuildDate>Mon Oct 17 2022 17:45:09 GMT+0000 (Coordinated Universal Time)</lastBuildDate>
+        <atom:link href="https://www.offcampuscareer.com/feeds/SfXRbB4fE.xml" rel="self" type="application/rss+xml"/>
+        <language>
+            <![CDATA[ en ]]>
+        </language>
+
+        <item>
+            <title>
+                <![CDATA[ fs.rmdir ]]>
+            </title>
+            <link>https://nodejs.org/api/fs.html#fs_fs_rmdir_path_callback</link>
+            <guid isPermaLink="false">1666028709522</guid>
+            <dc:creator>
+                <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
+            </dc:creator>
+        </item>
+        <item>
+            <title>
+                <![CDATA[ node.js ]]>
+            </title>
+            <link>https://stackoverflow.com/questions/tagged/node.js</link>
+            <guid isPermaLink="false">1666028709523</guid>
+            <dc:creator>
+                <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
+            </dc:creator>
+        </item>
+        <item>
+            <title>
+                <![CDATA[ nodejs.org/api/fs.html#fs_fspromises_rm_path_options ]]>
+            </title>
+            <link>https://nodejs.org/api/fs.html#fs_fspromises_rm_path_options</link>
+            <guid isPermaLink="false">1666028709524</guid>
+            <dc:creator>
+                <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
+            </dc:creator>
+        </item>
+        <item>
+            <title>
+                <![CDATA[ fs.rmSync ]]>
+            </title>
+            <link>https://nodejs.org/docs/latest/api/fs.html#fsrmsyncpath-options</link>
+            <guid isPermaLink="false">1666028709525</guid>
+            <dc:creator>
+                <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
+            </dc:creator>
+        </item>
+        <item>
+            <title>
+                <![CDATA[ github.com/nodejs/node/pull/29168/files ]]>
+            </title>
+            <link>https://github.com/nodejs/node/pull/29168/files</link>
+            <guid isPermaLink="false">1666028709526</guid>
+            <dc:creator>
+                <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
+            </dc:creator>
+        </item>
+        <item>
+            <title>
+                <![CDATA[ is deprecated ]]>
+            </title>
+            <link>https://github.com/nodejs/node/pull/35579</link>
+            <guid isPermaLink="false">1666028709527</guid>
+            <dc:creator>
+                <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
+            </dc:creator>
+        </item>
+        <item>
+            <title>
+                <![CDATA[ v14.14.0 ]]>
+            </title>
+            <link>https://nodejs.org/en/blog/release/v14.14.0/</link>
+            <guid isPermaLink="false">1666028709528</guid>
+            <dc:creator>
+                <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
+            </dc:creator>
+        </item>
+        <item>
+            <title>
+                <![CDATA[ /docs/latest-v14.x/api/fs.html#fs_fs_rm_path_options_callback ]]>
+            </title>
+            <link>https://nodejs.org/docs/latest-v14.x/api/fs.html#fs_fs_rm_path_options_callback</link>
+            <guid isPermaLink="false">1666028709529</guid>
+            <dc:creator>
+                <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
+            </dc:creator>
+        </item>
+        <item>
+            <title>
+                <![CDATA[ here ]]>
+            </title>
+            <link>https://nodejs.org/api/fs.html#fsrmdirpath-options-callback</link>
+            <guid isPermaLink="false">1666028709530</guid>
+            <dc:creator>
+                <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
+            </dc:creator>
+        </item>
+        <item>
+            <title>
+                <![CDATA[ Node.js v14 Documentation ]]>
+            </title>
+            <link>https://nodejs.org/dist/latest-v14.x/docs/api/fs.html#fs_fs_rm_path_options_callback</link>
+            <guid isPermaLink="false">1666028709531</guid>
+            <dc:creator>
+                <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
+            </dc:creator>
+        </item>
+        <item>
+            <title>
+                <![CDATA[ fs.rmdir() ]]>
+            </title>
+            <link>https://nodejs.org/api/fs.html#fs_fs_rmdir_path_options_callback</link>
+            <guid isPermaLink="false">1666028709532</guid>
+            <dc:creator>
+                <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
+            </dc:creator>
+        </item>
+        <item>
+            <title>
+                <![CDATA[ fs.rmdirSync() ]]>
+            </title>
+            <link>https://nodejs.org/api/fs.html#fs_fs_rmdirsync_path_options</link>
+            <guid isPermaLink="false">1666028709533</guid>
+            <dc:creator>
+                <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
+            </dc:creator>
+        </item>
+        <item>
+            <title>
+                <![CDATA[ fs documentation ]]>
+            </title>
+            <link>https://nodejs.org/api/fs.html#fs_fspromises_rmdir_path_options</link>
+            <guid isPermaLink="false">1666028709534</guid>
+            <dc:creator>
+                <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
+            </dc:creator>
+        </item>
+        <item>
+            <title>
+                <![CDATA[ /nodejs/node/pull/29168 ]]>
+            </title>
+            <link>https://github.com/nodejs/node/pull/29168</link>
+            <guid isPermaLink="false">1666028709535</guid>
+            <dc:creator>
+                <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
+            </dc:creator>
+        </item>
+        <item>
+            <title>
+                <![CDATA[ NodeJs child_process ]]>
+            </title>
+            <link>https://nodejs.org/api/child_process.html</link>
+            <guid isPermaLink="false">1666028709536</guid>
+            <dc:creator>
+                <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
+            </dc:creator>
+        </item>
+        <item>
+            <title>
+                <![CDATA[ Is node.js rmdir recursive ? Will it work on non empty directories? ]]>
+            </title>
+            <link>https://stackoverflow.com/questions/12627586/is-node-js-rmdir-recursive-will-it-work-on-non-empty-directories?noredirect=1</link>
+            <guid isPermaLink="false">1666028709537</guid>
+            <dc:creator>
+                <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
+            </dc:creator>
+        </item>
+        <item>
+            <title>
+                <![CDATA[ How to delete all files and subdirectories in a directory with Node.js ]]>
+            </title>
+            <link>https://stackoverflow.com/questions/69555390/how-to-delete-all-files-and-subdirectories-in-a-directory-with-node-js?noredirect=1</link>
+            <guid isPermaLink="false">1666028709538</guid>
+            <dc:creator>
+                <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
+            </dc:creator>
+        </item>
+        <item>
+            <title>
+                <![CDATA[ delete folder containing files node js ]]>
+            </title>
+            <link>https://stackoverflow.com/questions/38485622/delete-folder-containing-files-node-js?noredirect=1</link>
+            <guid isPermaLink="false">1666028709539</guid>
+            <dc:creator>
+                <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
+            </dc:creator>
+        </item>
+        <item>
+            <title>
+                <![CDATA[ Unable to delete directory using node.js ]]>
+            </title>
+            <link>https://stackoverflow.com/questions/64570126/unable-to-delete-directory-using-node-js?noredirect=1</link>
+            <guid isPermaLink="false">1666028709540</guid>
+            <dc:creator>
+                <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
+            </dc:creator>
+        </item>
+        <item>
+            <title>
+                <![CDATA[ How do you get a list of the names of all files present in a directory in Node.js? ]]>
+            </title>
+            <link>https://stackoverflow.com/questions/2727167/how-do-you-get-a-list-of-the-names-of-all-files-present-in-a-directory-in-node-j</link>
+            <guid isPermaLink="false">1666028709541</guid>
+            <dc:creator>
+                <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
+            </dc:creator>
+        </item>
+        <item>
+            <title>
+                <![CDATA[ Check synchronously if file/directory exists in Node.js ]]>
+            </title>
+            <link>https://stackoverflow.com/questions/4482686/check-synchronously-if-file-directory-exists-in-node-js</link>
+            <guid isPermaLink="false">1666028709542</guid>
+            <dc:creator>
+                <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
+            </dc:creator>
+        </item>
+        <item>
+            <title>
+                <![CDATA[ Node.js + Nginx - What now? ]]>
+            </title>
+            <link>https://stackoverflow.com/questions/5009324/node-js-nginx-what-now</link>
+            <guid isPermaLink="false">1666028709543</guid>
+            <dc:creator>
+                <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
+            </dc:creator>
+        </item>
+        <item>
+            <title>
+                <![CDATA[ How to decide when to use Node.js? ]]>
+            </title>
+            <link>https://stackoverflow.com/questions/5062614/how-to-decide-when-to-use-node-js</link>
+            <guid isPermaLink="false">1666028709544</guid>
+            <dc:creator>
+                <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
+            </dc:creator>
+        </item>
+        <item>
+            <title>
+                <![CDATA[ Using Node.JS, how do I read a JSON file into (server) memory? ]]>
+            </title>
+            <link>https://stackoverflow.com/questions/10011011/using-node-js-how-do-i-read-a-json-file-into-server-memory</link>
+            <guid isPermaLink="false">1666028709545</guid>
+            <dc:creator>
+                <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
+            </dc:creator>
+        </item>
+        <item>
+            <title>
+                <![CDATA[ Upgrading Node.js to latest version ]]>
+            </title>
+            <link>https://stackoverflow.com/questions/10075990/upgrading-node-js-to-latest-version</link>
+            <guid isPermaLink="false">1666028709546</guid>
+            <dc:creator>
+                <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
+            </dc:creator>
+        </item>
+        <item>
+            <title>
+                <![CDATA[ How do I completely uninstall Node.js, and reinstall from beginning (Mac OS X) ]]>
+            </title>
+            <link>https://stackoverflow.com/questions/11177954/how-do-i-completely-uninstall-node-js-and-reinstall-from-beginning-mac-os-x</link>
+            <guid isPermaLink="false">1666028709547</guid>
+            <dc:creator>
+                <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
+            </dc:creator>
+        </item></channel>
+</rss>

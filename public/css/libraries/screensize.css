@@ -1,0 +1,115 @@
+@media screen and (max-width:900px) {
+    body {
+        font-size: 1.1rem;
+    }
+
+    .offline {
+        margin-top: 10%;
+    }
+}
+
+@media screen and (max-width:300px) {
+
+    .control-overflow .cover,
+    .control-overflow table,
+    .control-overflow img,
+    .control-overflow .hljs {
+        max-width: 200px;
+        overflow-x: scroll;
+    }
+
+    .job-description {
+        width: 70%;
+    }
+}
+
+@media screen and (min-width: 300px) and (max-width:350px) {
+
+    .control-overflow .cover,
+    .control-overflow table,
+    .control-overflow img,
+    .control-overflow .hljs {
+        max-width: 300px;
+        overflow-x: scroll;
+    }
+
+    .job-description {
+        width: 70%;
+    }
+}
+
+@media screen and (min-width: 350px) and (max-width:400px) {
+
+    .control-overflow .cover,
+    .control-overflow table,
+    .control-overflow img,
+    .control-overflow .hljs {
+        max-width: 350px;
+        overflow-x: scroll;
+    }
+
+    .job-description {
+        width: 75%;
+    }
+
+}
+
+@media screen and (min-width: 400px) and (max-width:450px) {
+
+    .control-overflow .cover,
+    .control-overflow table,
+    .control-overflow img,
+    .control-overflow .hljs {
+        max-width: 400px;
+        overflow-x: scroll;
+    }
+
+    .job-description {
+        width: 80%;
+    }
+
+}
+
+@media screen and (min-width: 450px) and (max-width:550px) {
+
+    .control-overflow .cover,
+    .control-overflow table,
+    .control-overflow img,
+    .control-overflow .hljs {
+        max-width: 450px;
+        overflow-x: scroll;
+    }
+
+    .job-description {
+        width: 85%;
+    }
+
+}
+
+@media screen and (min-width: 550px) and (max-width:700px) {
+
+    .control-overflow .cover,
+    .control-overflow table,
+    .control-overflow img,
+    .control-overflow .hljs {
+        max-width: 550px;
+        overflow-x: scroll;
+    }
+
+    .job-description {
+        width: 90%;
+    }
+
+}
+
+@media screen and (min-width: 700px) and (max-width:900px) {
+
+    .control-overflow .cover,
+    .control-overflow table,
+    .control-overflow img,
+    .control-overflow .hljs {
+        max-width: 650px;
+        overflow-x: scroll;
+    }
+
+}

@@ -1,0 +1,38 @@
+<div class="signin-container flex-row">
+    <% if(!message){ %>
+    <div class="signup-form-box flex-row ">
+        <div class="loading-spinner invisible">
+            <div class="sk-chase">
+                <div class="sk-chase-dot"></div>
+                <div class="sk-chase-dot"></div>
+                <div class="sk-chase-dot"></div>
+                <div class="sk-chase-dot"></div>
+                <div class="sk-chase-dot"></div>
+                <div class="sk-chase-dot"></div>
+            </div>
+        </div>
+        <form class="updatePass-form flex-column" action="#">
+            <div class="su-form-header flex-column">
+                <div>
+                    <h2 class="su-name">Offcampuscareer</h2>
+                </div>
+                <div>
+                    <h3 class="su-title">Reset Password</h3>
+                </div>
+            </div>
+            <span class="su-desc error invisible" id="rperror">Error Sign Up</span>
+            <input id="suEmail" class="signin-input" type="email" placeholder="Email" value="<%- email %>" required />
+            <input id="suPass" class="signin-input" type="password" placeholder="New Password" required />
+            <input id="suCPass" class="signin-input" type="password" placeholder="Confirm Password" required />
+            <input id="token" class="signin-input invisible" type="text" value="<%- token %>" required />
+            <button type="submit" id="rspasssubmit" class="signin-button">Update Password</button>
+        </form>
+    </div>
+    <% }else{ %>
+    <div class="flex-column">
+        <span class="su-desc error" id="rperror"><%= message  %></span>
+        <span>Go Back to <a href="/"><b class="goback">Home Page</b></a>.</span>
+    </div>
+    <% } %>
+
+</div>

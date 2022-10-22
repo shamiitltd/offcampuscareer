@@ -1,0 +1,156 @@
+.jdb {
+    box-shadow: 0.1rem .2rem .5rem -0.1rem rgba(212, 211, 211, 0.19);
+}
+
+.job-box,
+.company-card {
+    width: 100%;
+}
+
+.job-description {
+    width: 100%;
+    flex-wrap: wrap;
+}
+
+.job-name {
+    font-size: 1.1rem;
+}
+
+.job-company {
+    font-size: 0.9rem;
+}
+
+.dot {
+    font-size: 2.5rem;
+    line-height: 0.12rem;
+}
+
+.job-save {
+    margin-top: 0.3rem;
+    display: inline-block;
+    font-size: 1rem;
+    line-height: 0.5rem;
+    color: white;
+    text-align: center;
+    vertical-align: top;
+    padding: 0.31rem;
+    border-radius: 0.42rem;
+    border: 0.062rem solid rgb(0, 4, 255);
+}
+
+.job-save i {
+    justify-content: center;
+    color: rgb(172, 155, 155);
+}
+
+.apply-box {
+    margin: 0.31rem;
+    border-radius: 0.43rem;
+    margin-top: 1rem;
+    justify-content: flex-end;
+}
+
+.jd-company-button {
+    border-bottom: 0.062rem solid slategray;
+}
+
+.jd-buttons {
+    margin: 0.12rem;
+    padding: 0.12rem;
+}
+
+.jd-buttons:hover {
+    background-color: rgb(155, 168, 179);
+    border-radius: 0.42rem;
+    color: black;
+}
+
+.jdb-main-outer {
+    position: relative;
+    font-family: 'Source Sans Pro';
+}
+
+.jdb-main {
+    width: 100%;
+}
+
+.basic-details {
+    width: 100%;
+    align-items: flex-start;
+}
+
+#dsbd-skills-box {
+    width: 100%;
+}
+
+.sub-basic-details {
+    width: 50%;
+}
+
+.heading {
+    font-size: large;
+    align-items: flex-start;
+    width: 100%;
+}
+
+.sub-heading,
+.about-this-job,
+.bullet-text-box {
+    font-size: 1rem;
+    align-items: flex-start;
+    width: 100%;
+    margin: 0rem;
+}
+
+.heading,
+.sub-heading {
+    margin-top: 1em;
+    margin-bottom: 0.31rem;
+}
+
+.bullet-text-box {
+    width: 85%;
+}
+
+
+
+.jdb-header {
+    width: 100%;
+    background: white;
+    margin: 0rem;
+    position: -webkit-sticky;
+    position: sticky;
+    top: 4rem;
+    z-index: 2;
+}
+
+.tips {
+    width: 99%;
+    border: 0.062rem solid saddlebrown;
+}
+
+.tips-header {
+    width: 100%;
+}
+
+.jdb-main-outer a {
+    color: red;
+}
+
+.jdb a:hover {
+    color: green;
+}
+
+#courseTitle {
+    margin: 0;
+}
+
+@media screen and (max-width: 1000px) {
+    .jdb-header {
+        top: 1.8rem;
+    }
+
+    .job-name {
+        font-size: 1.2rem;
+    }
+}

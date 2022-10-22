@@ -1,0 +1,23 @@
+<div class="pagination flex-row">
+    <%  if(companiesData.hasPrevPage){ %>
+    <button class="prevPage" data-pageNumber="<%-companiesData.prevPage  %> ">Previous</button>
+    <% } %>
+    <%  if(companiesData.hasNextPage){ %>
+    <button class="nextPage" data-pageNumber="<%-companiesData.nextPage  %> ">Next</button>
+    <% } %>
+    <span>
+        Current
+        <span>
+            <select class="curPage">
+                <% for(let page=1; page <= companiesData.totalPages; page++){ %>
+                <%  if(page === companiesData.page){ %>
+                <option selected="selected" value="<%- page  %>"><%- page  %></option>
+                <% }else{ %>
+                <option value="<%- page  %>"><%- page  %></option>
+                <% } %>
+                <% } %>
+            </select>
+        </span>
+        Pages <%-companiesData.totalPages  %>
+    </span>
+</div>

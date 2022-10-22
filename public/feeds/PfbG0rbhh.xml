@@ -1,0 +1,25 @@
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:content="http://purl.org/rss/1.0/modules/content/"
+    xmlns:atom="http://www.w3.org/2005/Atom"
+    xmlns:media="http://search.yahoo.com/mrss/" version="2.0">
+    <channel>
+        <title>
+            <![CDATA[ offcamuscareer.com ]]>
+        </title>
+        <description>
+            <![CDATA[ offcamuscareer.com ]]>
+        </description>
+        <link>https://www.offcampuscareer.com/sitemapscanner/new</link>
+        <image>
+            <url>https://www.offcampuscareer.com/favicon.ico</url>
+            <title>offcamuscareer.com</title>
+            <link>https://www.offcampuscareer.com/sitemapscanner/new</link>
+        </image>
+        <generator>https://www.offcampuscareer.com</generator>
+        <lastBuildDate>Mon Oct 17 2022 19:45:56 GMT+0000 (Coordinated Universal Time)</lastBuildDate>
+        <atom:link href="https://www.offcampuscareer.com/feeds/PfbG0rbhh.xml" rel="self" type="application/rss+xml"/>
+        <language>
+            <![CDATA[ en ]]>
+        </language>
+</channel>
+</rss>

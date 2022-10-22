@@ -1,0 +1,158 @@
+<form class="flex-column full-width-normal" action="/postCourse" method="post">
+    <h2 class="full-width-normal ">Course Basic Info</h2>
+    <div class="flex-row full-width-normal bottom-border top-border">
+        <div class="half-width-normal">
+            <label for="courseAuthor">Enter Authors (Multiple select allowed)</label>
+        </div>
+        <div class="half-width-normal">
+            <div class="chosen-container">
+                <div class="chosen-choices flex-row flex-wrap" id="courseAuthor">
+                    <% if(dataObject.courseAuthor){ %>
+                    <li class="search-choice" data-key="courseAuthor">
+                        <span><%-dataObject.courseAuthor %></span>
+                        <input class="invisible" type="text" value="<%-dataObject.courseAuthor %>" name="courseAuthor">
+                        <a class="search-choice-close fas fa-times" title="Remove this tag"
+                            data-val="<%-dataObject.courseAuthor %>"></a>
+                    </li>
+                    <% } %>
+                    <li class="search-field">
+                        <input type="text" placeholder="e.g. Mr. Anthony" class="searchInput" autocomplete="off">
+                    </li>
+                </div>
+                <div class="search-suggestions ">
+                    <div class="autocom-box">
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="flex-row full-width-normal bottom-border ">
+        <div class="half-width-normal">
+            <label for="courseKeyWords">Enter KeyWords (Multiple select allowed) </label>
+        </div>
+        <div class="half-width-normal">
+            <div class="chosen-container">
+                <div class="chosen-choices flex-row flex-wrap" id="courseKeyWords">
+                    <% if(dataObject.courseKeyWords){ %>
+                    <li class="search-choice" data-key="courseKeyWords">
+                        <span><%-dataObject.courseKeyWords %></span>
+                        <input class="invisible" type="text" value="<%-dataObject.courseKeyWords %>"
+                            name="courseKeyWords">
+                        <a class="search-choice-close fas fa-times" title="Remove this tag"
+                            data-val="<%-dataObject.courseKeyWords %>"></a>
+                    </li>
+                    <% } %>
+                    <li class="search-field">
+                        <input type="text" placeholder="e.g. C, C++" class="searchInput" autocomplete="off">
+                    </li>
+                </div>
+                <div class="search-suggestions ">
+                    <div class="autocom-box">
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="flex-row full-width-normal bottom-border">
+        <div class="half-width-normal">
+            <label for="courseOrganisation">Enter company name/Government (Select only one) </label>
+        </div>
+        <div class="half-width-normal">
+            <div class="chosen-container">
+                <div class="chosen-choices flex-row flex-wrap" id="courseOrganisation">
+                    <% if(dataObject.courseOrganisation){ %>
+                    <li class="search-choice" data-key="courseOrganisation">
+                        <span><%-dataObject.courseOrganisation %></span>
+                        <input class="invisible" type="text" value="<%-dataObject.courseOrganisation %>"
+                            name="courseOrganisation">
+                        <a class="search-choice-close fas fa-times" title="Remove this tag"
+                            data-val="<%-dataObject.courseOrganisation %>"></a>
+                    </li>
+                    <% } %>
+                    <li class="search-field">
+                        <input type="text" placeholder="e.g. Google, Microsoft" class="searchInput" autocomplete="off">
+                    </li>
+                </div>
+                <div class="search-suggestions ">
+                    <div class="autocom-box">
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="flex-row full-width-normal bottom-border">
+        <div class="half-width-normal">
+            <label for="courseTitle">Enter Course Title </label>
+        </div>
+        <div class="half-width-normal">
+            <div class="chosen-container">
+                <div class="chosen-choices flex-row flex-wrap" id="courseTitle">
+                    <% if(dataObject.courseTitle){ %>
+                    <li class="search-choice" data-key="courseTitle">
+                        <span><%-dataObject.courseTitle %></span>
+                        <input class="invisible" type="text" value="<%-dataObject.courseTitle %>" name="courseTitle">
+                        <a class="search-choice-close fas fa-times" title="Remove this tag"
+                            data-val="<%-dataObject.courseTitle %>"></a>
+                    </li>
+                    <% } %>
+
+                    <li class="search-field">
+                        <input type="text" placeholder="Course Title" class="searchInput" autocomplete="off">
+                    </li>
+                </div>
+                <div class="search-suggestions">
+                    <div class="autocom-box">
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="flex-row full-width-normal bottom-border">
+        <div class="half-width-normal">
+            <label for="courseChapters">Enter Number of chapters </label>
+        </div>
+        <div class="half-width-normal">
+            <input type="number" name="courseChapters" id="courseChapters" value="<%-dataObject.courseChapters %>"
+                placeholder="Course Chapters" class="full-wrap">
+        </div>
+    </div>
+    <div class="flex-row full-width-normal bottom-border">
+        <div class="half-width-normal">
+            <label for="courseInterviews">Enter Number of interviews </label>
+        </div>
+        <div class="half-width-normal">
+            <input type="number" name="courseInterviews" id="courseInterviews" value="<%-dataObject.courseInterviews %>"
+                placeholder="Course Interviews" class="full-wrap">
+        </div>
+    </div>
+    <div class="flex-row full-width-normal bottom-border">
+        <div class="half-width-normal">
+            <label for="courseHours">Enter Number of hours </label>
+        </div>
+        <div class="half-width-normal">
+            <input type="number" name="courseHours" id="courseHours" value="<%-dataObject.courseHours %>"
+                placeholder="Course Hours" class="full-wrap">
+        </div>
+    </div>
+    <div class="flex-row full-width-normal bottom-border">
+        <div class="half-width-normal">
+            <label for="logoUrlVal">Enter Course Image Url <span class="red">*</span> </label>
+        </div>
+        <div class="half-width-normal">
+            <input type="url" name="courseImgUrl" id="logoUrlVal" value="<%-dataObject.courseImgUrl %>"
+                placeholder="course Image Url" class="full-wrap" required>
+            <div class="course-logo flex-row">
+                <img id="loadUrlImg" src="<%-dataObject.courseImgUrl %>" alt="No Url" class="company-logo-img">
+            </div>
+        </div>
+    </div>
+    <%- include("./jobDescription/jdAdvance", {dataObject}) %>
+    <% if(dataObject.courseId){ %>
+    <input class="invisible" type="text" value="<%-dataObject.courseId %>" name="courseId">
+    <% } %>
+    <div class="flex-row">
+        <button type="submit">Submit</button>
+    </div>
+</form>

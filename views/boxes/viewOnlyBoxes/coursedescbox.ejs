@@ -1,0 +1,32 @@
+<div class="jdb flex-column" data-id="<%- dataObject.courseId  %>">
+    <div class="jdb-header flex-column">
+        <div class="job-description">
+            <h2 class="pageTitle" id="courseTitle"><%= dataObject.courseTitle %></h2>
+        </div>
+        <div class="job-description">
+            <span class="job-company"><a class="company-link" href="/profile/<%- dataObject.courseAuthor %>"
+                    title="View profile"><%= dataObject.courseAuthor %></a></span>
+            <% if(dataObject.courseUpdated){ %>
+            <span class="dot">.</span><span class="font-small date"
+                data-updated="<%- dataObject.courseUpdated.toDateString() %>">Updated on
+                [<%= dataObject.courseUpdated.toDateString() %>]</span>
+            <% } %>
+        </div>
+    </div>
+    <div class="jdb-main-outer">
+        <div class="jdb-main flex-column " id="#jobdetail">
+            <div class="job-description descFull control-overflow">
+                <% if(dataObject.jdFull){ %>
+                <p class="about-this-job">
+                    <%- dataObject.jdFull %>
+                </p>
+                <% } %>
+            </div>
+        </div>
+    </div>
+
+    <div class="jdb-footer" id="#companydetail">
+        <div class="job-description apply-box flex-row">
+        </div>
+    </div>
+</div>
