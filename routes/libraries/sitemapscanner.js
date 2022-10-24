@@ -149,7 +149,7 @@ async function finalRssGeneration( sitemapFileName, languageCode, smapUrls, incl
     let allUrls = [];
     let str = "";
     let arr = {
-        sitetitle: "offcamuscareer.com", //Fixed for one site
+        sitetitle: "offcampuscareer.com", //Fixed for one site
         siteurl: "https://www.offcampuscareer.com", //home page url
         generatorurl: 'https://www.offcampuscareer.com/sitemapscanner/new', //domain url
     }
@@ -159,26 +159,37 @@ async function finalRssGeneration( sitemapFileName, languageCode, smapUrls, incl
         allUrls = allUrls.concat( urls );
     }
     // console.log( allUrls.length );
+    let validLength = 0;
     str += headerRss( arr.generatorurl, arr.sitetitle, arr.siteurl, sitemapFileName, languageCode ); //some input from UI
     for ( let i = 0; i < allUrls.length; i++ ) {
-        if(allUrls[ i ])
-            str += addItem( allUrls[ i ].text?allUrls[ i ].text:'', allUrls[ i ].href?allUrls[ i ].href:'', new Date().getTime() + i, arr.generatorurl );
+        if ( allUrls[ i ] ) {
+            validLength++;
+            str += addItem( allUrls[ i ].text ? allUrls[ i ].text : '', allUrls[ i ].href ? allUrls[ i ].href : '', new Date().getTime() + i, arr.generatorurl );
+        }
     }
     str += footerRss();
-    fs.writeFile( `public/feeds/${sitemapFileName}.xml`, str, async function ( err ) {
+    let dir = `public` + mailObj.path;
+    if ( !fs.existsSync( dir ) ) {
+        fs.mkdirSync( dir, {
+            recursive: true
+        } );
+    }
+    fs.writeFile( `${dir + sitemapFileName}.xml`, str, async function ( err ) {
         if ( err ) {
             // console.log( err );
             return 0;
         };
-        //generate mail.
-        // console.log( allUrls.length );
+        // console.log( validLength );
+        mailObj.tableName = 'smaptorss';
+        mailObj.rsslength = validLength;
         if ( included.length )
             mailObj[ "countUrls" ] = "Urls, Includes: " + included.join( ", " ) + " " + mailObj[ "countUrls" ];
-        mailObj[ "countUrls" ] = "Total: " + allUrls.length + " " + mailObj[ "countUrls" ];
+        mailObj[ "countUrls" ] = "Total: " + validLength + " " + mailObj[ "countUrls" ];
         responseMsgRss( mailObj );
-        return allUrls.length;
+        return validLength;
     } );
 }
+
 
 function jobSchedular( min = 60, tableName = 'smaptorss' ) {
     const job = schedule.scheduleJob( `*/${ min } * * * *`, function () {
@@ -197,8 +208,11 @@ function jobSchedular( min = 60, tableName = 'smaptorss' ) {
                     emails: results[ i ].emails ? results[ i ].emails : '',
                     rssid: results[ i ].rssid,
                     userid: results[ i ].userid,
+                    path: results[ i ].directorypath,
+                    urls: results[ i ].urls ? results[ i ].urls.split( ',' ).join( ", " ) : ''
                 }
-                await finalRssGeneration( results[ i ].rssid, results[ i ].language, stringToArray( results[ i ].urls ), stringToArray( results[ i ].included ), stringToArray( results[ i ].excluded ), mailObj );
+                if ( results[ i ].frequency != '0' )
+                    await finalRssGeneration( results[ i ].rssid, results[ i ].language, stringToArray( results[ i ].urls ), stringToArray( results[ i ].included ), stringToArray( results[ i ].excluded ), mailObj );
                 let sqlQueryString = `UPDATE ${ tableName } 
                         SET updated = DATE_ADD( CURRENT_TIMESTAMP(), INTERVAL ${results[i].frequency !='0' ? 1400/results[i].frequency:5256000} MINUTE )
                         WHERE rssid='${results[i].rssid}'

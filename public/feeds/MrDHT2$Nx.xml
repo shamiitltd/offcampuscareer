@@ -4,19 +4,19 @@
     xmlns:media="http://search.yahoo.com/mrss/" version="2.0">
     <channel>
         <title>
-            <![CDATA[ offcamuscareer.com ]]>
+            <![CDATA[ offcampuscareer.com ]]>
         </title>
         <description>
-            <![CDATA[ offcamuscareer.com ]]>
+            <![CDATA[ offcampuscareer.com ]]>
         </description>
         <link>https://www.offcampuscareer.com/sitemapscanner/new</link>
         <image>
             <url>https://www.offcampuscareer.com/favicon.ico</url>
-            <title>offcamuscareer.com</title>
+            <title>offcampuscareer.com</title>
             <link>https://www.offcampuscareer.com/sitemapscanner/new</link>
         </image>
         <generator>https://www.offcampuscareer.com</generator>
-        <lastBuildDate>Sat Oct 22 2022 12:01:33 GMT+0000 (Coordinated Universal Time)</lastBuildDate>
+        <lastBuildDate>Sun Oct 23 2022 14:34:01 GMT+0000 (Coordinated Universal Time)</lastBuildDate>
         <atom:link href="https://www.offcampuscareer.com/feeds/MrDHT2$Nx.xml" rel="self" type="application/rss+xml"/>
         <language>
             <![CDATA[ en ]]>

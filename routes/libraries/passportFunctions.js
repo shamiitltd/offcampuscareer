@@ -120,12 +120,14 @@ async function updateUserInfo( accessToken, refreshToken, profile, done ) {
             userData.name = profile.displayName;
             userData.id = profile.id;
             userData.provider = profile.provider;
+            userData.imgurl = profile.photos ? profile.photos[ 0 ].value : '/images/logo.jpeg'
             let usersQueryString = `INSERT INTO 
-                        usersBasicInfo( id, name, email, password, provider )
+                        usersBasicInfo( id, name, email, password, imgurl, provider )
                         VALUES( '${userData.id }',
                          "${ userData.name }",
                           "${ userData.email }", 
                           "${ userData.password}",
+                          "${ userData.imgurl}",
                           "${userData.provider}" )
                         `;
             await usersDB.query( usersQueryString, ( err, results, fields ) => {

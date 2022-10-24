@@ -8,24 +8,21 @@ async function loadForm( path ) {
         let arr;
         if ( path === 'searchform' || path === 'searchformnormal' ) {
             arr = [
-                "/js/libraries/popover.js",
-                "/js/formsManagement/searchform.js",
                 "/js/formsManagement/searchbar_in_popups.js",
             ];
         } else if ( path === 'sitemapscannerbox' ) {
             arr = [
-                "/js/formsManagement/searchform.js",
                 "/js/formsManagement/newOrEditPostForm.js",
             ];
-            await document.querySelector( '.spinner' ).classList.add( 'invisible' );
+            document.querySelector( '.spinner' ).classList.add( 'invisible' );
         } else {
             arr = [
-                "/js/formsManagement/searchform.js",
                 "/js/formsManagement/newOrEditPostForm.js",
                 "/ckeditor/ckeditor.js",
             ];
-            await document.querySelector( '.spinner' ).classList.add( 'invisible' );
-        };
+            document.querySelector( '.spinner' ).classList.add( 'invisible' );
+        }
+        popupjsload();
         loadJsFileFromArray( arr );
     }
 }
@@ -34,10 +31,10 @@ async function courseRecommendation( path ) {
     let queryVal = window.location.search;
     // console.log(window.location);
     let res = await axios.get( `/${path}/${queryVal}` );
-    let mainContent = await document.getElementById( 'mainContent' );
+    let mainContent = document.getElementById( 'mainContent' );
     if ( mainContent )
-        await mainContent.insertAdjacentHTML( 'beforeend', res.data );
-    await document.querySelector( '.spinner' ).classList.add( 'invisible' );
+        mainContent.insertAdjacentHTML( 'beforeend', res.data );
+    document.querySelector( '.spinner' ).classList.add( 'invisible' );
     let categories = {
         homeRecommendation: [
             'hrFreshJobs',
@@ -59,7 +56,7 @@ async function courseRecommendation( path ) {
             'courseBySearch'
         ]
     };
-    let contentCardBox = await document.querySelectorAll( '.cards' );
+    let contentCardBox = document.querySelectorAll( '.cards' );
     for ( let i = 0; i < contentCardBox.length && i < categories[ path ].length; i++ ) {
         apiLoadderFun( contentCardBox, categories, path, queryVal, i );
     }
@@ -67,6 +64,7 @@ async function courseRecommendation( path ) {
         "/js/generalViewManagement/metaDescInserter.js",
         "/js/generalViewManagement/staticBoxLoader.js"
     ];
+    popupjsload();
     loadJsFileFromArray( arr );
 }
 
@@ -108,7 +106,7 @@ async function apiLoadderFun( contentCardBox, categories, path, queryVal, i ) {
 
 async function moreUrlInsertion( path ) {
     if ( path === 'homeRecommendation' ) {
-        const moreJobs = await document.querySelectorAll( ".moreJobs" );
+        const moreJobs = document.querySelectorAll( ".moreJobs" );
         if ( moreJobs.length ) {
             let queryObject = updateQueryObject();
             if ( !queryObject[ 'minexp' ] || queryObject[ 'minexp' ] < 2 ) {
@@ -127,6 +125,8 @@ async function moreUrlInsertion( path ) {
                 moreJobs[ 0 ].href = '/jobs/' + queryVal;
         }
 
+    } else if ( path === 'courseRecommendation' ) {
+
     }
 }
 
@@ -135,18 +135,18 @@ async function loadFilteredData( path, key = '' ) {
     // console.log( window.location );
     let res;
     if ( key )
-        res = await axios.get( `/${ path }/${ key }` );
+        res = await axios.get( `/${ path }/${ key }/${ queryVal }` );
     else
         res = await axios.get( `/${ path }/${ queryVal }` );
-    let mainContent = await document.getElementById( 'mainContent' );
+    let mainContent = document.getElementById( 'mainContent' );
     if ( mainContent )
-        await mainContent.insertAdjacentHTML( 'beforeend', res.data );
-    let pageTitle = await document.querySelector( '.pageTitle' );
+        mainContent.insertAdjacentHTML( 'beforeend', res.data );
+    let pageTitle = document.querySelector( '.pageTitle' );
     if ( key && pageTitle ) {
         pageTitle = pageTitle.textContent;
         if ( pageTitle ) {
             let newQueryStr = await pathTillKey( key ) + '/' + getDashedStr( pageTitle );
-            await window.history.pushState( {
+            window.history.pushState( {
                 path: newQueryStr
             }, '', newQueryStr );
         } else {
@@ -154,14 +154,16 @@ async function loadFilteredData( path, key = '' ) {
             mainContent.innerHTML = res.data;
         }
     }
-    let spinners = await document.querySelector( '.spinner' );
+    let spinners = document.querySelector( '.spinner' );
     if ( spinners ) {
         spinners.classList.add( 'invisible' );
     }
     let arr = [
+        "/js/boxFunctManagement/signin.js",
         "/js/boxFunctManagement/jobBoxClick.js",
         "/js/generalViewManagement/metaDescInserter.js"
     ];
+    popupjsload();
     loadJsFileFromArray( arr );
 }
 
@@ -182,6 +184,7 @@ async function loadEditorial( path ) {
         "/js/generalViewManagement/metaDescInserter.js"
     ];
     loadJsFileFromArray( arr );
+    popupjsload();
 }
 
 function loadJsFileFromArray( arr ) {
@@ -213,6 +216,7 @@ function removeSpecialChar( str ) {
 function getDashedStr( str ) {
     str = removeSpecialChar( str );
     str = filteStringSpace( str );
+    str = str.trim();
     let str2 = '';
     for ( let i = 0; i < str.length; i++ ) {
         if ( str[ i ] === ' ' ) {
@@ -306,10 +310,10 @@ function updateQueryObject( key = '', value = '' ) {
 async function loadSimplePage( path ) {
     const queryVal = window.location.search;
     let res = await axios.get( `/${path}/${queryVal}` );
-    let mainContent = await document.getElementById( 'mainContent' );
+    let mainContent = document.getElementById( 'mainContent' );
     if ( mainContent )
         mainContent.insertAdjacentHTML( 'afterbegin', res.data );
-    await document.querySelector( '.spinner' ).classList.add( 'invisible' );
+    document.querySelector( '.spinner' ).classList.add( 'invisible' );
     if ( path === 'signinbox' || path === 'authresetpass' ) {
         let arr = [
             "/js/boxFunctManagement/signin.js",
@@ -317,17 +321,26 @@ async function loadSimplePage( path ) {
         ];
         loadJsFileFromArray( arr );
     }
-
+    popupjsload();
 }
 
 function pageLoader( generalPage, descPage ) {
     let pathkey = getPathBlock( 2 );
-    if ( pathkey )
+    if ( pathkey ) {
         loadFilteredData( descPage, pathkey );
-    else {
+        popupjsload();
+    } else {
         loadForm( 'searchform' );
         loadFilteredData( generalPage );
     }
+}
+
+function popupjsload() {
+    let arr = [
+        "/js/libraries/popover.js",
+        "/js/formsManagement/searchform.js",
+    ];
+    loadJsFileFromArray( arr );
 }
 
 if ( window.location.pathname === '/' ) {
@@ -365,7 +378,7 @@ if ( window.location.pathname === '/' ) {
     loadForm( 'searchformnormal' );
     courseRecommendation( 'courseRecommendation' );
 } else if ( stringMatchWithPath( '/courses/search' ) ) {
-    loadForm( 'searchform' );
+    loadForm( 'searchformnormal' );
     courseRecommendation( 'coursessearch' );
 } else if ( stringMatchWithPath( '/sitemapscanner/new' ) || stringMatchWithPath( '/sitemapscanner/edit' ) ) {
     loadForm( 'sitemapscannerbox' );
@@ -377,6 +390,8 @@ if ( window.location.pathname === '/' ) {
     loadFilteredData( 'viewcoursesdata', getPathBlock( 2 ) );
 } else if ( keyPathMatch( '/courses/organisation/' ) ) {
     loadEditorial( 'accessEditorial' );
+} else if ( keyPathMatch( '/profile' ) ) {
+    loadFilteredData( 'profileView', getPathBlock( 2 ) );
 } else if ( keyPathMatch( '/privacypolicy' ) ) {
     loadSimplePage( 'privpolicy' );
 } else {

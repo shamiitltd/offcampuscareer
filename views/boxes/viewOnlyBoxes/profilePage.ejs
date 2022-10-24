@@ -1,0 +1,117 @@
+<section class="profile flex-column">
+    <div class="flex-column">
+        <img class="background_img" src="https://cdn.pixabay.com/photo/2018/08/21/23/29/forest-3622519_1280.jpg"
+            alt="Background Image" />
+        <img class="user_img" src="<%-dataObject.imgurl %>" alt="user image" />
+        <h1><%-dataObject.username %></h1>
+        <div class="flex-row full-width-normal flex-end"><a href="/profile/<%-dataObject.uid %>/edit" target="_blank"
+                rel="noopener noreferrer"><button>Edit
+                    Profile</button></a></div>
+        <span id="basicBlock" class="invisible" data-count="<%-dataObject.totalposts?dataObject.totalposts:0 %>"></span>
+        <%
+            let queryString={
+                profile:true,
+                postPath:`/profile/${dataObject.uid}/`,
+                searchAll:dataObject.searchAll
+            };
+        %>
+        <%- include("../searchForms/searchformNormal", {queryString}) %>
+
+        <div class="flex-row-sb full-width-normal changebar">
+            <span><a href="/sitemapscanner/new" target="_blank"
+                    rel="noopener noreferrer"><button>Add</button></a>&nbsp;&nbsp;Start new
+                Scanner</span>
+
+            <span>
+                <%- include("./paginationbox", {companiesData}) %>
+            </span>
+        </div>
+        <div class="loading-spinner invisible">
+            <div class="sk-chase">
+                <div class="sk-chase-dot"></div>
+                <div class="sk-chase-dot"></div>
+                <div class="sk-chase-dot"></div>
+                <div class="sk-chase-dot"></div>
+                <div class="sk-chase-dot"></div>
+                <div class="sk-chase-dot"></div>
+            </div>
+        </div>
+        <div class="table-container" role="table" aria-label="Destinations">
+            <div class="flex-table header" role="rowgroup">
+                <div class="flex-row-imp first" role="columnheader"><strong>Serial No.</strong></div>
+                <div class="flex-row-imp" role="columnheader"><strong>Rss Id</strong></div>
+                <div class="flex-row-imp" role="columnheader"><strong>Email Ids</strong></div>
+                <div class="flex-row-imp" role="columnheader">Urls</div>
+                <div class="flex-row-imp" role="columnheader">Included/Excluded</div>
+                <div class="flex-row-imp" role="columnheader">Remarks</div>
+                <div class="flex-row-imp" role="columnheader">Language</div>
+                <div class="flex-row-imp" role="columnheader">
+                    <span class="half-width-normal">#Freq/Day</span>
+                    <span class="half-width-normal">#Rss Length</span>
+                </div>
+                <div class="flex-row-imp" role="columnheader">ScanType</div>
+                <div class="flex-row-imp" role="columnheader">Next Update</div>
+                <div class="flex-row-imp" role="columnheader">Edit</div>
+                <div class="flex-row-imp" role="columnheader">Delete</div>
+            </div>
+            <% dataObject.table.forEach(function(tablerow, i){ %>
+            <div class="flex-table row" role="rowgroup"
+                id="row<%-i+1 + (companiesData.postperpage*(companiesData.page-1)) %>">
+                <div class="flex-row-imp first" role="cell">
+                    <strong><%-i+1 + (companiesData.postperpage*(companiesData.page-1)) %></strong></div>
+                <div class="flex-row-imp" role="cell">
+                    <a target="_blank" rel="noopener noreferrer"
+                        href="<%-tablerow.path %><%-tablerow.rssid %>.xml"><strong><%-tablerow.path %><%-tablerow.rssid %>.xml</strong></a>
+                </div>
+                <div class="flex-row-imp" role="cell"><strong><%-tablerow.emails %></strong></div>
+
+                <div class="flex-row-imp " role="cell">
+                    <div class="column full-width-normal">
+                        <% tablerow.urls.forEach(function(url){ %>
+                        <a href="<%-url %>" target="_blank" class="ellipse bottom-border"
+                            rel="noopener noreferrer"><%-url %></a>
+                        <br>
+                        <% }); %>
+                    </div>
+                </div>
+                <div class="flex-row-imp" role="cell">
+                    <div class="column full-width-normal">
+                        <span class="bottom-border full-width-normal">Included: <%-tablerow.included %></span>
+                        <span class="full-width-normal">Excluded: <%-tablerow.excluded %></span>
+                    </div>
+                </div>
+                <div class="flex-row-imp" role="cell"><%-tablerow.remarks %></div>
+                <div class="flex-row-imp" role="cell">
+                    <% languages.name.forEach(function(language, j){ %>
+                    <% if(languages.code[j] === tablerow.language){ %>
+                    <%-language %>
+                    <% } %>
+                    <% }); %>
+                </div>
+                <div class="flex-row-imp full-width-normal" role="cell">
+                    <span class="half-width-normal">Freq: <%-tablerow.frequency %></span>
+                    <span class="half-width-normal">RssLen: <%-tablerow.rsslength %></span>
+                </div>
+                <div class="flex-row-imp" role="cell"><%-tablerow.ndtype == 'ns'? 'Normal Scan':'Deep Scan'%></div>
+                <div class="flex-row-imp" role="cell"><%-tablerow.nextUpdate %></div>
+                <div class="flex-row-imp" role="cell"><a target="_blank" rel="noopener noreferrer"
+                        href="/sitemapscanner/new?id=<%-tablerow.rssid %>"><button>Edit</button></a>
+                </div>
+                <div class="flex-row-imp" role="cell"><button class="deleteRss"
+                        data-id="row<%-i+1 + (companiesData.postperpage*(companiesData.page-1))%>"
+                        data-rssid="<%-tablerow.rssid %>">Delete</button>
+                </div>
+            </div>
+            <% }); %>
+        </div>
+        <div class="flex-row-sb full-width-normal changebar">
+            <span><a href="/sitemapscanner/new" target="_blank"
+                    rel="noopener noreferrer"><button>Add</button></a>&nbsp;&nbsp;Start new
+                Scanner</span>
+
+            <span>
+                <%- include("./paginationbox", {companiesData}) %>
+            </span>
+        </div>
+    </div>
+</section>

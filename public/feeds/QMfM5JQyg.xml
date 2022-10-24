@@ -4,19 +4,19 @@
     xmlns:media="http://search.yahoo.com/mrss/" version="2.0">
     <channel>
         <title>
-            <![CDATA[ offcamuscareer.com ]]>
+            <![CDATA[ offcampuscareer.com ]]>
         </title>
         <description>
-            <![CDATA[ offcamuscareer.com ]]>
+            <![CDATA[ offcampuscareer.com ]]>
         </description>
         <link>https://www.offcampuscareer.com/sitemapscanner/new</link>
         <image>
             <url>https://www.offcampuscareer.com/favicon.ico</url>
-            <title>offcamuscareer.com</title>
+            <title>offcampuscareer.com</title>
             <link>https://www.offcampuscareer.com/sitemapscanner/new</link>
         </image>
         <generator>https://www.offcampuscareer.com</generator>
-        <lastBuildDate>Sat Oct 22 2022 12:31:55 GMT+0000 (Coordinated Universal Time)</lastBuildDate>
+        <lastBuildDate>Sun Oct 23 2022 14:21:04 GMT+0000 (Coordinated Universal Time)</lastBuildDate>
         <atom:link href="https://www.offcampuscareer.com/feeds/QMfM5JQyg.xml" rel="self" type="application/rss+xml"/>
         <language>
             <![CDATA[ en ]]>
@@ -27,7 +27,7 @@
                 <![CDATA[ category ]]>
             </title>
             <link>https://thewire.in/tag/movie-review</link>
-            <guid isPermaLink="false">1666441915136</guid>
+            <guid isPermaLink="false">1666534864243</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -37,7 +37,7 @@
                 <![CDATA[ Home ]]>
             </title>
             <link>https://thewire.in/</link>
-            <guid isPermaLink="false">1666441915137</guid>
+            <guid isPermaLink="false">1666534864244</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -47,7 +47,7 @@
                 <![CDATA[ Hindi ]]>
             </title>
             <link>http://thewirehindi.com/</link>
-            <guid isPermaLink="false">1666441915138</guid>
+            <guid isPermaLink="false">1666534864245</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -57,7 +57,7 @@
                 <![CDATA[ Marathi ]]>
             </title>
             <link>https://marathi.thewire.in/</link>
-            <guid isPermaLink="false">1666441915139</guid>
+            <guid isPermaLink="false">1666534864246</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -67,7 +67,7 @@
                 <![CDATA[ Urdu ]]>
             </title>
             <link>http://thewireurdu.com/</link>
-            <guid isPermaLink="false">1666441915140</guid>
+            <guid isPermaLink="false">1666534864247</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -77,7 +77,7 @@
                 <![CDATA[ About Us ]]>
             </title>
             <link>https://thewire.in/about-us</link>
-            <guid isPermaLink="false">1666441915141</guid>
+            <guid isPermaLink="false">1666534864248</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -87,7 +87,7 @@
                 <![CDATA[ Become A Supporter ]]>
             </title>
             <link>https://support.thewire.in/</link>
-            <guid isPermaLink="false">1666441915142</guid>
+            <guid isPermaLink="false">1666534864249</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -97,7 +97,7 @@
                 <![CDATA[ Login ]]>
             </title>
             <link>https://thewire.in#</link>
-            <guid isPermaLink="false">1666441915143</guid>
+            <guid isPermaLink="false">1666534864250</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -107,7 +107,7 @@
                 <![CDATA[ opinion ]]>
             </title>
             <link>https://thewire.in/opinion/all</link>
-            <guid isPermaLink="false">1666441915144</guid>
+            <guid isPermaLink="false">1666534864251</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -117,7 +117,7 @@
                 <![CDATA[ Video ]]>
             </title>
             <link>https://thewire.in/videos/all</link>
-            <guid isPermaLink="false">1666441915145</guid>
+            <guid isPermaLink="false">1666534864252</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -127,7 +127,7 @@
                 <![CDATA[ Terms & Conditions ]]>
             </title>
             <link>https://thewire.in/terms</link>
-            <guid isPermaLink="false">1666441915146</guid>
+            <guid isPermaLink="false">1666534864253</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -137,7 +137,7 @@
                 <![CDATA[ Privacy Policy ]]>
             </title>
             <link>https://thewire.in/privacy-policy</link>
-            <guid isPermaLink="false">1666441915147</guid>
+            <guid isPermaLink="false">1666534864254</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -147,7 +147,7 @@
                 <![CDATA[  ]]>
             </title>
             <link>https://facebook.com/thewire.in</link>
-            <guid isPermaLink="false">1666441915148</guid>
+            <guid isPermaLink="false">1666534864255</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -157,7 +157,7 @@
                 <![CDATA[  ]]>
             </title>
             <link>https://twitter.com/thewire_in?lang=en</link>
-            <guid isPermaLink="false">1666441915149</guid>
+            <guid isPermaLink="false">1666534864256</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -167,7 +167,7 @@
                 <![CDATA[  ]]>
             </title>
             <link>https://www.instagram.com/thewirein/</link>
-            <guid isPermaLink="false">1666441915150</guid>
+            <guid isPermaLink="false">1666534864257</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -177,7 +177,7 @@
                 <![CDATA[  ]]>
             </title>
             <link>https://www.youtube.com/c/thewirenews?sub_confirmation=1</link>
-            <guid isPermaLink="false">1666441915151</guid>
+            <guid isPermaLink="false">1666534864258</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -187,7 +187,7 @@
                 <![CDATA[ Economy ]]>
             </title>
             <link>https://thewire.in/category/economy/all</link>
-            <guid isPermaLink="false">1666441915152</guid>
+            <guid isPermaLink="false">1666534864259</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -197,7 +197,7 @@
                 <![CDATA[ External Affairs ]]>
             </title>
             <link>https://thewire.in/category/external-affairs/all</link>
-            <guid isPermaLink="false">1666441915153</guid>
+            <guid isPermaLink="false">1666534864260</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -207,7 +207,7 @@
                 <![CDATA[ Law ]]>
             </title>
             <link>https://thewire.in/category/law/all</link>
-            <guid isPermaLink="false">1666441915154</guid>
+            <guid isPermaLink="false">1666534864261</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -217,7 +217,7 @@
                 <![CDATA[ Science ]]>
             </title>
             <link>https://thewire.in/category/science/all</link>
-            <guid isPermaLink="false">1666441915155</guid>
+            <guid isPermaLink="false">1666534864262</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -227,7 +227,7 @@
                 <![CDATA[ Society ]]>
             </title>
             <link>https://thewire.in/category/society/all</link>
-            <guid isPermaLink="false">1666441915156</guid>
+            <guid isPermaLink="false">1666534864263</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -237,7 +237,7 @@
                 <![CDATA[ Culture ]]>
             </title>
             <link>https://thewire.in/category/culture/all</link>
-            <guid isPermaLink="false">1666441915157</guid>
+            <guid isPermaLink="false">1666534864264</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -247,7 +247,7 @@
                 <![CDATA[ 'Everything Everywhere All At Once': More Than an Immigrant Story, a Leap Across Many Worlds ]]>
             </title>
             <link>https://thewire.in/film/everything-everywhere-all-at-once-more-than-an-immigrant-story-a-leap-across-many-worlds</link>
-            <guid isPermaLink="false">1666441915158</guid>
+            <guid isPermaLink="false">1666534864265</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -257,7 +257,7 @@
                 <![CDATA[ Film ]]>
             </title>
             <link>https://thewire.in/category/film/all</link>
-            <guid isPermaLink="false">1666441915159</guid>
+            <guid isPermaLink="false">1666534864266</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -267,7 +267,7 @@
                 <![CDATA[ Tanul Thakur ]]>
             </title>
             <link>https://thewire.in/author/tthakur</link>
-            <guid isPermaLink="false">1666441915160</guid>
+            <guid isPermaLink="false">1666534864267</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -277,7 +277,7 @@
                 <![CDATA[ Laal Singh Chaddha: A ‘Phipty-Phipty’ Approach to Crucial – and Controversial – Points in History ]]>
             </title>
             <link>https://thewire.in/film/laal-singh-chaddha-a-phipty-phipty-approach-to-crucial-and-controversial-points-in-history</link>
-            <guid isPermaLink="false">1666441915161</guid>
+            <guid isPermaLink="false">1666534864268</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -287,7 +287,7 @@
                 <![CDATA[ Baz Lurhmann’s 'Elvis' Is Many Different Films Clamouring for Space And Attention ]]>
             </title>
             <link>https://thewire.in/film/baz-lurhmann-elvis-tom-hanks-austin-butler-movie-review</link>
-            <guid isPermaLink="false">1666441915162</guid>
+            <guid isPermaLink="false">1666534864269</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -297,7 +297,7 @@
                 <![CDATA[ Shaunak Sen's Documentary 'All That Breathes' Wins L'OEil D'Or at Cannes ]]>
             </title>
             <link>https://thewire.in/film/shaunak-sens-documentary-all-that-breathes-wins-loeil-dor-at-cannes</link>
-            <guid isPermaLink="false">1666441915163</guid>
+            <guid isPermaLink="false">1666534864270</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -307,7 +307,7 @@
                 <![CDATA[ The Wire Staff ]]>
             </title>
             <link>https://thewire.in/author/thewirestaff</link>
-            <guid isPermaLink="false">1666441915164</guid>
+            <guid isPermaLink="false">1666534864271</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -317,7 +317,17 @@
                 <![CDATA[ Review: 'Anek' Is Missing the Micro Moments That Make a Convincing Movie ]]>
             </title>
             <link>https://thewire.in/film/movie-review-anek</link>
-            <guid isPermaLink="false">1666441915165</guid>
+            <guid isPermaLink="false">1666534864272</guid>
+            <dc:creator>
+                <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
+            </dc:creator>
+        </item>
+        <item>
+            <title>
+                <![CDATA[ Badri Raina ]]>
+            </title>
+            <link>https://thewire.in/author/badri-raina</link>
+            <guid isPermaLink="false">1666534864273</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -327,7 +337,7 @@
                 <![CDATA[ Harish Khare ]]>
             </title>
             <link>https://thewire.in/author/hkhare</link>
-            <guid isPermaLink="false">1666441915166</guid>
+            <guid isPermaLink="false">1666534864274</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -337,7 +347,7 @@
                 <![CDATA[ Backstory: Getting to the Heart of the Meta ]]>
             </title>
             <link>https://thewire.in/media/backstory-getting-to-the-heart-of-the-meta</link>
-            <guid isPermaLink="false">1666441915167</guid>
+            <guid isPermaLink="false">1666534864275</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -347,7 +357,7 @@
                 <![CDATA[ Media ]]>
             </title>
             <link>https://thewire.in/category/media/all</link>
-            <guid isPermaLink="false">1666441915168</guid>
+            <guid isPermaLink="false">1666534864276</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -357,17 +367,7 @@
                 <![CDATA[ Pamela Philipose ]]>
             </title>
             <link>https://thewire.in/author/pamela-philipose</link>
-            <guid isPermaLink="false">1666441915169</guid>
-            <dc:creator>
-                <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
-            </dc:creator>
-        </item>
-        <item>
-            <title>
-                <![CDATA[ S. Vinod ]]>
-            </title>
-            <link>https://thewire.in/author/s-vinod</link>
-            <guid isPermaLink="false">1666441915170</guid>
+            <guid isPermaLink="false">1666534864277</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -377,7 +377,7 @@
                 <![CDATA[ Refund Policy ]]>
             </title>
             <link>https://thewire.in/refund-policy</link>
-            <guid isPermaLink="false">1666441915171</guid>
+            <guid isPermaLink="false">1666534864278</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>

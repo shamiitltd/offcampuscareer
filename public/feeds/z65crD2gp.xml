@@ -4,19 +4,19 @@
     xmlns:media="http://search.yahoo.com/mrss/" version="2.0">
     <channel>
         <title>
-            <![CDATA[ offcamuscareer.com ]]>
+            <![CDATA[ offcampuscareer.com ]]>
         </title>
         <description>
-            <![CDATA[ offcamuscareer.com ]]>
+            <![CDATA[ offcampuscareer.com ]]>
         </description>
         <link>https://www.offcampuscareer.com/sitemapscanner/new</link>
         <image>
             <url>https://www.offcampuscareer.com/favicon.ico</url>
-            <title>offcamuscareer.com</title>
+            <title>offcampuscareer.com</title>
             <link>https://www.offcampuscareer.com/sitemapscanner/new</link>
         </image>
         <generator>https://www.offcampuscareer.com</generator>
-        <lastBuildDate>Sat Oct 22 2022 11:32:01 GMT+0000 (Coordinated Universal Time)</lastBuildDate>
+        <lastBuildDate>Sun Oct 23 2022 12:30:43 GMT+0000 (Coordinated Universal Time)</lastBuildDate>
         <atom:link href="https://www.offcampuscareer.com/feeds/z65crD2gp.xml" rel="self" type="application/rss+xml"/>
         <language>
             <![CDATA[ en ]]>
@@ -27,7 +27,27 @@
                 <![CDATA[ Politics ]]>
             </title>
             <link>https://news.sky.com/politics</link>
-            <guid isPermaLink="false">1666438321830</guid>
+            <guid isPermaLink="false">1666528243274</guid>
+            <dc:creator>
+                <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
+            </dc:creator>
+        </item>
+        <item>
+            <title>
+                <![CDATA[ MEP blames Brexit for political problems ]]>
+            </title>
+            <link>https://news.sky.com/video/guy-verhofstadt-says-brexit-is-to-blame-for-the-state-of-british-politics-not-liz-truss-12727356</link>
+            <guid isPermaLink="false">1666528243275</guid>
+            <dc:creator>
+                <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
+            </dc:creator>
+        </item>
+        <item>
+            <title>
+                <![CDATA[ 'If he loses the war, it will be the end for him': Exiled diplomat claims Putin would sacrifice 20 million soldiers ]]>
+            </title>
+            <link>https://news.sky.com/story/ukraine-war-vladimir-putin-would-sacrifice-20-million-soldiers-to-win-and-ensure-political-survival-exiled-diplomat-says-12726372</link>
+            <guid isPermaLink="false">1666528243276</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -37,17 +57,7 @@
                 <![CDATA[ Politics ]]>
             </title>
             <link>https://www.cnbc.com/politics/</link>
-            <guid isPermaLink="false">1666438321831</guid>
-            <dc:creator>
-                <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
-            </dc:creator>
-        </item>
-        <item>
-            <title>
-                <![CDATA[ EU leaders give political backing to gas price cap ]]>
-            </title>
-            <link>https://www.cnbc.com/2022/10/21/eu-leaders-give-political-backing-to-gas-price-cap.html</link>
-            <guid isPermaLink="false">1666438321832</guid>
+            <guid isPermaLink="false">1666528243277</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -57,7 +67,17 @@
                 <![CDATA[ Europe Politics ]]>
             </title>
             <link>https://www.cnbc.com/europe-politics/</link>
-            <guid isPermaLink="false">1666438321833</guid>
+            <guid isPermaLink="false">1666528243278</guid>
+            <dc:creator>
+                <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
+            </dc:creator>
+        </item>
+        <item>
+            <title>
+                <![CDATA[ EU leaders give political backing to gas price cap ]]>
+            </title>
+            <link>https://www.cnbc.com/2022/10/21/eu-leaders-give-political-backing-to-gas-price-cap.html</link>
+            <guid isPermaLink="false">1666528243279</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -67,7 +87,7 @@
                 <![CDATA[ Embattled UK PM Liz Truss holds crunch talks as political crisis escalates ]]>
             </title>
             <link>https://www.cnbc.com/2022/10/20/uk-pm-liz-truss-locked-in-downing-street-talks-as-political-crisis-escalates.html</link>
-            <guid isPermaLink="false">1666438321834</guid>
+            <guid isPermaLink="false">1666528243280</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -77,7 +97,7 @@
                 <![CDATA[ The chaotic 24 hours that rocked Britain's political scene and left the UK leaderless ]]>
             </title>
             <link>https://www.cnbc.com/2022/10/20/britains-political-scene-is-in-chaos-heres-what-you-need-to-know.html</link>
-            <guid isPermaLink="false">1666438321835</guid>
+            <guid isPermaLink="false">1666528243281</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -87,7 +107,7 @@
                 <![CDATA[ Difficult to imagine what a Tory 'unity candidate' might look like: Think tank ]]>
             </title>
             <link>https://www.cnbc.com/video/2022/10/20/think-tank-discusses-uk-politics-and-the-conservative-party.html</link>
-            <guid isPermaLink="false">1666438321836</guid>
+            <guid isPermaLink="false">1666528243282</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -97,7 +117,7 @@
                 <![CDATA[ Load More ]]>
             </title>
             <link>https://www.cnbc.com/europe-politics/?page=2</link>
-            <guid isPermaLink="false">1666438321837</guid>
+            <guid isPermaLink="false">1666528243283</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -107,7 +127,7 @@
                 <![CDATA[ UK Politics ]]>
             </title>
             <link>https://www.independent.co.uk/news/uk/politics</link>
-            <guid isPermaLink="false">1666438321838</guid>
+            <guid isPermaLink="false">1666528243284</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -117,97 +137,17 @@
                 <![CDATA[ Politics explained ]]>
             </title>
             <link>https://www.independent.co.uk/independentpremium/politics-explained</link>
-            <guid isPermaLink="false">1666438321839</guid>
+            <guid isPermaLink="false">1666528243285</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
         </item>
         <item>
             <title>
-                <![CDATA[ Boris Johnson lands in UK as Rishi Sunak leads race to No 10 – live ]]>
+                <![CDATA[ Rishi Sunak declares he is standing to replace Liz Truss as PM ]]>
             </title>
-            <link>https://www.independent.co.uk/news/uk/politics/boris-johnson-truss-sunak-news-b2208323.html</link>
-            <guid isPermaLink="false">1666438321840</guid>
-            <dc:creator>
-                <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
-            </dc:creator>
-        </item>
-        <item>
-            <title>
-                <![CDATA[ Johnson arrives back in UK for expected tilt at return to No 10 ]]>
-            </title>
-            <link>https://www.independent.co.uk/news/uk/politics/boris-johnson-tory-leadership-sunak-b2208308.html</link>
-            <guid isPermaLink="false">1666438321841</guid>
-            <dc:creator>
-                <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
-            </dc:creator>
-        </item>
-        <item>
-            <title>
-                <![CDATA[ Why was Boris Johnson on holiday? ]]>
-            </title>
-            <link>https://www.independent.co.uk/news/uk/politics/why-boris-johnson-on-holiday-b2208326.html</link>
-            <guid isPermaLink="false">1666438321842</guid>
-            <dc:creator>
-                <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
-            </dc:creator>
-        </item>
-        <item>
-            <title>
-                <![CDATA[ Priti Patel throws weight behind Boris Johnson bid for return to No 10 ]]>
-            </title>
-            <link>https://www.independent.co.uk/news/uk/politics/priti-patel-boris-johnson-conservatives-b2208324.html</link>
-            <guid isPermaLink="false">1666438321843</guid>
-            <dc:creator>
-                <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
-            </dc:creator>
-        </item>
-        <item>
-            <title>
-                <![CDATA[ ‘Get Boris back’: True blue Bakewell weighs up a Johnson return ]]>
-            </title>
-            <link>https://www.independent.co.uk/news/uk/politics/new-prime-minister-bakewell-boris-johnson-b2207898.html</link>
-            <guid isPermaLink="false">1666438321844</guid>
-            <dc:creator>
-                <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
-            </dc:creator>
-        </item>
-        <item>
-            <title>
-                <![CDATA[ Johnson return ‘would plunge Tories into Partygate Groundhog Day’ ]]>
-            </title>
-            <link>https://www.independent.co.uk/news/uk/politics/boris-johnson-sunak-raab-conservatives-b2208286.html</link>
-            <guid isPermaLink="false">1666438321845</guid>
-            <dc:creator>
-                <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
-            </dc:creator>
-        </item>
-        <item>
-            <title>
-                <![CDATA[ India trade deal ‘would open UK to goods produced by child labour’ ]]>
-            </title>
-            <link>https://www.independent.co.uk/news/uk/politics/india-uk-trade-deal-child-labour-b2205182.html</link>
-            <guid isPermaLink="false">1666438321846</guid>
-            <dc:creator>
-                <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
-            </dc:creator>
-        </item>
-        <item>
-            <title>
-                <![CDATA[ Sunak ‘first Tory leadership contender to get support of 100 MPs’ ]]>
-            </title>
-            <link>https://www.independent.co.uk/news/uk/politics/rishi-sunak-tory-leadership-nominations-b2208170.html</link>
-            <guid isPermaLink="false">1666438321847</guid>
-            <dc:creator>
-                <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
-            </dc:creator>
-        </item>
-        <item>
-            <title>
-                <![CDATA[ Who is backing whom in Tory leadership race? ]]>
-            </title>
-            <link>https://www.independent.co.uk/news/uk/politics/tory-leadership-race-prime-minister-rishi-sunak-b2207853.html</link>
-            <guid isPermaLink="false">1666438321848</guid>
+            <link>https://www.independent.co.uk/news/uk/politics/rishi-sunak-tory-leadership-pm-b2208669.html</link>
+            <guid isPermaLink="false">1666528243286</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -217,207 +157,107 @@
                 <![CDATA[ Give us a general election, say voters on the streets ]]>
             </title>
             <link>https://www.independent.co.uk/news/uk/politics/general-election-liz-truss-tory-leadership-b2208052.html</link>
-            <guid isPermaLink="false">1666438321849</guid>
+            <guid isPermaLink="false">1666528243287</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
         </item>
         <item>
             <title>
-                <![CDATA[ Tory hopes of unity leader fade as Sunak and Johnson square up ]]>
+                <![CDATA[ Sunak says he’s running for PM to ‘fix economy and unite party’ - live ]]>
             </title>
-            <link>https://www.independent.co.uk/news/uk/politics/conservative-leadership-johnson-sunak-mordaunt-b2208043.html</link>
-            <guid isPermaLink="false">1666438321850</guid>
+            <link>https://www.independent.co.uk/news/uk/politics/boris-johnson-truss-sunak-news-b2208721.html</link>
+            <guid isPermaLink="false">1666528243288</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
         </item>
         <item>
             <title>
-                <![CDATA[ How will the inquiry into whether Boris Johnson misled MPs work? ]]>
+                <![CDATA[ These Tory MPs called on Johnson to resign - but now want him back ]]>
             </title>
-            <link>https://www.independent.co.uk/news/uk/politics/inquiry-boris-johnson-partygate-b2208093.html</link>
-            <guid isPermaLink="false">1666438321851</guid>
+            <link>https://www.independent.co.uk/news/uk/politics/boris-johnson-supporters-prime-minister-b2208703.html</link>
+            <guid isPermaLink="false">1666528243289</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
         </item>
         <item>
             <title>
-                <![CDATA[ Which of the Tory leadership hopefuls should Labour fear? ]]>
+                <![CDATA[ Progress in Northern Ireland ‘to collapse’ if Boris Johnson becomes PM ]]>
             </title>
-            <link>https://www.independent.co.uk/independentpremium/politics-explained/boris-johnson-sunak-labour-starmer-b2208098.html</link>
-            <guid isPermaLink="false">1666438321852</guid>
+            <link>https://www.independent.co.uk/news/uk/politics/boris-johnson-northern-ireland-protocol-b2208711.html</link>
+            <guid isPermaLink="false">1666528243290</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
         </item>
         <item>
             <title>
-                <![CDATA[ Truss and Braverman’s 20% crime cut policy paused amid meltdown ]]>
+                <![CDATA[ Sunak leads in race for UK leader; Johnson yet to declare ]]>
             </title>
-            <link>https://www.independent.co.uk/news/uk/politics/truss-braverman-resign-police-crime-cut-b2207763.html</link>
-            <guid isPermaLink="false">1666438321853</guid>
+            <link>https://www.independent.co.uk/news/uk/politics/boris-johnson-ap-conservative-party-penny-mordaunt-london-b2208688.html</link>
+            <guid isPermaLink="false">1666528243291</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
         </item>
         <item>
             <title>
-                <![CDATA[ Johnson tells ally he’s ‘up for’ PM race as he rushes back to UK ]]>
+                <![CDATA[ Blow for Johnson PM bid as leading eurosceptic backs Sunak ]]>
             </title>
-            <link>https://www.independent.co.uk/news/uk/politics/boris-johnson-election-rees-mogg-b2208123.html</link>
-            <guid isPermaLink="false">1666438321854</guid>
+            <link>https://www.independent.co.uk/news/uk/politics/steve-baker-rishi-sunak-johnson-b2208648.html</link>
+            <guid isPermaLink="false">1666528243292</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
         </item>
         <item>
             <title>
-                <![CDATA[ Johnson return would alarm markets, ex-Bank of England chief warns ]]>
+                <![CDATA[ Boris Johnson tells supporters he will co-operate with Partygate probe ]]>
             </title>
-            <link>https://www.independent.co.uk/news/uk/politics/boris-johnson-tory-leadership-truss-b2207857.html</link>
-            <guid isPermaLink="false">1666438321855</guid>
+            <link>https://www.independent.co.uk/news/uk/politics/boris-johnson-partygate-inquiry-conservatives-b2208660.html</link>
+            <guid isPermaLink="false">1666528243293</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
         </item>
         <item>
             <title>
-                <![CDATA[ Mordaunt enters Tory leadership race promising ‘fresh start’ for party ]]>
+                <![CDATA[ Slovenians choose president with no clear winner in sight ]]>
             </title>
-            <link>https://www.independent.co.uk/news/uk/politics/penny-mordaunt-tory-leadership-race-b2207905.html</link>
-            <guid isPermaLink="false">1666438321856</guid>
+            <link>https://www.independent.co.uk/news/uk/politics/ap-european-union-ljubljana-janez-jansa-ukraine-b2208636.html</link>
+            <guid isPermaLink="false">1666528243294</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
         </item>
         <item>
             <title>
-                <![CDATA[ Two MPs who resigned from Johnson’s government now back his return ]]>
+                <![CDATA[ Johnson and Sunak hold meeting as ‘donors urge ex-PM not to stand’ ]]>
             </title>
-            <link>https://www.independent.co.uk/news/uk/politics/tory-mps-back-boris-johnson-leadership-contest-b2207957.html</link>
-            <guid isPermaLink="false">1666438321857</guid>
+            <link>https://www.independent.co.uk/news/uk/politics/boris-johnson-prime-minister-rishi-sunak-b2208566.html</link>
+            <guid isPermaLink="false">1666528243295</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
         </item>
         <item>
             <title>
-                <![CDATA[ Johnson ‘up for’ leadership race as Sunak ‘hits 100 nominations’ - live ]]>
+                <![CDATA[ Thousands of protesters rally in London to call for UK to rejoin EU ]]>
             </title>
-            <link>https://www.independent.co.uk/news/uk/politics/liz-truss-boris-sunak-new-prime-minister-b2207490.html</link>
-            <guid isPermaLink="false">1666438321858</guid>
+            <link>https://www.independent.co.uk/news/uk/politics/brexit-protest-london-eu-rejoin-b2208577.html</link>
+            <guid isPermaLink="false">1666528243296</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
         </item>
         <item>
             <title>
-                <![CDATA[ Boris Johnson lands in UK as Rishi Sunak leads race to No 10 – live ]]>
+                <![CDATA[ Mortgage bills ‘up more than £500 a month in wake of mini-Budget’ ]]>
             </title>
-            <link>https://www.independent.co.uk/news/uk/politics/boris-johnson-flight-liz-truss-sunak-prime-minister-b2208264.html</link>
-            <guid isPermaLink="false">1666438321859</guid>
-            <dc:creator>
-                <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
-            </dc:creator>
-        </item>
-        <item>
-            <title>
-                <![CDATA[ Dramatic departure of PM fuels demands for early general election ]]>
-            </title>
-            <link>https://www.independent.co.uk/news/uk/politics/liz-truss-general-election-petition-b2207231.html</link>
-            <guid isPermaLink="false">1666438321860</guid>
-            <dc:creator>
-                <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
-            </dc:creator>
-        </item>
-        <item>
-            <title>
-                <![CDATA[ KGB stooges could swing result of online Tory leadership vote, expert warns ]]>
-            </title>
-            <link>https://www.independent.co.uk/news/uk/politics/kgb-ncsc-conservative-party-conservatives-gchq-b2207816.html</link>
-            <guid isPermaLink="false">1666438321861</guid>
-            <dc:creator>
-                <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
-            </dc:creator>
-        </item>
-        <item>
-            <title>
-                <![CDATA[ Tories admitted to no ‘oversight’ of ballot when members pick new PM ]]>
-            </title>
-            <link>https://www.independent.co.uk/news/uk/politics/tory-leadership-members-truss-resign-b2207666.html</link>
-            <guid isPermaLink="false">1666438321862</guid>
-            <dc:creator>
-                <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
-            </dc:creator>
-        </item>
-        <item>
-            <title>
-                <![CDATA[ Where did Liz Truss go wrong? Join our online panel discussion ]]>
-            </title>
-            <link>https://www.independent.co.uk/news/uk/politics/uk-politics-election-truss-experts-b2198171.html</link>
-            <guid isPermaLink="false">1666438321863</guid>
-            <dc:creator>
-                <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
-            </dc:creator>
-        </item>
-        <item>
-            <title>
-                <![CDATA[ Who is UK defence secretary Ben Wallace? ]]>
-            </title>
-            <link>https://www.independent.co.uk/news/uk/politics/ben-wallace-mp-defence-secretary-b2207557.html</link>
-            <guid isPermaLink="false">1666438321864</guid>
-            <dc:creator>
-                <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
-            </dc:creator>
-        </item>
-        <item>
-            <title>
-                <![CDATA[ How do petitions work and when are they binding? ]]>
-            </title>
-            <link>https://www.independent.co.uk/news/uk/politics/how-do-petitions-work-b2207677.html</link>
-            <guid isPermaLink="false">1666438321865</guid>
-            <dc:creator>
-                <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
-            </dc:creator>
-        </item>
-        <item>
-            <title>
-                <![CDATA[ German parliament clears way for huge energy relief package ]]>
-            </title>
-            <link>https://www.independent.co.uk/news/uk/politics/olaf-scholz-ap-european-union-europe-berlin-b2207718.html</link>
-            <guid isPermaLink="false">1666438321866</guid>
-            <dc:creator>
-                <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
-            </dc:creator>
-        </item>
-        <item>
-            <title>
-                <![CDATA[ How the UK Conservatives plan to replace departing Liz Truss ]]>
-            </title>
-            <link>https://www.independent.co.uk/news/uk/politics/conservatives-ap-liz-truss-charles-iii-boris-johnson-b2207690.html</link>
-            <guid isPermaLink="false">1666438321867</guid>
-            <dc:creator>
-                <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
-            </dc:creator>
-        </item>
-        <item>
-            <title>
-                <![CDATA[ Could Boris Johnson become prime minister again? ]]>
-            </title>
-            <link>https://www.independent.co.uk/news/uk/politics/boris-johnson-prime-minister-comeback-b2207515.html</link>
-            <guid isPermaLink="false">1666438321868</guid>
-            <dc:creator>
-                <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
-            </dc:creator>
-        </item>
-        <item>
-            <title>
-                <![CDATA[ Labour MP could lose seat after sexual misconduct findings upheld ]]>
-            </title>
-            <link>https://www.independent.co.uk/news/uk/politics/christian-matheson-sexual-misconduct-labour-mp-b2207673.html</link>
-            <guid isPermaLink="false">1666438321869</guid>
+            <link>https://www.independent.co.uk/news/uk/politics/mortgage-budget-kwarteng-truss-nandy-b2208482.html</link>
+            <guid isPermaLink="false">1666528243297</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -427,7 +267,277 @@
                 <![CDATA[ The prime ministers who made comebacks after leaving Downing Street ]]>
             </title>
             <link>https://www.independent.co.uk/news/uk/politics/churchill-gladstone-boris-johnson-prime-ministers-liz-truss-b2207537.html</link>
-            <guid isPermaLink="false">1666438321870</guid>
+            <guid isPermaLink="false">1666528243298</guid>
+            <dc:creator>
+                <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
+            </dc:creator>
+        </item>
+        <item>
+            <title>
+                <![CDATA[ India trade deal ‘would open UK to goods produced by child labour’ ]]>
+            </title>
+            <link>https://www.independent.co.uk/news/uk/politics/india-uk-trade-deal-child-labour-b2205182.html</link>
+            <guid isPermaLink="false">1666528243299</guid>
+            <dc:creator>
+                <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
+            </dc:creator>
+        </item>
+        <item>
+            <title>
+                <![CDATA[ Warning of ‘constitutional crisis’ if Boris Johnson returns as PM ]]>
+            </title>
+            <link>https://www.independent.co.uk/news/uk/politics/boris-johnson-sunak-hands-conservatives-b2208477.html</link>
+            <guid isPermaLink="false">1666528243300</guid>
+            <dc:creator>
+                <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
+            </dc:creator>
+        </item>
+        <item>
+            <title>
+                <![CDATA[ Johnson hits 100 nominations needed to stand for PM, supporter says ]]>
+            </title>
+            <link>https://www.independent.co.uk/news/uk/politics/boris-johnson-tory-leadership-nomination-b2208423.html</link>
+            <guid isPermaLink="false">1666528243301</guid>
+            <dc:creator>
+                <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
+            </dc:creator>
+        </item>
+        <item>
+            <title>
+                <![CDATA[ Sunak supporters cast doubt over rival’s MP numbers as pair hold talks – live ]]>
+            </title>
+            <link>https://www.independent.co.uk/news/uk/politics/boris-johnson-truss-sunak-news-b2208323.html</link>
+            <guid isPermaLink="false">1666528243302</guid>
+            <dc:creator>
+                <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
+            </dc:creator>
+        </item>
+        <item>
+            <title>
+                <![CDATA[ Sunak says he’s running for PM to ‘fix economy and unite Tories’ - Boris Johnson live ]]>
+            </title>
+            <link>https://www.independent.co.uk/news/uk/politics/boris-johnson-truss-sunak-news-b2208635.html</link>
+            <guid isPermaLink="false">1666528243303</guid>
+            <dc:creator>
+                <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
+            </dc:creator>
+        </item>
+        <item>
+            <title>
+                <![CDATA[ EXPLAINER: Why the British public is not choosing its leader ]]>
+            </title>
+            <link>https://www.independent.co.uk/news/uk/politics/labour-party-ap-britons-explainer-boris-johnson-b2208365.html</link>
+            <guid isPermaLink="false">1666528243304</guid>
+            <dc:creator>
+                <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
+            </dc:creator>
+        </item>
+        <item>
+            <title>
+                <![CDATA[ Blow for Boris Johnson as leading Brexiteer endorses Sunak for PM ]]>
+            </title>
+            <link>https://www.independent.co.uk/news/uk/politics/conservatives-boris-johnson-sunak-frost-b2208347.html</link>
+            <guid isPermaLink="false">1666528243305</guid>
+            <dc:creator>
+                <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
+            </dc:creator>
+        </item>
+        <item>
+            <title>
+                <![CDATA[ Johnson arrives back in UK for expected tilt at return to No 10 ]]>
+            </title>
+            <link>https://www.independent.co.uk/news/uk/politics/boris-johnson-tory-leadership-sunak-b2208308.html</link>
+            <guid isPermaLink="false">1666528243306</guid>
+            <dc:creator>
+                <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
+            </dc:creator>
+        </item>
+        <item>
+            <title>
+                <![CDATA[ Why was Boris Johnson on holiday? ]]>
+            </title>
+            <link>https://www.independent.co.uk/news/uk/politics/why-boris-johnson-on-holiday-b2208326.html</link>
+            <guid isPermaLink="false">1666528243307</guid>
+            <dc:creator>
+                <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
+            </dc:creator>
+        </item>
+        <item>
+            <title>
+                <![CDATA[ Priti Patel throws weight behind Boris Johnson bid for return to No 10 ]]>
+            </title>
+            <link>https://www.independent.co.uk/news/uk/politics/priti-patel-boris-johnson-conservatives-b2208324.html</link>
+            <guid isPermaLink="false">1666528243308</guid>
+            <dc:creator>
+                <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
+            </dc:creator>
+        </item>
+        <item>
+            <title>
+                <![CDATA[ Johnson return ‘would plunge Tories into Partygate Groundhog Day’ ]]>
+            </title>
+            <link>https://www.independent.co.uk/news/uk/politics/boris-johnson-sunak-raab-conservatives-b2208286.html</link>
+            <guid isPermaLink="false">1666528243309</guid>
+            <dc:creator>
+                <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
+            </dc:creator>
+        </item>
+        <item>
+            <title>
+                <![CDATA[ Who is backing whom in Tory leadership race? ]]>
+            </title>
+            <link>https://www.independent.co.uk/news/uk/politics/tory-leadership-race-prime-minister-rishi-sunak-b2207853.html</link>
+            <guid isPermaLink="false">1666528243310</guid>
+            <dc:creator>
+                <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
+            </dc:creator>
+        </item>
+        <item>
+            <title>
+                <![CDATA[ Tory hopes of unity leader fade as Sunak and Johnson square up ]]>
+            </title>
+            <link>https://www.independent.co.uk/news/uk/politics/conservative-leadership-johnson-sunak-mordaunt-b2208043.html</link>
+            <guid isPermaLink="false">1666528243311</guid>
+            <dc:creator>
+                <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
+            </dc:creator>
+        </item>
+        <item>
+            <title>
+                <![CDATA[ How will the inquiry into whether Boris Johnson misled MPs work? ]]>
+            </title>
+            <link>https://www.independent.co.uk/news/uk/politics/inquiry-boris-johnson-partygate-b2208093.html</link>
+            <guid isPermaLink="false">1666528243312</guid>
+            <dc:creator>
+                <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
+            </dc:creator>
+        </item>
+        <item>
+            <title>
+                <![CDATA[ Which of the Tory leadership hopefuls should Labour fear? ]]>
+            </title>
+            <link>https://www.independent.co.uk/independentpremium/politics-explained/boris-johnson-sunak-labour-starmer-b2208098.html</link>
+            <guid isPermaLink="false">1666528243313</guid>
+            <dc:creator>
+                <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
+            </dc:creator>
+        </item>
+        <item>
+            <title>
+                <![CDATA[ Truss and Braverman’s 20% crime cut policy paused amid meltdown ]]>
+            </title>
+            <link>https://www.independent.co.uk/news/uk/politics/truss-braverman-resign-police-crime-cut-b2207763.html</link>
+            <guid isPermaLink="false">1666528243314</guid>
+            <dc:creator>
+                <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
+            </dc:creator>
+        </item>
+        <item>
+            <title>
+                <![CDATA[ Johnson tells ally he’s ‘up for’ PM race as he rushes back to UK ]]>
+            </title>
+            <link>https://www.independent.co.uk/news/uk/politics/boris-johnson-election-rees-mogg-b2208123.html</link>
+            <guid isPermaLink="false">1666528243315</guid>
+            <dc:creator>
+                <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
+            </dc:creator>
+        </item>
+        <item>
+            <title>
+                <![CDATA[ Mordaunt enters Tory leadership race promising ‘fresh start’ for party ]]>
+            </title>
+            <link>https://www.independent.co.uk/news/uk/politics/penny-mordaunt-tory-leadership-race-b2207905.html</link>
+            <guid isPermaLink="false">1666528243316</guid>
+            <dc:creator>
+                <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
+            </dc:creator>
+        </item>
+        <item>
+            <title>
+                <![CDATA[ Two MPs who resigned from Johnson’s government now back his return ]]>
+            </title>
+            <link>https://www.independent.co.uk/news/uk/politics/tory-mps-back-boris-johnson-leadership-contest-b2207957.html</link>
+            <guid isPermaLink="false">1666528243317</guid>
+            <dc:creator>
+                <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
+            </dc:creator>
+        </item>
+        <item>
+            <title>
+                <![CDATA[ KGB stooges could swing result of online Tory leadership vote, expert warns ]]>
+            </title>
+            <link>https://www.independent.co.uk/news/uk/politics/kgb-ncsc-conservative-party-conservatives-gchq-b2207816.html</link>
+            <guid isPermaLink="false">1666528243318</guid>
+            <dc:creator>
+                <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
+            </dc:creator>
+        </item>
+        <item>
+            <title>
+                <![CDATA[ Where did Liz Truss go wrong? Join our online panel discussion ]]>
+            </title>
+            <link>https://www.independent.co.uk/news/uk/politics/uk-politics-election-truss-experts-b2198171.html</link>
+            <guid isPermaLink="false">1666528243319</guid>
+            <dc:creator>
+                <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
+            </dc:creator>
+        </item>
+        <item>
+            <title>
+                <![CDATA[ Who is UK defence secretary Ben Wallace? ]]>
+            </title>
+            <link>https://www.independent.co.uk/news/uk/politics/ben-wallace-mp-defence-secretary-b2207557.html</link>
+            <guid isPermaLink="false">1666528243320</guid>
+            <dc:creator>
+                <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
+            </dc:creator>
+        </item>
+        <item>
+            <title>
+                <![CDATA[ How do petitions work and when are they binding? ]]>
+            </title>
+            <link>https://www.independent.co.uk/news/uk/politics/how-do-petitions-work-b2207677.html</link>
+            <guid isPermaLink="false">1666528243321</guid>
+            <dc:creator>
+                <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
+            </dc:creator>
+        </item>
+        <item>
+            <title>
+                <![CDATA[ German parliament clears way for huge energy relief package ]]>
+            </title>
+            <link>https://www.independent.co.uk/news/uk/politics/olaf-scholz-ap-european-union-europe-berlin-b2207718.html</link>
+            <guid isPermaLink="false">1666528243322</guid>
+            <dc:creator>
+                <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
+            </dc:creator>
+        </item>
+        <item>
+            <title>
+                <![CDATA[ How the UK Conservatives plan to replace departing Liz Truss ]]>
+            </title>
+            <link>https://www.independent.co.uk/news/uk/politics/conservatives-ap-liz-truss-charles-iii-boris-johnson-b2207690.html</link>
+            <guid isPermaLink="false">1666528243323</guid>
+            <dc:creator>
+                <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
+            </dc:creator>
+        </item>
+        <item>
+            <title>
+                <![CDATA[ Could Boris Johnson become prime minister again? ]]>
+            </title>
+            <link>https://www.independent.co.uk/news/uk/politics/boris-johnson-prime-minister-comeback-b2207515.html</link>
+            <guid isPermaLink="false">1666528243324</guid>
+            <dc:creator>
+                <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
+            </dc:creator>
+        </item>
+        <item>
+            <title>
+                <![CDATA[ Labour MP could lose seat after sexual misconduct findings upheld ]]>
+            </title>
+            <link>https://www.independent.co.uk/news/uk/politics/christian-matheson-sexual-misconduct-labour-mp-b2207673.html</link>
+            <guid isPermaLink="false">1666528243325</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -437,7 +547,7 @@
                 <![CDATA[ Timeline: Key moments in Liz Truss’s 45 days as prime minister ]]>
             </title>
             <link>https://www.independent.co.uk/news/uk/politics/liz-truss-moments-prime-minister-uk-b2207620.html</link>
-            <guid isPermaLink="false">1666438321871</guid>
+            <guid isPermaLink="false">1666528243326</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -447,7 +557,7 @@
                 <![CDATA[ Liz Truss’s history of U-turns as PM steps down after just 45 days ]]>
             </title>
             <link>https://www.independent.co.uk/news/uk/politics/liz-truss-resigns-tax-u-turn-b2207609.html</link>
-            <guid isPermaLink="false">1666438321872</guid>
+            <guid isPermaLink="false">1666528243327</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -457,7 +567,7 @@
                 <![CDATA[ Who is the favorite to succeed Liz Truss? ]]>
             </title>
             <link>https://www.independent.co.uk/news/uk/politics/truss-next-prime-minister-odds-tory-b2207589.html</link>
-            <guid isPermaLink="false">1666438321873</guid>
+            <guid isPermaLink="false">1666528243328</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -467,7 +577,7 @@
                 <![CDATA[ The Independent’s election petition hits 300,000 signatures ]]>
             </title>
             <link>https://www.independent.co.uk/news/uk/politics/general-election-now-independent-petition-b2207105.html</link>
-            <guid isPermaLink="false">1666438321874</guid>
+            <guid isPermaLink="false">1666528243329</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -477,7 +587,7 @@
                 <![CDATA[ Liz Truss’s biggest gaffes and awkward moments ]]>
             </title>
             <link>https://www.independent.co.uk/news/uk/politics/liz-truss-cheese-speech-gaffes-awkward-b2207586.html</link>
-            <guid isPermaLink="false">1666438321875</guid>
+            <guid isPermaLink="false">1666528243330</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -487,7 +597,7 @@
                 <![CDATA[ Boris Johnson eyes comeback bid as UK Tories pick new leader ]]>
             </title>
             <link>https://www.independent.co.uk/news/uk/politics/boris-johnson-ap-liz-truss-rishi-sunak-conservative-party-b2207583.html</link>
-            <guid isPermaLink="false">1666438321876</guid>
+            <guid isPermaLink="false">1666528243331</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -497,17 +607,7 @@
                 <![CDATA[ Who is Grant Shapps? New home secretary after Suella Braverman resigns ]]>
             </title>
             <link>https://www.independent.co.uk/news/uk/politics/grant-shapps-braverman-home-secretary-b2207576.html</link>
-            <guid isPermaLink="false">1666438321877</guid>
-            <dc:creator>
-                <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
-            </dc:creator>
-        </item>
-        <item>
-            <title>
-                <![CDATA[ Johnson has ‘very’ good chance of returning to No 10, former aide says ]]>
-            </title>
-            <link>https://www.independent.co.uk/news/uk/politics/boris-johnson-tories-truss-resign-b2207555.html</link>
-            <guid isPermaLink="false">1666438321878</guid>
+            <guid isPermaLink="false">1666528243332</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -517,7 +617,7 @@
                 <![CDATA[ Who is Suella Braverman? Ex Home Secretary who lasted 44 days in job ]]>
             </title>
             <link>https://www.independent.co.uk/news/uk/politics/suella-braverman-husband-who-truss-b2207548.html</link>
-            <guid isPermaLink="false">1666438321879</guid>
+            <guid isPermaLink="false">1666528243333</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -527,7 +627,7 @@
                 <![CDATA[ Could Rishi Sunak replace Liz Truss as PM ]]>
             </title>
             <link>https://www.independent.co.uk/news/uk/politics/rishi-sunak-pm-liz-truss-replace-b2207550.html</link>
-            <guid isPermaLink="false">1666438321880</guid>
+            <guid isPermaLink="false">1666528243334</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -537,7 +637,7 @@
                 <![CDATA[ Install new PM by Tuesday or risk higher interest rates, Tories warned ]]>
             </title>
             <link>https://www.independent.co.uk/news/uk/politics/truss-resign-johnson-tories-o-donnell-b2207530.html</link>
-            <guid isPermaLink="false">1666438321881</guid>
+            <guid isPermaLink="false">1666528243335</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -547,7 +647,7 @@
                 <![CDATA[ Who are the shortest serving prime ministers in UK history? ]]>
             </title>
             <link>https://www.independent.co.uk/news/uk/politics/liz-truss-shortest-serving-pm-b2206927.html</link>
-            <guid isPermaLink="false">1666438321882</guid>
+            <guid isPermaLink="false">1666528243336</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -557,7 +657,7 @@
                 <![CDATA[ Inside Politics: When the herd moves, it moves ]]>
             </title>
             <link>https://www.independent.co.uk/independentpremium/uk-politics-latest-liz-truss-resigns-b2207539.html</link>
-            <guid isPermaLink="false">1666438321883</guid>
+            <guid isPermaLink="false">1666528243337</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -567,7 +667,17 @@
                 <![CDATA[ Could Boris Johnson be the next Prime Minister? Runners and riders ]]>
             </title>
             <link>https://www.independent.co.uk/news/uk/politics/liz-truss-next-prime-minister-boris-johnson-b2207505.html</link>
-            <guid isPermaLink="false">1666438321884</guid>
+            <guid isPermaLink="false">1666528243338</guid>
+            <dc:creator>
+                <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
+            </dc:creator>
+        </item>
+        <item>
+            <title>
+                <![CDATA[ Dramatic departure of PM fuels demands for early general election ]]>
+            </title>
+            <link>https://www.independent.co.uk/news/uk/politics/liz-truss-general-election-petition-b2207231.html</link>
+            <guid isPermaLink="false">1666528243339</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -577,7 +687,7 @@
                 <![CDATA[ Seven weeks of chaos under Liz Truss’s government ]]>
             </title>
             <link>https://www.independent.co.uk/news/uk/politics/seven-weeks-chaos-liz-truss-government-b2207388.html</link>
-            <guid isPermaLink="false">1666438321885</guid>
+            <guid isPermaLink="false">1666528243340</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -587,7 +697,7 @@
                 <![CDATA[ Liz Truss aides ‘pretended relatives had died’ to get her out of TV ]]>
             </title>
             <link>https://www.independent.co.uk/news/uk/politics/liz-truss-question-time-relatives-die-tv-b2206063.html</link>
-            <guid isPermaLink="false">1666438321886</guid>
+            <guid isPermaLink="false">1666528243341</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -597,7 +707,7 @@
                 <![CDATA[ Candidates to replace Truss need support of 100 MPs to join Tory race ]]>
             </title>
             <link>https://www.independent.co.uk/news/uk/politics/tory-leadership-100-mps-truss-b2207168.html</link>
-            <guid isPermaLink="false">1666438321887</guid>
+            <guid isPermaLink="false">1666528243342</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -607,7 +717,7 @@
                 <![CDATA[ Just 2% of Britons think Liz Truss did well as prime minister ]]>
             </title>
             <link>https://www.independent.co.uk/news/uk/politics/britons-poll-liz-truss-prime-minister-b2207282.html</link>
-            <guid isPermaLink="false">1666438321888</guid>
+            <guid isPermaLink="false">1666528243343</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -617,7 +727,7 @@
                 <![CDATA[ Key dates and times in new Tory leadership race ]]>
             </title>
             <link>https://www.independent.co.uk/news/uk/politics/liz-truss-tory-leadership-race-dates-b2207236.html</link>
-            <guid isPermaLink="false">1666438321889</guid>
+            <guid isPermaLink="false">1666528243344</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -627,7 +737,7 @@
                 <![CDATA[ Online membership vote in leadership contest will be secure, says Tory chairman ]]>
             </title>
             <link>https://www.independent.co.uk/news/uk/politics/jake-berry-parliament-mps-gchq-b2207314.html</link>
-            <guid isPermaLink="false">1666438321890</guid>
+            <guid isPermaLink="false">1666528243345</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -637,7 +747,7 @@
                 <![CDATA[ EXPLAINER: Why was Truss' tenure so short -- and now what? ]]>
             </title>
             <link>https://www.independent.co.uk/news/uk/politics/ap-conservative-party-jeremy-hunt-explainer-british-b2207255.html</link>
-            <guid isPermaLink="false">1666438321891</guid>
+            <guid isPermaLink="false">1666528243346</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -647,7 +757,7 @@
                 <![CDATA[ Sunak, Mordaunt, Johnson? Contenders who could replace Truss ]]>
             </title>
             <link>https://www.independent.co.uk/news/uk/politics/boris-johnson-ap-penny-mordaunt-ben-wallace-liz-truss-b2207232.html</link>
-            <guid isPermaLink="false">1666438321892</guid>
+            <guid isPermaLink="false">1666528243347</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -657,7 +767,7 @@
                 <![CDATA[ How world leaders reacted to Liz Truss’s resignation ]]>
             </title>
             <link>https://www.independent.co.uk/news/uk/politics/truss-world-leaders-biden-macron-resign-b2207133.html</link>
-            <guid isPermaLink="false">1666438321893</guid>
+            <guid isPermaLink="false">1666528243348</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -667,7 +777,7 @@
                 <![CDATA[ Tory troubles: A brief timeline of UK political upheavals ]]>
             </title>
             <link>https://www.independent.co.uk/news/uk/politics/boris-johnson-ap-liz-truss-london-david-cameron-b2207203.html</link>
-            <guid isPermaLink="false">1666438321894</guid>
+            <guid isPermaLink="false">1666528243349</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -677,7 +787,7 @@
                 <![CDATA[ When will the next prime minister be announced? ]]>
             </title>
             <link>https://www.independent.co.uk/news/uk/politics/when-next-prime-minister-announced-b2207093.html</link>
-            <guid isPermaLink="false">1666438321895</guid>
+            <guid isPermaLink="false">1666528243350</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -687,7 +797,7 @@
                 <![CDATA[ How will Tory leadership race to replace Liz Truss work? ]]>
             </title>
             <link>https://www.independent.co.uk/news/uk/politics/liz-truss-replace-next-pm-how-b2207050.html</link>
-            <guid isPermaLink="false">1666438321896</guid>
+            <guid isPermaLink="false">1666528243351</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -697,147 +807,7 @@
                 <![CDATA[ Johnson wants to join contest to replace Truss in No 10, friends say ]]>
             </title>
             <link>https://www.independent.co.uk/news/uk/politics/boris-johnson-truss-resign-partygate-b2207034.html</link>
-            <guid isPermaLink="false">1666438321897</guid>
-            <dc:creator>
-                <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
-            </dc:creator>
-        </item>
-        <item>
-            <title>
-                <![CDATA[ Lettuce outlasts Liz Truss premiership as PM’s political career wilts ]]>
-            </title>
-            <link>https://www.independent.co.uk/news/uk/politics/liz-truss-lettuce-outlasts-resigns-b2207009.html</link>
-            <guid isPermaLink="false">1666438321898</guid>
-            <dc:creator>
-                <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
-            </dc:creator>
-        </item>
-        <item>
-            <title>
-                <![CDATA[ Liz Truss announces resignation after just 45 days as prime minister ]]>
-            </title>
-            <link>https://www.independent.co.uk/news/uk/politics/liz-truss-resigns-prime-minister-b2206823.html</link>
-            <guid isPermaLink="false">1666438321899</guid>
-            <dc:creator>
-                <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
-            </dc:creator>
-        </item>
-        <item>
-            <title>
-                <![CDATA[ Krishnan Guru-Murthy apologises for calling Steve Baker ‘a c***’ ]]>
-            </title>
-            <link>https://www.independent.co.uk/news/uk/politics/krishnan-guru-murthy-sorry-steve-baker-swear-b2206427.html</link>
-            <guid isPermaLink="false">1666438321900</guid>
-            <dc:creator>
-                <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
-            </dc:creator>
-        </item>
-        <item>
-            <title>
-                <![CDATA[ Johnson and Sunak ‘expected to stand’ in Tory leadership race – live ]]>
-            </title>
-            <link>https://www.independent.co.uk/news/uk/politics/liz-truss-resigns-prime-minister-b2206868.html</link>
-            <guid isPermaLink="false">1666438321901</guid>
-            <dc:creator>
-                <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
-            </dc:creator>
-        </item>
-        <item>
-            <title>
-                <![CDATA[ Liz Truss promised UK a shakeup — but was forced out instead ]]>
-            </title>
-            <link>https://www.independent.co.uk/news/uk/politics/liz-truss-ap-conservative-party-conservatives-margaret-thatcher-b2207048.html</link>
-            <guid isPermaLink="false">1666438321902</guid>
-            <dc:creator>
-                <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
-            </dc:creator>
-        </item>
-        <item>
-            <title>
-                <![CDATA[ The Independent launches petition calling for a general election ]]>
-            </title>
-            <link>https://www.independent.co.uk/news/uk/politics/general-election-petition-independent-uk-b2205436.html</link>
-            <guid isPermaLink="false">1666438321903</guid>
-            <dc:creator>
-                <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
-            </dc:creator>
-        </item>
-        <item>
-            <title>
-                <![CDATA[ Starmer calls for immediate general election after Truss quits ]]>
-            </title>
-            <link>https://www.independent.co.uk/news/uk/politics/general-election-keir-starmer-truss-resigns-b2206897.html</link>
-            <guid isPermaLink="false">1666438321904</guid>
-            <dc:creator>
-                <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
-            </dc:creator>
-        </item>
-        <item>
-            <title>
-                <![CDATA[ Confusion over how Tory members will be ‘consulted’ on picking new PM ]]>
-            </title>
-            <link>https://www.independent.co.uk/news/uk/politics/truss-resign-tory-mps-sunak-b2206896.html</link>
-            <guid isPermaLink="false">1666438321905</guid>
-            <dc:creator>
-                <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
-            </dc:creator>
-        </item>
-        <item>
-            <title>
-                <![CDATA[ Conservative Party members will vote on choice of new prime minister ]]>
-            </title>
-            <link>https://www.independent.co.uk/news/uk/politics/liz-truss-conservative-leadership-contest-b2206918.html</link>
-            <guid isPermaLink="false">1666438321906</guid>
-            <dc:creator>
-                <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
-            </dc:creator>
-        </item>
-        <item>
-            <title>
-                <![CDATA[ How could Liz Truss be replaced as prime minister? ]]>
-            </title>
-            <link>https://www.independent.co.uk/news/uk/politics/liz-truss-general-election-resign-b2204975.html</link>
-            <guid isPermaLink="false">1666438321907</guid>
-            <dc:creator>
-                <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
-            </dc:creator>
-        </item>
-        <item>
-            <title>
-                <![CDATA[ Liz Truss’s resignation statement in full ]]>
-            </title>
-            <link>https://www.independent.co.uk/news/uk/politics/liz-truss-full-resignation-statement-b2206908.html</link>
-            <guid isPermaLink="false">1666438321908</guid>
-            <dc:creator>
-                <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
-            </dc:creator>
-        </item>
-        <item>
-            <title>
-                <![CDATA[ When is the next general election? ]]>
-            </title>
-            <link>https://www.independent.co.uk/news/uk/politics/when-next-general-election-uk-b2205005.html</link>
-            <guid isPermaLink="false">1666438321909</guid>
-            <dc:creator>
-                <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
-            </dc:creator>
-        </item>
-        <item>
-            <title>
-                <![CDATA[ Truss meets with chair of 1922 committee amid growing calls to quit ]]>
-            </title>
-            <link>https://www.independent.co.uk/news/uk/politics/liz-truss-resignation-graham-brady-1922-committee-b2206788.html</link>
-            <guid isPermaLink="false">1666438321910</guid>
-            <dc:creator>
-                <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
-            </dc:creator>
-        </item>
-        <item>
-            <title>
-                <![CDATA[ How the Liz Truss leadership crisis could end in a general election ]]>
-            </title>
-            <link>https://www.independent.co.uk/news/uk/politics/general-election-liz-truss-independent-b2206813.html</link>
-            <guid isPermaLink="false">1666438321911</guid>
+            <guid isPermaLink="false">1666528243352</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -847,7 +817,7 @@
                 <![CDATA[ Politics ]]>
             </title>
             <link>https://www.telegraph.co.uk/politics/</link>
-            <guid isPermaLink="false">1666438321912</guid>
+            <guid isPermaLink="false">1666528243353</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -857,77 +827,77 @@
                 <![CDATA[ US politics ]]>
             </title>
             <link>https://www.telegraph.co.uk/us-politics/</link>
-            <guid isPermaLink="false">1666438321913</guid>
+            <guid isPermaLink="false">1666528243354</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
         </item>
         <item>
             <title>
-                <![CDATA[ Rishi Sunak 'passes 100 Tory MP threshold' as he races to secure majority ]]>
+                <![CDATA[ Rishi Sunak and Boris Johnson hold eleventh-hour talks ]]>
             </title>
-            <link>https://www.telegraph.co.uk/politics/2022/10/21/rishi-sunak-races-secure-majority-tory-mps-seal-coronation-leadership/</link>
-            <guid isPermaLink="false">1666438321914</guid>
+            <link>https://www.telegraph.co.uk/politics/2022/10/22/rishi-sunak-boris-johnson-urged-strike-deal-avoid-tory-civil/</link>
+            <guid isPermaLink="false">1666528243355</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
         </item>
         <item>
             <title>
-                <![CDATA[ 'I’m going to do it, Dudders!' Boris Johnson rings round MPs to shore up leadership bid ]]>
+                <![CDATA[ Inside story of how ‘boulder Boris’ sent Tory leadership race into a frenzy ]]>
             </title>
-            <link>https://www.telegraph.co.uk/politics/2022/10/21/boris-johnson-promises-new-culture-no-10-rings-round-mps-shore/</link>
-            <guid isPermaLink="false">1666438321915</guid>
+            <link>https://www.telegraph.co.uk/politics/2022/10/22/inside-story-how-boulder-boris-sent-tory-leadership-race-frenzy/</link>
+            <guid isPermaLink="false">1666528243356</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
         </item>
         <item>
             <title>
-                <![CDATA[ Exclusive: Tory members must have their say on next leader, says Jacob Rees-Mogg ]]>
+                <![CDATA[ How Liz Truss sowed the seeds of her downfall even before setting foot in No 10 ]]>
             </title>
-            <link>https://www.telegraph.co.uk/politics/2022/10/21/jacob-rees-mogg-says-tory-members-must-get-say-next-leader-backs/</link>
-            <guid isPermaLink="false">1666438321916</guid>
+            <link>https://www.telegraph.co.uk/politics/2022/10/22/how-liz-truss-sowed-seeds-downfall-even-setting-foot-no-10/</link>
+            <guid isPermaLink="false">1666528243357</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
         </item>
         <item>
             <title>
-                <![CDATA[ Concerns over online votes for Tory leader as ‘Margaret Thatcher’ registers as party member ]]>
+                <![CDATA[ Rishi Sunak delays Tory leadership announcement so he doesn’t appear ‘overly eager’ ]]>
             </title>
-            <link>https://www.telegraph.co.uk/politics/2022/10/21/concerns-online-votes-tory-leader-margaret-thatcher-registers/</link>
-            <guid isPermaLink="false">1666438321917</guid>
+            <link>https://www.telegraph.co.uk/politics/2022/10/22/rishi-sunak-delays-tory-leadership-announcement-doesnt-appear/</link>
+            <guid isPermaLink="false">1666528243358</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
         </item>
         <item>
             <title>
-                <![CDATA[ A Rishi Sunak-Boris Johnson double act could be the royal flush no one saw coming ]]>
+                <![CDATA[ Most Tory voters think it was wrong to force Boris Johnson out ]]>
             </title>
-            <link>https://www.telegraph.co.uk/politics/2022/10/21/rishi-sunak-boris-johnson-double-act-could-royal-flush-no-one/</link>
-            <guid isPermaLink="false">1666438321918</guid>
+            <link>https://www.telegraph.co.uk/politics/2022/10/22/tory-voters-think-wrong-force-boris-johnson/</link>
+            <guid isPermaLink="false">1666528243359</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
         </item>
         <item>
             <title>
-                <![CDATA[ Jeremy Hunt to urge next PM to stick to Oct 31 budget plan ]]>
+                <![CDATA[ Jeremy Hunt’s Halloween budget could hit high earners with £20bn of tax rises ]]>
             </title>
-            <link>https://www.telegraph.co.uk/politics/2022/10/21/jeremy-hunt-urge-next-pm-stick-oct-31-budget-plan/</link>
-            <guid isPermaLink="false">1666438321919</guid>
+            <link>https://www.telegraph.co.uk/politics/2022/10/22/jeremy-hunts-halloween-budget-could-hit-high-earners-20bn-tax/</link>
+            <guid isPermaLink="false">1666528243360</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
         </item>
         <item>
             <title>
-                <![CDATA[ Penny Mordaunt pins hopes on her 'third way' appeal to unite Tory party ]]>
+                <![CDATA[ Historians could have steered Liz Truss from disaster, says David Cannadine ]]>
             </title>
-            <link>https://www.telegraph.co.uk/politics/2022/10/21/penny-mordaunt-hopes-unite-tories-elected-pm/</link>
-            <guid isPermaLink="false">1666438321920</guid>
+            <link>https://www.telegraph.co.uk/politics/2022/10/22/historians-could-have-steered-liz-truss-disaster-says-david/</link>
+            <guid isPermaLink="false">1666528243361</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -937,27 +907,77 @@
                 <![CDATA[ Telegraph Politics WhatsApp group: Sign up for the latest news from Westminster and beyond ]]>
             </title>
             <link>https://www.telegraph.co.uk/politics/2019/11/13/sign-telegraphs-politics-whatsapp-group-latest-brexit-general/</link>
-            <guid isPermaLink="false">1666438321921</guid>
+            <guid isPermaLink="false">1666528243362</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
         </item>
         <item>
             <title>
-                <![CDATA[ As the grey men take Truss away, Boris bids to get the good times back ]]>
+                <![CDATA[ I’m no cheerleader for Rishi but will the new Boris be all that different to the old one? ]]>
             </title>
-            <link>https://www.telegraph.co.uk/politics/2022/10/21/grey-men-take-truss-away-boris-bids-get-good-times-back/</link>
-            <guid isPermaLink="false">1666438321922</guid>
+            <link>https://www.telegraph.co.uk/politics/2022/10/22/no-cheerleader-rishi-will-new-boris-different-old-one/</link>
+            <guid isPermaLink="false">1666528243363</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
         </item>
         <item>
             <title>
-                <![CDATA[ Boris remains a remarkable politician, but he should sit this one out ]]>
+                <![CDATA[ The candidate Labour fears most? It has to be Penny Mordaunt ]]>
             </title>
-            <link>https://www.telegraph.co.uk/news/2022/10/21/boris-remains-remarkable-politician-should-sit-one/</link>
-            <guid isPermaLink="false">1666438321923</guid>
+            <link>https://www.telegraph.co.uk/politics/2022/10/22/candidate-labour-fears-has-penny-mordaunt/</link>
+            <guid isPermaLink="false">1666528243364</guid>
+            <dc:creator>
+                <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
+            </dc:creator>
+        </item>
+        <item>
+            <title>
+                <![CDATA[ A Boris Johnson victory is our best hope of reforming the UK's rotten electoral system ]]>
+            </title>
+            <link>https://www.telegraph.co.uk/politics/2022/10/22/boris-johnson-victory-best-hope-reforming-uks-rotten-electoral/</link>
+            <guid isPermaLink="false">1666528243365</guid>
+            <dc:creator>
+                <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
+            </dc:creator>
+        </item>
+        <item>
+            <title>
+                <![CDATA[ Our abiding mission should be the country, not the party ]]>
+            </title>
+            <link>https://www.telegraph.co.uk/politics/2022/10/22/abiding-mission-should-country-not-party/</link>
+            <guid isPermaLink="false">1666528243366</guid>
+            <dc:creator>
+                <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
+            </dc:creator>
+        </item>
+        <item>
+            <title>
+                <![CDATA[ British Tories may not avoid the fate of their Canadian cousins ]]>
+            </title>
+            <link>https://www.telegraph.co.uk/politics/2022/10/22/british-tories-may-not-avoid-fate-canadian-cousins/</link>
+            <guid isPermaLink="false">1666528243367</guid>
+            <dc:creator>
+                <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
+            </dc:creator>
+        </item>
+        <item>
+            <title>
+                <![CDATA[ The next PM will inherit the worst situation since 1940 – but with a divided party ]]>
+            </title>
+            <link>https://www.telegraph.co.uk/politics/2022/10/22/whoever-wins-case-early-general-election-becoming-hard-resist/</link>
+            <guid isPermaLink="false">1666528243368</guid>
+            <dc:creator>
+                <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
+            </dc:creator>
+        </item>
+        <item>
+            <title>
+                <![CDATA[ Why general election Armageddon is a risk worth taking for the Tories ]]>
+            </title>
+            <link>https://www.telegraph.co.uk/politics/2022/10/22/why-general-election-armageddon-risk-worth-taking-tories/</link>
+            <guid isPermaLink="false">1666528243369</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -967,7 +987,7 @@
                 <![CDATA[ The runners and riders who could replace Liz Truss as Prime Minister ]]>
             </title>
             <link>https://www.telegraph.co.uk/politics/2022/10/20/who-replace-liz-truss-next-prime-minister-tory-leader-list/</link>
-            <guid isPermaLink="false">1666438321924</guid>
+            <guid isPermaLink="false">1666528243370</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -977,7 +997,7 @@
                 <![CDATA[ Tory Leadership Election: Five scenarios for what happens next ]]>
             </title>
             <link>https://www.telegraph.co.uk/politics/2022/10/21/tory-leadership-election-five-scenarios-what-happens-next/</link>
-            <guid isPermaLink="false">1666438321925</guid>
+            <guid isPermaLink="false">1666528243371</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -987,20 +1007,7 @@
                 <![CDATA[ Conservative leadership contest: Who's backing whom? ]]>
             </title>
             <link>https://www.telegraph.co.uk/politics/2022/10/21/tory-leadership-race-candidates-who-backing-next-prime-minister/</link>
-            <guid isPermaLink="false">1666438321926</guid>
-            <dc:creator>
-                <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
-            </dc:creator>
-        </item>
-        <item>
-            <title>
-                <![CDATA[ Live
-
-
-Tory leadership news: Boris Johnson returns to UK as rival Rishi Sunak reaches 100 public backers ]]>
-            </title>
-            <link>https://www.telegraph.co.uk/politics/2022/10/22/tory-leadership-race-boris-johnson-rishi-sunak-penny-mordaunt/</link>
-            <guid isPermaLink="false">1666438321927</guid>
+            <guid isPermaLink="false">1666528243372</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -1010,7 +1017,7 @@ Tory leadership news: Boris Johnson returns to UK as rival Rishi Sunak reaches 1
                 <![CDATA[ Labour insists its economic position is ‘clear’ - but refuses to reveal any policies ]]>
             </title>
             <link>https://www.telegraph.co.uk/politics/2022/10/19/labour-insists-economic-position-clear-refuses-reveal-policies/</link>
-            <guid isPermaLink="false">1666438321928</guid>
+            <guid isPermaLink="false">1666528243373</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -1020,7 +1027,7 @@ Tory leadership news: Boris Johnson returns to UK as rival Rishi Sunak reaches 1
                 <![CDATA[ Ed Davey: I’m proud to have stopped fracking, despite energy crisis ]]>
             </title>
             <link>https://www.telegraph.co.uk/politics/2022/08/27/ed-davey-proud-have-stopped-fracking-despite-energy-crisis/</link>
-            <guid isPermaLink="false">1666438321929</guid>
+            <guid isPermaLink="false">1666528243374</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -1030,7 +1037,30 @@ Tory leadership news: Boris Johnson returns to UK as rival Rishi Sunak reaches 1
                 <![CDATA[ Net zero will be new Brexit for Tories, says Richard Tice ]]>
             </title>
             <link>https://www.telegraph.co.uk/politics/2022/04/18/net-zero-will-new-brexit-tories-says-richard-tice/</link>
-            <guid isPermaLink="false">1666438321930</guid>
+            <guid isPermaLink="false">1666528243375</guid>
+            <dc:creator>
+                <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
+            </dc:creator>
+        </item>
+        <item>
+            <title>
+                <![CDATA[ Live
+
+
+Tory leadership news: I will lead with integrity, vows Rishi Sunak as he confirms run for No 10 ]]>
+            </title>
+            <link>https://www.telegraph.co.uk/politics/2022/10/23/boris-johnson-rishi-sunak-tory-leadership-latest-penny-mordaunt/</link>
+            <guid isPermaLink="false">1666528243376</guid>
+            <dc:creator>
+                <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
+            </dc:creator>
+        </item>
+        <item>
+            <title>
+                <![CDATA[ Nadhim Zahawi declares support for 'Boris 2.0' as 'Big Beasts' break cover ]]>
+            </title>
+            <link>https://www.telegraph.co.uk/politics/2022/10/23/nadhim-zahawi-boris-johnson-rishi-sunak-conservative-leadership/</link>
+            <guid isPermaLink="false">1666528243377</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -1040,7 +1070,27 @@ Tory leadership news: Boris Johnson returns to UK as rival Rishi Sunak reaches 1
                 <![CDATA[ What happens next: How Tory Party members could put Boris Johnson back in No 10 ]]>
             </title>
             <link>https://www.telegraph.co.uk/politics/2022/10/20/liz-truss-resignation-next-steps/</link>
-            <guid isPermaLink="false">1666438321931</guid>
+            <guid isPermaLink="false">1666528243378</guid>
+            <dc:creator>
+                <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
+            </dc:creator>
+        </item>
+        <item>
+            <title>
+                <![CDATA[ Boris Johnson 'will continue to seek Tory leadership' after no deal with Rishi Sunak ]]>
+            </title>
+            <link>https://www.telegraph.co.uk/politics/2022/10/23/rishi-sunak-boris-johnson-who-next-pm-conservative-leader/</link>
+            <guid isPermaLink="false">1666528243379</guid>
+            <dc:creator>
+                <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
+            </dc:creator>
+        </item>
+        <item>
+            <title>
+                <![CDATA[ Read Rishi Sunak's statement in full as he declares run for PM ]]>
+            </title>
+            <link>https://www.telegraph.co.uk/politics/2022/10/23/rishi-sunak-pm-statement-full-boris-johnson/</link>
+            <guid isPermaLink="false">1666528243380</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -1050,7 +1100,7 @@ Tory leadership news: Boris Johnson returns to UK as rival Rishi Sunak reaches 1
                 <![CDATA[ Next ]]>
             </title>
             <link>https://www.telegraph.co.uk/politics/page-2/</link>
-            <guid isPermaLink="false">1666438321932</guid>
+            <guid isPermaLink="false">1666528243381</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>

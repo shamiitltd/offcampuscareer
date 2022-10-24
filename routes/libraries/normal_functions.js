@@ -94,6 +94,8 @@ function normalPostingFunction( NewSchema, path, req, res ) {
 
 function checkAuthentication( req, res, next ) {
     if ( req.isAuthenticated() ) {
+        req.admin = false;
+        req.editor = false;
         if ( admins.includes( req.user.email ) )
             req.admin = true;
         if ( editors.includes( req.user.email ) )

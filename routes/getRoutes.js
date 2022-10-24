@@ -276,7 +276,7 @@ routes.get( '/authresetpass', async ( req, res ) => {
     const {
         email,
         token
-    } = await req.query;
+    } = req.query;
     if ( email && token ) {
         const fileLocation = 'boxes/dataUploadForms/resetpass';
         resetPassWithEmail( fileLocation, email, token, res );

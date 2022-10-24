@@ -4,19 +4,19 @@
     xmlns:media="http://search.yahoo.com/mrss/" version="2.0">
     <channel>
         <title>
-            <![CDATA[ offcamuscareer.com ]]>
+            <![CDATA[ offcampuscareer.com ]]>
         </title>
         <description>
-            <![CDATA[ offcamuscareer.com ]]>
+            <![CDATA[ offcampuscareer.com ]]>
         </description>
         <link>https://www.offcampuscareer.com/sitemapscanner/new</link>
         <image>
             <url>https://www.offcampuscareer.com/favicon.ico</url>
-            <title>offcamuscareer.com</title>
+            <title>offcampuscareer.com</title>
             <link>https://www.offcampuscareer.com/sitemapscanner/new</link>
         </image>
         <generator>https://www.offcampuscareer.com</generator>
-        <lastBuildDate>Sat Oct 22 2022 09:02:00 GMT+0000 (Coordinated Universal Time)</lastBuildDate>
+        <lastBuildDate>Sun Oct 23 2022 13:03:50 GMT+0000 (Coordinated Universal Time)</lastBuildDate>
         <atom:link href="https://www.offcampuscareer.com/feeds/UiSoRbbF7.xml" rel="self" type="application/rss+xml"/>
         <language>
             <![CDATA[ en ]]>
@@ -27,7 +27,7 @@
                 <![CDATA[ Health News ]]>
             </title>
             <link>https://www.usnews.com/news/health-news</link>
-            <guid isPermaLink="false">1666429320645</guid>
+            <guid isPermaLink="false">1666530230416</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -37,7 +37,7 @@
                 <![CDATA[ Healthiest Communities ]]>
             </title>
             <link>https://www.usnews.com/news/healthiest-communities</link>
-            <guid isPermaLink="false">1666429320646</guid>
+            <guid isPermaLink="false">1666530230417</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -47,7 +47,7 @@
                 <![CDATA[ Overall Rankings ]]>
             </title>
             <link>https://www.usnews.com/news/healthiest-communities/rankings</link>
-            <guid isPermaLink="false">1666429320647</guid>
+            <guid isPermaLink="false">1666530230418</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -57,7 +57,7 @@
                 <![CDATA[ Urban, High-Performing ]]>
             </title>
             <link>https://www.usnews.com/news/healthiest-communities/rankings/urban-high-performing</link>
-            <guid isPermaLink="false">1666429320648</guid>
+            <guid isPermaLink="false">1666530230419</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -67,7 +67,7 @@
                 <![CDATA[ Urban, Up-and-Coming ]]>
             </title>
             <link>https://www.usnews.com/news/healthiest-communities/rankings/urban-up-and-coming</link>
-            <guid isPermaLink="false">1666429320649</guid>
+            <guid isPermaLink="false">1666530230420</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -77,7 +77,7 @@
                 <![CDATA[ Rural, High-Performing ]]>
             </title>
             <link>https://www.usnews.com/news/healthiest-communities/rankings/rural-high-performing</link>
-            <guid isPermaLink="false">1666429320650</guid>
+            <guid isPermaLink="false">1666530230421</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -87,7 +87,7 @@
                 <![CDATA[ Rural, Up-and-Coming ]]>
             </title>
             <link>https://www.usnews.com/news/healthiest-communities/rankings/rural-up-and-coming</link>
-            <guid isPermaLink="false">1666429320651</guid>
+            <guid isPermaLink="false">1666530230422</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -97,7 +97,7 @@
                 <![CDATA[ Coronavirus Data ]]>
             </title>
             <link>https://www.usnews.com/news/healthiest-communities/coronavirus-data</link>
-            <guid isPermaLink="false">1666429320652</guid>
+            <guid isPermaLink="false">1666530230423</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -107,7 +107,7 @@
                 <![CDATA[ Data Explorer ]]>
             </title>
             <link>https://www.usnews.com/news/healthiest-communities/data-explorer</link>
-            <guid isPermaLink="false">1666429320653</guid>
+            <guid isPermaLink="false">1666530230424</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -117,7 +117,7 @@
                 <![CDATA[ News ]]>
             </title>
             <link>https://www.usnews.com/news/healthiest-communities/news</link>
-            <guid isPermaLink="false">1666429320654</guid>
+            <guid isPermaLink="false">1666530230425</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -127,7 +127,7 @@
                 <![CDATA[ Methodology ]]>
             </title>
             <link>https://www.usnews.com/news/healthiest-communities/articles/methodology</link>
-            <guid isPermaLink="false">1666429320655</guid>
+            <guid isPermaLink="false">1666530230426</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -137,7 +137,7 @@
                 <![CDATA[ Communities FAQ ]]>
             </title>
             <link>https://www.usnews.com/news/healthiest-communities/articles/frequently-asked-questions</link>
-            <guid isPermaLink="false">1666429320656</guid>
+            <guid isPermaLink="false">1666530230427</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -147,17 +147,47 @@
                 <![CDATA[ Health News ]]>
             </title>
             <link>https://www.usnews.com//www.usnews.com/news/health-news</link>
-            <guid isPermaLink="false">1666429320657</guid>
+            <guid isPermaLink="false">1666530230428</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
         </item>
         <item>
             <title>
-                <![CDATA[ Health NewsTrial Starts in Concussion Case of Dead USC Football PlayerA Los Angeles jury has heard opening statements in the case of a widow of a former University of Southern California football player suing the NCAA for failing to protect her husband from repetitive head trauma.Associated PressOct. 21, 2022 ]]>
+                <![CDATA[ Health NewsGenes Link Bipolar, Schizophrenia, Once Thought UnrelatedA growing body of research shows that bipolar disorder, schizophrenia and the in-between diagnosis of schizoaffective disorder share common genetic underpinnings.Associated PressOct. 22, 2022 ]]>
+            </title>
+            <link>https://www.usnews.com/news/health-news/articles/2022-10-22/genes-link-bipolar-schizophrenia-once-thought-unrelated</link>
+            <guid isPermaLink="false">1666530230429</guid>
+            <dc:creator>
+                <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
+            </dc:creator>
+        </item>
+        <item>
+            <title>
+                <![CDATA[ Tips on Keeping Joints Limber, Healthy as You Age ]]>
+            </title>
+            <link>https://www.usnews.com/news/health-news/articles/2022-10-22/tips-on-keeping-joints-limber-healthy-as-you-age</link>
+            <guid isPermaLink="false">1666530230430</guid>
+            <dc:creator>
+                <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
+            </dc:creator>
+        </item>
+        <item>
+            <title>
+                <![CDATA[  ]]>
+            </title>
+            <link>https://www.usnews.com/news/health-news/articles/2022-10-22/dems-push-medicaid-expansion-for-left-behind-rural-georgia</link>
+            <guid isPermaLink="false">1666530230431</guid>
+            <dc:creator>
+                <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
+            </dc:creator>
+        </item>
+        <item>
+            <title>
+                <![CDATA[  ]]>
             </title>
             <link>https://www.usnews.com/news/health-news/articles/2022-10-21/ncaa-on-trial-in-concussion-case-of-dead-usc-football-player</link>
-            <guid isPermaLink="false">1666429320658</guid>
+            <guid isPermaLink="false">1666530230432</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -167,7 +197,7 @@
                 <![CDATA[  ]]>
             </title>
             <link>https://www.usnews.com/news/health-news/articles/2022-10-21/experts-lake-mead-brain-eating-amoeba-death-among-few-in-us</link>
-            <guid isPermaLink="false">1666429320659</guid>
+            <guid isPermaLink="false">1666530230433</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -177,7 +207,7 @@
                 <![CDATA[  ]]>
             </title>
             <link>https://www.usnews.com/news/health-news/articles/2022-10-21/failing-nursing-homes-to-face-tougher-penalties</link>
-            <guid isPermaLink="false">1666429320660</guid>
+            <guid isPermaLink="false">1666530230434</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -187,7 +217,7 @@
                 <![CDATA[ Almost All Adolescents Who Begin Gender-Affirming Hormones Continue Into Adulthood: Study ]]>
             </title>
             <link>https://www.usnews.com/news/health-news/articles/2022-10-21/almost-all-adolescents-who-begin-gender-affirming-hormones-continue-into-adulthood-study</link>
-            <guid isPermaLink="false">1666429320661</guid>
+            <guid isPermaLink="false">1666530230435</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -197,7 +227,7 @@
                 <![CDATA[ Bald Men, Take Note: Scientists Grow Hair Follicles in the Lab ]]>
             </title>
             <link>https://www.usnews.com/news/health-news/articles/2022-10-21/bald-men-take-note-scientists-grow-hair-follicles-in-the-lab</link>
-            <guid isPermaLink="false">1666429320662</guid>
+            <guid isPermaLink="false">1666530230436</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -207,37 +237,7 @@
                 <![CDATA[ New Biden Plan Would Help Pregnant Women Fight Opioid Addiction ]]>
             </title>
             <link>https://www.usnews.com/news/health-news/articles/2022-10-21/new-biden-plan-would-help-pregnant-women-fight-opioid-addiction</link>
-            <guid isPermaLink="false">1666429320663</guid>
-            <dc:creator>
-                <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
-            </dc:creator>
-        </item>
-        <item>
-            <title>
-                <![CDATA[ Surgery Holds Danger for Seniors. Who's Most at Risk? ]]>
-            </title>
-            <link>https://www.usnews.com/news/health-news/articles/2022-10-21/surgery-holds-danger-for-seniors-whos-most-at-risk</link>
-            <guid isPermaLink="false">1666429320664</guid>
-            <dc:creator>
-                <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
-            </dc:creator>
-        </item>
-        <item>
-            <title>
-                <![CDATA[ Chickenpox Vaccine Has Nearly Erased Deaths, Hospitalizations From Virus in U.S. ]]>
-            </title>
-            <link>https://www.usnews.com/news/health-news/articles/2022-10-21/chickenpox-vaccine-has-nearly-erased-deaths-hospitalizations-from-virus-in-u-s</link>
-            <guid isPermaLink="false">1666429320665</guid>
-            <dc:creator>
-                <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
-            </dc:creator>
-        </item>
-        <item>
-            <title>
-                <![CDATA[ AHA News: Protecting LGBTQ People From the Health Risks of Social Isolation ]]>
-            </title>
-            <link>https://www.usnews.com/news/health-news/articles/2022-10-21/aha-news-protecting-lgbtq-people-from-the-health-risks-of-social-isolation</link>
-            <guid isPermaLink="false">1666429320666</guid>
+            <guid isPermaLink="false">1666530230437</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -247,7 +247,7 @@
                 <![CDATA[  ]]>
             </title>
             <link>https://www.usnews.com/news/healthiest-communities/articles/2022-10-20/study-shows-ties-between-segregation-severe-pregnancy-complications</link>
-            <guid isPermaLink="false">1666429320667</guid>
+            <guid isPermaLink="false">1666530230438</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -257,7 +257,7 @@
                 <![CDATA[  ]]>
             </title>
             <link>https://www.usnews.com/news/health-news/articles/these-are-the-top-25-covid-hot-spots-in-the-u-s</link>
-            <guid isPermaLink="false">1666429320668</guid>
+            <guid isPermaLink="false">1666530230439</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -267,7 +267,7 @@
                 <![CDATA[  ]]>
             </title>
             <link>https://www.usnews.com/news/health-news/articles/2022-10-19/close-the-child-care-gap-to-boost-labor-participation-income</link>
-            <guid isPermaLink="false">1666429320669</guid>
+            <guid isPermaLink="false">1666530230440</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -277,7 +277,7 @@
                 <![CDATA[ Rankings Download ]]>
             </title>
             <link>https://www.usnews.com/media/healthiest-communities/overall-rankings-2022.pdf</link>
-            <guid isPermaLink="false">1666429320670</guid>
+            <guid isPermaLink="false">1666530230441</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -287,7 +287,7 @@
                 <![CDATA[ Coronavirus ]]>
             </title>
             <link>https://www.nbcnews.com/health/coronavirus</link>
-            <guid isPermaLink="false">1666429320671</guid>
+            <guid isPermaLink="false">1666530230442</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -297,17 +297,17 @@
                 <![CDATA[ Health ]]>
             </title>
             <link>https://www.nbcnews.com/health</link>
-            <guid isPermaLink="false">1666429320672</guid>
+            <guid isPermaLink="false">1666530230443</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
         </item>
         <item>
             <title>
-                <![CDATA[ The world is running out of helium. Here's why doctors are worried. ]]>
+                <![CDATA[ Monkeypox emergency orders are set to expire, but eradication isn't likely ]]>
             </title>
-            <link>https://www.nbcnews.com/health/health-news/helium-shortage-doctors-are-worried-running-element-threaten-mris-rcna52978</link>
-            <guid isPermaLink="false">1666429320673</guid>
+            <link>https://www.nbcnews.com/health/health-news/monkeypox-emergency-orders-to-expire-without-eradication-rcna53395</link>
+            <guid isPermaLink="false">1666530230444</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -317,7 +317,17 @@
                 <![CDATA[ Health news ]]>
             </title>
             <link>https://www.nbcnews.com/health/health-news</link>
-            <guid isPermaLink="false">1666429320674</guid>
+            <guid isPermaLink="false">1666530230445</guid>
+            <dc:creator>
+                <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
+            </dc:creator>
+        </item>
+        <item>
+            <title>
+                <![CDATA[  ]]>
+            </title>
+            <link>https://www.nbcnews.com/health/health-news/helium-shortage-doctors-are-worried-running-element-threaten-mris-rcna52978</link>
+            <guid isPermaLink="false">1666530230446</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -327,7 +337,7 @@
                 <![CDATA[  ]]>
             </title>
             <link>https://www.nbcnews.com/health/health-news/pfizer-plans-sell-covid-vaccines-110-130-dose-rcna53382</link>
-            <guid isPermaLink="false">1666429320675</guid>
+            <guid isPermaLink="false">1666530230447</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -337,7 +347,7 @@
                 <![CDATA[  ]]>
             </title>
             <link>https://www.nbcnews.com/health/health-news/gas-stoves-leak-benzene-chemicals-linked-cancer-rcna52948</link>
-            <guid isPermaLink="false">1666429320676</guid>
+            <guid isPermaLink="false">1666530230448</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -347,17 +357,7 @@
                 <![CDATA[  ]]>
             </title>
             <link>https://www.nbcnews.com/health/health-news/covid-contributing-factor-maternal-deaths-rcna53300</link>
-            <guid isPermaLink="false">1666429320677</guid>
-            <dc:creator>
-                <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
-            </dc:creator>
-        </item>
-        <item>
-            <title>
-                <![CDATA[  ]]>
-            </title>
-            <link>https://www.nbcnews.com/health/kids-health/cdc-chickenpox-vaccine-almost-wiped-severe-illness-virus-rcna53194</link>
-            <guid isPermaLink="false">1666429320678</guid>
+            <guid isPermaLink="false">1666530230449</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -367,7 +367,7 @@
                 <![CDATA[ Health ]]>
             </title>
             <link>https://www.usatoday.com/news/health/</link>
-            <guid isPermaLink="false">1666429320679</guid>
+            <guid isPermaLink="false">1666530230450</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -377,7 +377,7 @@
                 <![CDATA[ Pfizer says COVID-19 vaccine will cost up to $130 per dose ]]>
             </title>
             <link>https://www.usatoday.com/story/news/health/2022/10/21/pfizer-covid-19-vaccine-cost-expected-over-100-per-dose/10566332002/</link>
-            <guid isPermaLink="false">1666429320680</guid>
+            <guid isPermaLink="false">1666530230451</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -387,7 +387,7 @@
                 <![CDATA[ Biden administration targets nursing homes with poor safety, performance ]]>
             </title>
             <link>https://www.usatoday.com/story/news/health/2022/10/21/medicare-nursing-homes-biden-oversight-seniors-safety/10561996002/</link>
-            <guid isPermaLink="false">1666429320681</guid>
+            <guid isPermaLink="false">1666530230452</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -397,7 +397,7 @@
                 <![CDATA[ Weight loss surgery may become more common under new guidelines ]]>
             </title>
             <link>https://www.usatoday.com/story/news/health/2022/10/21/weight-loss-surgery-qualification-guidelines/10540645002/</link>
-            <guid isPermaLink="false">1666429320682</guid>
+            <guid isPermaLink="false">1666530230453</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -407,7 +407,7 @@
                 <![CDATA[ Winter viruses are filling up hospitals with sick kids: What to knowHealth ]]>
             </title>
             <link>https://www.usatoday.com/story/news/health/2022/10/06/sick-children-winter-viruses-flu-covid-rsv/8167177001/</link>
-            <guid isPermaLink="false">1666429320683</guid>
+            <guid isPermaLink="false">1666530230454</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -417,7 +417,7 @@
                 <![CDATA[ New treatment restores skin coloration to many with vitiligo: 'This is just the start'Health ]]>
             </title>
             <link>https://www.usatoday.com/story/news/health/2022/10/20/vitiligo-treatment-ruxolitinib-opzelura-effective/10544448002/</link>
-            <guid isPermaLink="false">1666429320684</guid>
+            <guid isPermaLink="false">1666530230455</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -427,7 +427,7 @@
                 <![CDATA[ Are you a mosquito magnet? It may be because your smell, study saysHealth ]]>
             </title>
             <link>https://www.usatoday.com/story/news/health/2022/10/20/mosquito-attracted-to-human-smell-scent/10544349002/</link>
-            <guid isPermaLink="false">1666429320685</guid>
+            <guid isPermaLink="false">1666530230456</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -437,7 +437,7 @@
                 <![CDATA[ For earliest-stage breast cancer patients, how much treatment is enough?Health ]]>
             </title>
             <link>https://www.usatoday.com/story/news/health/2022/10/20/breast-cancer-dcis-treatments-studies/8207278001/</link>
-            <guid isPermaLink="false">1666429320686</guid>
+            <guid isPermaLink="false">1666530230457</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -447,7 +447,7 @@
                 <![CDATA[ 'Wake-up call' about allergy meds and opioids in new studyHealth ]]>
             </title>
             <link>https://www.usatoday.com/story/news/health/2022/10/19/cdc-study-antihistamines-may-play-deadly-role-opioid-epidemic/10495048002/</link>
-            <guid isPermaLink="false">1666429320687</guid>
+            <guid isPermaLink="false">1666530230458</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -457,7 +457,7 @@
                 <![CDATA[ FDA panel recommends pulling preterm birth drug with controversial historyHealth ]]>
             </title>
             <link>https://www.usatoday.com/story/news/health/2022/10/19/fda-makena-preterm-birth-drug/10543748002/</link>
-            <guid isPermaLink="false">1666429320688</guid>
+            <guid isPermaLink="false">1666530230459</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -467,7 +467,7 @@
                 <![CDATA[ Is milk still considered healthy? How much do you need? What to knowHealth ]]>
             </title>
             <link>https://www.usatoday.com/story/news/health/2022/10/18/is-milk-healthy-how-much-per-day/8237477001/</link>
-            <guid isPermaLink="false">1666429320689</guid>
+            <guid isPermaLink="false">1666530230460</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -477,7 +477,7 @@
                 <![CDATA[ Using hair-straightening products may increase risk of uterine cancer: StudyHealth ]]>
             </title>
             <link>https://www.usatoday.com/story/news/health/2022/10/18/hair-straightening-chemicals-uterine-cancer-risk/10530631002/</link>
-            <guid isPermaLink="false">1666429320690</guid>
+            <guid isPermaLink="false">1666530230461</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -487,7 +487,7 @@
                 <![CDATA[ Move aside, BA.5: These new variants are gaining ground in the USHealth ]]>
             </title>
             <link>https://www.usatoday.com/story/news/health/2022/10/18/new-covid-variants-explained/10524219002/</link>
-            <guid isPermaLink="false">1666429320691</guid>
+            <guid isPermaLink="false">1666530230462</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -497,7 +497,7 @@
                 <![CDATA[ Nearly 1 in 6 people on insulin are rationing the life-saving drug due to costHealth ]]>
             </title>
             <link>https://www.usatoday.com/story/news/health/2022/10/17/high-cost-insulin-prompts-1-3-million-americans-ration-drug/10498626002/</link>
-            <guid isPermaLink="false">1666429320692</guid>
+            <guid isPermaLink="false">1666530230463</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -507,7 +507,7 @@
                 <![CDATA[ These lab rats have human cells in their brains, and here's whyHealth ]]>
             </title>
             <link>https://www.usatoday.com/story/news/health/2022/10/12/stanford-lab-rats-human-cells-brains/8235889001/</link>
-            <guid isPermaLink="false">1666429320693</guid>
+            <guid isPermaLink="false">1666530230464</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -517,7 +517,7 @@
                 <![CDATA[ Declining life expectancy may be uniquely American, study suggestsHealth ]]>
             </title>
             <link>https://www.usatoday.com/story/news/health/2022/10/17/us-life-expectancy-drops-europe-recovers-covid/10484987002/</link>
-            <guid isPermaLink="false">1666429320694</guid>
+            <guid isPermaLink="false">1666530230465</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -527,7 +527,7 @@
                 <![CDATA[ Over-the-counter hearing aids are now available: What to knowHealth ]]>
             </title>
             <link>https://www.usatoday.com/story/news/health/2022/10/17/over-the-counter-hearing-aids-available/10522017002/</link>
-            <guid isPermaLink="false">1666429320695</guid>
+            <guid isPermaLink="false">1666530230466</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -537,7 +537,7 @@
                 <![CDATA[ Inflation has not sent health insurance prices higher – yetHealth ]]>
             </title>
             <link>https://www.usatoday.com/story/news/health/2022/10/17/inflation-rising-faster-medical-costs/10471194002/</link>
-            <guid isPermaLink="false">1666429320696</guid>
+            <guid isPermaLink="false">1666530230467</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -547,7 +547,7 @@
                 <![CDATA[ Coronavirus ]]>
             </title>
             <link>https://www.nbcnews.com/health/coronavirus</link>
-            <guid isPermaLink="false">1666429320697</guid>
+            <guid isPermaLink="false">1666530230468</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -557,17 +557,17 @@
                 <![CDATA[ Health ]]>
             </title>
             <link>https://www.nbcnews.com/health</link>
-            <guid isPermaLink="false">1666429320698</guid>
+            <guid isPermaLink="false">1666530230469</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
         </item>
         <item>
             <title>
-                <![CDATA[ The world is running out of helium. Here's why doctors are worried. ]]>
+                <![CDATA[ Monkeypox emergency orders are set to expire, but eradication isn't likely ]]>
             </title>
-            <link>https://www.nbcnews.com/health/health-news/helium-shortage-doctors-are-worried-running-element-threaten-mris-rcna52978</link>
-            <guid isPermaLink="false">1666429320699</guid>
+            <link>https://www.nbcnews.com/health/health-news/monkeypox-emergency-orders-to-expire-without-eradication-rcna53395</link>
+            <guid isPermaLink="false">1666530230470</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -577,7 +577,17 @@
                 <![CDATA[ Health news ]]>
             </title>
             <link>https://www.nbcnews.com/health/health-news</link>
-            <guid isPermaLink="false">1666429320700</guid>
+            <guid isPermaLink="false">1666530230471</guid>
+            <dc:creator>
+                <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
+            </dc:creator>
+        </item>
+        <item>
+            <title>
+                <![CDATA[  ]]>
+            </title>
+            <link>https://www.nbcnews.com/health/health-news/helium-shortage-doctors-are-worried-running-element-threaten-mris-rcna52978</link>
+            <guid isPermaLink="false">1666530230472</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -587,7 +597,7 @@
                 <![CDATA[  ]]>
             </title>
             <link>https://www.nbcnews.com/health/health-news/pfizer-plans-sell-covid-vaccines-110-130-dose-rcna53382</link>
-            <guid isPermaLink="false">1666429320701</guid>
+            <guid isPermaLink="false">1666530230473</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -597,7 +607,7 @@
                 <![CDATA[  ]]>
             </title>
             <link>https://www.nbcnews.com/health/health-news/gas-stoves-leak-benzene-chemicals-linked-cancer-rcna52948</link>
-            <guid isPermaLink="false">1666429320702</guid>
+            <guid isPermaLink="false">1666530230474</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -607,17 +617,7 @@
                 <![CDATA[  ]]>
             </title>
             <link>https://www.nbcnews.com/health/health-news/covid-contributing-factor-maternal-deaths-rcna53300</link>
-            <guid isPermaLink="false">1666429320703</guid>
-            <dc:creator>
-                <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
-            </dc:creator>
-        </item>
-        <item>
-            <title>
-                <![CDATA[  ]]>
-            </title>
-            <link>https://www.nbcnews.com/health/kids-health/cdc-chickenpox-vaccine-almost-wiped-severe-illness-virus-rcna53194</link>
-            <guid isPermaLink="false">1666429320704</guid>
+            <guid isPermaLink="false">1666530230475</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>

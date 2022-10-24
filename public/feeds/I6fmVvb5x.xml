@@ -4,19 +4,19 @@
     xmlns:media="http://search.yahoo.com/mrss/" version="2.0">
     <channel>
         <title>
-            <![CDATA[ offcamuscareer.com ]]>
+            <![CDATA[ offcampuscareer.com ]]>
         </title>
         <description>
-            <![CDATA[ offcamuscareer.com ]]>
+            <![CDATA[ offcampuscareer.com ]]>
         </description>
         <link>https://www.offcampuscareer.com/sitemapscanner/new</link>
         <image>
             <url>https://www.offcampuscareer.com/favicon.ico</url>
-            <title>offcamuscareer.com</title>
+            <title>offcampuscareer.com</title>
             <link>https://www.offcampuscareer.com/sitemapscanner/new</link>
         </image>
         <generator>https://www.offcampuscareer.com</generator>
-        <lastBuildDate>Sat Oct 22 2022 12:16:27 GMT+0000 (Coordinated Universal Time)</lastBuildDate>
+        <lastBuildDate>Sun Oct 23 2022 14:01:37 GMT+0000 (Coordinated Universal Time)</lastBuildDate>
         <atom:link href="https://www.offcampuscareer.com/feeds/I6fmVvb5x.xml" rel="self" type="application/rss+xml"/>
         <language>
             <![CDATA[ en ]]>
@@ -27,7 +27,57 @@
                 <![CDATA[ Crime ]]>
             </title>
             <link>https://www.indiatoday.in/crime</link>
-            <guid isPermaLink="false">1666440987875</guid>
+            <guid isPermaLink="false">1666533697840</guid>
+            <dc:creator>
+                <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
+            </dc:creator>
+        </item>
+        <item>
+            <title>
+                <![CDATA[  ]]>
+            </title>
+            <link>https://www.indiatoday.in/crime/story/nurse-tied-gang-raped-inside-chhattisgarh-health-centre-minor-among-accused-arrest-2288661-2022-10-23</link>
+            <guid isPermaLink="false">1666533697841</guid>
+            <dc:creator>
+                <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
+            </dc:creator>
+        </item>
+        <item>
+            <title>
+                <![CDATA[  ]]>
+            </title>
+            <link>https://www.indiatoday.in/crime/story/delhi-bsc-graduate-held-blackmailing-extorting-seven-lakhs-from-woman-he-loved-2288548-2022-10-23</link>
+            <guid isPermaLink="false">1666533697842</guid>
+            <dc:creator>
+                <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
+            </dc:creator>
+        </item>
+        <item>
+            <title>
+                <![CDATA[  ]]>
+            </title>
+            <link>https://www.indiatoday.in/crime/story/two-criminals-held-following-encounter-in-delhi-jyoti-nagar-2288544-2022-10-23</link>
+            <guid isPermaLink="false">1666533697843</guid>
+            <dc:creator>
+                <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
+            </dc:creator>
+        </item>
+        <item>
+            <title>
+                <![CDATA[  ]]>
+            </title>
+            <link>https://www.indiatoday.in/crime/story/miscreants-pour-boiling-oil-on-fritters-seller-in-gwalior-probe-underway-2288492-2022-10-22</link>
+            <guid isPermaLink="false">1666533697844</guid>
+            <dc:creator>
+                <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
+            </dc:creator>
+        </item>
+        <item>
+            <title>
+                <![CDATA[  ]]>
+            </title>
+            <link>https://www.indiatoday.in/crime/story/4-arrested-in-noida-for-recording-couples-in-oyo-rooms-through-hidden-camera-extorting-money-2288481-2022-10-22</link>
+            <guid isPermaLink="false">1666533697845</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -37,7 +87,7 @@
                 <![CDATA[  ]]>
             </title>
             <link>https://www.indiatoday.in/crime/story/kerala-police-cracks-case-severed-legs-gang-rivalry-suspects-arrested-2288303-2022-10-22</link>
-            <guid isPermaLink="false">1666440987876</guid>
+            <guid isPermaLink="false">1666533697846</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -47,7 +97,7 @@
                 <![CDATA[  ]]>
             </title>
             <link>https://www.indiatoday.in/crime/story/man-poses-as-army-officer-on-matrimonial-site-to-dupe-women-arrested-2288270-2022-10-22</link>
-            <guid isPermaLink="false">1666440987877</guid>
+            <guid isPermaLink="false">1666533697847</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -57,7 +107,7 @@
                 <![CDATA[  ]]>
             </title>
             <link>https://www.indiatoday.in/crime/story/cash-gold-crores-seized-customs-slueths-across-andhra-pradesh-watch-2287974-2022-10-21</link>
-            <guid isPermaLink="false">1666440987878</guid>
+            <guid isPermaLink="false">1666533697848</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -67,7 +117,7 @@
                 <![CDATA[  ]]>
             </title>
             <link>https://www.indiatoday.in/crime/story/mumbai-police-recovers-synthetic-drugs-in-two-separate-incidents-arrests-three-2287565-2022-10-20</link>
-            <guid isPermaLink="false">1666440987879</guid>
+            <guid isPermaLink="false">1666533697849</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -77,7 +127,7 @@
                 <![CDATA[  ]]>
             </title>
             <link>https://www.indiatoday.in/crime/story/man-kills-neighbour-for-interfering-in-fight-over-cooking-mutton-in-madhya-pradesh-bhopal-2287556-2022-10-20</link>
-            <guid isPermaLink="false">1666440987880</guid>
+            <guid isPermaLink="false">1666533697850</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -87,7 +137,7 @@
                 <![CDATA[  ]]>
             </title>
             <link>https://www.indiatoday.in/crime/story/kolkata-minor-gangraped-2287390-2022-10-19</link>
-            <guid isPermaLink="false">1666440987881</guid>
+            <guid isPermaLink="false">1666533697851</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -97,7 +147,7 @@
                 <![CDATA[  ]]>
             </title>
             <link>https://www.indiatoday.in/crime/story/tamil-nadu-bank-manager-arrested-cheating-customer-cash-gold-coins-2287361-2022-10-19</link>
-            <guid isPermaLink="false">1666440987882</guid>
+            <guid isPermaLink="false">1666533697852</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -107,7 +157,7 @@
                 <![CDATA[  ]]>
             </title>
             <link>https://www.indiatoday.in/crime/story/tamil-nadu-man-arrested-for-molesting-robbing-women-2286986-2022-10-18</link>
-            <guid isPermaLink="false">1666440987883</guid>
+            <guid isPermaLink="false">1666533697853</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -117,37 +167,7 @@
                 <![CDATA[  ]]>
             </title>
             <link>https://www.indiatoday.in/crime/story/man-arrested-posing-nia-officer-extorting-money-accusing-victims-pfi-links-telangan-2286708-2022-10-18</link>
-            <guid isPermaLink="false">1666440987884</guid>
-            <dc:creator>
-                <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
-            </dc:creator>
-        </item>
-        <item>
-            <title>
-                <![CDATA[  ]]>
-            </title>
-            <link>https://www.indiatoday.in/crime/story/pune-sextortion-cases-2-more-end-lives-due-to-metal-trauma-cybercrime-2286545-2022-10-17</link>
-            <guid isPermaLink="false">1666440987885</guid>
-            <dc:creator>
-                <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
-            </dc:creator>
-        </item>
-        <item>
-            <title>
-                <![CDATA[  ]]>
-            </title>
-            <link>https://www.indiatoday.in/crime/story/man-held-sexual-assault-extortion-valuables-minor-girl-tamil-nadu-madurai-pocso-2286522-2022-10-17</link>
-            <guid isPermaLink="false">1666440987886</guid>
-            <dc:creator>
-                <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
-            </dc:creator>
-        </item>
-        <item>
-            <title>
-                <![CDATA[  ]]>
-            </title>
-            <link>https://www.indiatoday.in/crime/story/lucknow-tuition-teacher-gangrape-case-accused-identified-3-policemen-face-action-for-showing-carelessness-2286384-2022-10-17</link>
-            <guid isPermaLink="false">1666440987887</guid>
+            <guid isPermaLink="false">1666533697854</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -157,7 +177,7 @@
                 <![CDATA[ जुर्म ]]>
             </title>
             <link>https://www.aajtak.in/crime</link>
-            <guid isPermaLink="false">1666440987888</guid>
+            <guid isPermaLink="false">1666533697855</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -167,157 +187,7 @@
                 <![CDATA[  ]]>
             </title>
             <link>https://web.whatsapp.com:/send?text=%e0%a4%9c%e0%a5%81%e0%a4%b0%e0%a5%8d%e0%a4%ae via @aajtak https://www.aajtak.in/crime?utm_source=atweb_share</link>
-            <guid isPermaLink="false">1666440987889</guid>
-            <dc:creator>
-                <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
-            </dc:creator>
-        </item>
-        <item>
-            <title>
-                <![CDATA[ चीफ जस्टिस के नाम पर DGP कैसे बने जालसाजी का शिकार? IPS को बचाने की अजब कहानी ]]>
-            </title>
-            <link>https://www.aajtak.in/crime/big-crime/story/bihar-chief-justice-mobile-calls-dgp-negligence-ssp-clean-chit-liquor-smuggling-case-accused-free-revealed-stirred-police-crime-lno-1560691-2022-10-21</link>
-            <guid isPermaLink="false">1666440987890</guid>
-            <dc:creator>
-                <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
-            </dc:creator>
-        </item>
-        <item>
-            <title>
-                <![CDATA[ हत्या कर मासूम के मुंह में भरा भूसा, घर में 3 दिन तक रखा शव, ऐसे हुआ खुलासा ]]>
-            </title>
-            <link>https://www.aajtak.in/crime/police-and-intelligence/story/murder-in-up-filled-straw-in-innocent-mouth-dead-body-hidden-in-house-3-days-lclcn-1560567-2022-10-21</link>
-            <guid isPermaLink="false">1666440987891</guid>
-            <dc:creator>
-                <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
-            </dc:creator>
-        </item>
-        <item>
-            <title>
-                <![CDATA[ UP: युवक को दी तालिबानी सजा, चेहरे पर कालिख पोतकर सिर मुड़वाया ]]>
-            </title>
-            <link>https://www.aajtak.in/crime/news/story/toilet-seat-allegation-of-theft-taliban-punishment-man-police-bahraich-uttar-pradesh-lclar-1560436-2022-10-21</link>
-            <guid isPermaLink="false">1666440987892</guid>
-            <dc:creator>
-                <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
-            </dc:creator>
-        </item>
-        <item>
-            <title>
-                <![CDATA[ Delhi: मौत के 2 साल बाद हुआ पोस्टमार्टम, अभी भी अनसुलझा है ये केस ]]>
-            </title>
-            <link>https://www.aajtak.in/crime/news/story/dead-body-death-mystery-post-mortem-cremated-after-two-years-delhi-riots-delhi-police-ipc-304-lclar-1560386-2022-10-21</link>
-            <guid isPermaLink="false">1666440987893</guid>
-            <dc:creator>
-                <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
-            </dc:creator>
-        </item>
-        <item>
-            <title>
-                <![CDATA[ नोएडा की सोसायटी में बवाल, रेजिडेंट और गार्ड्स में मारपीट, Video ]]>
-            </title>
-            <link>https://www.aajtak.in/crime/police-and-intelligence/story/noida-election-of-aoa-fierce-fight-between-residents-and-guards-video-went-viral-ntc-1560378-2022-10-21</link>
-            <guid isPermaLink="false">1666440987894</guid>
-            <dc:creator>
-                <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
-            </dc:creator>
-        </item>
-        <item>
-            <title>
-                <![CDATA[ अमृतसर : लखबीर लांडा और आतंकी रिंदा के 3 करीबी साथी गिरफ्तार ]]>
-            </title>
-            <link>https://www.aajtak.in/crime/news/story/police-arrested-lakhbir-landa-and-3-close-associates-of-terrorist-harvinder-rinda-in-amritsar-lcls-1560332-2022-10-21</link>
-            <guid isPermaLink="false">1666440987895</guid>
-            <dc:creator>
-                <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
-            </dc:creator>
-        </item>
-        <item>
-            <title>
-                <![CDATA[ और भी ]]>
-            </title>
-            <link>https://www.aajtak.in/crime/news</link>
-            <guid isPermaLink="false">1666440987896</guid>
-            <dc:creator>
-                <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
-            </dc:creator>
-        </item>
-        <item>
-            <title>
-                <![CDATA[ मेरठ: चौथी मंजिल से कूदने वाली मेडिकल स्टूडेंट ने तोड़ा दम, आरोपी को जेल ]]>
-            </title>
-            <link>https://www.aajtak.in/crime/news/story/medical-student-who-jumped-from-the-fourth-floor-dies-during-treatment-in-meerut-lclg-1561154-2022-10-22</link>
-            <guid isPermaLink="false">1666440987897</guid>
-            <dc:creator>
-                <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
-            </dc:creator>
-        </item>
-        <item>
-            <title>
-                <![CDATA[ छत्तीसगढ़ में नर्स के साथ गैंगरेप, 5 लोगों ने हाथ-पैर बांधकर की दरिंदगी ]]>
-            </title>
-            <link>https://www.aajtak.in/crime/news/story/gangrape-with-nurse-in-health-center-in-chhattisgarh-latest-news-lclp-1561152-2022-10-22</link>
-            <guid isPermaLink="false">1666440987898</guid>
-            <dc:creator>
-                <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
-            </dc:creator>
-        </item>
-        <item>
-            <title>
-                <![CDATA[ पुलिस ने सुलझाई वेस्ट ट्रीटमेंट प्लांट में मिले कटे हुए पैरों की गुत्थी, 2 आरोपी गिरफ्तार ]]>
-            </title>
-            <link>https://www.aajtak.in/crime/news/story/thiruvananthapuram-police-solve-the-mystery-of-severed-legs-found-in-waste-treatment-plant-2-accused-arrested-ntc-1561018-2022-10-22</link>
-            <guid isPermaLink="false">1666440987899</guid>
-            <dc:creator>
-                <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
-            </dc:creator>
-        </item>
-        <item>
-            <title>
-                <![CDATA[ और भी ]]>
-            </title>
-            <link>https://www.aajtak.in/crime/police-and-intelligence</link>
-            <guid isPermaLink="false">1666440987900</guid>
-            <dc:creator>
-                <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
-            </dc:creator>
-        </item>
-        <item>
-            <title>
-                <![CDATA[ दिल्ली पुलिस के ACP की बेटी अरेस्ट, 4 दिन तक दर्ज नहीं हुई थी FIR ]]>
-            </title>
-            <link>https://www.aajtak.in/crime/police-and-intelligence/story/acp-daughter-arrested-for-ramming-car-on-parking-worker-in-delhi-saket-mall-lcln-1561096-2022-10-22</link>
-            <guid isPermaLink="false">1666440987901</guid>
-            <dc:creator>
-                <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
-            </dc:creator>
-        </item>
-        <item>
-            <title>
-                <![CDATA[ फर्जी वीजा बनाते थे, गुजरात ATS ने 4 आरोपी किए गिरफ्तार ]]>
-            </title>
-            <link>https://www.aajtak.in/crime/police-and-intelligence/story/gujarat-ats-arrests-4-in-fake-visa-case-lclcn-1560756-2022-10-21</link>
-            <guid isPermaLink="false">1666440987902</guid>
-            <dc:creator>
-                <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
-            </dc:creator>
-        </item>
-        <item>
-            <title>
-                <![CDATA[ दिल्लीः मौत के 2 साल बाद हुआ पोस्टमार्टम, कोर्ट ने दिया मुकदमा दर्ज करने का आदेश ]]>
-            </title>
-            <link>https://www.aajtak.in/crime/police-and-intelligence/story/pos-mortem-dead-body-took-place-after-two-years-death-case-registered-order-court-ntc-1560380-2022-10-21</link>
-            <guid isPermaLink="false">1666440987903</guid>
-            <dc:creator>
-                <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
-            </dc:creator>
-        </item>
-        <item>
-            <title>
-                <![CDATA[ और भी ]]>
-            </title>
-            <link>https://www.aajtak.in/crime/big-crime</link>
-            <guid isPermaLink="false">1666440987904</guid>
+            <guid isPermaLink="false">1666533697856</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -327,7 +197,177 @@
                 <![CDATA[ जब 'बॉबी' की मौत से संकट में आई थी सरकार, CBI ने मर्डर को बनाया था सुसाइड! ]]>
             </title>
             <link>https://www.aajtak.in/crime/big-crime/story/bihar-patna-bobby-shweta-nisha-trivedi-murder-suspicious-action-two-postmortems-viscera-ruling-leader-government-crisis-cbi-lie-exposed-crime-lno-1560928-2022-10-22</link>
-            <guid isPermaLink="false">1666440987905</guid>
+            <guid isPermaLink="false">1666533697857</guid>
+            <dc:creator>
+                <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
+            </dc:creator>
+        </item>
+        <item>
+            <title>
+                <![CDATA[ रिक्शेवाले की इस हरकत पर महिला ने बरसाए चप्पल, कार्रवाई की मांग ]]>
+            </title>
+            <link>https://www.aajtak.in/crime/news/story/woman-beat-rickshaw-driver-in-banda-up-on-making-indecent-and-dirty-comments-lclp-1561210-2022-10-22</link>
+            <guid isPermaLink="false">1666533697858</guid>
+            <dc:creator>
+                <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
+            </dc:creator>
+        </item>
+        <item>
+            <title>
+                <![CDATA[ क्लासरूम में भिड़ीं दो महिला टीचर, प्रिंसिपल का दबाया गला, मारे थप्पड़ ]]>
+            </title>
+            <link>https://www.aajtak.in/crime/news/story/barabanki-two-female-teachers-clashed-in-classroom-strangled-principal-in-front-of-children-slapped-left-unconscious-lcla-1561206-2022-10-22</link>
+            <guid isPermaLink="false">1666533697859</guid>
+            <dc:creator>
+                <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
+            </dc:creator>
+        </item>
+        <item>
+            <title>
+                <![CDATA[ जब भिड़ीं पत्नी-प्रेमिका... शख्स ने दोनों को पीटा, फिर घरवाली संग चला गया ]]>
+            </title>
+            <link>https://www.aajtak.in/crime/news/story/wife-and-girlfriend-fight-in-hospital-farrukhabad-latest-news-lclp-1561176-2022-10-22</link>
+            <guid isPermaLink="false">1666533697860</guid>
+            <dc:creator>
+                <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
+            </dc:creator>
+        </item>
+        <item>
+            <title>
+                <![CDATA[ टिकट के लिए लाइन में था युवक, बदमाशों ने चेहरे पर फेंकी सब्जी और खींच ले गए चेन ]]>
+            </title>
+            <link>https://www.aajtak.in/crime/news/story/jhansi-youth-was-line-for-train-ticket-miscreants-threw-vegetables-on-face-chain-snatching-lcla-1561172-2022-10-22</link>
+            <guid isPermaLink="false">1666533697861</guid>
+            <dc:creator>
+                <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
+            </dc:creator>
+        </item>
+        <item>
+            <title>
+                <![CDATA[ लैब में काम करने वाली युवती का उसके ही घर में मर्डर, गला रेतकर ली जान ]]>
+            </title>
+            <link>https://www.aajtak.in/crime/news/story/medical-lab-working-woman-murder-in-her-house-in-panoor-kerala-lclg-1561175-2022-10-22</link>
+            <guid isPermaLink="false">1666533697862</guid>
+            <dc:creator>
+                <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
+            </dc:creator>
+        </item>
+        <item>
+            <title>
+                <![CDATA[ और भी ]]>
+            </title>
+            <link>https://www.aajtak.in/crime/news</link>
+            <guid isPermaLink="false">1666533697863</guid>
+            <dc:creator>
+                <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
+            </dc:creator>
+        </item>
+        <item>
+            <title>
+                <![CDATA[ बाहुबली मुख्तार अंसारी के बेटों की 7 करोड़ से ज्यादा की संपत्ति कुर्क ]]>
+            </title>
+            <link>https://www.aajtak.in/crime/news/story/mau-bahubali-mukhtar-ansari-mla-son-abbas-ansari-property-worth-7-crore-51-lakh-50-thousand-attached-mp-mla-court-order-lcla-1561632-2022-10-23</link>
+            <guid isPermaLink="false">1666533697864</guid>
+            <dc:creator>
+                <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
+            </dc:creator>
+        </item>
+        <item>
+            <title>
+                <![CDATA[ 'अब्बू ने अम्मी को कुछ पिलाया, वो सो गईं फिर..,' मासूम बेटी ने किया खुलासा ]]>
+            </title>
+            <link>https://www.aajtak.in/crime/news/story/wasseypur-dhanbad-husband-accused-of-killing-wife-daughter-disclosed-case-lclp-1561603-2022-10-23</link>
+            <guid isPermaLink="false">1666533697865</guid>
+            <dc:creator>
+                <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
+            </dc:creator>
+        </item>
+        <item>
+            <title>
+                <![CDATA[ देश सुपरफास्ट: विदेश भागने की कोशिश में थीं जैकलिन फर्नांडिस ]]>
+            </title>
+            <link>https://www.aajtak.in/crime/news/video/jacqueline-fernandez-tried-to-flee-said-enforcement-directorate-to-oppose-bail-plea-1561565-2022-10-23</link>
+            <guid isPermaLink="false">1666533697866</guid>
+            <dc:creator>
+                <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
+            </dc:creator>
+        </item>
+        <item>
+            <title>
+                <![CDATA[ और भी ]]>
+            </title>
+            <link>https://www.aajtak.in/crime/police-and-intelligence</link>
+            <guid isPermaLink="false">1666533697867</guid>
+            <dc:creator>
+                <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
+            </dc:creator>
+        </item>
+        <item>
+            <title>
+                <![CDATA[ पंजाब पुलिस ने गुरजंट सिंह हत्या मामले में दो शूटर पकड़े, बरामद किए 4 विदेशी हथियार ]]>
+            </title>
+            <link>https://www.aajtak.in/crime/police-and-intelligence/story/punjab-police-caught-two-shooters-in-gurjant-singh-murder-case-recovered-4-foreign-weapons-ntc-1561570-2022-10-23</link>
+            <guid isPermaLink="false">1666533697868</guid>
+            <dc:creator>
+                <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
+            </dc:creator>
+        </item>
+        <item>
+            <title>
+                <![CDATA[ मंडोली जेल से सुकेश चंद्रशेखर ने लिखी चिट्ठी, जैकलीन के बारे में बताई ये बात ]]>
+            </title>
+            <link>https://www.aajtak.in/crime/police-and-intelligence/story/mahathag-sukesh-chandrashekhar-wrote-a-letter-from-mandoli-jail-said-about-jacqueline-ntc-1561293-2022-10-22</link>
+            <guid isPermaLink="false">1666533697869</guid>
+            <dc:creator>
+                <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
+            </dc:creator>
+        </item>
+        <item>
+            <title>
+                <![CDATA[ दिल्ली पुलिस के ACP की बेटी अरेस्ट, 4 दिन तक दर्ज नहीं हुई थी FIR ]]>
+            </title>
+            <link>https://www.aajtak.in/crime/police-and-intelligence/story/acp-daughter-arrested-for-ramming-car-on-parking-worker-in-delhi-saket-mall-lcln-1561096-2022-10-22</link>
+            <guid isPermaLink="false">1666533697870</guid>
+            <dc:creator>
+                <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
+            </dc:creator>
+        </item>
+        <item>
+            <title>
+                <![CDATA[ फर्जी वीजा बनाते थे, गुजरात ATS ने 4 आरोपी किए गिरफ्तार ]]>
+            </title>
+            <link>https://www.aajtak.in/crime/police-and-intelligence/story/gujarat-ats-arrests-4-in-fake-visa-case-lclcn-1560756-2022-10-21</link>
+            <guid isPermaLink="false">1666533697871</guid>
+            <dc:creator>
+                <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
+            </dc:creator>
+        </item>
+        <item>
+            <title>
+                <![CDATA[ हत्या कर मासूम के मुंह में भरा भूसा, घर में 3 दिन तक रखा शव, ऐसे हुआ खुलासा ]]>
+            </title>
+            <link>https://www.aajtak.in/crime/police-and-intelligence/story/murder-in-up-filled-straw-in-innocent-mouth-dead-body-hidden-in-house-3-days-lclcn-1560567-2022-10-21</link>
+            <guid isPermaLink="false">1666533697872</guid>
+            <dc:creator>
+                <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
+            </dc:creator>
+        </item>
+        <item>
+            <title>
+                <![CDATA[ और भी ]]>
+            </title>
+            <link>https://www.aajtak.in/crime/big-crime</link>
+            <guid isPermaLink="false">1666533697873</guid>
+            <dc:creator>
+                <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
+            </dc:creator>
+        </item>
+        <item>
+            <title>
+                <![CDATA[ चीफ जस्टिस के नाम पर DGP कैसे बने जालसाजी का शिकार? IPS को बचाने की अजब कहानी ]]>
+            </title>
+            <link>https://www.aajtak.in/crime/big-crime/story/bihar-chief-justice-mobile-calls-dgp-negligence-ssp-clean-chit-liquor-smuggling-case-accused-free-revealed-stirred-police-crime-lno-1560691-2022-10-21</link>
+            <guid isPermaLink="false">1666533697874</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -337,7 +377,7 @@
                 <![CDATA[ अधूरा इश्क, नाकाम रिश्ते और ब्लैकमेलिंग... वैशाली को ऐसे मौत के दर पर पहुंचा दिया ]]>
             </title>
             <link>https://www.aajtak.in/crime/big-crime/story/mp-indore-tv-actress-vaishali-thakkar-death-suicide-note-reveal-painful-story-blackmailing-conspiracy-accused-rahul-arrested-inside-story-police-crime-lno-1559884-2022-10-20</link>
-            <guid isPermaLink="false">1666440987906</guid>
+            <guid isPermaLink="false">1666533697875</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -347,7 +387,17 @@
                 <![CDATA[ अपहरण और फिरौती की साजिश... नफरत की इंतेहा है मासूमों के कत्ल की ये कहानी ]]>
             </title>
             <link>https://www.aajtak.in/crime/big-crime/story/rajasthan-bhiwadi-three-children-real-brothers-kidnapping-ransom-conspiracy-murder-accused-arrested-delhi-police-crime-lno-1559370-2022-10-19</link>
-            <guid isPermaLink="false">1666440987907</guid>
+            <guid isPermaLink="false">1666533697876</guid>
+            <dc:creator>
+                <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
+            </dc:creator>
+        </item>
+        <item>
+            <title>
+                <![CDATA[ शराब तस्करी, चीफ जस्टिस की कॉल...जालसाजी का शिकार बने DGP ]]>
+            </title>
+            <link>https://www.aajtak.in/crime/big-crime/story/bihar-chief-justice-mobile-calls-dgp-ssp-clean-chit-liquor-smuggling-case-accused-free-revealed-stirred-police-crime-lno-1558771-2022-10-18</link>
+            <guid isPermaLink="false">1666533697877</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -357,7 +407,7 @@
                 <![CDATA[ और भी ]]>
             </title>
             <link>https://www.aajtak.in/crime/cyber-crime</link>
-            <guid isPermaLink="false">1666440987908</guid>
+            <guid isPermaLink="false">1666533697878</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -367,7 +417,7 @@
                 <![CDATA[ 'HC का जज बोल रहा हूं...', जालसाज ने DGP को फोन कर कहा- मेरे दोस्त से सारे केस हटाओ ]]>
             </title>
             <link>https://www.aajtak.in/crime/cyber-crime/story/fraud-man-calls-dgp-said-i-am-judge-and-orders-to-remove-all-cases-from-his-friend-ntc-1557597-2022-10-17</link>
-            <guid isPermaLink="false">1666440987909</guid>
+            <guid isPermaLink="false">1666533697879</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -377,7 +427,7 @@
                 <![CDATA[ 'फ्लाइट टिकट पर 50% की छूट', करोड़ों की ठगी करने वाला MBA पास शख्स गिरफ्तार ]]>
             </title>
             <link>https://www.aajtak.in/crime/cyber-crime/story/btech-mba-fraudster-arrested-in-delhi-who-used-to-cheat-people-on-pretext-of-providing-international-airline-tickets-50-percent-price-lclt-1557231-2022-10-16</link>
-            <guid isPermaLink="false">1666440987910</guid>
+            <guid isPermaLink="false">1666533697880</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -387,7 +437,197 @@
                 <![CDATA[ crime ]]>
             </title>
             <link>https://www.timesnownews.com/mirror-now/crime</link>
-            <guid isPermaLink="false">1666440987911</guid>
+            <guid isPermaLink="false">1666533697881</guid>
+            <dc:creator>
+                <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
+            </dc:creator>
+        </item>
+        <item>
+            <title>
+                <![CDATA[ 01:24Uttar Pradesh: ‘Looteri Dulhan’ decamps with jewellery, cash; calls up groom to say, 'I Don't Love You' ]]>
+            </title>
+            <link>https://www.timesnownews.com/mirror-now/crime/uttar-pradesh-looteri-dulhan-decamps-with-jewellery-cash-calls-up-groom-to-say-i-dont-love-you-article-95050585</link>
+            <guid isPermaLink="false">1666533697882</guid>
+            <dc:creator>
+                <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
+            </dc:creator>
+        </item>
+        <item>
+            <title>
+                <![CDATA[ 02:44Meerut BDS student who attempted suicide after molestation bid dies; accused arrested ]]>
+            </title>
+            <link>https://www.timesnownews.com/mirror-now/crime/meerut-female-student-jumps-off-building-after-molestation-bid-dies-accused-arrested-article-95051552</link>
+            <guid isPermaLink="false">1666533697883</guid>
+            <dc:creator>
+                <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
+            </dc:creator>
+        </item>
+        <item>
+            <title>
+                <![CDATA[ 04:36Uttar Pradesh: Upset over mother’s scolding, teenager hangs self in Kanpur ]]>
+            </title>
+            <link>https://www.timesnownews.com/mirror-now/crime/uttar-pradesh-upset-over-mothers-scolding-teenager-hangs-self-in-kanpur-article-95050122</link>
+            <guid isPermaLink="false">1666533697884</guid>
+            <dc:creator>
+                <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
+            </dc:creator>
+        </item>
+        <item>
+            <title>
+                <![CDATA[ 26:53Mumbai: Senior executive accused of ‘sexually harassing woman employee’; booked ]]>
+            </title>
+            <link>https://www.timesnownews.com/mirror-now/crime/mumbai-private-firm-executive-accused-of-sexually-harassing-woman-employee-booked-article-95050143</link>
+            <guid isPermaLink="false">1666533697885</guid>
+            <dc:creator>
+                <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
+            </dc:creator>
+        </item>
+        <item>
+            <title>
+                <![CDATA[ 00:44Allahabad: Youth allegedly pushed from running train by Government Reserve Police; dies ]]>
+            </title>
+            <link>https://www.timesnownews.com/mirror-now/crime/allahabad-youth-allegedly-pushed-from-running-train-by-government-reserve-police-dies-article-95049425</link>
+            <guid isPermaLink="false">1666533697886</guid>
+            <dc:creator>
+                <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
+            </dc:creator>
+        </item>
+        <item>
+            <title>
+                <![CDATA[ 06:15Delhi: Man arrested for stalking and blackmailing woman and her sister ]]>
+            </title>
+            <link>https://www.timesnownews.com/mirror-now/crime/delhi-man-arrested-for-stalking-and-blackmailing-woman-and-her-sister-article-95048716</link>
+            <guid isPermaLink="false">1666533697887</guid>
+            <dc:creator>
+                <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
+            </dc:creator>
+        </item>
+        <item>
+            <title>
+                <![CDATA[ 02:27Karnataka: Man murdered for revenge after wife thrashes her molesters with sandals in front of cops ]]>
+            </title>
+            <link>https://www.timesnownews.com/mirror-now/crime/karnataka-man-murdered-for-revenge-after-wife-thrashes-her-molesters-with-sandals-in-front-of-cops-article-95045601</link>
+            <guid isPermaLink="false">1666533697888</guid>
+            <dc:creator>
+                <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
+            </dc:creator>
+        </item>
+        <item>
+            <title>
+                <![CDATA[ 05:35Dalit man thrashed, head shaved for ‘stealing’ toilet seat in Uttar Pradesh ]]>
+            </title>
+            <link>https://www.timesnownews.com/mirror-now/crime/dalit-man-thrashed-head-shaved-for-stealing-toilet-seat-in-uttar-pradesh-article-95045774</link>
+            <guid isPermaLink="false">1666533697889</guid>
+            <dc:creator>
+                <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
+            </dc:creator>
+        </item>
+        <item>
+            <title>
+                <![CDATA[ 07:45Delhi: BSc graduate in police net for blackmailing, extorting Rs 7 lakh from paramour ]]>
+            </title>
+            <link>https://www.timesnownews.com/mirror-now/crime/delhi-bsc-graduate-in-police-net-for-blackmailing-extorting-rs-7-lakh-from-paramour-article-95044346</link>
+            <guid isPermaLink="false">1666533697890</guid>
+            <dc:creator>
+                <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
+            </dc:creator>
+        </item>
+        <item>
+            <title>
+                <![CDATA[ 06:03Chhattisgarh shocker: Nurse working alone during Diwali break gang-raped by four in health centre ]]>
+            </title>
+            <link>https://www.timesnownews.com/mirror-now/crime/chhattisgarh-shocker-nurse-working-alone-during-diwali-break-gang-raped-by-four-in-health-centre-article-95043241</link>
+            <guid isPermaLink="false">1666533697891</guid>
+            <dc:creator>
+                <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
+            </dc:creator>
+        </item>
+        <item>
+            <title>
+                <![CDATA[ 04:12Mizoram: Assam Rifles confiscate 1.50 lakh Meth tablets worth Rs 49.99 crore; four held ]]>
+            </title>
+            <link>https://www.timesnownews.com/mirror-now/crime/mizoram-assam-rifles-confiscate-1-50-lakh-meth-tablets-worth-rs-49-99-crore-four-held-article-95042533</link>
+            <guid isPermaLink="false">1666533697892</guid>
+            <dc:creator>
+                <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
+            </dc:creator>
+        </item>
+        <item>
+            <title>
+                <![CDATA[ 02:50Kerala human sacrifice case: Shafi convinced Bhagaval Singh to store organs in refrigerator for days, later dumped them citing 'no takers' ]]>
+            </title>
+            <link>https://www.timesnownews.com/mirror-now/crime/kerala-human-sacrifice-case-shafi-convinced-bhagaval-singh-to-store-organs-in-refrigerator-for-days-later-dumped-them-citing-no-takers-article-95042368</link>
+            <guid isPermaLink="false">1666533697893</guid>
+            <dc:creator>
+                <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
+            </dc:creator>
+        </item>
+        <item>
+            <title>
+                <![CDATA[ 03:20Telangana woman murders husband with brick after assaulted for gold ]]>
+            </title>
+            <link>https://www.timesnownews.com/mirror-now/crime/telangana-woman-murders-husband-with-brick-after-assaulted-for-gold-article-95041759</link>
+            <guid isPermaLink="false">1666533697894</guid>
+            <dc:creator>
+                <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
+            </dc:creator>
+        </item>
+        <item>
+            <title>
+                <![CDATA[ 29:16Kerala woman's throat slit at home: Here is what we know about Vishnupriya's murder so far ]]>
+            </title>
+            <link>https://www.timesnownews.com/mirror-now/crime/kerala-womans-throat-slit-at-home-here-is-what-we-know-about-vishnupriyas-murder-so-far-article-95040455</link>
+            <guid isPermaLink="false">1666533697895</guid>
+            <dc:creator>
+                <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
+            </dc:creator>
+        </item>
+        <item>
+            <title>
+                <![CDATA[ 02:24Ghaziabad: Woman who ‘cooked up’ gang-rape story arrested; women’s panel seeks strict action ]]>
+            </title>
+            <link>https://www.timesnownews.com/mirror-now/crime/ghaziabad-woman-who-cooked-up-gang-rape-story-arrested-womens-panel-seeks-strict-action-article-95038664</link>
+            <guid isPermaLink="false">1666533697896</guid>
+            <dc:creator>
+                <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
+            </dc:creator>
+        </item>
+        <item>
+            <title>
+                <![CDATA[ 01:32Delhi: Two criminals nabbed after brief encounter in Jyoti Nagar ]]>
+            </title>
+            <link>https://www.timesnownews.com/mirror-now/crime/delhi-two-criminals-nabbed-after-brief-encounter-in-jyoti-nagar-article-95036949</link>
+            <guid isPermaLink="false">1666533697897</guid>
+            <dc:creator>
+                <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
+            </dc:creator>
+        </item>
+        <item>
+            <title>
+                <![CDATA[ 02:57In a first in Maharashtra, techie convicted & sentenced to life imprisonment in cyber terrorism case ]]>
+            </title>
+            <link>https://www.timesnownews.com/mirror-now/crime/in-a-first-in-maharashtra-techie-convicted-sentenced-to-life-imprisonment-in-cyber-terrorism-case-article-95036060</link>
+            <guid isPermaLink="false">1666533697898</guid>
+            <dc:creator>
+                <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
+            </dc:creator>
+        </item>
+        <item>
+            <title>
+                <![CDATA[ 02:58Kolkata STF seizes over 3,600 kg of poppy straw worth Rs 30 crore; arrests 3 smugglers ]]>
+            </title>
+            <link>https://www.timesnownews.com/mirror-now/crime/kolkata-stf-seizes-over-3600-kg-of-poppy-straw-worth-rs-30-crore-arrests-3-smugglers-article-95034952</link>
+            <guid isPermaLink="false">1666533697899</guid>
+            <dc:creator>
+                <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
+            </dc:creator>
+        </item>
+        <item>
+            <title>
+                <![CDATA[ 02:32Kerala: 23-yr-old woman found dead in house with throat slit; probe on ]]>
+            </title>
+            <link>https://www.timesnownews.com/mirror-now/crime/kerala-23-yr-old-woman-found-dead-in-house-with-throat-slit-probe-on-article-95034233</link>
+            <guid isPermaLink="false">1666533697900</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -397,7 +637,7 @@
                 <![CDATA[ 06:04Kanpur: Biscuit baron's son given life imprisonment for wife's murder along with five others ]]>
             </title>
             <link>https://www.timesnownews.com/mirror-now/crime/kanpur-biscuit-barons-son-given-life-imprisonment-for-wifes-murder-along-with-five-others-article-95033707</link>
-            <guid isPermaLink="false">1666440987912</guid>
+            <guid isPermaLink="false">1666533697901</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -407,7 +647,7 @@
                 <![CDATA[ 04:13Minor girl suicide: Mangaluru constable sentenced to life imprisonment ]]>
             </title>
             <link>https://www.timesnownews.com/mirror-now/crime/minor-girl-suicide-mangaluru-constable-sentenced-to-life-imprisonment-article-95033116</link>
-            <guid isPermaLink="false">1666440987913</guid>
+            <guid isPermaLink="false">1666533697902</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -417,197 +657,7 @@
                 <![CDATA[ 03:46Kolkata: CA and two brothers arrested in online fraud case, crores recovered ]]>
             </title>
             <link>https://www.timesnownews.com/mirror-now/crime/kolkata-ca-and-two-brothers-arrested-in-online-fraud-case-crores-recovered-article-95032664</link>
-            <guid isPermaLink="false">1666440987914</guid>
-            <dc:creator>
-                <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
-            </dc:creator>
-        </item>
-        <item>
-            <title>
-                <![CDATA[ 01:55Sagar Dhankar murder case: Court issues notice to Delhi Police on interim bail plea of accused Prince Dalal ]]>
-            </title>
-            <link>https://www.timesnownews.com/mirror-now/crime/sagar-dhankar-murder-case-court-issues-notice-to-delhi-police-on-interim-bail-plea-of-accused-prince-dalal-article-95031908</link>
-            <guid isPermaLink="false">1666440987915</guid>
-            <dc:creator>
-                <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
-            </dc:creator>
-        </item>
-        <item>
-            <title>
-                <![CDATA[ 01:13Mumbai woman duped of Rs 8 lakh for Maharaja Bhog Thali ]]>
-            </title>
-            <link>https://www.timesnownews.com/mirror-now/crime/mumbai-woman-duped-of-rs-8-lakh-for-maharaja-bhog-thali-article-95031640</link>
-            <guid isPermaLink="false">1666440987916</guid>
-            <dc:creator>
-                <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
-            </dc:creator>
-        </item>
-        <item>
-            <title>
-                <![CDATA[ 02:20Noida: Two arrested for making video of couple in hotel room and extorting money ]]>
-            </title>
-            <link>https://www.timesnownews.com/mirror-now/crime/noida-two-arrested-for-making-video-of-couple-in-hotel-room-and-trying-to-extort-money-article-95031199</link>
-            <guid isPermaLink="false">1666440987917</guid>
-            <dc:creator>
-                <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
-            </dc:creator>
-        </item>
-        <item>
-            <title>
-                <![CDATA[ Jacqueline Fernandez's interim bail extended till November 10 ]]>
-            </title>
-            <link>https://www.timesnownews.com/mirror-now/crime/jacqueline-fernandezs-interim-bail-extended-till-november-10-article-95030250</link>
-            <guid isPermaLink="false">1666440987918</guid>
-            <dc:creator>
-                <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
-            </dc:creator>
-        </item>
-        <item>
-            <title>
-                <![CDATA[ 02:18Delhi: Four arrested in the abduction of and extortion from sales tax agent, including three cops ]]>
-            </title>
-            <link>https://www.timesnownews.com/mirror-now/crime/delhi-one-more-cop-arrested-in-the-abduction-of-and-extortion-from-sales-tax-agent-article-95029411</link>
-            <guid isPermaLink="false">1666440987919</guid>
-            <dc:creator>
-                <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
-            </dc:creator>
-        </item>
-        <item>
-            <title>
-                <![CDATA[ 05:16Telangana: Woman jumps to death in well after throwing in baby over family feud ]]>
-            </title>
-            <link>https://www.timesnownews.com/mirror-now/crime/telangana-woman-jumps-to-death-in-well-after-throwing-in-baby-over-family-feud-article-95028689</link>
-            <guid isPermaLink="false">1666440987920</guid>
-            <dc:creator>
-                <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
-            </dc:creator>
-        </item>
-        <item>
-            <title>
-                <![CDATA[ 03:18Kerala: Cops crack severed legs case; two held for chopping body into pieces, dumping body parts in waste treatment plant ]]>
-            </title>
-            <link>https://www.timesnownews.com/mirror-now/crime/kerala-cops-crack-severed-legs-case-two-held-for-chopping-body-into-pieces-dumping-body-parts-in-waste-treatment-plant-article-95026978</link>
-            <guid isPermaLink="false">1666440987921</guid>
-            <dc:creator>
-                <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
-            </dc:creator>
-        </item>
-        <item>
-            <title>
-                <![CDATA[ 04:13Jharkhand horror: Software engineer left to die on roadside after gangraped by 10 men in Chaibasa, probe on ]]>
-            </title>
-            <link>https://www.timesnownews.com/mirror-now/crime/jharkhand-horror-software-engineer-left-to-die-on-roadside-after-gangraped-by-10-men-in-chaibasa-probe-on-article-95026875</link>
-            <guid isPermaLink="false">1666440987922</guid>
-            <dc:creator>
-                <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
-            </dc:creator>
-        </item>
-        <item>
-            <title>
-                <![CDATA[ 02:39Delhi police official's daughter accused of hitting mall staff with car ]]>
-            </title>
-            <link>https://www.timesnownews.com/mirror-now/crime/delhi-police-officials-daughter-accused-of-hitting-mall-staff-with-car-article-95025833</link>
-            <guid isPermaLink="false">1666440987923</guid>
-            <dc:creator>
-                <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
-            </dc:creator>
-        </item>
-        <item>
-            <title>
-                <![CDATA[ 05:02Bengaluru: Three of a family from Kerala reeling under debt burden set themselves ablaze ]]>
-            </title>
-            <link>https://www.timesnownews.com/mirror-now/crime/bengaluru-three-of-a-family-from-kerala-reeling-under-debt-burden-set-themselves-ablaze-article-95024379</link>
-            <guid isPermaLink="false">1666440987924</guid>
-            <dc:creator>
-                <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
-            </dc:creator>
-        </item>
-        <item>
-            <title>
-                <![CDATA[ 03:38Debt due to online rummy addiction: Kerala cop arrested for stealing gold ornaments from friend's house ]]>
-            </title>
-            <link>https://www.timesnownews.com/mirror-now/crime/debt-due-to-online-rummy-addiction-kerala-cop-arrested-for-stealing-gold-ornaments-from-friends-house-article-95022513</link>
-            <guid isPermaLink="false">1666440987925</guid>
-            <dc:creator>
-                <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
-            </dc:creator>
-        </item>
-        <item>
-            <title>
-                <![CDATA[ Delhi: Cyber cheats dupe people on pretext of bank customer care support, two held ]]>
-            </title>
-            <link>https://www.timesnownews.com/mirror-now/crime/delhi-cyber-cheats-dupe-people-on-pretext-of-bank-customer-care-support-two-held-article-95020226</link>
-            <guid isPermaLink="false">1666440987926</guid>
-            <dc:creator>
-                <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
-            </dc:creator>
-        </item>
-        <item>
-            <title>
-                <![CDATA[ 04:49Caught on cam: Man peeps into washroom of girls' hostel in Madhya Pradesh, then urinates in it ]]>
-            </title>
-            <link>https://www.timesnownews.com/mirror-now/crime/caught-on-cam-man-peeps-into-washroom-of-girls-hostel-in-madhya-pradesh-then-urinates-in-it-article-95020068</link>
-            <guid isPermaLink="false">1666440987927</guid>
-            <dc:creator>
-                <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
-            </dc:creator>
-        </item>
-        <item>
-            <title>
-                <![CDATA[ 04:36Prayagraj 'mosambi for platelets racket': Cops arrest 10 people for selling 'fake platelets' to kin of dengue patients ]]>
-            </title>
-            <link>https://www.timesnownews.com/mirror-now/crime/prayagraj-mosambi-for-platelets-racket-cops-arrest-10-people-for-selling-fake-platelets-to-kin-of-dengue-patients-article-95019721</link>
-            <guid isPermaLink="false">1666440987928</guid>
-            <dc:creator>
-                <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
-            </dc:creator>
-        </item>
-        <item>
-            <title>
-                <![CDATA[ 05:13Chinese woman living under Nepalese identity tells Delhi police she is here to practice Buddism ]]>
-            </title>
-            <link>https://www.timesnownews.com/mirror-now/crime/chinese-woman-living-under-nepalese-identity-tells-delhi-police-she-is-here-to-practice-buddism-article-95018606</link>
-            <guid isPermaLink="false">1666440987929</guid>
-            <dc:creator>
-                <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
-            </dc:creator>
-        </item>
-        <item>
-            <title>
-                <![CDATA[ 00:32Caught on cam: Chhatarpur municipal worker inappropriately touches dancer on stage, dismissed from service ]]>
-            </title>
-            <link>https://www.timesnownews.com/mirror-now/crime/caught-on-cam-chhatarpur-municipal-worker-inappropriately-touches-dancer-on-stage-dismissed-from-service-article-95018857</link>
-            <guid isPermaLink="false">1666440987930</guid>
-            <dc:creator>
-                <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
-            </dc:creator>
-        </item>
-        <item>
-            <title>
-                <![CDATA[ UP: Liquor smuggling racket busted at govt primary school in Kushinagar, thanks to a student-WATCH ]]>
-            </title>
-            <link>https://www.timesnownews.com/mirror-now/crime/up-liquor-smuggling-racket-busted-at-govt-primary-school-in-kushinagar-thanks-to-a-student-watch-article-95011673</link>
-            <guid isPermaLink="false">1666440987931</guid>
-            <dc:creator>
-                <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
-            </dc:creator>
-        </item>
-        <item>
-            <title>
-                <![CDATA[ 03:40Noida: 2 injured after brawl at residential society breaks out over post of Apartment owners’ association president ]]>
-            </title>
-            <link>https://www.timesnownews.com/mirror-now/crime/noida-2-injured-after-brawl-at-residential-society-breaks-out-over-post-of-apartment-owners-association-president-article-95010733</link>
-            <guid isPermaLink="false">1666440987932</guid>
-            <dc:creator>
-                <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
-            </dc:creator>
-        </item>
-        <item>
-            <title>
-                <![CDATA[ 01:45Mumbai: Female security staff of Trident Hotel raped by her superior ]]>
-            </title>
-            <link>https://www.timesnownews.com/mirror-now/crime/mumbai-female-security-staff-of-trident-hotel-raped-by-her-superior-article-95009768</link>
-            <guid isPermaLink="false">1666440987933</guid>
+            <guid isPermaLink="false">1666533697903</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -617,7 +667,7 @@
                 <![CDATA[ Bihar: 12-year-old boy chopped to death by kin of girl student who mistook exam 'chit' as love letter ]]>
             </title>
             <link>https://www.timesnownews.com/mirror-now/crime/bihar-12-year-old-boy-chopped-to-death-by-kin-of-girl-student-who-mistook-exam-chit-as-love-letter-article-94983723</link>
-            <guid isPermaLink="false">1666440987934</guid>
+            <guid isPermaLink="false">1666533697904</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -627,7 +677,22 @@
                 <![CDATA[ Crime ]]>
             </title>
             <link>https://www.deccanchronicle.com/nation/crime</link>
-            <guid isPermaLink="false">1666440987935</guid>
+            <guid isPermaLink="false">1666533697905</guid>
+            <dc:creator>
+                <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
+            </dc:creator>
+        </item>
+        <item>
+            <title>
+                <![CDATA[ Cyberabad police seize Rs 1 Crore cash, arrested four persons
+							
+								Police said the money was meant for bypoll-bound Munugode 
+							
+							
+							23 Oct 2022 9:31 AM ]]>
+            </title>
+            <link>https://www.deccanchronicle.com/nation/crime/231022/cyberabad-police-seize-rs-1-crore-cash-arrested-four-persons.html</link>
+            <guid isPermaLink="false">1666533697906</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -642,7 +707,7 @@
 							22 Oct 2022 8:25 AM ]]>
             </title>
             <link>https://www.deccanchronicle.com/nation/crime/221022/cases-against-children-closed-by-police-hyd-in-dubious-list.html</link>
-            <guid isPermaLink="false">1666440987936</guid>
+            <guid isPermaLink="false">1666533697907</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -657,7 +722,7 @@
 							22 Oct 2022 8:10 AM ]]>
             </title>
             <link>https://www.deccanchronicle.com/nation/crime/221022/police-trace-out-two-abducted-boys-in-separate-cases.html</link>
-            <guid isPermaLink="false">1666440987937</guid>
+            <guid isPermaLink="false">1666533697908</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -672,22 +737,17 @@
 							22 Oct 2022 8:05 AM ]]>
             </title>
             <link>https://www.deccanchronicle.com/nation/crime/221022/apsrtc-bus-catches-fire-passengers-escape-unhurt.html</link>
-            <guid isPermaLink="false">1666440987938</guid>
+            <guid isPermaLink="false">1666533697909</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
         </item>
         <item>
             <title>
-                <![CDATA[ KG student rape case: School recognition cancelled
-							
-								 
-							
-							
-							22 Oct 2022 12:04 AM ]]>
+                <![CDATA[ KG student rape case: School recognition cancelled ]]>
             </title>
             <link>https://www.deccanchronicle.com/nation/crime/211022/kg-student-rape-case-school-recognition-cancelled.html</link>
-            <guid isPermaLink="false">1666440987939</guid>
+            <guid isPermaLink="false">1666533697910</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -702,7 +762,7 @@
 							21 Oct 2022 10:43 AM ]]>
             </title>
             <link>https://www.deccanchronicle.com/nation/crime/211022/agri-officer-sub-registrar-in-acb-net.html</link>
-            <guid isPermaLink="false">1666440987940</guid>
+            <guid isPermaLink="false">1666533697911</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -717,7 +777,7 @@
 							20 Oct 2022 11:54 PM ]]>
             </title>
             <link>https://www.deccanchronicle.com/nation/crime/201022/dispute-between-two-communities-ends-with-land-pooling.html</link>
-            <guid isPermaLink="false">1666440987941</guid>
+            <guid isPermaLink="false">1666533697912</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -732,7 +792,7 @@
 							20 Oct 2022 5:02 PM ]]>
             </title>
             <link>https://www.deccanchronicle.com/nation/crime/201022/mbs-jewellers-pmla-case-mmtc-duped-to-the-tune-of-rs-504-cr.html</link>
-            <guid isPermaLink="false">1666440987942</guid>
+            <guid isPermaLink="false">1666533697913</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -747,7 +807,7 @@
 							20 Oct 2022 12:36 PM ]]>
             </title>
             <link>https://www.deccanchronicle.com/nation/crime/201022/three-more-held-in-uppal-double-murder-case.html</link>
-            <guid isPermaLink="false">1666440987943</guid>
+            <guid isPermaLink="false">1666533697914</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -762,7 +822,7 @@
 							20 Oct 2022 12:03 PM ]]>
             </title>
             <link>https://www.deccanchronicle.com/nation/crime/201022/telangana-inspector-injured-in-stone-pelting.html</link>
-            <guid isPermaLink="false">1666440987944</guid>
+            <guid isPermaLink="false">1666533697915</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -777,7 +837,7 @@
 							20 Oct 2022 9:40 AM ]]>
             </title>
             <link>https://www.deccanchronicle.com/nation/crime/201022/mbs-jewellers-ed-to-probe-pmla-case-with-assistance-of-it-officials.html</link>
-            <guid isPermaLink="false">1666440987945</guid>
+            <guid isPermaLink="false">1666533697916</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -792,7 +852,7 @@
 							20 Oct 2022 8:56 AM ]]>
             </title>
             <link>https://www.deccanchronicle.com/nation/crime/201022/online-tutor-sentenced-to-jail-for-blackmailing-students-mother.html</link>
-            <guid isPermaLink="false">1666440987946</guid>
+            <guid isPermaLink="false">1666533697917</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -807,22 +867,17 @@
 							20 Oct 2022 12:07 AM ]]>
             </title>
             <link>https://www.deccanchronicle.com/nation/crime/191022/driver-may-have-assaulted-other-girls-too-says-mother-of-victim.html</link>
-            <guid isPermaLink="false">1666440987947</guid>
+            <guid isPermaLink="false">1666533697918</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
         </item>
         <item>
             <title>
-                <![CDATA[ KG student rape: Enraged parents protest outside Banjara Hills police station
-							
-								 
-							
-							
-							20 Oct 2022 12:01 AM ]]>
+                <![CDATA[ KG student rape: Enraged parents protest outside Banjara Hills police station ]]>
             </title>
             <link>https://www.deccanchronicle.com/nation/crime/191022/enraged-parents-protest-outside-banjara-hills-police-station.html</link>
-            <guid isPermaLink="false">1666440987948</guid>
+            <guid isPermaLink="false">1666533697919</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -837,7 +892,7 @@
 							19 Oct 2022 11:55 PM ]]>
             </title>
             <link>https://www.deccanchronicle.com/nation/crime/191022/kg-student-rape-case-booked-against-school-principal-for-negligence.html</link>
-            <guid isPermaLink="false">1666440987949</guid>
+            <guid isPermaLink="false">1666533697920</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -852,7 +907,7 @@
 							19 Oct 2022 5:15 PM ]]>
             </title>
             <link>https://www.deccanchronicle.com/nation/crime/191022/delhi-woman-gang-raped-in-ghaziabad-admitted-to-hospital-police.html</link>
-            <guid isPermaLink="false">1666440987950</guid>
+            <guid isPermaLink="false">1666533697921</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -867,7 +922,7 @@
 							18 Oct 2022 11:18 PM ]]>
             </title>
             <link>https://www.deccanchronicle.com/nation/crime/181022/father-throws-baby-girl-into-pond-in-punganur-child-rescued-by-passer.html</link>
-            <guid isPermaLink="false">1666440987951</guid>
+            <guid isPermaLink="false">1666533697922</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -882,7 +937,7 @@
 							18 Oct 2022 1:15 PM ]]>
             </title>
             <link>https://www.deccanchronicle.com/nation/crime/181022/dalit-women-stage-a-dharna-in-front-of-sp-office.html</link>
-            <guid isPermaLink="false">1666440987952</guid>
+            <guid isPermaLink="false">1666533697923</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -897,7 +952,7 @@
 							18 Oct 2022 12:39 PM ]]>
             </title>
             <link>https://www.deccanchronicle.com/nation/crime/181022/charge-sheet-filed-in-devika-murder-case-within-a-week.html</link>
-            <guid isPermaLink="false">1666440987953</guid>
+            <guid isPermaLink="false">1666533697924</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -912,22 +967,7 @@
 							18 Oct 2022 8:36 AM ]]>
             </title>
             <link>https://www.deccanchronicle.com/nation/crime/181022/red-sanders-logs-worth-rs-50l-seized-tn-based-smuggler-held-in-chitto.html</link>
-            <guid isPermaLink="false">1666440987954</guid>
-            <dc:creator>
-                <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
-            </dc:creator>
-        </item>
-        <item>
-            <title>
-                <![CDATA[ Nalgonda police seize Rs.1 crore cash at poll-bound Munugode
-							
-								 
-							
-							
-							18 Oct 2022 7:52 AM ]]>
-            </title>
-            <link>https://www.deccanchronicle.com/nation/crime/181022/nalgonda-police-seize-rs1-crore-cash-at-poll-bound-munugode.html</link>
-            <guid isPermaLink="false">1666440987955</guid>
+            <guid isPermaLink="false">1666533697925</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -937,7 +977,7 @@
                 <![CDATA[ Next » ]]>
             </title>
             <link>https://www.deccanchronicle.com/nation/crime?pg=2</link>
-            <guid isPermaLink="false">1666440987956</guid>
+            <guid isPermaLink="false">1666533697926</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -947,7 +987,7 @@
                 <![CDATA[ 3 ]]>
             </title>
             <link>https://www.deccanchronicle.com/nation/crime?pg=3</link>
-            <guid isPermaLink="false">1666440987957</guid>
+            <guid isPermaLink="false">1666533697927</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -957,7 +997,7 @@
                 <![CDATA[ 4 ]]>
             </title>
             <link>https://www.deccanchronicle.com/nation/crime?pg=4</link>
-            <guid isPermaLink="false">1666440987958</guid>
+            <guid isPermaLink="false">1666533697928</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -967,7 +1007,7 @@
                 <![CDATA[ 5 ]]>
             </title>
             <link>https://www.deccanchronicle.com/nation/crime?pg=5</link>
-            <guid isPermaLink="false">1666440987959</guid>
+            <guid isPermaLink="false">1666533697929</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -977,17 +1017,7 @@
                 <![CDATA[ Woman gets husband ‘married’ to his ex-lover ]]>
             </title>
             <link>https://www.deccanchronicle.com/nation/crime/220922/woman-gets-husband-married-to-his-ex-lover.html</link>
-            <guid isPermaLink="false">1666440987960</guid>
-            <dc:creator>
-                <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
-            </dc:creator>
-        </item>
-        <item>
-            <title>
-                <![CDATA[ CBI arrests ABG founder-chairman Rishi Agarwal in Rs 22,842-crore bank fraud case ]]>
-            </title>
-            <link>https://www.deccanchronicle.com/nation/crime/210922/cbi-arrests-abg-founder-chairman-rishi-agarwal-in-rs-22842-crore-bank.html</link>
-            <guid isPermaLink="false">1666440987961</guid>
+            <guid isPermaLink="false">1666533697930</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -997,87 +1027,57 @@
                 <![CDATA[ CBI questions Tejashwi Yadav's close aide in land-for-jobs 'scam' ]]>
             </title>
             <link>https://www.deccanchronicle.com/nation/crime/081022/cbi-questions-tejashwi-yadavs-close-aide-in-land-for-jobs-scam.html</link>
-            <guid isPermaLink="false">1666440987962</guid>
+            <guid isPermaLink="false">1666533697931</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
         </item>
         <item>
             <title>
-                <![CDATA[ Andhra Pradesh: CBI ASP Ram Singh back on Vivekananda Reddy case ]]>
+                <![CDATA[ ED stops TMC leader Abhishek Banerjee's kin from flying abroad; issues summons ]]>
             </title>
-            <link>https://www.deccanchronicle.com/nation/crime/230922/andhra-pradesh-cbi-asp-ram-singh-back-on-vivekananda-reddy-case.html</link>
-            <guid isPermaLink="false">1666440987963</guid>
+            <link>https://www.deccanchronicle.com/nation/crime/110922/ed-stops-tmc-leader-abhishek-banerjees-relative-from-flying-abroad-i.html</link>
+            <guid isPermaLink="false">1666533697932</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
         </item>
         <item>
             <title>
-                <![CDATA[ NIA crackdown against PFI in Telangana, AP for ‘terror acts’ ]]>
-            </title>
-            <link>https://www.deccanchronicle.com/nation/crime/180922/nia-crackdown-against-pfi-in-telangana-ap-for-terror-acts.html</link>
-            <guid isPermaLink="false">1666440987964</guid>
-            <dc:creator>
-                <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
-            </dc:creator>
-        </item>
-        <item>
-            <title>
-                <![CDATA[ All(8726) ]]>
+                <![CDATA[ All(27432) ]]>
             </title>
             <link>https://timesofindia.indiatimes.com/topic/crime-news</link>
-            <guid isPermaLink="false">1666440987965</guid>
+            <guid isPermaLink="false">1666533697933</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
         </item>
         <item>
             <title>
-                <![CDATA[ Articles(8721) ]]>
+                <![CDATA[ Articles(27240) ]]>
             </title>
             <link>https://timesofindia.indiatimes.com/topic/crime-news/news</link>
-            <guid isPermaLink="false">1666440987966</guid>
+            <guid isPermaLink="false">1666533697934</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
         </item>
         <item>
             <title>
-                <![CDATA[ Videos(5) ]]>
+                <![CDATA[ Videos(190) ]]>
             </title>
             <link>https://timesofindia.indiatimes.com/topic/crime-news/videos</link>
-            <guid isPermaLink="false">1666440987967</guid>
+            <guid isPermaLink="false">1666533697935</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
         </item>
         <item>
             <title>
-                <![CDATA[ Karnataka organised crime act can be made applicable only if there are multiple crimes pending: HC TNN / Oct 20, 2022, 21:49 (IST) It is required that there should be proceedings pertaining to multiple crimes being pending and/or being prosecuted for the provisions of Karnataka Control of Organized Crime Act, 2000 (KCOCA) to be made applicable, the high court has observed in a recent judgement. ]]>
+                <![CDATA[ Photos(2) ]]>
             </title>
-            <link>https://timesofindia.indiatimes.com/city/bengaluru/karnataka-organised-crime-act-can-be-made-applicable-only-if-there-are-multiple-crimes-pending-hc/articleshow/94994872.cms</link>
-            <guid isPermaLink="false">1666440987968</guid>
-            <dc:creator>
-                <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
-            </dc:creator>
-        </item>
-        <item>
-            <title>
-                <![CDATA[ Noida: Murder to robbery, traffic cameras help cops solve crime TNN / Oct 17, 2022, 06:10 (IST) The Integrated Security and Traffic Management System (ISTMS) has assisted police in solving 104 crimes - 29 robberies, 26 snatchings, 26 hit and run cases, one murder, 22 missing persons, vehicle theft and other cases - from May to September this year. ]]>
-            </title>
-            <link>https://timesofindia.indiatimes.com/city/noida/noida-murder-to-robbery-traffic-cameras-help-cops-solve-crime/articleshow/94903741.cms</link>
-            <guid isPermaLink="false">1666440987969</guid>
-            <dc:creator>
-                <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
-            </dc:creator>
-        </item>
-        <item>
-            <title>
-                <![CDATA[ Lucknow: Minor raped in Lohia Park, second crime in Gomtinagar in 3 days TNN / Oct 19, 2022, 05:44 (IST) Three days after a women passenger was gangraped in an autorickshaw in Gomtinagar, another case of sexual assault was reported from the area on Tuesday when a 15-year-old girl was raped inside Lohia park by a man whom she befriended on a social networking site. ]]>
-            </title>
-            <link>https://timesofindia.indiatimes.com/city/lucknow/lucknow-minor-raped-in-lohia-park-second-crime-in-gomtinagar-in-3-days/articleshow/94952800.cms</link>
-            <guid isPermaLink="false">1666440987970</guid>
+            <link>https://timesofindia.indiatimes.com/topic/crime-news/photos</link>
+            <guid isPermaLink="false">1666533697936</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -1087,7 +1087,7 @@
                 <![CDATA[ क्राइम ]]>
             </title>
             <link>https://www.amarujala.com/crime?src=mainmenu</link>
-            <guid isPermaLink="false">1666440987972</guid>
+            <guid isPermaLink="false">1666533697938</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -1096,8 +1096,98 @@
             <title>
                 <![CDATA[  ]]>
             </title>
+            <link>https://www.amarujala.com/chandigarh/crime/bjp-leader-house-attacked-with-petrol-bomb-in-firozpur-of-punjab</link>
+            <guid isPermaLink="false">1666533697939</guid>
+            <dc:creator>
+                <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
+            </dc:creator>
+        </item>
+        <item>
+            <title>
+                <![CDATA[  ]]>
+            </title>
+            <link>whatsapp://send?text=https://www.amarujala.com/chandigarh/crime/bjp-leader-house-attacked-with-petrol-bomb-in-firozpur-of-punjab</link>
+            <guid isPermaLink="false">1666533697940</guid>
+            <dc:creator>
+                <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
+            </dc:creator>
+        </item>
+        <item>
+            <title>
+                <![CDATA[  ]]>
+            </title>
+            <link>https://telegram.me/share/url?url=https://www.amarujala.com/chandigarh/crime/bjp-leader-house-attacked-with-petrol-bomb-in-firozpur-of-punjab?text=firozpur news: भाजपा मंडल अध्यक्ष के घर पर पेट्रोल बम से हमला, सीसीटीवी में दिखे तीन संदिग्ध</link>
+            <guid isPermaLink="false">1666533697941</guid>
+            <dc:creator>
+                <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
+            </dc:creator>
+        </item>
+        <item>
+            <title>
+                <![CDATA[ Jind News: एक ही परिवार के तीन लोगों ने निगला जहर, बाप और बेटे की मौत, पोते की हालक नाजुक ]]>
+            </title>
+            <link>https://www.amarujala.com/chandigarh/crime/three-people-of-the-same-family-swallowed-poison-in-jind</link>
+            <guid isPermaLink="false">1666533697942</guid>
+            <dc:creator>
+                <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
+            </dc:creator>
+        </item>
+        <item>
+            <title>
+                <![CDATA[  ]]>
+            </title>
+            <link>whatsapp://send?text=https://www.amarujala.com/chandigarh/crime/three-people-of-the-same-family-swallowed-poison-in-jind</link>
+            <guid isPermaLink="false">1666533697943</guid>
+            <dc:creator>
+                <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
+            </dc:creator>
+        </item>
+        <item>
+            <title>
+                <![CDATA[  ]]>
+            </title>
+            <link>https://telegram.me/share/url?url=https://www.amarujala.com/chandigarh/crime/three-people-of-the-same-family-swallowed-poison-in-jind?text=jind news: एक ही परिवार के तीन लोगों ने निगला जहर, बाप और बेटे की मौत, पोते की हालक नाजुक</link>
+            <guid isPermaLink="false">1666533697944</guid>
+            <dc:creator>
+                <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
+            </dc:creator>
+        </item>
+        <item>
+            <title>
+                <![CDATA[ लुधियाना: महानगर में फिर गैंगस्टरों ने की वारदात, सरेबाजार युवक पर तेजधार हथियार से हमला कर उतारा मौत के घाट ]]>
+            </title>
+            <link>https://www.amarujala.com/punjab/ludhiana/crime/youth-killed-by-attacking-with-sharp-weapon-in-ludhiana-of-punjab</link>
+            <guid isPermaLink="false">1666533697945</guid>
+            <dc:creator>
+                <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
+            </dc:creator>
+        </item>
+        <item>
+            <title>
+                <![CDATA[  ]]>
+            </title>
+            <link>whatsapp://send?text=https://www.amarujala.com/punjab/ludhiana/crime/youth-killed-by-attacking-with-sharp-weapon-in-ludhiana-of-punjab</link>
+            <guid isPermaLink="false">1666533697946</guid>
+            <dc:creator>
+                <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
+            </dc:creator>
+        </item>
+        <item>
+            <title>
+                <![CDATA[  ]]>
+            </title>
+            <link>https://telegram.me/share/url?url=https://www.amarujala.com/punjab/ludhiana/crime/youth-killed-by-attacking-with-sharp-weapon-in-ludhiana-of-punjab?text=लुधियाना: महानगर में फिर गैंगस्टरों ने की वारदात, सरेबाजार युवक पर तेजधार हथियार से हमला कर उतारा मौत के घाट</link>
+            <guid isPermaLink="false">1666533697947</guid>
+            <dc:creator>
+                <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
+            </dc:creator>
+        </item>
+        <item>
+            <title>
+                <![CDATA[ Karnal: जाणी गांव की पूर्व सरपंच के चाचा पर फायरिंग, तीन गोली लगी, कार सवार चार लोगों ने बरसाई गोलियां ]]>
+            </title>
             <link>https://www.amarujala.com/haryana/karnal/crime/firing-on-uncle-of-former-sarpanch-of-jaani-village-of-karnal</link>
-            <guid isPermaLink="false">1666440987973</guid>
+            <guid isPermaLink="false">1666533697948</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -1107,7 +1197,7 @@
                 <![CDATA[  ]]>
             </title>
             <link>whatsapp://send?text=https://www.amarujala.com/haryana/karnal/crime/firing-on-uncle-of-former-sarpanch-of-jaani-village-of-karnal</link>
-            <guid isPermaLink="false">1666440987974</guid>
+            <guid isPermaLink="false">1666533697949</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -1117,7 +1207,7 @@
                 <![CDATA[  ]]>
             </title>
             <link>https://telegram.me/share/url?url=https://www.amarujala.com/haryana/karnal/crime/firing-on-uncle-of-former-sarpanch-of-jaani-village-of-karnal?text=karnal: जाणी गांव की पूर्व सरपंच के चाचा पर फायरिंग, तीन गोली लगी, कार सवार चार लोगों ने बरसाई गोलियां</link>
-            <guid isPermaLink="false">1666440987975</guid>
+            <guid isPermaLink="false">1666533697950</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -1127,7 +1217,7 @@
                 <![CDATA[ Sonipat: बाइक एजेंसी संचालक को पिस्तौल दिखाकर नकदी-लैपटॉप की लूट, प्याऊ मनियारी के पास हुई वारदात ]]>
             </title>
             <link>https://www.amarujala.com/haryana/sonipat/crime/loot-with-bike-agency-director-in-kundli-of-sonipat</link>
-            <guid isPermaLink="false">1666440987976</guid>
+            <guid isPermaLink="false">1666533697951</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -1137,7 +1227,7 @@
                 <![CDATA[  ]]>
             </title>
             <link>whatsapp://send?text=https://www.amarujala.com/haryana/sonipat/crime/loot-with-bike-agency-director-in-kundli-of-sonipat</link>
-            <guid isPermaLink="false">1666440987977</guid>
+            <guid isPermaLink="false">1666533697952</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -1147,7 +1237,7 @@
                 <![CDATA[  ]]>
             </title>
             <link>https://telegram.me/share/url?url=https://www.amarujala.com/haryana/sonipat/crime/loot-with-bike-agency-director-in-kundli-of-sonipat?text=sonipat: बाइक एजेंसी संचालक को पिस्तौल दिखाकर नकदी-लैपटॉप की लूट, प्याऊ मनियारी के पास हुई वारदात</link>
-            <guid isPermaLink="false">1666440987978</guid>
+            <guid isPermaLink="false">1666533697953</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -1157,7 +1247,7 @@
                 <![CDATA[ Patiala News: 11 साल की बच्ची से 70 साल के बुजुर्ग ने किया दुष्कर्म, बिलखते घर पहुंची तो मां को सुनाई आपबीती ]]>
             </title>
             <link>https://www.amarujala.com/chandigarh/crime/misdeed-with-minor-girl-in-patiala-of-punjab</link>
-            <guid isPermaLink="false">1666440987979</guid>
+            <guid isPermaLink="false">1666533697954</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -1167,7 +1257,7 @@
                 <![CDATA[  ]]>
             </title>
             <link>whatsapp://send?text=https://www.amarujala.com/chandigarh/crime/misdeed-with-minor-girl-in-patiala-of-punjab</link>
-            <guid isPermaLink="false">1666440987980</guid>
+            <guid isPermaLink="false">1666533697955</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -1177,7 +1267,7 @@
                 <![CDATA[  ]]>
             </title>
             <link>https://telegram.me/share/url?url=https://www.amarujala.com/chandigarh/crime/misdeed-with-minor-girl-in-patiala-of-punjab?text=patiala news: 11 साल की बच्ची से 70 साल के बुजुर्ग ने किया दुष्कर्म, बिलखते घर पहुंची तो मां को सुनाई आपबीती</link>
-            <guid isPermaLink="false">1666440987981</guid>
+            <guid isPermaLink="false">1666533697956</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -1187,7 +1277,7 @@
                 <![CDATA[ Punjab News: महिला को बंधक बना दो माह तक किया सामूहिक दुष्कर्म, तीन के खिलाफ केस दर्ज, संगरूर का है मामला ]]>
             </title>
             <link>https://www.amarujala.com/chandigarh/crime/gang-misdeed-with-woman-in-sangrur-of-punjab</link>
-            <guid isPermaLink="false">1666440987982</guid>
+            <guid isPermaLink="false">1666533697957</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -1197,7 +1287,7 @@
                 <![CDATA[  ]]>
             </title>
             <link>whatsapp://send?text=https://www.amarujala.com/chandigarh/crime/gang-misdeed-with-woman-in-sangrur-of-punjab</link>
-            <guid isPermaLink="false">1666440987983</guid>
+            <guid isPermaLink="false">1666533697958</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -1207,7 +1297,7 @@
                 <![CDATA[  ]]>
             </title>
             <link>https://telegram.me/share/url?url=https://www.amarujala.com/chandigarh/crime/gang-misdeed-with-woman-in-sangrur-of-punjab?text=punjab news: महिला को बंधक बना दो माह तक किया सामूहिक दुष्कर्म, तीन के खिलाफ केस दर्ज, संगरूर का है मामला</link>
-            <guid isPermaLink="false">1666440987984</guid>
+            <guid isPermaLink="false">1666533697959</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -1217,7 +1307,7 @@
                 <![CDATA[ Amritsar News: यात्री की चाल ने खोली पोल, एयरपोर्ट पर पकड़ा गया 21.29 लाख का सोना, गुदा में छिपा रखा था ]]>
             </title>
             <link>https://www.amarujala.com/punjab/amritsar/crime/gold-worth-rs-21-29-lakh-seized-at-amritsar-airport</link>
-            <guid isPermaLink="false">1666440987985</guid>
+            <guid isPermaLink="false">1666533697960</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -1227,7 +1317,7 @@
                 <![CDATA[  ]]>
             </title>
             <link>whatsapp://send?text=https://www.amarujala.com/punjab/amritsar/crime/gold-worth-rs-21-29-lakh-seized-at-amritsar-airport</link>
-            <guid isPermaLink="false">1666440987986</guid>
+            <guid isPermaLink="false">1666533697961</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -1237,97 +1327,7 @@
                 <![CDATA[  ]]>
             </title>
             <link>https://telegram.me/share/url?url=https://www.amarujala.com/punjab/amritsar/crime/gold-worth-rs-21-29-lakh-seized-at-amritsar-airport?text=amritsar news: यात्री की चाल ने खोली पोल, एयरपोर्ट पर पकड़ा गया 21.29 लाख का सोना, गुदा में छिपा रखा था</link>
-            <guid isPermaLink="false">1666440987987</guid>
-            <dc:creator>
-                <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
-            </dc:creator>
-        </item>
-        <item>
-            <title>
-                <![CDATA[ Haryana News: भिवानी में खनन अधिकारी एक लाख और जींद में जेई 60 हजार रिश्वत लेते गिरफ्तार ]]>
-            </title>
-            <link>https://www.amarujala.com/chandigarh/crime/irrigation-department-executive-engineer-arrested-for-taking-bribe-in-jind</link>
-            <guid isPermaLink="false">1666440987988</guid>
-            <dc:creator>
-                <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
-            </dc:creator>
-        </item>
-        <item>
-            <title>
-                <![CDATA[  ]]>
-            </title>
-            <link>whatsapp://send?text=https://www.amarujala.com/chandigarh/crime/irrigation-department-executive-engineer-arrested-for-taking-bribe-in-jind</link>
-            <guid isPermaLink="false">1666440987989</guid>
-            <dc:creator>
-                <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
-            </dc:creator>
-        </item>
-        <item>
-            <title>
-                <![CDATA[  ]]>
-            </title>
-            <link>https://telegram.me/share/url?url=https://www.amarujala.com/chandigarh/crime/irrigation-department-executive-engineer-arrested-for-taking-bribe-in-jind?text=haryana news: भिवानी में खनन अधिकारी एक लाख और जींद में जेई 60 हजार रिश्वत लेते गिरफ्तार</link>
-            <guid isPermaLink="false">1666440987990</guid>
-            <dc:creator>
-                <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
-            </dc:creator>
-        </item>
-        <item>
-            <title>
-                <![CDATA[ Bathinda News: बठिंडा में दो चौकीदारों की हत्या, एक पर ईंट तो दूसरे पर धारदार हथियार से किया हमला ]]>
-            </title>
-            <link>https://www.amarujala.com/chandigarh/crime/two-watchmen-killed-in-bathinda-of-punjab</link>
-            <guid isPermaLink="false">1666440987991</guid>
-            <dc:creator>
-                <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
-            </dc:creator>
-        </item>
-        <item>
-            <title>
-                <![CDATA[  ]]>
-            </title>
-            <link>whatsapp://send?text=https://www.amarujala.com/chandigarh/crime/two-watchmen-killed-in-bathinda-of-punjab</link>
-            <guid isPermaLink="false">1666440987992</guid>
-            <dc:creator>
-                <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
-            </dc:creator>
-        </item>
-        <item>
-            <title>
-                <![CDATA[  ]]>
-            </title>
-            <link>https://telegram.me/share/url?url=https://www.amarujala.com/chandigarh/crime/two-watchmen-killed-in-bathinda-of-punjab?text=bathinda news: बठिंडा में दो चौकीदारों की हत्या, एक पर ईंट तो दूसरे पर धारदार हथियार से किया हमला</link>
-            <guid isPermaLink="false">1666440987993</guid>
-            <dc:creator>
-                <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
-            </dc:creator>
-        </item>
-        <item>
-            <title>
-                <![CDATA[ Punjab: जालंधर के युवक की इटली में हत्या, परिवार में पसरा मातम, जमीन गिरवी रखकर गया था विदेश ]]>
-            </title>
-            <link>https://www.amarujala.com/chandigarh/crime/jalandhar-youth-murdered-in-italy</link>
-            <guid isPermaLink="false">1666440987994</guid>
-            <dc:creator>
-                <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
-            </dc:creator>
-        </item>
-        <item>
-            <title>
-                <![CDATA[  ]]>
-            </title>
-            <link>whatsapp://send?text=https://www.amarujala.com/chandigarh/crime/jalandhar-youth-murdered-in-italy</link>
-            <guid isPermaLink="false">1666440987995</guid>
-            <dc:creator>
-                <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
-            </dc:creator>
-        </item>
-        <item>
-            <title>
-                <![CDATA[  ]]>
-            </title>
-            <link>https://telegram.me/share/url?url=https://www.amarujala.com/chandigarh/crime/jalandhar-youth-murdered-in-italy?text=punjab: जालंधर के युवक की इटली में हत्या, परिवार में पसरा मातम, जमीन गिरवी रखकर गया था विदेश</link>
-            <guid isPermaLink="false">1666440987996</guid>
+            <guid isPermaLink="false">1666533697962</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -1337,7 +1337,7 @@
                 <![CDATA[ Load More ]]>
             </title>
             <link>https://www.amarujala.com/crime?page=1</link>
-            <guid isPermaLink="false">1666440987997</guid>
+            <guid isPermaLink="false">1666533697963</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -1347,7 +1347,37 @@
                 <![CDATA[  ]]>
             </title>
             <link>https://twitter.com/intent/tweet?url=https://apnews.com/hub/crime</link>
-            <guid isPermaLink="false">1666440987998</guid>
+            <guid isPermaLink="false">1666533697964</guid>
+            <dc:creator>
+                <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
+            </dc:creator>
+        </item>
+        <item>
+            <title>
+                <![CDATA[ BATON ROUGE, La. (AP) — A Louisiana shooting injured 11 people at a fraternity house near Southern University's campus, which is in the midst of celebrating its homecoming festivities, and two people are in custody, Baton Rouge police said. ]]>
+            </title>
+            <link>https://apnews.com/article/louisiana-baton-rouge-crime-shootings-5cd596d7cbdfd69e2f400888412e3f13</link>
+            <guid isPermaLink="false">1666533697965</guid>
+            <dc:creator>
+                <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
+            </dc:creator>
+        </item>
+        <item>
+            <title>
+                <![CDATA[ HOUSTON (AP) — Political ads on the airwaves and social media in the nation's fourth largest city paint a picture of Houston as a failed state where crime is out of control and violent criminals have free rein. ]]>
+            </title>
+            <link>https://apnews.com/article/2022-midterm-elections-houston-crime-violent-police-37a148fa08c2a2dfe81c372196fffcb1</link>
+            <guid isPermaLink="false">1666533697966</guid>
+            <dc:creator>
+                <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
+            </dc:creator>
+        </item>
+        <item>
+            <title>
+                <![CDATA[ MINNEAPOLIS (AP) — Inside the Minneapolis Police Academy's sprawling campus on the city's north side, six people sat soberly and listened to a handful of officers and city officials make their pitch about joining an understaffed department that is synonymous with the murder of George Floyd. ]]>
+            </title>
+            <link>https://apnews.com/article/death-of-george-floyd-minneapolis-crime-race-and-ethnicity-police-0e0e551f581ec4c5f4ec18d02525481e</link>
+            <guid isPermaLink="false">1666533697967</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -1357,7 +1387,7 @@
                 <![CDATA[ NORTH LAS VEGAS, Nev. (AP) — A veteran Democratic state senator now running for mayor of North Las Vegas said Friday that her 21-year-old adopted son shot and wounded her nephew at her home while she was at a community event. ]]>
             </title>
             <link>https://apnews.com/article/gun-violence-nevada-crime-las-vegas-shootings-aeba9cdaed2c7f9263704bd29e9f8f64</link>
-            <guid isPermaLink="false">1666440987999</guid>
+            <guid isPermaLink="false">1666533697968</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -1367,7 +1397,7 @@
                 <![CDATA[ ATHERTON, Calif. (AP) — Three decades after a car was reported stolen in Northern California, police are digging the missing convertible out of the yard of a $15 million mansion built by a man with a history of arrests for murder, attempted murder and insurance fraud. ]]>
             </title>
             <link>https://apnews.com/article/california-san-mateo-crime-arrests-insurance-fraud-74ae8d8ce792987fc36096660cdc00ce</link>
-            <guid isPermaLink="false">1666440988000</guid>
+            <guid isPermaLink="false">1666533697969</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -1377,7 +1407,7 @@
                 <![CDATA[ LOS ANGELES (AP) — Two men were arrested Friday after they allegedly robbed an armored car outside a Los Angeles County bank earlier this week and shot a guard several times in an ambush, authorities said. ]]>
             </title>
             <link>https://apnews.com/article/los-angeles-california-robbery-crime-arrests-53f50cfe73bfe091da19977bb69a346e</link>
-            <guid isPermaLink="false">1666440988001</guid>
+            <guid isPermaLink="false">1666533697970</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -1387,7 +1417,7 @@
                 <![CDATA[ NEW YORK (AP) — Two men were convicted Friday for an armed robbery of more than a quarter-million dollars from New York’s famed Aqueduct Racetrack, in a heist that echoed a fictional crime from an Stanley Kubrick film. ]]>
             </title>
             <link>https://apnews.com/article/stanley-kubrick-new-york-queens-crime-robbery-311a2fb01fa661c0eaf6ba219d0dfdc6</link>
-            <guid isPermaLink="false">1666440988002</guid>
+            <guid isPermaLink="false">1666533697971</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -1397,7 +1427,7 @@
                 <![CDATA[ ROCKFORD, Ill. (AP) — A jury found a northern Illinois ice skating coach guilty of aggravated criminal sexual abuse involving a young skater.The verdict against Eugene Heffron, 83, was announced Friday by the Winnebago County state's attorney's office. ]]>
             </title>
             <link>https://apnews.com/article/sports-illinois-rockford-crime-sexual-abuse-7650060177675597e0dc20550e803f17</link>
-            <guid isPermaLink="false">1666440988003</guid>
+            <guid isPermaLink="false">1666533697972</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -1407,7 +1437,7 @@
                 <![CDATA[ NEW ORLEANS (AP) — Prohibitions against nonunanimous jury convictions — outlawed by Louisiana voters in 2018 and, later, by the U.S. Supreme Court — do not have to apply retroactively to earlier convictions, Louisiana's highest court ruled Friday. ]]>
             </title>
             <link>https://apnews.com/article/us-supreme-court-louisiana-crime-constitutional-amendments-constitutions-7f1b947fa1c27d2e2b79863a4b416fc3</link>
-            <guid isPermaLink="false">1666440988004</guid>
+            <guid isPermaLink="false">1666533697973</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -1417,7 +1447,7 @@
                 <![CDATA[ ST. LOUIS (AP) — Relatives confronted the man who fatally shot a former star of the St. Louis-based reality TV show “Welcome to Sweetie Pie’s” when he was sentenced to 32 years in prison. “How can you sleep?” Kalyn Griggs asked Travell Anthony Hill as the 31-year-old was sentenced Thursday on two murder-for-hire charges in the the March 2016 death of Griggs' brother, Andre Montgomery. ]]>
             </title>
             <link>https://apnews.com/article/entertainment-st-louis-crime-reality-tv-f1642552c72d065967855ab14d594372</link>
-            <guid isPermaLink="false">1666440988005</guid>
+            <guid isPermaLink="false">1666533697974</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -1427,7 +1457,7 @@
                 <![CDATA[ INDIANAPOLIS (AP) — A man convicted of shooting two southern Indiana judges during a fight outside an Indianapolis fast food restaurant in 2019 was sentenced Friday to eight years in prison. ]]>
             </title>
             <link>https://apnews.com/article/indiana-indianapolis-crime-shootings-029f1ee7308fd66404a3caaec6bdee5d</link>
-            <guid isPermaLink="false">1666440988006</guid>
+            <guid isPermaLink="false">1666533697975</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -1437,7 +1467,7 @@
                 <![CDATA[ STOCKTON, Calif. (AP) — A suspect in the killing of three men who police have said were among six victims of a serial killer in Northern California may have used a firearm without a serial number, also known as a ghost gun, police said. ]]>
             </title>
             <link>https://apnews.com/article/california-stockton-crime-0a04e897761b3e12980d38f69e7464f5</link>
-            <guid isPermaLink="false">1666440988007</guid>
+            <guid isPermaLink="false">1666533697976</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -1447,7 +1477,7 @@
                 <![CDATA[ HARRISBURG, Pa. (AP) — Philadelphia’s elected prosecutor said Friday he’s making plans to defend himself against a possible impeachment process by the Republican-controlled Legislature and that it could begin as early as next week. ]]>
             </title>
             <link>https://apnews.com/article/gun-violence-harrisburg-legislature-government-and-politics-crime-17c6e0656be30b77faab9267ae86ceaf</link>
-            <guid isPermaLink="false">1666440988008</guid>
+            <guid isPermaLink="false">1666533697977</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -1457,7 +1487,7 @@
                 <![CDATA[ CROWN POINT, Ind. (AP) — A northwestern Indiana man who pleaded guilty to fatally shooting his 9-year-old daughter as he was talking to her two brothers about gun safety won't serve any prison time for her 2017 death. ]]>
             </title>
             <link>https://apnews.com/article/indiana-crime-homicide-shootings-131682bd05dd5d1c13a0d5e25e4e6525</link>
-            <guid isPermaLink="false">1666440988009</guid>
+            <guid isPermaLink="false">1666533697978</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -1467,7 +1497,7 @@
                 <![CDATA[ BATON ROUGE (AP) — Nine people were injured early Friday during a shooting at a fraternity house outside of Southern University in Baton Rouge, Louisiana, authorities said.While seven people were taken to the hospital, none of the injuries appear life-threatening, according to Baton Rouge police. ]]>
             </title>
             <link>https://apnews.com/article/baton-rouge-louisiana-shootings-crime-violence-7e49a45c427abff074502233d4e63b18</link>
-            <guid isPermaLink="false">1666440988010</guid>
+            <guid isPermaLink="false">1666533697979</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -1477,7 +1507,7 @@
                 <![CDATA[ NEW YORK (AP) — Charles Cullen is by some estimates the most prolific serial killer in American history. But when Krysty Wilson-Cairns began writing the script about his capture, she started not with Cullen, who was sentenced to consecutive life sentences in 2006, but outside the home of Amy Loughren, the nurse who first uncovered his crimes. ]]>
             </title>
             <link>https://apnews.com/article/good-nurse-movie-jessica-chastain-eddie-redmayne-crime-ad591231a28632f13f9c6601e55199b4</link>
-            <guid isPermaLink="false">1666440988011</guid>
+            <guid isPermaLink="false">1666533697980</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -1487,7 +1517,7 @@
                 <![CDATA[ ATLANTA (AP) — A Georgia sheriff standing trial on federal charges that he abusing detainees' rights by strapping them into restraint chairs as a form of punishment denied wrongdoing Thursday, insisting the chairs are safe as long as jailers follow provided rules. ]]>
             </title>
             <link>https://apnews.com/article/atlanta-georgia-crime-treatment-of-prisoners-indictments-3ae81d2fde5b055b42e02e5820a5505d</link>
-            <guid isPermaLink="false">1666440988012</guid>
+            <guid isPermaLink="false">1666533697981</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -1497,7 +1527,7 @@
                 <![CDATA[ WINNETKA, Ill. (AP) — A white woman charged with a hate crime following a confrontation where she told a group of Black men in 2020 that they couldn't be at a suburban Chicago beach has been sentenced to probation after pleading guilty to a lesser charge. ]]>
             </title>
             <link>https://apnews.com/article/illinois-chicago-crime-race-and-ethnicity-racial-injustice-e7fc86bc619c1db8933ea4b12d5e6748</link>
-            <guid isPermaLink="false">1666440988013</guid>
+            <guid isPermaLink="false">1666533697982</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -1507,7 +1537,7 @@
                 <![CDATA[ LOUISIANA, Mo. (AP) — The police chief in a small Missouri town has been charged with felony drug crimes after his girlfriend's brother was found dead from an apparent overdose in the police chief’s apartment. ]]>
             </title>
             <link>https://apnews.com/article/louisiana-missouri-mississippi-river-crime-police-daae45f6718ce448b19c391189c13c0c</link>
-            <guid isPermaLink="false">1666440988014</guid>
+            <guid isPermaLink="false">1666533697983</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -1517,7 +1547,7 @@
                 <![CDATA[ WASHINGTON (AP) — Former President Donald Trump signed legal documents challenging the results of the 2020 election that included voter fraud claims he knew to be false, a federal judge said in a ruling Wednesday. ]]>
             </title>
             <link>https://apnews.com/article/capitol-siege-donald-trump-georgia-crime-congress-e285497c6a96f82ed08a0d561316029c</link>
-            <guid isPermaLink="false">1666440988015</guid>
+            <guid isPermaLink="false">1666533697984</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -1527,7 +1557,7 @@
                 <![CDATA[ CORUNNA, Mich. (AP) — A Michigan man who acknowledged killing another man and hanging the mutilated body from a ceiling will face life in prison without parole after a judge said Wednesday that it was premeditated murder. ]]>
             </title>
             <link>https://apnews.com/article/kevin-bacon-michigan-crime-homicide-771e3e54b481d856648fd85268f949fa</link>
-            <guid isPermaLink="false">1666440988016</guid>
+            <guid isPermaLink="false">1666533697985</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -1537,7 +1567,7 @@
                 <![CDATA[ SPRINGFIELD, Ill. (AP) — Crime in Chicago generated the most heat in Thursday's debate for Illinois governor Tuesday, with Republican Darren Bailey suggesting that fighting lawlessness should start outside the city — with a tighter U.S.-Mexican border and an end to Chicago's “sanctuary city” status. ]]>
             </title>
             <link>https://apnews.com/article/abortion-elections-crime-chicago-illinois-63a07b1d03b63bf17a39640cbbd8182e</link>
-            <guid isPermaLink="false">1666440988017</guid>
+            <guid isPermaLink="false">1666533697986</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -1547,7 +1577,7 @@
                 <![CDATA[ ALPENA, Mich. (AP) — Two men in northern Michigan were charged in the deaths of two women whose homicides occurred weeks apart but were connected, authorities said Wednesday.The disappearances of Brynn Bills and Abby Hill have received much publicity in the Alpena area. ]]>
             </title>
             <link>https://apnews.com/article/alpena-michigan-homicide-crime-7f21618660f529f3b11ea04655d41052</link>
-            <guid isPermaLink="false">1666440988018</guid>
+            <guid isPermaLink="false">1666533697987</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -1557,7 +1587,7 @@
                 <![CDATA[ TALLAHASSEE, Fla. (AP) — Newly released police bodycam footage shows that three of the 20 people who were arrested in Florida for allegedly voting illegally in the 2020 election appeared to be surprised that they had done anything wrong. ]]>
             </title>
             <link>https://apnews.com/article/ron-desantis-voting-rights-florida-crime-arrests-31f2ed111f69f11950f745da9183f0cf</link>
-            <guid isPermaLink="false">1666440988019</guid>
+            <guid isPermaLink="false">1666533697988</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -1567,7 +1597,7 @@
                 <![CDATA[ UNITED NATIONS (AP) — Supporters of a U.N. resolution that would demand an immediate end to violence and criminal activity in Haiti and impose sanctions on influential gang leader Jimmy Cherizier, nicknamed “Barbecue,” said Wednesday a vote has been delayed. ]]>
             </title>
             <link>https://apnews.com/article/crime-violence-caribbean-presidential-elections-business-3e29493f41adeae21bee2676329cfede</link>
-            <guid isPermaLink="false">1666440988020</guid>
+            <guid isPermaLink="false">1666533697989</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -1577,7 +1607,7 @@
                 <![CDATA[ MANILA, Philippines (AP) — Philippine officials say they have shut down at least 214 illegal Chinese offshore gambling operations and deported the first six of nearly 400 Chinese workers who have been detained under a renewed crackdown. ]]>
             </title>
             <link>https://apnews.com/article/manila-philippines-business-crime-8d4ed842a981b9cd6446fef7175f3e42</link>
-            <guid isPermaLink="false">1666440988021</guid>
+            <guid isPermaLink="false">1666533697990</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -1587,7 +1617,7 @@
                 <![CDATA[ AUSTIN, Texas (AP) — One migrant is dead, another is wounded and at least seven others are languishing in detention three weeks after twin brothers allegedly opened fire on them in the Texas desert, claiming they mistook them for wild hogs during a hunting trip. ]]>
             </title>
             <link>https://apnews.com/article/us-immigration-and-customs-enforcement-united-states-texas-government-politics-crime-c0de588f93c1cdd073ad51a12f22bd01</link>
-            <guid isPermaLink="false">1666440988022</guid>
+            <guid isPermaLink="false">1666533697991</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -1597,7 +1627,7 @@
                 <![CDATA[ ATLANTA (AP) — Two former jail detainees testified that deputies of a Georgia sheriff charged with violating their civil rights kept them in restraint chairs for hours, causing them to urinate on themselves while they were bound. ]]>
             </title>
             <link>https://apnews.com/article/atlanta-georgia-crime-government-and-politics-indictments-578fbf4ccec375167460d7e21eb7edef</link>
-            <guid isPermaLink="false">1666440988023</guid>
+            <guid isPermaLink="false">1666533697992</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -1607,7 +1637,7 @@
                 <![CDATA[ LOS ANGELES (AP) — The father of Kristin Smart, the California Central Coast college student who vanished from campus 26 years ago, says a murder conviction hasn't ended the “agonizingly long journey" to find the truth about his daughter. ]]>
             </title>
             <link>https://apnews.com/article/crime-california-san-luis-obispo-90dd7fb77b4269853b33108a197e39dc</link>
-            <guid isPermaLink="false">1666440988024</guid>
+            <guid isPermaLink="false">1666533697993</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -1617,7 +1647,7 @@
                 <![CDATA[ PORTLAND, Ore. (AP) — Two students were injured in a shooting Tuesday afternoon near a high school in Portland, Oregon, officials said. Shots were fired near Jefferson High School in north Portland around 4 p.m. ]]>
             </title>
             <link>https://apnews.com/article/crime-shootings-oregon-education-portland-64d5982cae365f7a6c097d0ea3ae91a8</link>
-            <guid isPermaLink="false">1666440988025</guid>
+            <guid isPermaLink="false">1666533697994</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -1627,7 +1657,7 @@
                 <![CDATA[ WATERBURY, Conn. (AP) — Less than a week after two Connecticut police officers were killed in an ambush, U.S. ]]>
             </title>
             <link>https://apnews.com/article/crime-police-shootings-gun-politics-connecticut-26c911da2dc34a5bf1f38e1190f15cd5</link>
-            <guid isPermaLink="false">1666440988026</guid>
+            <guid isPermaLink="false">1666533697995</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -1637,7 +1667,7 @@
                 <![CDATA[ LOS ANGELES (AP) — The last man seen with Kristin Smart was convicted Tuesday of killing the college freshman, who vanished from a California campus more than 25 years ago, but his father was acquitted of helping him conceal the crime. ]]>
             </title>
             <link>https://apnews.com/article/crime-california-san-luis-obispo-591115c770c00f4cecb211f240b1364a</link>
-            <guid isPermaLink="false">1666440988027</guid>
+            <guid isPermaLink="false">1666533697996</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -1647,7 +1677,7 @@
                 <![CDATA[ STOCKTON, Calif. (AP) — Prosecutors on Tuesday charged a Northern California man with fatally shooting three men whom police have said were among six victims slain by a serial killer over the past year and a half. ]]>
             </title>
             <link>https://apnews.com/article/crime-shootings-california-stockton-30f29d2a294f3ef3849044a8d497497e</link>
-            <guid isPermaLink="false">1666440988028</guid>
+            <guid isPermaLink="false">1666533697997</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -1657,7 +1687,7 @@
                 <![CDATA[ ATLANTA (AP) — Republican state Sen. Burt Jones is running for Georgia lieutenant governor on a platform of fighting inflation and crime and improving education. But Democrat Charlie Bailey is focusing on Jones’ efforts to overturn the 2020 presidential election. ]]>
             </title>
             <link>https://apnews.com/article/inflation-crime-donald-trump-georgia-presidential-elections-54c2f9aa119f066573e786b153299a80</link>
-            <guid isPermaLink="false">1666440988029</guid>
+            <guid isPermaLink="false">1666533697998</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -1667,7 +1697,7 @@
                 <![CDATA[ MEMPHIS, Tenn. (AP) — A man testified Tuesday that he saw an acquaintance shoot his friend and business partner, unprovoked, outside his Tennessee home in a killing that authorities said sparked a daylong crime rampage that paralyzed Memphis and led to an intense manhunt. ]]>
             </title>
             <link>https://apnews.com/article/crime-shootings-tennessee-memphis-1fe2d3bd7f104eed5757991df82e4122</link>
-            <guid isPermaLink="false">1666440988030</guid>
+            <guid isPermaLink="false">1666533697999</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -1677,7 +1707,7 @@
                 <![CDATA[ PRISTINA, Kosovo (AP) — The Kosovar prosecutors’ office on Tuesday said an ethnic Serb accused of killing ethnic Albanians in 1999 was arrested in Hungary. ]]>
             </title>
             <link>https://apnews.com/article/nato-arrests-hungary-war-crimes-crime-2b0406d59ee0942ab4af227a25ba6d2d</link>
-            <guid isPermaLink="false">1666440988031</guid>
+            <guid isPermaLink="false">1666533698000</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -1687,7 +1717,7 @@
                 <![CDATA[ INDIANAPOLIS (AP) — A man has been convicted of reckless homicide in the fatal 2020 shooting of a young Black man in Indianapolis during unrest sparked by outrage over George Floyd’s killing by Minneapolis police. ]]>
             </title>
             <link>https://apnews.com/article/death-of-george-floyd-shootings-crime-indianapolis-race-and-ethnicity-c9a1f7c2d561226c644bccce0d7b409b</link>
-            <guid isPermaLink="false">1666440988032</guid>
+            <guid isPermaLink="false">1666533698001</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -1697,7 +1727,7 @@
                 <![CDATA[ NEW YORK (AP) — Thieves stole 20 cars from a New York City dealership and will likely use the vechicles to commit other crimes, a top police official said.The car thieves hit a Mistubishi dealership over the weekend, broke open a lock box that held keys and drove off with late-model cars, NYPD Chief of Detectives James Essig said Monday. ]]>
             </title>
             <link>https://apnews.com/article/crime-new-york-city-brooklyn-647feaddf5fc053ccdd8a6a7278f5b4a</link>
-            <guid isPermaLink="false">1666440988033</guid>
+            <guid isPermaLink="false">1666533698002</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -1707,7 +1737,7 @@
                 <![CDATA[ VIENNA (AP) — Six men went on trial in Vienna on Tuesday over their alleged links to a sympathizer of the Islamic State group who carried out a deadly shooting in the Austrian capital in 2020. A verdict in the trial at the Vienna state court is expected in February at the earliest, public broadcaster ORF reported. ]]>
             </title>
             <link>https://apnews.com/article/islamic-state-group-crime-shootings-austria-b1483320907ede2dae6ebba3fa1781f0</link>
-            <guid isPermaLink="false">1666440988034</guid>
+            <guid isPermaLink="false">1666533698003</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -1717,47 +1747,7 @@
                 <![CDATA[ COPENHAGEN, Denmark (AP) — Danish officials on Tuesday confirmed that there has been “extensive damage” to the Nord Stream 1 and 2 gas pipelines in the Baltic Sea off Denmark and that the cause of the damage was “powerful explosions.” ]]>
             </title>
             <link>https://apnews.com/article/crime-denmark-copenhagen-baltic-sea-6da9703262ac54944c74296ac6b8b0cb</link>
-            <guid isPermaLink="false">1666440988035</guid>
-            <dc:creator>
-                <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
-            </dc:creator>
-        </item>
-        <item>
-            <title>
-                <![CDATA[ STOCKTON, Calif. (AP) — A man suspected of killing six men and wounding a woman in a series of shootings in Northern California has a criminal history that includes traffic violations and convictions for drug crimes, authorities said Monday. ]]>
-            </title>
-            <link>https://apnews.com/article/crime-shootings-arrests-california-stockton-3e9e09b9854661fd5b63aaf36c35ea58</link>
-            <guid isPermaLink="false">1666440988036</guid>
-            <dc:creator>
-                <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
-            </dc:creator>
-        </item>
-        <item>
-            <title>
-                <![CDATA[ ALEXANDRIA, La. (AP) — A reputed drug dealer accused of raping a woman police informant sent into his house alone in an unmonitored sting has skipped bail and was a no-show Monday at what was supposed to the start of his trial. ]]>
-            </title>
-            <link>https://apnews.com/article/crime-alexandria-79ad62e11f70c2e91b8c8e65ac554287</link>
-            <guid isPermaLink="false">1666440988037</guid>
-            <dc:creator>
-                <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
-            </dc:creator>
-        </item>
-        <item>
-            <title>
-                <![CDATA[ TOKYO (AP) — Japan’s Prime Minister Fumio Kishida ordered an investigation Monday into the Unification Church in an apparent move to calm the public outrage over his governing party’s cozy ties with the controversial group, which were revealed in the wake of Shinzo Abe’s assassination. ]]>
-            </title>
-            <link>https://apnews.com/article/shinzo-abe-japan-crime-religion-fumio-kishida-141f453bcd5dadcca565d3930a015e9d</link>
-            <guid isPermaLink="false">1666440988038</guid>
-            <dc:creator>
-                <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
-            </dc:creator>
-        </item>
-        <item>
-            <title>
-                <![CDATA[ PRINEVILLE, Ore. (AP) — Authorities are investigating the cause of a house fire in central Oregon that killed two children.KTVZ-TV reports that members of the children's family escaped the home in the blaze, which was reported before 6 a.m. ]]>
-            </title>
-            <link>https://apnews.com/article/fires-crime-oregon-189e810e2e00abca1f8425e284e3fca3</link>
-            <guid isPermaLink="false">1666440988039</guid>
+            <guid isPermaLink="false">1666533698004</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -1767,7 +1757,7 @@
                 <![CDATA[ More in Crime ]]>
             </title>
             <link>https://www.cbsnews.com/crime/</link>
-            <guid isPermaLink="false">1666440988040</guid>
+            <guid isPermaLink="false">1666533698005</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -1777,7 +1767,7 @@
                 <![CDATA[ Show More ]]>
             </title>
             <link>https://www.cbsnews.com/latest/crime/</link>
-            <guid isPermaLink="false">1666440988041</guid>
+            <guid isPermaLink="false">1666533698006</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>

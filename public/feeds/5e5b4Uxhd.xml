@@ -4,19 +4,19 @@
     xmlns:media="http://search.yahoo.com/mrss/" version="2.0">
     <channel>
         <title>
-            <![CDATA[ offcamuscareer.com ]]>
+            <![CDATA[ offcampuscareer.com ]]>
         </title>
         <description>
-            <![CDATA[ offcamuscareer.com ]]>
+            <![CDATA[ offcampuscareer.com ]]>
         </description>
         <link>https://www.offcampuscareer.com/sitemapscanner/new</link>
         <image>
             <url>https://www.offcampuscareer.com/favicon.ico</url>
-            <title>offcamuscareer.com</title>
+            <title>offcampuscareer.com</title>
             <link>https://www.offcampuscareer.com/sitemapscanner/new</link>
         </image>
         <generator>https://www.offcampuscareer.com</generator>
-        <lastBuildDate>Sat Oct 22 2022 10:15:03 GMT+0000 (Coordinated Universal Time)</lastBuildDate>
+        <lastBuildDate>Sun Oct 23 2022 13:15:03 GMT+0000 (Coordinated Universal Time)</lastBuildDate>
         <atom:link href="https://www.offcampuscareer.com/feeds/5e5b4Uxhd.xml" rel="self" type="application/rss+xml"/>
         <language>
             <![CDATA[ en ]]>
@@ -27,7 +27,27 @@
                 <![CDATA[ Ukraine ]]>
             </title>
             <link>https://www.usatoday.com/news/ukraine/</link>
-            <guid isPermaLink="false">1666433703626</guid>
+            <guid isPermaLink="false">1666530903935</guid>
+            <dc:creator>
+                <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
+            </dc:creator>
+        </item>
+        <item>
+            <title>
+                <![CDATA[ How Russia failed to heed lessons from history before invading UkraineOpinion ]]>
+            </title>
+            <link>https://www.usatoday.com/story/opinion/2022/10/23/russia-ukraine-war-ignores-lessons-history/10486631002/</link>
+            <guid isPermaLink="false">1666530903936</guid>
+            <dc:creator>
+                <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
+            </dc:creator>
+        </item>
+        <item>
+            <title>
+                <![CDATA[ Russia officials evacuate city ahead of expected Ukraine advanceWorld ]]>
+            </title>
+            <link>https://www.usatoday.com/story/news/world/2022/10/22/kherson-evacuation-ahead-expected-ukraine-advance/10575357002/</link>
+            <guid isPermaLink="false">1666530903937</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -37,7 +57,7 @@
                 <![CDATA[ Ukraine intensifies attacks in Kherson: Live updatesWorld ]]>
             </title>
             <link>https://www.usatoday.com/story/news/world/2022/10/21/ukraine-russia-war-live-updates/10560412002/</link>
-            <guid isPermaLink="false">1666433703627</guid>
+            <guid isPermaLink="false">1666530903938</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -47,7 +67,7 @@
                 <![CDATA[ Netanyahu to 'look into' supplying weapons to Ukraine if prime ministerPolitics ]]>
             </title>
             <link>https://www.usatoday.com/story/news/politics/2022/10/21/netanyahu-would-evaluate-helping-ukraine-if-elected-prime-minister/10560607002/</link>
-            <guid isPermaLink="false">1666433703628</guid>
+            <guid isPermaLink="false">1666530903939</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -57,7 +77,7 @@
                 <![CDATA[ Netanyahu makes remarks on the war in UkraineNews ]]>
             </title>
             <link>https://www.usatoday.com/videos/news/2022/10/21/netanyahu-putin-and-ukraine-hope-hes-having-second-thoughts/10564408002/</link>
-            <guid isPermaLink="false">1666433703629</guid>
+            <guid isPermaLink="false">1666530903940</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -67,7 +87,7 @@
                 <![CDATA[ US seeks drone defense for Ukraine; Russia may be planning retreat from KhersonNation ]]>
             </title>
             <link>https://www.usatoday.com/story/news/nation/2022/10/20/ukraine-russia-war-live-updates/10549830002/</link>
-            <guid isPermaLink="false">1666433703630</guid>
+            <guid isPermaLink="false">1666530903941</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -77,7 +97,7 @@
                 <![CDATA[ Biden says Putin trying to intimidate Ukrainians with martial law in annexed regionsWorld ]]>
             </title>
             <link>https://www.usatoday.com/story/news/world/2022/10/19/ukraine-russia-war-live-updates/10540340002/</link>
-            <guid isPermaLink="false">1666433703631</guid>
+            <guid isPermaLink="false">1666530903942</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -87,7 +107,7 @@
                 <![CDATA[ Fact check: Picture of Kyiv man shooting out his window predates warFact Check ]]>
             </title>
             <link>https://www.usatoday.com/story/news/factcheck/2022/10/19/fact-check-picture-kyiv-man-shooting-out-his-window-predates-war/10523574002/</link>
-            <guid isPermaLink="false">1666433703632</guid>
+            <guid isPermaLink="false">1666530903943</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -97,7 +117,7 @@
                 <![CDATA[ Putin declares martial law in areas of UkraineWorld ]]>
             </title>
             <link>https://www.usatoday.com/videos/news/world/2022/10/19/martial-law-declared-four-illegally-annexed-regions-ukraine/10541339002/</link>
-            <guid isPermaLink="false">1666433703633</guid>
+            <guid isPermaLink="false">1666530903944</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -107,7 +127,7 @@
                 <![CDATA[ Prospective Speaker McCarthy: GOP won't write Ukraine a 'blank check': UpdatesWorld ]]>
             </title>
             <link>https://www.usatoday.com/story/news/world/2022/10/18/ukraine-russia-war-live-updates/10530302002/</link>
-            <guid isPermaLink="false">1666433703634</guid>
+            <guid isPermaLink="false">1666530903945</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -117,7 +137,7 @@
                 <![CDATA[ Hope is not a plan but it's all I have for UkraineColumnists ]]>
             </title>
             <link>https://www.usatoday.com/story/opinion/columnist/2022/02/25/ukraine-kyiv-hold-place-my-heart-hope-all-have-offer/6946767001/</link>
-            <guid isPermaLink="false">1666433703635</guid>
+            <guid isPermaLink="false">1666530903946</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -127,7 +147,7 @@
                 <![CDATA[ Drone attacks 'problematic' but won't alter war, Petraeus says: UpdatesWorld ]]>
             </title>
             <link>https://www.usatoday.com/story/news/world/2022/10/17/ukraine-russia-war-live-updates/10521831002/</link>
-            <guid isPermaLink="false">1666433703636</guid>
+            <guid isPermaLink="false">1666530903947</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -137,7 +157,7 @@
                 <![CDATA[ What is a tactical nuclear weapon?Graphics ]]>
             </title>
             <link>https://www.usatoday.com/in-depth/graphics/2022/10/17/russias-tactical-weapons-how-many-do-they-have/10486701002/</link>
-            <guid isPermaLink="false">1666433703637</guid>
+            <guid isPermaLink="false">1666530903948</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -147,7 +167,7 @@
                 <![CDATA[ Maps show how and why Russia invaded UkraineGraphics ]]>
             </title>
             <link>https://www.usatoday.com/in-depth/graphics/2022/02/24/ukraine-invasion-russia-attack-map-guide/6925181001/</link>
-            <guid isPermaLink="false">1666433703638</guid>
+            <guid isPermaLink="false">1666530903949</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -157,7 +177,7 @@
                 <![CDATA[ Drone strikes leave at least three dead in KyivWorld ]]>
             </title>
             <link>https://www.usatoday.com/videos/news/world/2022/10/17/multiple-killed-ukraine-after-drone-strike-russian-forces/10522814002/</link>
-            <guid isPermaLink="false">1666433703639</guid>
+            <guid isPermaLink="false">1666530903950</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -167,7 +187,7 @@
                 <![CDATA[ New Russian draftees already in combat with scant equipment: Ukraine updatesWorld ]]>
             </title>
             <link>https://www.usatoday.com/story/news/world/2022/10/16/ukraine-russia-war-live-updates/10517022002/</link>
-            <guid isPermaLink="false">1666433703640</guid>
+            <guid isPermaLink="false">1666530903951</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -177,17 +197,7 @@
                 <![CDATA[ Russian soldiers killed in military range attack: UpdatesNation ]]>
             </title>
             <link>https://www.usatoday.com/story/news/nation/2022/10/15/ukraine-live-updates-putin-massive-strikes-elon-musk-starlink-spacex/10508793002/</link>
-            <guid isPermaLink="false">1666433703641</guid>
-            <dc:creator>
-                <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
-            </dc:creator>
-        </item>
-        <item>
-            <title>
-                <![CDATA[ Putin says call-up of Russian reservists to finish in 2 weeksWorld ]]>
-            </title>
-            <link>https://www.usatoday.com/story/news/world/2022/10/14/putin-russian-reservists/10496650002/</link>
-            <guid isPermaLink="false">1666433703642</guid>
+            <guid isPermaLink="false">1666530903952</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -197,7 +207,7 @@
                 <![CDATA[ War in Ukraine ]]>
             </title>
             <link>https://www.economist.com/ukraine-crisis</link>
-            <guid isPermaLink="false">1666433703643</guid>
+            <guid isPermaLink="false">1666530903953</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -207,7 +217,7 @@
                 <![CDATA[ Ukraine has made stunning gains on the battlefield ]]>
             </title>
             <link>https://www.economist.com/graphic-detail/2022/10/06/ukraine-has-made-stunning-gains-on-the-battlefield</link>
-            <guid isPermaLink="false">1666433703644</guid>
+            <guid isPermaLink="false">1666530903954</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -217,7 +227,7 @@
                 <![CDATA[ Ukraine’s military success is reshaping Russia as well as the war ]]>
             </title>
             <link>https://www.economist.com/briefing/2022/10/06/ukraines-military-success-is-reshaping-russia-as-well-as-the-war</link>
-            <guid isPermaLink="false">1666433703645</guid>
+            <guid isPermaLink="false">1666530903955</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -227,7 +237,7 @@
                 <![CDATA[ protests across Russia ]]>
             </title>
             <link>https://www.economist.com/graphic-detail/2022/09/29/protests-erupt-across-russia</link>
-            <guid isPermaLink="false">1666433703646</guid>
+            <guid isPermaLink="false">1666530903956</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -237,7 +247,7 @@
                 <![CDATA[ Russia’s annexations in Ukraine are a legal and strategic mess ]]>
             </title>
             <link>https://www.economist.com/europe/2022/10/05/russias-annexations-in-ukraine-are-a-legal-and-strategic-mess</link>
-            <guid isPermaLink="false">1666433703647</guid>
+            <guid isPermaLink="false">1666530903957</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -247,7 +257,7 @@
                 <![CDATA[ Iranian drones pose a fiendish military problem for Ukraine ]]>
             </title>
             <link>https://www.economist.com/europe/2022/10/19/iranian-drones-pose-a-fiendish-military-problem-for-ukraine</link>
-            <guid isPermaLink="false">1666433703648</guid>
+            <guid isPermaLink="false">1666530903958</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -257,7 +267,17 @@
                 <![CDATA[ France is sending weapons and air-defence systems to Ukraine ]]>
             </title>
             <link>https://www.economist.com/europe/2022/10/18/france-is-sending-weapons-and-air-defence-systems-to-ukraine</link>
-            <guid isPermaLink="false">1666433703649</guid>
+            <guid isPermaLink="false">1666530903959</guid>
+            <dc:creator>
+                <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
+            </dc:creator>
+        </item>
+        <item>
+            <title>
+                <![CDATA[ Yurii Kerpatenko refused to bow to Russian orders ]]>
+            </title>
+            <link>https://www.economist.com/obituary/2022/10/20/yurii-kerpatenko-refused-to-bow-to-russian-orders</link>
+            <guid isPermaLink="false">1666530903960</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -267,7 +287,7 @@
                 <![CDATA[ Russia was more deeply embedded in German politics than suspected ]]>
             </title>
             <link>https://www.economist.com/europe/2022/10/20/russia-was-more-deeply-embedded-in-german-politics-than-suspected</link>
-            <guid isPermaLink="false">1666433703650</guid>
+            <guid isPermaLink="false">1666530903961</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -277,7 +297,7 @@
                 <![CDATA[ Ukraine’s economy is defying the odds. But it needs help ]]>
             </title>
             <link>https://www.economist.com/leaders/2022/10/20/ukraines-economy-is-defying-the-odds-but-it-needs-help</link>
-            <guid isPermaLink="false">1666433703651</guid>
+            <guid isPermaLink="false">1666530903962</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -287,17 +307,7 @@
                 <![CDATA[ .css-1jmk4v3{color:var(--ds-color-london-5);font-weight:800;}Explainer: Who is Sergei Surovikin, Russia’s new commander in Ukraine? ]]>
             </title>
             <link>https://www.economist.com/the-economist-explains/2022/10/13/who-is-sergei-surovikin-russias-new-commander-in-ukraine</link>
-            <guid isPermaLink="false">1666433703652</guid>
-            <dc:creator>
-                <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
-            </dc:creator>
-        </item>
-        <item>
-            <title>
-                <![CDATA[ Who is doing most to help Ukraine against Russia? ]]>
-            </title>
-            <link>https://www.economist.com/graphic-detail/2022/10/12/who-is-doing-most-to-help-ukraine-against-russia</link>
-            <guid isPermaLink="false">1666433703653</guid>
+            <guid isPermaLink="false">1666530903963</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -307,7 +317,7 @@
                 <![CDATA[ Russia’s terror strikes fail to do much damage to Ukraine ]]>
             </title>
             <link>https://www.economist.com/europe/2022/10/13/russias-terror-strikes-fail-to-do-much-damage-to-ukraine</link>
-            <guid isPermaLink="false">1666433703654</guid>
+            <guid isPermaLink="false">1666530903964</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -317,7 +327,7 @@
                 <![CDATA[ The war in Ukraine has battered the reputation of Russian spies ]]>
             </title>
             <link>https://www.economist.com/europe/2022/10/09/the-war-in-ukraine-has-battered-the-reputation-of-russian-spies</link>
-            <guid isPermaLink="false">1666433703655</guid>
+            <guid isPermaLink="false">1666530903965</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -327,7 +337,7 @@
                 <![CDATA[ How the West is helping Ukraine beat Russia’s missiles ]]>
             </title>
             <link>https://www.economist.com/europe/2022/10/11/how-the-west-is-helping-ukraine-beat-russias-missiles</link>
-            <guid isPermaLink="false">1666433703656</guid>
+            <guid isPermaLink="false">1666530903966</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -337,7 +347,7 @@
                 <![CDATA[ Russia launches a wave of missiles across Ukraine ]]>
             </title>
             <link>https://www.economist.com/europe/2022/10/10/russia-launches-a-wave-of-missiles-across-ukraine</link>
-            <guid isPermaLink="false">1666433703657</guid>
+            <guid isPermaLink="false">1666530903967</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -347,7 +357,7 @@
                 <![CDATA[ Ukraine braces for retaliation after an attack on the bridge from Crimea to Russia ]]>
             </title>
             <link>https://www.economist.com/europe/2022/10/08/ukraine-braces-for-retaliation-after-an-attack-on-the-bridge-from-crimea-to-russia</link>
-            <guid isPermaLink="false">1666433703658</guid>
+            <guid isPermaLink="false">1666530903968</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -357,7 +367,7 @@
                 <![CDATA[ As Ukraine smashes through more Russian lines, Russians wonder whom to blame ]]>
             </title>
             <link>https://www.economist.com/europe/2022/10/03/as-ukraine-smashes-through-more-russian-lines-russians-wonder-whom-to-blame</link>
-            <guid isPermaLink="false">1666433703659</guid>
+            <guid isPermaLink="false">1666530903969</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -367,7 +377,7 @@
                 <![CDATA[ Voting begins in four sham referendums in Ukraine ]]>
             </title>
             <link>https://www.economist.com/europe/2022/09/23/voting-begins-in-four-sham-referendums-in-ukraine</link>
-            <guid isPermaLink="false">1666433703660</guid>
+            <guid isPermaLink="false">1666530903970</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -377,7 +387,7 @@
                 <![CDATA[ Fresh evidence shows how grim life is under Russian occupation in Ukraine ]]>
             </title>
             <link>https://www.economist.com/europe/2022/09/22/fresh-evidence-shows-how-grim-life-is-under-russian-occupation-in-ukraine</link>
-            <guid isPermaLink="false">1666433703661</guid>
+            <guid isPermaLink="false">1666530903971</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -387,7 +397,7 @@
                 <![CDATA[ Ukraine is riddled with unexploded bombs ]]>
             </title>
             <link>https://www.economist.com/graphic-detail/2022/09/16/ukraine-is-riddled-with-unexploded-bombs</link>
-            <guid isPermaLink="false">1666433703662</guid>
+            <guid isPermaLink="false">1666530903972</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -397,7 +407,7 @@
                 <![CDATA[ 1843 magazine | “God must have saved his life”: the wounded soldiers of Ukraine’s southern offensive ]]>
             </title>
             <link>https://www.economist.com/1843/2022/09/13/god-must-have-saved-his-life-the-wounded-soldiers-of-ukraines-southern-offensive</link>
-            <guid isPermaLink="false">1666433703663</guid>
+            <guid isPermaLink="false">1666530903973</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -407,7 +417,7 @@
                 <![CDATA[ Russia is forcing Ukrainian conscripts into battle ]]>
             </title>
             <link>https://www.economist.com/europe/2022/08/11/russia-is-forcing-ukrainian-conscripts-into-battle</link>
-            <guid isPermaLink="false">1666433703664</guid>
+            <guid isPermaLink="false">1666530903974</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -417,7 +427,17 @@
                 <![CDATA[ Ukraine is on the edge of nervous breakdown ]]>
             </title>
             <link>https://www.economist.com/europe/2022/08/06/ukraine-is-on-the-edge-of-nervous-breakdown</link>
-            <guid isPermaLink="false">1666433703665</guid>
+            <guid isPermaLink="false">1666530903975</guid>
+            <dc:creator>
+                <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
+            </dc:creator>
+        </item>
+        <item>
+            <title>
+                <![CDATA[ Who is doing most to help Ukraine against Russia? ]]>
+            </title>
+            <link>https://www.economist.com/graphic-detail/2022/10/12/who-is-doing-most-to-help-ukraine-against-russia</link>
+            <guid isPermaLink="false">1666530903976</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -427,7 +447,7 @@
                 <![CDATA[ Elon Musk’s foray into geopolitics has Ukraine worried ]]>
             </title>
             <link>https://www.economist.com/briefing/2022/10/06/elon-musks-foray-into-geopolitics-has-ukraine-worried</link>
-            <guid isPermaLink="false">1666433703666</guid>
+            <guid isPermaLink="false">1666530903977</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -437,7 +457,7 @@
                 <![CDATA[ Ignore Putin’s fake referendums and keep helping Ukraine ]]>
             </title>
             <link>https://www.economist.com/leaders/2022/09/29/ignore-putins-fake-referendums-and-keep-helping-ukraine</link>
-            <guid isPermaLink="false">1666433703667</guid>
+            <guid isPermaLink="false">1666530903978</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -447,17 +467,7 @@
                 <![CDATA[ Europeans should welcome Russian draft-dodgers ]]>
             </title>
             <link>https://www.economist.com/leaders/2022/09/30/europeans-should-welcome-russian-draft-dodgers</link>
-            <guid isPermaLink="false">1666433703668</guid>
-            <dc:creator>
-                <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
-            </dc:creator>
-        </item>
-        <item>
-            <title>
-                <![CDATA[ Vladimir Putin stages four fake referendums in occupied Ukraine ]]>
-            </title>
-            <link>https://www.economist.com/europe/2022/09/27/vladimir-putin-stages-four-fake-referendums-in-occupied-ukraine</link>
-            <guid isPermaLink="false">1666433703669</guid>
+            <guid isPermaLink="false">1666530903979</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -467,7 +477,7 @@
                 <![CDATA[ .css-1o7sspp{color:var(--ds-color-london-5);font-weight:700;}Explainer: Why the exodus of Russians to Central Asia matters ]]>
             </title>
             <link>https://www.economist.com/the-economist-explains/2022/10/12/why-the-exodus-of-russians-to-central-asia-matters</link>
-            <guid isPermaLink="false">1666433703670</guid>
+            <guid isPermaLink="false">1666530903980</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -477,7 +487,7 @@
                 <![CDATA[ .css-sc5qx2{color:var(--ds-color-london-10);display:block;font-weight:700;margin-bottom:0.125rem;margin-top:0.75rem;font-size:var(--ds-type-scale-0);}.css-sc5qx2 ._divider,.css-sc5qx2 ._suffix{font-weight:normal;}By InvitationKirill Rogov on what Russians really think of the war in Ukraine ]]>
             </title>
             <link>https://www.economist.com/by-invitation/2022/10/05/kirill-rogov-on-what-russians-really-think-of-the-war-in-ukraine</link>
-            <guid isPermaLink="false">1666433703671</guid>
+            <guid isPermaLink="false">1666530903981</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -487,7 +497,7 @@
                 <![CDATA[ Russian discontent with the war, and Vladimir Putin, is growing ]]>
             </title>
             <link>https://www.economist.com/europe/2022/09/15/russian-discontent-with-the-war-and-vladimir-putin-is-growing</link>
-            <guid isPermaLink="false">1666433703672</guid>
+            <guid isPermaLink="false">1666530903982</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -497,7 +507,7 @@
                 <![CDATA[ As Europe falls into recession, Russia climbs out ]]>
             </title>
             <link>https://www.economist.com/finance-and-economics/2022/10/11/as-europe-falls-into-recession-russia-climbs-out</link>
-            <guid isPermaLink="false">1666433703673</guid>
+            <guid isPermaLink="false">1666530903983</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -507,7 +517,7 @@
                 <![CDATA[ Germany’s government seizes Russian energy assets ]]>
             </title>
             <link>https://www.economist.com/business/2022/09/22/germanys-government-seizes-russian-energy-assets</link>
-            <guid isPermaLink="false">1666433703674</guid>
+            <guid isPermaLink="false">1666530903984</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -517,7 +527,7 @@
                 <![CDATA[ The G7 plans to cap Russian oil prices ]]>
             </title>
             <link>https://www.economist.com/europe/2022/09/03/the-g7-plans-to-cap-russian-oil-prices</link>
-            <guid isPermaLink="false">1666433703675</guid>
+            <guid isPermaLink="false">1666530903985</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -527,7 +537,7 @@
                 <![CDATA[ By how much will the war in Ukraine reduce global growth? ]]>
             </title>
             <link>https://www.economist.com/graphic-detail/2022/08/04/by-how-much-will-the-war-in-ukraine-reduce-global-growth</link>
-            <guid isPermaLink="false">1666433703676</guid>
+            <guid isPermaLink="false">1666530903986</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -537,7 +547,7 @@
                 <![CDATA[ War in Ukraine will cripple global food markets ]]>
             </title>
             <link>https://www.economist.com/finance-and-economics/2022/03/12/war-in-ukraine-will-cripple-global-food-markets</link>
-            <guid isPermaLink="false">1666433703677</guid>
+            <guid isPermaLink="false">1666530903987</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -547,7 +557,7 @@
                 <![CDATA[ Subscribe ]]>
             </title>
             <link>https://www.economist.com/api/auth/subscribe?path=%2fde%2fecom-hub%2fbase12_p-ukraine-crisis_holiday20%2ffooter</link>
-            <guid isPermaLink="false">1666433703678</guid>
+            <guid isPermaLink="false">1666530903988</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -557,17 +567,57 @@
                 <![CDATA[ Ukraine war ]]>
             </title>
             <link>https://www.aljazeera.com/tag/ukraine-russia-crisis/</link>
-            <guid isPermaLink="false">1666433703679</guid>
+            <guid isPermaLink="false">1666530903989</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
         </item>
         <item>
             <title>
-                <![CDATA[ play-inverse ]]>
+                <![CDATA[ camera-inverse ]]>
+            </title>
+            <link>https://www.aljazeera.com/gallery/2022/10/23/photos-russian-authorities-ask-civilians-to-leave-kherson-city</link>
+            <guid isPermaLink="false">1666530903990</guid>
+            <dc:creator>
+                <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
+            </dc:creator>
+        </item>
+        <item>
+            <title>
+                <![CDATA[ Rus­sia-Ukraine war: List of key events, day 242 ]]>
+            </title>
+            <link>https://www.aljazeera.com/news/2022/10/23/russia-ukraine-war-list-of-key-events-day-242</link>
+            <guid isPermaLink="false">1666530903991</guid>
+            <dc:creator>
+                <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
+            </dc:creator>
+        </item>
+        <item>
+            <title>
+                <![CDATA[ Russ­ian au­thor­i­ties urge res­i­dents to leave Kher­son ‘im­me­di­ate­ly’ ]]>
+            </title>
+            <link>https://www.aljazeera.com/news/2022/10/22/russian-authorities-urge-residents-to-leave-kherson-immediately</link>
+            <guid isPermaLink="false">1666530903992</guid>
+            <dc:creator>
+                <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
+            </dc:creator>
+        </item>
+        <item>
+            <title>
+                <![CDATA[ Rus­sia-Ukraine lat­est up­dates: Kher­son res­i­dents told to leave ]]>
+            </title>
+            <link>https://www.aljazeera.com/news/liveblog/2022/10/22/russia-ukraine-live-news-kherson-residents-told-to-leave-city</link>
+            <guid isPermaLink="false">1666530903993</guid>
+            <dc:creator>
+                <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
+            </dc:creator>
+        </item>
+        <item>
+            <title>
+                <![CDATA[ play ]]>
             </title>
             <link>https://www.aljazeera.com/program/the-listening-post/2022/10/22/elon-musk-twitter-warrior-satellite-supremo</link>
-            <guid isPermaLink="false">1666433703680</guid>
+            <guid isPermaLink="false">1666530903994</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -577,7 +627,7 @@
                 <![CDATA[ ‘Much soft­er’: Is Rus­sia eye­ing a way out of the Ukraine war? ]]>
             </title>
             <link>https://www.aljazeera.com/news/2022/10/21/much-softer-is-russia-eyeing-a-way-out-of-the-ukraine-war</link>
-            <guid isPermaLink="false">1666433703681</guid>
+            <guid isPermaLink="false">1666530903995</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -587,7 +637,7 @@
                 <![CDATA[ Why did Cen­tral Amer­i­ca shift UN votes on Rus­sia-Ukraine war? ]]>
             </title>
             <link>https://www.aljazeera.com/news/2022/10/21/why-did-central-america-shift-un-votes-on-the-russia-ukraine-war</link>
-            <guid isPermaLink="false">1666433703682</guid>
+            <guid isPermaLink="false">1666530903996</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -597,7 +647,7 @@
                 <![CDATA[ Ukraine’s Ze­len­skyy ac­cus­es Rus­sia of plan­ning to de­stroy dam ]]>
             </title>
             <link>https://www.aljazeera.com/news/2022/10/21/zelenskyy-calls-on-west-to-warn-russia-not-to-blow-up-dam</link>
-            <guid isPermaLink="false">1666433703683</guid>
+            <guid isPermaLink="false">1666530903997</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -607,7 +657,7 @@
                 <![CDATA[ Russ­ian threats re­vive old nu­clear fears in cen­tral Eu­rope ]]>
             </title>
             <link>https://www.aljazeera.com/news/2022/10/21/russian-threats-revive-old-nuclear-fears-in-central-europe</link>
-            <guid isPermaLink="false">1666433703684</guid>
+            <guid isPermaLink="false">1666530903998</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -617,7 +667,7 @@
                 <![CDATA[ Will Rus­sia’s Vladimir Putin go nu­clear? ]]>
             </title>
             <link>https://www.aljazeera.com/podcasts/2022/10/21/will-russias-vladimir-putin-go-nuclear</link>
-            <guid isPermaLink="false">1666433703685</guid>
+            <guid isPermaLink="false">1666530903999</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -627,7 +677,7 @@
                 <![CDATA[ ‘Rus­sians should feel the bur­den and con­se­quences of this war’ ]]>
             </title>
             <link>https://www.aljazeera.com/news/2022/10/21/russia-expert-on-the-eus-wartime-border-controls</link>
-            <guid isPermaLink="false">1666433703686</guid>
+            <guid isPermaLink="false">1666530904000</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -637,57 +687,7 @@
                 <![CDATA[ Rus­sia-Ukraine lat­est up­dates: Rus­sia, US of­fi­cials hold call ]]>
             </title>
             <link>https://www.aljazeera.com/news/liveblog/2022/10/21/russia-ukraine-live-news-us-iranian-military-trainers-in-crimea</link>
-            <guid isPermaLink="false">1666433703687</guid>
-            <dc:creator>
-                <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
-            </dc:creator>
-        </item>
-        <item>
-            <title>
-                <![CDATA[ Is­rael, Ukraine dis­cuss air de­fence sys­tems af­ter drone strikes ]]>
-            </title>
-            <link>https://www.aljazeera.com/news/2022/10/21/israel-ukraine-in-dialogue-about-air-defence-systems</link>
-            <guid isPermaLink="false">1666433703688</guid>
-            <dc:creator>
-                <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
-            </dc:creator>
-        </item>
-        <item>
-            <title>
-                <![CDATA[ Rus­sia-Ukraine war: List of key events, day 240 ]]>
-            </title>
-            <link>https://www.aljazeera.com/news/2022/10/21/russia-ukraine-war-list-of-key-events-day-240</link>
-            <guid isPermaLink="false">1666433703689</guid>
-            <dc:creator>
-                <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
-            </dc:creator>
-        </item>
-        <item>
-            <title>
-                <![CDATA[ Mass drone at­tacks in Ukraine fore­shad­ow the ‘fu­ture of war­fare’ ]]>
-            </title>
-            <link>https://www.aljazeera.com/news/2022/10/20/mass-drones-are-a-worry-for-the-future-of-warfare</link>
-            <guid isPermaLink="false">1666433703690</guid>
-            <dc:creator>
-                <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
-            </dc:creator>
-        </item>
-        <item>
-            <title>
-                <![CDATA[ White House says Iran help­ing Rus­sia ‘on the ground’ in Crimea ]]>
-            </title>
-            <link>https://www.aljazeera.com/news/2022/10/20/white-house-says-iran-helping-russia-on-the-ground-in-crimea</link>
-            <guid isPermaLink="false">1666433703691</guid>
-            <dc:creator>
-                <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
-            </dc:creator>
-        </item>
-        <item>
-            <title>
-                <![CDATA[ Rus­sia: Alex­ey Naval­ny faces ‘ter­ror­ism’ charges; 30 years’ jail ]]>
-            </title>
-            <link>https://www.aljazeera.com/news/2022/10/20/russian-opposition-figure-alexei-navalny-says-faces-new-charges</link>
-            <guid isPermaLink="false">1666433703692</guid>
+            <guid isPermaLink="false">1666530904001</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>

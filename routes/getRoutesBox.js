@@ -5,8 +5,6 @@ const {
     crPastCheckOutsRecom,
     dataForCourseRecByTable,
     dataForCourseRecommandation,
-    uploadDataCourseTable,
-    newOrEditCourseForm,
     getTitleFromMySql
 } = require( './libraries/mysql_functions' );
 const {

@@ -4,19 +4,19 @@
     xmlns:media="http://search.yahoo.com/mrss/" version="2.0">
     <channel>
         <title>
-            <![CDATA[ offcamuscareer.com ]]>
+            <![CDATA[ offcampuscareer.com ]]>
         </title>
         <description>
-            <![CDATA[ offcamuscareer.com ]]>
+            <![CDATA[ offcampuscareer.com ]]>
         </description>
         <link>https://www.offcampuscareer.com/sitemapscanner/new</link>
         <image>
             <url>https://www.offcampuscareer.com/favicon.ico</url>
-            <title>offcamuscareer.com</title>
+            <title>offcampuscareer.com</title>
             <link>https://www.offcampuscareer.com/sitemapscanner/new</link>
         </image>
         <generator>https://www.offcampuscareer.com</generator>
-        <lastBuildDate>Sat Oct 22 2022 12:15:54 GMT+0000 (Coordinated Universal Time)</lastBuildDate>
+        <lastBuildDate>Sun Oct 23 2022 14:33:24 GMT+0000 (Coordinated Universal Time)</lastBuildDate>
         <atom:link href="https://www.offcampuscareer.com/feeds/foM0JLd3A.xml" rel="self" type="application/rss+xml"/>
         <language>
             <![CDATA[ en ]]>
@@ -27,7 +27,7 @@
                 <![CDATA[ Politics ]]>
             </title>
             <link>https://www.thetimes.co.uk/politics</link>
-            <guid isPermaLink="false">1666440954595</guid>
+            <guid isPermaLink="false">1666535604006</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -37,7 +37,7 @@
                 <![CDATA[ Log in ]]>
             </title>
             <link>https://login.thetimes.co.uk?gotourl=https://www.thetimes.co.uk/politics</link>
-            <guid isPermaLink="false">1666440954596</guid>
+            <guid isPermaLink="false">1666535604007</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -47,7 +47,7 @@
                 <![CDATA[ Log out ]]>
             </title>
             <link>https://login.thetimes.co.uk/user/logout?gotourl=https://www.thetimes.co.uk/politics</link>
-            <guid isPermaLink="false">1666440954597</guid>
+            <guid isPermaLink="false">1666535604008</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -57,7 +57,7 @@
                 <![CDATA[ View all UK Politics articles ]]>
             </title>
             <link>https://www.thetimes.co.uk/topic/uk-politics</link>
-            <guid isPermaLink="false">1666440954598</guid>
+            <guid isPermaLink="false">1666535604009</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -67,7 +67,7 @@
                 <![CDATA[ View all Global Politics articles ]]>
             </title>
             <link>https://www.thetimes.co.uk/topic/global-politics</link>
-            <guid isPermaLink="false">1666440954599</guid>
+            <guid isPermaLink="false">1666535604010</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -77,47 +77,57 @@
                 <![CDATA[ Politics ]]>
             </title>
             <link>https://www.nytimes.com/section/politics</link>
-            <guid isPermaLink="false">1666440954600</guid>
+            <guid isPermaLink="false">1666535604011</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
         </item>
         <item>
             <title>
-                <![CDATA[ Jan. 6 Panel Issues Subpoena to Trump, Setting Up Legal Battle Over TestimonyWhile the former president has suggested he might testify live before the committee, it was far more likely that the demand would lead to a legal fight.By Luke Broadwater and Michael S. Schmidt ]]>
+                <![CDATA[ democracy challengedFor Trump’s Backers in Congress, ‘Devil Terms’ Help Rally VotersIn vilifying tweets and speeches, G.O.P. lawmakers who contested the election have far outpaced other Republicans and Democrats in fueling polarization.By Jennifer Valentino-DeVries and Steve Eder ]]>
             </title>
-            <link>https://www.nytimes.com/2022/10/21/us/politics/trump-subpoena-jan-6.html</link>
-            <guid isPermaLink="false">1666440954601</guid>
+            <link>https://www.nytimes.com/2022/10/22/us/politics/republican-election-objectors-rhetoric.html</link>
+            <guid isPermaLink="false">1666535604012</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
         </item>
         <item>
             <title>
-                <![CDATA[ Bannon Sentenced to 4 Months in Prison for Contempt of Congress ]]>
+                <![CDATA[ Trump Could Harness Unresolved Legal Issues to Resist Jan. 6 Panel’s SubpoenaIf the ex-president turns down the drama of testifying, his legal team could mount several constitutional and procedural arguments in court.By Charlie Savage and Alan Feuer ]]>
             </title>
-            <link>https://www.nytimes.com/2022/10/21/us/politics/steve-bannon-sentence-contempt-congress.html</link>
-            <guid isPermaLink="false">1666440954602</guid>
+            <link>https://www.nytimes.com/2022/10/22/us/politics/trump-jan-6-subpoena.html</link>
+            <guid isPermaLink="false">1666535604013</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
         </item>
         <item>
             <title>
-                <![CDATA[ Illegal Border Crossings by Venezuelans Plunge in the Face of New PoliciesThe number of Venezuelans entering the United States illegally dropped from about 1,200 a day to 150 in the first days after the Biden administration rolled out the new policies.By Eileen Sullivan ]]>
+                <![CDATA[ Voters Stick to Pandemic-Era Habits, as Early Turnout SurgesMore than 5.5 million people have cast ballots in person or by mail. Experts predict high turnout in the midterm elections.By Nick Corasaniti ]]>
             </title>
-            <link>https://www.nytimes.com/2022/10/21/us/politics/venezuela-immigrants-border.html</link>
-            <guid isPermaLink="false">1666440954603</guid>
+            <link>https://www.nytimes.com/2022/10/22/us/politics/midterm-early-voting.html</link>
+            <guid isPermaLink="false">1666535604014</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
         </item>
         <item>
             <title>
-                <![CDATA[ As Midterms Near, Biden Warns Republicans Seek to Dismantle Democratic LegislationThe president also vowed to veto a federal abortion ban if Republicans regain control of Congress and seek to pass such legislation, in an interview with MSNBC.By Aishvarya Kavi ]]>
+                <![CDATA[  ]]>
             </title>
-            <link>https://www.nytimes.com/2022/10/21/us/politics/biden-republicans-midterm-elections.html</link>
-            <guid isPermaLink="false">1666440954604</guid>
+            <link>https://www.nytimes.com/2022/10/21/us/politics/us-democracy.html</link>
+            <guid isPermaLink="false">1666535604015</guid>
+            <dc:creator>
+                <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
+            </dc:creator>
+        </item>
+        <item>
+            <title>
+                <![CDATA[ Fears Over Fate of Democracy Leave Many Voters Frustrated and ResignedAs democracy frays around them, Republicans and Democrats see different culprits and different risks.By Jonathan Weisman ]]>
+            </title>
+            <link>https://www.nytimes.com/2022/10/23/us/politics/voting-democracy-wisconsin-senate.html</link>
+            <guid isPermaLink="false">1666535604016</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -127,7 +137,27 @@
                 <![CDATA[ The Week in Political NewsGeorgia voters are shattering turnout records, voters’ concerns about democracy are waning and Bernie is back.  By Maya King ]]>
             </title>
             <link>https://www.nytimes.com/interactive/2022/10/22/us/politics/midterms-campaign-trail.html</link>
-            <guid isPermaLink="false">1666440954605</guid>
+            <guid isPermaLink="false">1666535604017</guid>
+            <dc:creator>
+                <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
+            </dc:creator>
+        </item>
+        <item>
+            <title>
+                <![CDATA[ As Midterms Near, Biden Warns Republicans Seek to Dismantle Democratic LegislationThe president also vowed to veto a federal abortion ban if Republicans regain control of Congress and seek to pass such legislation, in an interview with MSNBC.By Aishvarya Kavi ]]>
+            </title>
+            <link>https://www.nytimes.com/2022/10/21/us/politics/biden-republicans-midterm-elections.html</link>
+            <guid isPermaLink="false">1666535604018</guid>
+            <dc:creator>
+                <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
+            </dc:creator>
+        </item>
+        <item>
+            <title>
+                <![CDATA[ Illegal Border Crossings by Venezuelans Plunge in the Face of New PoliciesThe number of Venezuelans entering the United States illegally dropped from about 1,200 a day to 150 in the first days after the Biden administration rolled out the new policies.By Eileen Sullivan ]]>
+            </title>
+            <link>https://www.nytimes.com/2022/10/21/us/politics/venezuela-immigrants-border.html</link>
+            <guid isPermaLink="false">1666535604019</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -137,47 +167,7 @@
                 <![CDATA[ The Proud Boys Presented Dan Cox With a Gift. Now, He Says He Didn’t Keep It.A member of the extremist group gave a comb to Mr. Cox, the Republican candidate for governor of Maryland, after his victory in the primary in July, a video showed.By Neil Vigdor ]]>
             </title>
             <link>https://www.nytimes.com/2022/10/21/us/politics/proud-boys-dan-cox-md.html</link>
-            <guid isPermaLink="false">1666440954606</guid>
-            <dc:creator>
-                <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
-            </dc:creator>
-        </item>
-        <item>
-            <title>
-                <![CDATA[ The Ins and Outs of America’s Shrug at the Threat to DemocracyWith voters distracted by other issues and election denial flourishing, the country has what academics call a legitimacy problem.By Blake Hounshell ]]>
-            </title>
-            <link>https://www.nytimes.com/2022/10/21/us/politics/us-democracy.html</link>
-            <guid isPermaLink="false">1666440954607</guid>
-            <dc:creator>
-                <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
-            </dc:creator>
-        </item>
-        <item>
-            <title>
-                <![CDATA[ In a Race Rife With Antisemitism Concerns, Mastriano Adviser Calls Shapiro ‘At Best a Secular Jew’Mr. Mastriano, a far-right Republican who promotes Christian power and disdains the separation of church and state, has alarmed a broad swath of Pennsylvania’s Jewish community.By Katie Glueck ]]>
-            </title>
-            <link>https://www.nytimes.com/2022/10/21/us/politics/jenna-ellis-josh-shapiro-jewish.html</link>
-            <guid isPermaLink="false">1666440954608</guid>
-            <dc:creator>
-                <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
-            </dc:creator>
-        </item>
-        <item>
-            <title>
-                <![CDATA[ G.O.P. Voter Fraud Crackdowns Falter as Charges Are Dropped in Florida and TexasOne man who had his charges dismissed was among a group of former felons who were rounded up in August under orders from Gov. Ron DeSantis of Florida.By Neil Vigdor ]]>
-            </title>
-            <link>https://www.nytimes.com/2022/10/21/us/politics/voter-fraud-fl-tx.html</link>
-            <guid isPermaLink="false">1666440954609</guid>
-            <dc:creator>
-                <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
-            </dc:creator>
-        </item>
-        <item>
-            <title>
-                <![CDATA[ Super PAC Aligned With Senate G.O.P. Cuts Off New Hampshire TV AdsNew Hampshire was once seen as one of the Republican Party’s top chances to pick up a Senate seat in 2022.By Shane Goldmacher and Trip Gabriel ]]>
-            </title>
-            <link>https://www.nytimes.com/2022/10/21/us/politics/nh-gop-ads-bolduc.html</link>
-            <guid isPermaLink="false">1666440954610</guid>
+            <guid isPermaLink="false">1666535604020</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -187,7 +177,7 @@
                 <![CDATA[ nytpoliticstwitter page for nytpolitics ]]>
             </title>
             <link>https://twitter.com/nytpolitics</link>
-            <guid isPermaLink="false">1666440954611</guid>
+            <guid isPermaLink="false">1666535604021</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -197,7 +187,7 @@
                 <![CDATA[ nytpoliticsfacebook page for nytpolitics ]]>
             </title>
             <link>https://www.facebook.com/nytpolitics</link>
-            <guid isPermaLink="false">1666440954612</guid>
+            <guid isPermaLink="false">1666535604022</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -207,7 +197,7 @@
                 <![CDATA[  ]]>
             </title>
             <link>https://edition.cnn.com/politics</link>
-            <guid isPermaLink="false">1666440954613</guid>
+            <guid isPermaLink="false">1666535604023</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -217,7 +207,7 @@
                 <![CDATA[ The Biden Presidency ]]>
             </title>
             <link>https://edition.cnn.com/specials/politics/joe-biden-news</link>
-            <guid isPermaLink="false">1666440954614</guid>
+            <guid isPermaLink="false">1666535604024</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -227,7 +217,7 @@
                 <![CDATA[ Facts First ]]>
             </title>
             <link>https://edition.cnn.com/specials/politics/fact-check-politics</link>
-            <guid isPermaLink="false">1666440954615</guid>
+            <guid isPermaLink="false">1666535604025</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -237,7 +227,7 @@
                 <![CDATA[  ]]>
             </title>
             <link>https://edition.cnn.com//facebook.com/cnnpolitics</link>
-            <guid isPermaLink="false">1666440954616</guid>
+            <guid isPermaLink="false">1666535604026</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -247,7 +237,7 @@
                 <![CDATA[  ]]>
             </title>
             <link>https://edition.cnn.com//twitter.com/cnnpolitics</link>
-            <guid isPermaLink="false">1666440954617</guid>
+            <guid isPermaLink="false">1666535604027</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -257,7 +247,7 @@
                 <![CDATA[ US Politics ]]>
             </title>
             <link>https://www.theguardian.com/us-news/us-politics</link>
-            <guid isPermaLink="false">1666440954618</guid>
+            <guid isPermaLink="false">1666535604028</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -267,7 +257,7 @@
                 <![CDATA[ US politics ]]>
             </title>
             <link>https://www.theguardian.com/us-news/us-politics/all</link>
-            <guid isPermaLink="false">1666440954619</guid>
+            <guid isPermaLink="false">1666535604029</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>

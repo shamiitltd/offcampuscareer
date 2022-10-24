@@ -4,19 +4,19 @@
     xmlns:media="http://search.yahoo.com/mrss/" version="2.0">
     <channel>
         <title>
-            <![CDATA[ offcamuscareer.com ]]>
+            <![CDATA[ offcampuscareer.com ]]>
         </title>
         <description>
-            <![CDATA[ offcamuscareer.com ]]>
+            <![CDATA[ offcampuscareer.com ]]>
         </description>
         <link>https://www.offcampuscareer.com/sitemapscanner/new</link>
         <image>
             <url>https://www.offcampuscareer.com/favicon.ico</url>
-            <title>offcamuscareer.com</title>
+            <title>offcampuscareer.com</title>
             <link>https://www.offcampuscareer.com/sitemapscanner/new</link>
         </image>
         <generator>https://www.offcampuscareer.com</generator>
-        <lastBuildDate>Sat Oct 22 2022 12:02:09 GMT+0000 (Coordinated Universal Time)</lastBuildDate>
+        <lastBuildDate>Sun Oct 23 2022 14:02:33 GMT+0000 (Coordinated Universal Time)</lastBuildDate>
         <atom:link href="https://www.offcampuscareer.com/feeds/TeCTik2XX.xml" rel="self" type="application/rss+xml"/>
         <language>
             <![CDATA[ en ]]>
@@ -27,7 +27,7 @@
                 <![CDATA[ Technology ]]>
             </title>
             <link>https://www.newscientist.com/subject/technology/</link>
-            <guid isPermaLink="false">1666440129267</guid>
+            <guid isPermaLink="false">1666533753308</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -37,7 +37,7 @@
                 <![CDATA[ Events ]]>
             </title>
             <link>https://www.newscientist.com/science-events/</link>
-            <guid isPermaLink="false">1666440129268</guid>
+            <guid isPermaLink="false">1666533753309</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -47,7 +47,7 @@
                 <![CDATA[ Skip to content ]]>
             </title>
             <link>https://www.sciencenews.org#content</link>
-            <guid isPermaLink="false">1666440129269</guid>
+            <guid isPermaLink="false">1666533753310</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -57,7 +57,7 @@
                 <![CDATA[ Subscribe now ]]>
             </title>
             <link>https://www.sciencenews.org/monthly-subscription-cta</link>
-            <guid isPermaLink="false">1666440129270</guid>
+            <guid isPermaLink="false">1666533753311</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -67,7 +67,7 @@
                 <![CDATA[ All Topics ]]>
             </title>
             <link>https://www.sciencenews.org/topics/</link>
-            <guid isPermaLink="false">1666440129271</guid>
+            <guid isPermaLink="false">1666533753312</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -77,7 +77,7 @@
                 <![CDATA[ Life ]]>
             </title>
             <link>https://www.sciencenews.org/topic/life</link>
-            <guid isPermaLink="false">1666440129272</guid>
+            <guid isPermaLink="false">1666533753313</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -87,7 +87,7 @@
                 <![CDATA[ Humans ]]>
             </title>
             <link>https://www.sciencenews.org/topic/humans</link>
-            <guid isPermaLink="false">1666440129273</guid>
+            <guid isPermaLink="false">1666533753314</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -97,7 +97,7 @@
                 <![CDATA[ Earth ]]>
             </title>
             <link>https://www.sciencenews.org/topic/earth</link>
-            <guid isPermaLink="false">1666440129274</guid>
+            <guid isPermaLink="false">1666533753315</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -107,7 +107,7 @@
                 <![CDATA[ Space ]]>
             </title>
             <link>https://www.sciencenews.org/topic/space</link>
-            <guid isPermaLink="false">1666440129275</guid>
+            <guid isPermaLink="false">1666533753316</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -117,7 +117,7 @@
                 <![CDATA[ Physics ]]>
             </title>
             <link>https://www.sciencenews.org/topic/physics</link>
-            <guid isPermaLink="false">1666440129276</guid>
+            <guid isPermaLink="false">1666533753317</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -127,7 +127,7 @@
                 <![CDATA[ Coronavirus ]]>
             </title>
             <link>https://www.sciencenews.org/collections/2019-novel-coronavirus-outbreak</link>
-            <guid isPermaLink="false">1666440129277</guid>
+            <guid isPermaLink="false">1666533753318</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -137,7 +137,7 @@
                 <![CDATA[ Magazine ]]>
             </title>
             <link>https://www.sciencenews.org/sn-magazine</link>
-            <guid isPermaLink="false">1666440129278</guid>
+            <guid isPermaLink="false">1666533753319</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -147,7 +147,7 @@
                 <![CDATA[ Explore Century of Science ]]>
             </title>
             <link>https://www.sciencenews.org/century</link>
-            <guid isPermaLink="false">1666440129279</guid>
+            <guid isPermaLink="false">1666533753320</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -157,7 +157,7 @@
                 <![CDATA[ Menu ]]>
             </title>
             <link>https://www.sciencenews.org#</link>
-            <guid isPermaLink="false">1666440129280</guid>
+            <guid isPermaLink="false">1666533753321</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -167,7 +167,7 @@
                 <![CDATA[ All Stories ]]>
             </title>
             <link>https://www.sciencenews.org/all-stories</link>
-            <guid isPermaLink="false">1666440129281</guid>
+            <guid isPermaLink="false">1666533753322</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -177,7 +177,7 @@
                 <![CDATA[ All Media ]]>
             </title>
             <link>https://www.sciencenews.org/article/tag/multimedia</link>
-            <guid isPermaLink="false">1666440129282</guid>
+            <guid isPermaLink="false">1666533753323</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -187,7 +187,7 @@
                 <![CDATA[ Reviews ]]>
             </title>
             <link>https://www.sciencenews.org/article-type/reviews-previews</link>
-            <guid isPermaLink="false">1666440129283</guid>
+            <guid isPermaLink="false">1666533753324</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -197,7 +197,7 @@
                 <![CDATA[ Collections ]]>
             </title>
             <link>https://www.sciencenews.org/collections</link>
-            <guid isPermaLink="false">1666440129284</guid>
+            <guid isPermaLink="false">1666533753325</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -207,7 +207,7 @@
                 <![CDATA[ For Educators ]]>
             </title>
             <link>https://www.sciencenews.org/snhs</link>
-            <guid isPermaLink="false">1666440129285</guid>
+            <guid isPermaLink="false">1666533753326</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -217,7 +217,7 @@
                 <![CDATA[ About ]]>
             </title>
             <link>https://www.sciencenews.org/about-science-news</link>
-            <guid isPermaLink="false">1666440129286</guid>
+            <guid isPermaLink="false">1666533753327</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -227,7 +227,7 @@
                 <![CDATA[ Science News ]]>
             </title>
             <link>https://www.sciencenews.org/</link>
-            <guid isPermaLink="false">1666440129287</guid>
+            <guid isPermaLink="false">1666533753328</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -237,7 +237,7 @@
                 <![CDATA[ Agriculture ]]>
             </title>
             <link>https://www.sciencenews.org/topic/agriculture</link>
-            <guid isPermaLink="false">1666440129288</guid>
+            <guid isPermaLink="false">1666533753329</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -247,7 +247,7 @@
                 <![CDATA[ Climate ]]>
             </title>
             <link>https://www.sciencenews.org/topic/climate</link>
-            <guid isPermaLink="false">1666440129289</guid>
+            <guid isPermaLink="false">1666533753330</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -257,7 +257,7 @@
                 <![CDATA[ Oceans ]]>
             </title>
             <link>https://www.sciencenews.org/topic/oceans</link>
-            <guid isPermaLink="false">1666440129290</guid>
+            <guid isPermaLink="false">1666533753331</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -267,7 +267,7 @@
                 <![CDATA[ Environment ]]>
             </title>
             <link>https://www.sciencenews.org/topic/environment</link>
-            <guid isPermaLink="false">1666440129291</guid>
+            <guid isPermaLink="false">1666533753332</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -277,7 +277,7 @@
                 <![CDATA[ Anthropology ]]>
             </title>
             <link>https://www.sciencenews.org/topic/anthropology</link>
-            <guid isPermaLink="false">1666440129292</guid>
+            <guid isPermaLink="false">1666533753333</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -287,7 +287,7 @@
                 <![CDATA[ Health & Medicine ]]>
             </title>
             <link>https://www.sciencenews.org/topic/health-medicine</link>
-            <guid isPermaLink="false">1666440129293</guid>
+            <guid isPermaLink="false">1666533753334</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -297,7 +297,7 @@
                 <![CDATA[ Archaeology ]]>
             </title>
             <link>https://www.sciencenews.org/topic/archaeology</link>
-            <guid isPermaLink="false">1666440129294</guid>
+            <guid isPermaLink="false">1666533753335</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -307,7 +307,7 @@
                 <![CDATA[ Psychology ]]>
             </title>
             <link>https://www.sciencenews.org/topic/psychology</link>
-            <guid isPermaLink="false">1666440129295</guid>
+            <guid isPermaLink="false">1666533753336</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -317,7 +317,7 @@
                 <![CDATA[ Animals ]]>
             </title>
             <link>https://www.sciencenews.org/topic/animals</link>
-            <guid isPermaLink="false">1666440129296</guid>
+            <guid isPermaLink="false">1666533753337</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -327,7 +327,7 @@
                 <![CDATA[ Plants ]]>
             </title>
             <link>https://www.sciencenews.org/topic/plants</link>
-            <guid isPermaLink="false">1666440129297</guid>
+            <guid isPermaLink="false">1666533753338</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -337,7 +337,7 @@
                 <![CDATA[ Ecosystems ]]>
             </title>
             <link>https://www.sciencenews.org/topic/ecosystems</link>
-            <guid isPermaLink="false">1666440129298</guid>
+            <guid isPermaLink="false">1666533753339</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -347,7 +347,7 @@
                 <![CDATA[ Paleontology ]]>
             </title>
             <link>https://www.sciencenews.org/topic/paleontology</link>
-            <guid isPermaLink="false">1666440129299</guid>
+            <guid isPermaLink="false">1666533753340</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -357,7 +357,7 @@
                 <![CDATA[ Neuroscience ]]>
             </title>
             <link>https://www.sciencenews.org/topic/neuroscience</link>
-            <guid isPermaLink="false">1666440129300</guid>
+            <guid isPermaLink="false">1666533753341</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -367,7 +367,7 @@
                 <![CDATA[ Genetics ]]>
             </title>
             <link>https://www.sciencenews.org/topic/genetics</link>
-            <guid isPermaLink="false">1666440129301</guid>
+            <guid isPermaLink="false">1666533753342</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -377,7 +377,7 @@
                 <![CDATA[ Microbes ]]>
             </title>
             <link>https://www.sciencenews.org/topic/microbes</link>
-            <guid isPermaLink="false">1666440129302</guid>
+            <guid isPermaLink="false">1666533753343</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -387,7 +387,7 @@
                 <![CDATA[ Materials Science ]]>
             </title>
             <link>https://www.sciencenews.org/topic/materials-science</link>
-            <guid isPermaLink="false">1666440129303</guid>
+            <guid isPermaLink="false">1666533753344</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -397,7 +397,7 @@
                 <![CDATA[ Quantum Physics ]]>
             </title>
             <link>https://www.sciencenews.org/topic/quantum-physics</link>
-            <guid isPermaLink="false">1666440129304</guid>
+            <guid isPermaLink="false">1666533753345</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -407,7 +407,7 @@
                 <![CDATA[ Particle Physics ]]>
             </title>
             <link>https://www.sciencenews.org/topic/particle-physics</link>
-            <guid isPermaLink="false">1666440129305</guid>
+            <guid isPermaLink="false">1666533753346</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -417,7 +417,7 @@
                 <![CDATA[ Astronomy ]]>
             </title>
             <link>https://www.sciencenews.org/topic/astronomy</link>
-            <guid isPermaLink="false">1666440129306</guid>
+            <guid isPermaLink="false">1666533753347</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -427,7 +427,7 @@
                 <![CDATA[ Planetary Science ]]>
             </title>
             <link>https://www.sciencenews.org/topic/planetary-science</link>
-            <guid isPermaLink="false">1666440129307</guid>
+            <guid isPermaLink="false">1666533753348</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -437,7 +437,7 @@
                 <![CDATA[ Cosmology ]]>
             </title>
             <link>https://www.sciencenews.org/topic/cosmology</link>
-            <guid isPermaLink="false">1666440129308</guid>
+            <guid isPermaLink="false">1666533753349</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -447,7 +447,7 @@
                 <![CDATA[ Tech ]]>
             </title>
             <link>https://www.sciencenews.org/topic/tech</link>
-            <guid isPermaLink="false">1666440129309</guid>
+            <guid isPermaLink="false">1666533753350</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -457,7 +457,7 @@
                 <![CDATA[ Computing ]]>
             </title>
             <link>https://www.sciencenews.org/topic/computing</link>
-            <guid isPermaLink="false">1666440129310</guid>
+            <guid isPermaLink="false">1666533753351</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -467,7 +467,7 @@
                 <![CDATA[ Artificial Intelligence ]]>
             </title>
             <link>https://www.sciencenews.org/topic/artificial-intelligence</link>
-            <guid isPermaLink="false">1666440129311</guid>
+            <guid isPermaLink="false">1666533753352</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -477,7 +477,7 @@
                 <![CDATA[ Chemistry ]]>
             </title>
             <link>https://www.sciencenews.org/topic/chemistry</link>
-            <guid isPermaLink="false">1666440129312</guid>
+            <guid isPermaLink="false">1666533753353</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -487,7 +487,7 @@
                 <![CDATA[ Math ]]>
             </title>
             <link>https://www.sciencenews.org/topic/math</link>
-            <guid isPermaLink="false">1666440129313</guid>
+            <guid isPermaLink="false">1666533753354</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -497,7 +497,7 @@
                 <![CDATA[ Science & Society ]]>
             </title>
             <link>https://www.sciencenews.org/topic/science-society</link>
-            <guid isPermaLink="false">1666440129314</guid>
+            <guid isPermaLink="false">1666533753355</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -507,7 +507,7 @@
                 <![CDATA[ How fungi make potent toxins that can contaminate food ]]>
             </title>
             <link>https://www.sciencenews.org/article/aspergillus-fungi-mycotoxins-aflatoxin-food-contamination</link>
-            <guid isPermaLink="false">1666440129315</guid>
+            <guid isPermaLink="false">1666533753356</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -517,7 +517,7 @@
                 <![CDATA[ Deborah Balthazar ]]>
             </title>
             <link>https://www.sciencenews.org/author/deborah-balthazar</link>
-            <guid isPermaLink="false">1666440129316</guid>
+            <guid isPermaLink="false">1666533753357</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -527,7 +527,7 @@
                 <![CDATA[ Heat waves in U.S. rivers are on the rise. Here’s why that’s a problem ]]>
             </title>
             <link>https://www.sciencenews.org/article/heat-waves-rivers-united-states-fish-plants-water-quality</link>
-            <guid isPermaLink="false">1666440129317</guid>
+            <guid isPermaLink="false">1666533753358</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -537,7 +537,7 @@
                 <![CDATA[ Jude Coleman ]]>
             </title>
             <link>https://www.sciencenews.org/author/jude-coleman</link>
-            <guid isPermaLink="false">1666440129318</guid>
+            <guid isPermaLink="false">1666533753359</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -547,7 +547,7 @@
                 <![CDATA[ Black Death immunity came at a cost to modern-day health ]]>
             </title>
             <link>https://www.sciencenews.org/article/black-death-immunity-gene-crohns-disease-health</link>
-            <guid isPermaLink="false">1666440129319</guid>
+            <guid isPermaLink="false">1666533753360</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -557,7 +557,7 @@
                 <![CDATA[ Wynne Parry ]]>
             </title>
             <link>https://www.sciencenews.org/author/wynne-parry</link>
-            <guid isPermaLink="false">1666440129320</guid>
+            <guid isPermaLink="false">1666533753361</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -567,7 +567,7 @@
                 <![CDATA[ A study questioning colonoscopy screening’s benefits has big caveats ]]>
             </title>
             <link>https://www.sciencenews.org/article/colonoscopy-screening-effectiveness-study-limitations</link>
-            <guid isPermaLink="false">1666440129321</guid>
+            <guid isPermaLink="false">1666533753362</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -577,7 +577,7 @@
                 <![CDATA[ Aimee Cunningham ]]>
             </title>
             <link>https://www.sciencenews.org/author/aimee-cunningham</link>
-            <guid isPermaLink="false">1666440129322</guid>
+            <guid isPermaLink="false">1666533753363</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -587,7 +587,7 @@
                 <![CDATA[ Ancient DNA unveils Siberian Neandertals’ small-scale social lives ]]>
             </title>
             <link>https://www.sciencenews.org/article/ancient-dna-siberian-neandertals-social-lives</link>
-            <guid isPermaLink="false">1666440129323</guid>
+            <guid isPermaLink="false">1666533753364</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -597,7 +597,7 @@
                 <![CDATA[ Bruce Bower ]]>
             </title>
             <link>https://www.sciencenews.org/author/bruce-bower</link>
-            <guid isPermaLink="false">1666440129324</guid>
+            <guid isPermaLink="false">1666533753365</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -607,7 +607,7 @@
                 <![CDATA[ 50 years ago, scientists found a new way to clean up oil spills ]]>
             </title>
             <link>https://www.sciencenews.org/article/50-years-ago-clean-up-oil-spills</link>
-            <guid isPermaLink="false">1666440129325</guid>
+            <guid isPermaLink="false">1666533753366</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -617,7 +617,7 @@
                 <![CDATA[ Meghan Rosen ]]>
             </title>
             <link>https://www.sciencenews.org/author/meghan-rosen</link>
-            <guid isPermaLink="false">1666440129326</guid>
+            <guid isPermaLink="false">1666533753367</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -627,7 +627,7 @@
                 <![CDATA[ Most stars may have much more time to form planets than previously thought ]]>
             </title>
             <link>https://www.sciencenews.org/article/stars-time-planet-formation-gas-disk</link>
-            <guid isPermaLink="false">1666440129327</guid>
+            <guid isPermaLink="false">1666533753368</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -637,7 +637,7 @@
                 <![CDATA[ Ken Croswell ]]>
             </title>
             <link>https://www.sciencenews.org/author/ken-croswell</link>
-            <guid isPermaLink="false">1666440129328</guid>
+            <guid isPermaLink="false">1666533753369</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -647,7 +647,7 @@
                 <![CDATA[ For the first time, astronomers saw dust in space being pushed by starlight ]]>
             </title>
             <link>https://www.sciencenews.org/article/dust-stars-space-starlight-stardust-astronomy</link>
-            <guid isPermaLink="false">1666440129329</guid>
+            <guid isPermaLink="false">1666533753370</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -657,7 +657,7 @@
                 <![CDATA[ James R. Riordon ]]>
             </title>
             <link>https://www.sciencenews.org/author/james-r-riordon</link>
-            <guid isPermaLink="false">1666440129330</guid>
+            <guid isPermaLink="false">1666533753371</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -667,7 +667,7 @@
                 <![CDATA[ A 3-D model of the Cat’s Eye nebula shows rings sculpted by jets ]]>
             </title>
             <link>https://www.sciencenews.org/article/cats-eye-nebula-3d-model-rings-jets</link>
-            <guid isPermaLink="false">1666440129331</guid>
+            <guid isPermaLink="false">1666533753372</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -677,7 +677,7 @@
                 <![CDATA[ Lisa Grossman ]]>
             </title>
             <link>https://www.sciencenews.org/author/lisa-grossman</link>
-            <guid isPermaLink="false">1666440129332</guid>
+            <guid isPermaLink="false">1666533753373</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -687,7 +687,7 @@
                 <![CDATA[ Cooperative sperm outrun loners in the mating race ]]>
             </title>
             <link>https://www.sciencenews.org/article/sperm-swimming-groups-effectiveness-fertility</link>
-            <guid isPermaLink="false">1666440129333</guid>
+            <guid isPermaLink="false">1666533753374</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -697,7 +697,7 @@
                 <![CDATA[ Here’s where jazz gets its swing ]]>
             </title>
             <link>https://www.sciencenews.org/article/jazz-music-swing-rhythm-timing</link>
-            <guid isPermaLink="false">1666440129334</guid>
+            <guid isPermaLink="false">1666533753375</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -707,7 +707,7 @@
                 <![CDATA[ Nikk Ogasa ]]>
             </title>
             <link>https://www.sciencenews.org/author/nikk-ogasa</link>
-            <guid isPermaLink="false">1666440129335</guid>
+            <guid isPermaLink="false">1666533753376</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -717,7 +717,7 @@
                 <![CDATA[ Quantum experiments with entangled photons win the 2022 Nobel Prize in physics ]]>
             </title>
             <link>https://www.sciencenews.org/article/physics-nobel-prize-2022-quantum-entanglement-tech</link>
-            <guid isPermaLink="false">1666440129336</guid>
+            <guid isPermaLink="false">1666533753377</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -727,27 +727,17 @@
                 <![CDATA[ Drone photos reveal an early Mesopotamian city made of marsh islands ]]>
             </title>
             <link>https://www.sciencenews.org/article/mesopotamia-city-marsh-islands-drone-lagash-iraq</link>
-            <guid isPermaLink="false">1666440129337</guid>
+            <guid isPermaLink="false">1666533753378</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
         </item>
         <item>
             <title>
-                <![CDATA[ A glimpse inside a gecko’s hand won the 2022 Nikon Small World photo contest ]]>
+                <![CDATA[ An arc of galaxies 3 billion light-years long may challenge cosmology ]]>
             </title>
-            <link>https://www.sciencenews.org/article/nikon-small-world-photography-2022</link>
-            <guid isPermaLink="false">1666440129338</guid>
-            <dc:creator>
-                <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
-            </dc:creator>
-        </item>
-        <item>
-            <title>
-                <![CDATA[ Erin Garcia de Jesús ]]>
-            </title>
-            <link>https://www.sciencenews.org/author/erin-garcia-de-jesus</link>
-            <guid isPermaLink="false">1666440129339</guid>
+            <link>https://www.sciencenews.org/article/galaxy-giant-arc-3-billion-light-years-long-cosmology-space</link>
+            <guid isPermaLink="false">1666533753379</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -757,7 +747,7 @@
                 <![CDATA[ More Stories ]]>
             </title>
             <link>https://www.sciencenews.org/all-stories/</link>
-            <guid isPermaLink="false">1666440129340</guid>
+            <guid isPermaLink="false">1666533753380</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -767,7 +757,7 @@
                 <![CDATA[ Big questions inspire the scientists on this year’s SN 10 list ]]>
             </title>
             <link>https://www.sciencenews.org/article/sn-10-scientists-to-watch-2022</link>
-            <guid isPermaLink="false">1666440129341</guid>
+            <guid isPermaLink="false">1666533753381</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -777,7 +767,7 @@
                 <![CDATA[ Science News Staff ]]>
             </title>
             <link>https://www.sciencenews.org/author/science-news-staff</link>
-            <guid isPermaLink="false">1666440129342</guid>
+            <guid isPermaLink="false">1666533753382</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -787,7 +777,7 @@
                 <![CDATA[ Christopher Barnes is on a quest for a universal coronavirus vaccine ]]>
             </title>
             <link>https://www.sciencenews.org/article/christopher-barnes-coronavirus-vaccine-sn-10-scientists-to-watch</link>
-            <guid isPermaLink="false">1666440129343</guid>
+            <guid isPermaLink="false">1666533753383</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -797,7 +787,7 @@
                 <![CDATA[ Josep Cornella breaks boundaries to make new and better catalysts ]]>
             </title>
             <link>https://www.sciencenews.org/article/josep-cornella-chemistry-sn-10-scientists-to-watch</link>
-            <guid isPermaLink="false">1666440129344</guid>
+            <guid isPermaLink="false">1666533753384</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -807,7 +797,7 @@
                 <![CDATA[ Whatever Happened to All Those Drugs from the Sea? ]]>
             </title>
             <link>https://www.sciencenews.org/archive/whatever-happened-all-those-drugs-sea</link>
-            <guid isPermaLink="false">1666440129345</guid>
+            <guid isPermaLink="false">1666533753385</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -817,7 +807,7 @@
                 <![CDATA[  ]]>
             </title>
             <link>https://www.sciencenews.org/sn-magazine/october-8-22-2022</link>
-            <guid isPermaLink="false">1666440129346</guid>
+            <guid isPermaLink="false">1666533753386</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -827,7 +817,7 @@
                 <![CDATA[ Tree-climbing carnivores called fishers are back in Washington’s forests ]]>
             </title>
             <link>https://www.sciencenews.org/article/fishers-tree-climbing-carnivores-washington-forest</link>
-            <guid isPermaLink="false">1666440129347</guid>
+            <guid isPermaLink="false">1666533753387</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -837,7 +827,7 @@
                 <![CDATA[ Brianna Randall ]]>
             </title>
             <link>https://www.sciencenews.org/author/brianna-randall</link>
-            <guid isPermaLink="false">1666440129348</guid>
+            <guid isPermaLink="false">1666533753388</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -847,7 +837,7 @@
                 <![CDATA[ What you need to know about the new omicron booster shots ]]>
             </title>
             <link>https://www.sciencenews.org/article/omicron-booster-shot-vaccine-covid-coronavirus-pfizer-moderna</link>
-            <guid isPermaLink="false">1666440129349</guid>
+            <guid isPermaLink="false">1666533753389</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -857,7 +847,7 @@
                 <![CDATA[ The oldest known surgical amputation occurred 31,000 years ago ]]>
             </title>
             <link>https://www.sciencenews.org/article/amputation-surgery-oldest-fossil-borneo</link>
-            <guid isPermaLink="false">1666440129350</guid>
+            <guid isPermaLink="false">1666533753390</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -867,7 +857,7 @@
                 <![CDATA[ Subscribe ]]>
             </title>
             <link>https://www.sciencenews.org/subscription/</link>
-            <guid isPermaLink="false">1666440129351</guid>
+            <guid isPermaLink="false">1666533753391</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -877,7 +867,7 @@
                 <![CDATA[ Here are the James Webb Space Telescope’s stunning first pictures ]]>
             </title>
             <link>https://www.sciencenews.org/article/james-webb-space-telescope-first-image-nasa</link>
-            <guid isPermaLink="false">1666440129352</guid>
+            <guid isPermaLink="false">1666533753392</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -887,7 +877,7 @@
                 <![CDATA[ How a western banded gecko eats a scorpion ]]>
             </title>
             <link>https://www.sciencenews.org/article/gecko-western-banded-scorpion-eat-shake-video</link>
-            <guid isPermaLink="false">1666440129353</guid>
+            <guid isPermaLink="false">1666533753393</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -897,7 +887,7 @@
                 <![CDATA[ How do scientists calculate the age of a star? ]]>
             </title>
             <link>https://www.sciencenews.org/article/star-age-calculation-astronomy-life-cycle</link>
-            <guid isPermaLink="false">1666440129354</guid>
+            <guid isPermaLink="false">1666533753394</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -907,7 +897,7 @@
                 <![CDATA[ Mars has two speeds of sound ]]>
             </title>
             <link>https://www.sciencenews.org/article/mars-two-sound-speeds-laser-helicopter</link>
-            <guid isPermaLink="false">1666440129355</guid>
+            <guid isPermaLink="false">1666533753395</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -917,7 +907,7 @@
                 <![CDATA[ The James Webb Space Telescope has reached its new home at last ]]>
             </title>
             <link>https://www.sciencenews.org/article/james-webb-space-telescope-l2-lagrange-point</link>
-            <guid isPermaLink="false">1666440129356</guid>
+            <guid isPermaLink="false">1666533753396</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -927,7 +917,7 @@
                 <![CDATA[ Follow Science News on Twitter ]]>
             </title>
             <link>https://twitter.com/sciencenews</link>
-            <guid isPermaLink="false">1666440129357</guid>
+            <guid isPermaLink="false">1666533753397</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -937,7 +927,7 @@
                 <![CDATA[ Follow Science News on Facebook ]]>
             </title>
             <link>https://facebook.com/sciencenews</link>
-            <guid isPermaLink="false">1666440129358</guid>
+            <guid isPermaLink="false">1666533753398</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -947,7 +937,7 @@
                 <![CDATA[ Follow Science News on Instagram ]]>
             </title>
             <link>https://www.instagram.com/sciencenewsmagazine/</link>
-            <guid isPermaLink="false">1666440129359</guid>
+            <guid isPermaLink="false">1666533753399</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -957,7 +947,7 @@
                 <![CDATA[ Marcos Simões-Costa asks how cells in the embryo get their identities ]]>
             </title>
             <link>https://www.sciencenews.org/article/marcos-simoes-costa-embryo-sn-10-scientist-to-watch</link>
-            <guid isPermaLink="false">1666440129360</guid>
+            <guid isPermaLink="false">1666533753400</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -967,7 +957,7 @@
                 <![CDATA[ Aina Abell ]]>
             </title>
             <link>https://www.sciencenews.org/author/aina-abell</link>
-            <guid isPermaLink="false">1666440129361</guid>
+            <guid isPermaLink="false">1666533753401</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -977,7 +967,7 @@
                 <![CDATA[ Has AlphaFold actually solved biology’s protein-folding problem? ]]>
             </title>
             <link>https://www.sciencenews.org/article/alphafold-ai-protein-structure-folding-prediction</link>
-            <guid isPermaLink="false">1666440129362</guid>
+            <guid isPermaLink="false">1666533753402</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -987,7 +977,7 @@
                 <![CDATA[ Tina Hesman Saey ]]>
             </title>
             <link>https://www.sciencenews.org/author/tina-hesman-saey</link>
-            <guid isPermaLink="false">1666440129363</guid>
+            <guid isPermaLink="false">1666533753403</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -997,7 +987,7 @@
                 <![CDATA[ Here’s what triggers giant honeybees to do the wave ]]>
             </title>
             <link>https://www.sciencenews.org/article/giant-honeybee-shimmering-nest-behavior-defense</link>
-            <guid isPermaLink="false">1666440129364</guid>
+            <guid isPermaLink="false">1666533753404</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -1007,7 +997,7 @@
                 <![CDATA[ Ananya ]]>
             </title>
             <link>https://www.sciencenews.org/author/ananya</link>
-            <guid isPermaLink="false">1666440129365</guid>
+            <guid isPermaLink="false">1666533753405</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -1017,7 +1007,7 @@
                 <![CDATA[ How to get a crying baby to sleep, according to science ]]>
             </title>
             <link>https://www.sciencenews.org/article/crying-baby-sleep-science</link>
-            <guid isPermaLink="false">1666440129366</guid>
+            <guid isPermaLink="false">1666533753406</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -1027,7 +1017,7 @@
                 <![CDATA[ Why humans have more voice control than any other primates ]]>
             </title>
             <link>https://www.sciencenews.org/article/humans-primates-voice-control-cords-larynx-membrane</link>
-            <guid isPermaLink="false">1666440129367</guid>
+            <guid isPermaLink="false">1666533753407</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -1037,7 +1027,7 @@
                 <![CDATA[ Asa Stahl ]]>
             </title>
             <link>https://www.sciencenews.org/author/asa-stahl</link>
-            <guid isPermaLink="false">1666440129368</guid>
+            <guid isPermaLink="false">1666533753408</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -1047,7 +1037,7 @@
                 <![CDATA[ Ancient DNA links an East Asian Homo sapiens woman to early Americans ]]>
             </title>
             <link>https://www.sciencenews.org/article/homo-sapiens-woman-fossil-china-ancient-dna-early-americans</link>
-            <guid isPermaLink="false">1666440129369</guid>
+            <guid isPermaLink="false">1666533753409</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -1057,7 +1047,7 @@
                 <![CDATA[ Climate change could turn some blue lakes to green or brown ]]>
             </title>
             <link>https://www.sciencenews.org/article/climate-change-lake-color-blue-green-brown</link>
-            <guid isPermaLink="false">1666440129370</guid>
+            <guid isPermaLink="false">1666533753410</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -1067,7 +1057,7 @@
                 <![CDATA[ Jennifer Schmidt ]]>
             </title>
             <link>https://www.sciencenews.org/author/jennifer-schmidt</link>
-            <guid isPermaLink="false">1666440129371</guid>
+            <guid isPermaLink="false">1666533753411</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -1077,7 +1067,7 @@
                 <![CDATA[ Gas flares are leaking five times as much methane than previously thought ]]>
             </title>
             <link>https://www.sciencenews.org/article/gas-flare-leak-methane-burning-climate</link>
-            <guid isPermaLink="false">1666440129372</guid>
+            <guid isPermaLink="false">1666533753412</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -1087,7 +1077,7 @@
                 <![CDATA[ Bethany Brookshire ]]>
             </title>
             <link>https://www.sciencenews.org/author/bethany-brookshire</link>
-            <guid isPermaLink="false">1666440129373</guid>
+            <guid isPermaLink="false">1666533753413</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -1097,7 +1087,7 @@
                 <![CDATA[ How Kenyans help themselves and the planet by saving mangrove trees ]]>
             </title>
             <link>https://www.sciencenews.org/article/kenya-mangrove-trees-forest-carbon-storage-climate</link>
-            <guid isPermaLink="false">1666440129374</guid>
+            <guid isPermaLink="false">1666533753414</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -1107,7 +1097,7 @@
                 <![CDATA[ Geoffrey Kamadi ]]>
             </title>
             <link>https://www.sciencenews.org/author/geoffrey-kamadi</link>
-            <guid isPermaLink="false">1666440129375</guid>
+            <guid isPermaLink="false">1666533753415</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -1117,7 +1107,7 @@
                 <![CDATA[ A protogalaxy in the Milky Way may be our galaxy’s original nucleus ]]>
             </title>
             <link>https://www.sciencenews.org/article/milky-way-galaxy-nucleus-oldest-stars-protogalaxy</link>
-            <guid isPermaLink="false">1666440129376</guid>
+            <guid isPermaLink="false">1666533753416</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -1127,7 +1117,7 @@
                 <![CDATA[ Here’s the James Webb telescope’s first direct image of an exoplanet ]]>
             </title>
             <link>https://www.sciencenews.org/article/james-webb-space-telescope-first-exoplanet-image</link>
-            <guid isPermaLink="false">1666440129377</guid>
+            <guid isPermaLink="false">1666533753417</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -1137,7 +1127,7 @@
                 <![CDATA[ The James Webb telescope spotted CO2 in an exoplanet’s atmosphere ]]>
             </title>
             <link>https://www.sciencenews.org/article/james-webb-space-telescope-carbon-dioxide-exoplanet-atmosphere</link>
-            <guid isPermaLink="false">1666440129378</guid>
+            <guid isPermaLink="false">1666533753418</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -1147,7 +1137,7 @@
                 <![CDATA[ Despite a retraction, a room-temperature superconductor claim isn’t dead yet ]]>
             </title>
             <link>https://www.sciencenews.org/article/room-temperature-superconductor-retraction-physics</link>
-            <guid isPermaLink="false">1666440129379</guid>
+            <guid isPermaLink="false">1666533753419</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -1157,7 +1147,7 @@
                 <![CDATA[ Falling objects in orbit show Einstein was right — again ]]>
             </title>
             <link>https://www.sciencenews.org/article/einstein-general-relativity-gravity-microscope-experiment</link>
-            <guid isPermaLink="false">1666440129380</guid>
+            <guid isPermaLink="false">1666533753420</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -1167,7 +1157,7 @@
                 <![CDATA[ Losing amphibians may be tied to spikes in human malaria cases ]]>
             </title>
             <link>https://www.sciencenews.org/article/amphibian-loss-human-malaria-cases-mosquitoes</link>
-            <guid isPermaLink="false">1666440129381</guid>
+            <guid isPermaLink="false">1666533753421</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -1177,7 +1167,17 @@
                 <![CDATA[ ‘Breathless’ explores COVID-19’s origins and other pandemic science ]]>
             </title>
             <link>https://www.sciencenews.org/article/breathless-book-covid-19-pandemic-coronavirus</link>
-            <guid isPermaLink="false">1666440129382</guid>
+            <guid isPermaLink="false">1666533753422</guid>
+            <dc:creator>
+                <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
+            </dc:creator>
+        </item>
+        <item>
+            <title>
+                <![CDATA[ Erin Garcia de Jesús ]]>
+            </title>
+            <link>https://www.sciencenews.org/author/erin-garcia-de-jesus</link>
+            <guid isPermaLink="false">1666533753423</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -1187,7 +1187,7 @@
                 <![CDATA[ 50 years ago, scientists dug into Pangaea’s past lives ]]>
             </title>
             <link>https://www.sciencenews.org/article/50-years-ago-pangaea-continents-earth</link>
-            <guid isPermaLink="false">1666440129383</guid>
+            <guid isPermaLink="false">1666533753424</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -1197,7 +1197,7 @@
                 <![CDATA[ Jacky Austermann looks to the solid earth for clues to sea level rise ]]>
             </title>
             <link>https://www.sciencenews.org/article/jacky-austermann-climate-sn-10-scientists-to-watch</link>
-            <guid isPermaLink="false">1666440129384</guid>
+            <guid isPermaLink="false">1666533753425</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -1207,7 +1207,7 @@
                 <![CDATA[ Looking for a job? Lean more on weak ties than strong relationships ]]>
             </title>
             <link>https://www.sciencenews.org/article/linkedin-job-search-weak-ties-relatiosnhips-social-science</link>
-            <guid isPermaLink="false">1666440129385</guid>
+            <guid isPermaLink="false">1666533753426</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -1217,7 +1217,7 @@
                 <![CDATA[ Sujata Gupta ]]>
             </title>
             <link>https://www.sciencenews.org/author/sujata-gupta</link>
-            <guid isPermaLink="false">1666440129386</guid>
+            <guid isPermaLink="false">1666533753427</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -1227,7 +1227,7 @@
                 <![CDATA[ A new seasoning smells like meat thanks to sugar — and mealworms ]]>
             </title>
             <link>https://www.sciencenews.org/article/mealworms-sugar-new-seasoning-smell-meat</link>
-            <guid isPermaLink="false">1666440129387</guid>
+            <guid isPermaLink="false">1666533753428</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -1237,7 +1237,7 @@
                 <![CDATA[ Anil Oza ]]>
             </title>
             <link>https://www.sciencenews.org/author/anil-oza</link>
-            <guid isPermaLink="false">1666440129388</guid>
+            <guid isPermaLink="false">1666533753429</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -1247,7 +1247,7 @@
                 <![CDATA[ Friendships with rich people may help lift children out of poverty ]]>
             </title>
             <link>https://www.sciencenews.org/article/friendships-rich-people-children-poverty</link>
-            <guid isPermaLink="false">1666440129389</guid>
+            <guid isPermaLink="false">1666533753430</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -1257,7 +1257,7 @@
                 <![CDATA[ Science News Learning ]]>
             </title>
             <link>https://www.sciencenews.org/learning/</link>
-            <guid isPermaLink="false">1666440129390</guid>
+            <guid isPermaLink="false">1666533753431</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -1267,7 +1267,7 @@
                 <![CDATA[ Give a Gift Subscription ]]>
             </title>
             <link>https://www.sciencenews.org/give-a-gift</link>
-            <guid isPermaLink="false">1666440129391</guid>
+            <guid isPermaLink="false">1666533753432</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -1277,7 +1277,7 @@
                 <![CDATA[ Follow Science News via RSS ]]>
             </title>
             <link>https://www.sciencenews.org/feed/</link>
-            <guid isPermaLink="false">1666440129392</guid>
+            <guid isPermaLink="false">1666533753433</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -1287,7 +1287,7 @@
                 <![CDATA[ FAQ ]]>
             </title>
             <link>https://www.sciencenews.org/about-science-news/frequently-asked-questions</link>
-            <guid isPermaLink="false">1666440129393</guid>
+            <guid isPermaLink="false">1666533753434</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -1297,7 +1297,7 @@
                 <![CDATA[ Newsletters ]]>
             </title>
             <link>https://www.sciencenews.org/newsletters</link>
-            <guid isPermaLink="false">1666440129394</guid>
+            <guid isPermaLink="false">1666533753435</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -1307,7 +1307,7 @@
                 <![CDATA[ Rights & Permissions ]]>
             </title>
             <link>https://www.sciencenews.org/permission-republish</link>
-            <guid isPermaLink="false">1666440129395</guid>
+            <guid isPermaLink="false">1666533753436</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -1317,7 +1317,7 @@
                 <![CDATA[ Advertise ]]>
             </title>
             <link>https://www.sciencenews.org/advertise-science-news</link>
-            <guid isPermaLink="false">1666440129396</guid>
+            <guid isPermaLink="false">1666533753437</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -1327,7 +1327,7 @@
                 <![CDATA[ Contact ]]>
             </title>
             <link>https://www.sciencenews.org/about-science-news/contact-us</link>
-            <guid isPermaLink="false">1666440129397</guid>
+            <guid isPermaLink="false">1666533753438</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -1337,7 +1337,7 @@
                 <![CDATA[ About the Society ]]>
             </title>
             <link>https://www.societyforscience.org/</link>
-            <guid isPermaLink="false">1666440129398</guid>
+            <guid isPermaLink="false">1666533753439</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -1347,7 +1347,7 @@
                 <![CDATA[ Careers ]]>
             </title>
             <link>https://www.societyforscience.org/jobs-and-internships</link>
-            <guid isPermaLink="false">1666440129399</guid>
+            <guid isPermaLink="false">1666533753440</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -1357,7 +1357,7 @@
                 <![CDATA[ 202.785.2255 ]]>
             </title>
             <link>https://www.sciencenews.orgtel:202.785.2255</link>
-            <guid isPermaLink="false">1666440129400</guid>
+            <guid isPermaLink="false">1666533753441</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -1367,7 +1367,7 @@
                 <![CDATA[ Terms of Service ]]>
             </title>
             <link>https://www.sciencenews.org/terms-of-service</link>
-            <guid isPermaLink="false">1666440129401</guid>
+            <guid isPermaLink="false">1666533753442</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -1377,7 +1377,7 @@
                 <![CDATA[ Privacy Policy ]]>
             </title>
             <link>https://www.sciencenews.org/privacy-policy</link>
-            <guid isPermaLink="false">1666440129402</guid>
+            <guid isPermaLink="false">1666533753443</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -1387,7 +1387,7 @@
                 <![CDATA[ Technology ]]>
             </title>
             <link>https://www.indiatoday.in/technology</link>
-            <guid isPermaLink="false">1666440129403</guid>
+            <guid isPermaLink="false">1666533753444</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -1397,7 +1397,27 @@
                 <![CDATA[ Science ]]>
             </title>
             <link>https://www.indiatoday.in/science</link>
-            <guid isPermaLink="false">1666440129404</guid>
+            <guid isPermaLink="false">1666533753445</guid>
+            <dc:creator>
+                <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
+            </dc:creator>
+        </item>
+        <item>
+            <title>
+                <![CDATA[  ]]>
+            </title>
+            <link>https://www.indiatoday.in/science/story/isro-launches-36-oneweb-satellites-first-commercial-launch-lvm-3-2288531-2022-10-23</link>
+            <guid isPermaLink="false">1666533753446</guid>
+            <dc:creator>
+                <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
+            </dc:creator>
+        </item>
+        <item>
+            <title>
+                <![CDATA[  ]]>
+            </title>
+            <link>https://www.indiatoday.in/science/story/isro-launches-oneweb-satellites-in-commercial-launch-for-lvm3-2288501-2022-10-22</link>
+            <guid isPermaLink="false">1666533753447</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -1407,7 +1427,7 @@
                 <![CDATA[  ]]>
             </title>
             <link>https://www.indiatoday.in/science/story/are-aliens-real-nasa-makes-special-team-to-investigate-ufos-seen-in-the-skies-2288365-2022-10-22</link>
-            <guid isPermaLink="false">1666440129405</guid>
+            <guid isPermaLink="false">1666533753448</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -1417,7 +1437,7 @@
                 <![CDATA[  ]]>
             </title>
             <link>https://www.indiatoday.in/science/story/european-space-agency-spacex-falcon-9-hera-mission-euclid-telescope-roscosmos-ukraine-war-2288076-2022-10-21</link>
-            <guid isPermaLink="false">1666440129406</guid>
+            <guid isPermaLink="false">1666533753449</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -1427,7 +1447,7 @@
                 <![CDATA[  ]]>
             </title>
             <link>https://www.indiatoday.in/science/story/viral-pandemic-climate-change-virus-covid-global-warming-arctic-melting-glacier-2288058-2022-10-21</link>
-            <guid isPermaLink="false">1666440129407</guid>
+            <guid isPermaLink="false">1666533753450</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -1437,7 +1457,7 @@
                 <![CDATA[  ]]>
             </title>
             <link>https://www.indiatoday.in/science/story/chandrayaan-3-mission-launch-isro-moon-rover-s-somnath-2288030-2022-10-21</link>
-            <guid isPermaLink="false">1666440129408</guid>
+            <guid isPermaLink="false">1666533753451</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -1447,7 +1467,7 @@
                 <![CDATA[  ]]>
             </title>
             <link>https://www.indiatoday.in/science/story/hubble-telescope-dart-mission-asteroid-crash-didymos-dimorphos-2288009-2022-10-21</link>
-            <guid isPermaLink="false">1666440129409</guid>
+            <guid isPermaLink="false">1666533753452</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -1457,7 +1477,7 @@
                 <![CDATA[  ]]>
             </title>
             <link>https://www.indiatoday.in/science/story/james-webb-telescope-early-universe-big-bang-hubble-galaxy-formation-black-hole-2287991-2022-10-21</link>
-            <guid isPermaLink="false">1666440129410</guid>
+            <guid isPermaLink="false">1666533753453</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -1467,7 +1487,7 @@
                 <![CDATA[  ]]>
             </title>
             <link>https://www.indiatoday.in/science/story/climate-change-global-warming-carbon-dioxide-emission-fossil-fuel-iea-report-global-energy-2287713-2022-10-20</link>
-            <guid isPermaLink="false">1666440129411</guid>
+            <guid isPermaLink="false">1666533753454</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -1477,7 +1497,7 @@
                 <![CDATA[  ]]>
             </title>
             <link>https://www.indiatoday.in/science/story/nasa-international-space-station-astronaut-spacewalk-2287659-2022-10-20</link>
-            <guid isPermaLink="false">1666440129412</guid>
+            <guid isPermaLink="false">1666533753455</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -1487,7 +1507,7 @@
                 <![CDATA[  ]]>
             </title>
             <link>https://www.indiatoday.in/science/story/european-space-agency-ariane-6-rocket-launch-2287628-2022-10-20</link>
-            <guid isPermaLink="false">1666440129413</guid>
+            <guid isPermaLink="false">1666533753456</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -1497,7 +1517,7 @@
                 <![CDATA[  ]]>
             </title>
             <link>https://www.indiatoday.in/science/story/ancient-dna-helps-2022-nobel-winner-chart-1st-family-tree-of-our-neanderthal-ancestors-2287615-2022-10-20</link>
-            <guid isPermaLink="false">1666440129414</guid>
+            <guid isPermaLink="false">1666533753457</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -1507,7 +1527,7 @@
                 <![CDATA[  ]]>
             </title>
             <link>https://www.indiatoday.in/science/story/partial-solar-eclipse-timing-india-how-to-watch-2287586-2022-10-20</link>
-            <guid isPermaLink="false">1666440129415</guid>
+            <guid isPermaLink="false">1666533753458</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -1517,7 +1537,7 @@
                 <![CDATA[  ]]>
             </title>
             <link>https://www.indiatoday.in/science/story/nasa-curiosity-rover-mars-climate-change-salty-minerals-2287574-2022-10-20</link>
-            <guid isPermaLink="false">1666440129416</guid>
+            <guid isPermaLink="false">1666533753459</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -1527,7 +1547,7 @@
                 <![CDATA[  ]]>
             </title>
             <link>https://www.indiatoday.in/science/story/james-webb-telescope-nasa-pillars-of-creation-star-formation-hubble-2287545-2022-10-20</link>
-            <guid isPermaLink="false">1666440129417</guid>
+            <guid isPermaLink="false">1666533753460</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -1537,7 +1557,7 @@
                 <![CDATA[  ]]>
             </title>
             <link>https://www.indiatoday.in/science/story/why-some-of-us-are-mosquito-magnets-here-is-the-answer-2287290-2022-10-19</link>
-            <guid isPermaLink="false">1666440129418</guid>
+            <guid isPermaLink="false">1666533753461</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -1547,7 +1567,7 @@
                 <![CDATA[  ]]>
             </title>
             <link>https://www.indiatoday.in/science/story/russian-cosmonaut-runs-over-colleague-after-space-return-2287216-2022-10-19</link>
-            <guid isPermaLink="false">1666440129419</guid>
+            <guid isPermaLink="false">1666533753462</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -1557,27 +1577,7 @@
                 <![CDATA[  ]]>
             </title>
             <link>https://www.indiatoday.in/science/story/climate-change-greenland-iceberg-melting-seal-level-rise-global-warming-siobhan-mcdonald-2287180-2022-10-19</link>
-            <guid isPermaLink="false">1666440129420</guid>
-            <dc:creator>
-                <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
-            </dc:creator>
-        </item>
-        <item>
-            <title>
-                <![CDATA[  ]]>
-            </title>
-            <link>https://www.indiatoday.in/science/story/nasa-neowise-spacecraft-sky-map-universe-solar-system-star-black-holes-2287164-2022-10-19</link>
-            <guid isPermaLink="false">1666440129421</guid>
-            <dc:creator>
-                <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
-            </dc:creator>
-        </item>
-        <item>
-            <title>
-                <![CDATA[  ]]>
-            </title>
-            <link>https://www.indiatoday.in/science/story/partial-solar-eclipse-india-city-timing-sun-moon-earth-2287121-2022-10-19</link>
-            <guid isPermaLink="false">1666440129422</guid>
+            <guid isPermaLink="false">1666533753463</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -1587,7 +1587,7 @@
                 <![CDATA[ More in Technology ]]>
             </title>
             <link>https://www.cbsnews.com/technology/</link>
-            <guid isPermaLink="false">1666440129423</guid>
+            <guid isPermaLink="false">1666533753464</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -1597,7 +1597,7 @@
                 <![CDATA[ More in Science ]]>
             </title>
             <link>https://www.cbsnews.com/science/</link>
-            <guid isPermaLink="false">1666440129424</guid>
+            <guid isPermaLink="false">1666533753465</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -1607,7 +1607,7 @@
                 <![CDATA[ Show More ]]>
             </title>
             <link>https://www.cbsnews.com/latest/science/</link>
-            <guid isPermaLink="false">1666440129425</guid>
+            <guid isPermaLink="false">1666533753466</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>

@@ -4,19 +4,19 @@
     xmlns:media="http://search.yahoo.com/mrss/" version="2.0">
     <channel>
         <title>
-            <![CDATA[ offcamuscareer.com ]]>
+            <![CDATA[ offcampuscareer.com ]]>
         </title>
         <description>
-            <![CDATA[ offcamuscareer.com ]]>
+            <![CDATA[ offcampuscareer.com ]]>
         </description>
         <link>https://www.offcampuscareer.com/sitemapscanner/new</link>
         <image>
             <url>https://www.offcampuscareer.com/favicon.ico</url>
-            <title>offcamuscareer.com</title>
+            <title>offcampuscareer.com</title>
             <link>https://www.offcampuscareer.com/sitemapscanner/new</link>
         </image>
         <generator>https://www.offcampuscareer.com</generator>
-        <lastBuildDate>Sat Oct 22 2022 10:15:34 GMT+0000 (Coordinated Universal Time)</lastBuildDate>
+        <lastBuildDate>Sun Oct 23 2022 11:00:25 GMT+0000 (Coordinated Universal Time)</lastBuildDate>
         <atom:link href="https://www.offcampuscareer.com/feeds/bsPWxYEfz.xml" rel="self" type="application/rss+xml"/>
         <language>
             <![CDATA[ en ]]>
@@ -24,10 +24,10 @@
 
         <item>
             <title>
-                <![CDATA[ English ]]>
+                <![CDATA[ UKRAINE WAR ]]>
             </title>
             <link>https://www.euronews.com/tag/war-in-ukraine</link>
-            <guid isPermaLink="false">1666433734821</guid>
+            <guid isPermaLink="false">1666522825155</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -37,7 +37,7 @@
                 <![CDATA[ Русский ]]>
             </title>
             <link>https://ru.euronews.com/tag/war-in-ukraine</link>
-            <guid isPermaLink="false">1666433734822</guid>
+            <guid isPermaLink="false">1666522825156</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -47,7 +47,7 @@
                 <![CDATA[ Ελληνικά ]]>
             </title>
             <link>https://gr.euronews.com/tag/war-in-ukraine</link>
-            <guid isPermaLink="false">1666433734823</guid>
+            <guid isPermaLink="false">1666522825157</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -57,27 +57,27 @@
                 <![CDATA[ فارسی ]]>
             </title>
             <link>https://per.euronews.com/tag/ukraine-war</link>
-            <guid isPermaLink="false">1666433734824</guid>
+            <guid isPermaLink="false">1666522825158</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
         </item>
         <item>
             <title>
-                <![CDATA[ EU to provide Ukraine with €18 billion in financial aid for 2023 ]]>
+                <![CDATA[ Russian strikes on Ukraine's energy infrastructure triggers power cuts ]]>
             </title>
-            <link>https://www.euronews.com/my-europe/2022/10/21/eu-to-provide-ukraine-with-18-billion-in-financial-assistance-for-2023-says-von-der-leyen</link>
-            <guid isPermaLink="false">1666433734825</guid>
+            <link>https://www.euronews.com/video/2022/10/22/russian-strikes-on-ukraines-energy-infrastructure-leaves-large-swathes-of-the-country-with</link>
+            <guid isPermaLink="false">1666522825159</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
         </item>
         <item>
             <title>
-                <![CDATA[ Russia ]]>
+                <![CDATA[ Ukraine war: Kherson separatists urge residents to leave 'immediately' ]]>
             </title>
-            <link>https://www.euronews.com/news/europe/russia</link>
-            <guid isPermaLink="false">1666433734826</guid>
+            <link>https://www.euronews.com/2022/10/22/ukraine-war-moscow-installed-authorities-urge-kherson-residents-to-leave-immediately</link>
+            <guid isPermaLink="false">1666522825160</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -87,7 +87,37 @@
                 <![CDATA[ Ukraine ]]>
             </title>
             <link>https://www.euronews.com/news/europe/ukraine</link>
-            <guid isPermaLink="false">1666433734827</guid>
+            <guid isPermaLink="false">1666522825161</guid>
+            <dc:creator>
+                <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
+            </dc:creator>
+        </item>
+        <item>
+            <title>
+                <![CDATA[ Ukraine war: Russia's 'massive' strike leaves thousands without power ]]>
+            </title>
+            <link>https://www.euronews.com/2022/10/22/ukraine-war-hundreds-of-thousands-left-without-electricity-after-russias-massive-strike</link>
+            <guid isPermaLink="false">1666522825162</guid>
+            <dc:creator>
+                <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
+            </dc:creator>
+        </item>
+        <item>
+            <title>
+                <![CDATA[ EU to provide Ukraine with €18 billion in financial aid for 2023 ]]>
+            </title>
+            <link>https://www.euronews.com/my-europe/2022/10/21/eu-to-provide-ukraine-with-18-billion-in-financial-assistance-for-2023-says-von-der-leyen</link>
+            <guid isPermaLink="false">1666522825163</guid>
+            <dc:creator>
+                <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
+            </dc:creator>
+        </item>
+        <item>
+            <title>
+                <![CDATA[ Russia ]]>
+            </title>
+            <link>https://www.euronews.com/news/europe/russia</link>
+            <guid isPermaLink="false">1666522825164</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -97,7 +127,7 @@
                 <![CDATA[ These are the five latest developments in the Ukraine war today. ]]>
             </title>
             <link>https://www.euronews.com/2022/10/20/ukraine-war-kyiv-orders-electricity-curbs-and-warns-of-blackouts-after-russian-attacks</link>
-            <guid isPermaLink="false">1666433734828</guid>
+            <guid isPermaLink="false">1666522825165</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -107,7 +137,7 @@
                 <![CDATA[ Residential blocks in the eastern city of Bakhmut have been under continuous bombardment while many streets are filled with missile craters. ]]>
             </title>
             <link>https://www.euronews.com/video/2022/10/19/russian-missile-attacks-on-ukraines-energy-facilities-continue-say-officials</link>
-            <guid isPermaLink="false">1666433734829</guid>
+            <guid isPermaLink="false">1666522825166</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -117,7 +147,7 @@
                 <![CDATA[ The Hungarian government has launched a so-called "national consultation" on EU sanctions which they describe as "failed" and from "Brussels leaders". ]]>
             </title>
             <link>https://www.euronews.com/my-europe/2022/10/19/hungary-comparing-eu-sanctions-on-russia-to-bombs-is-inappropriate-says-eu-commission</link>
-            <guid isPermaLink="false">1666433734830</guid>
+            <guid isPermaLink="false">1666522825167</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -127,7 +157,7 @@
                 <![CDATA[ Moscow is trying to "destroy the energy supplies of Ukraine, to make it a very tough winter and thereby break the national morale", an expert told Euronews. ]]>
             </title>
             <link>https://www.euronews.com/2022/10/19/russia-has-begun-a-strategy-of-escalation-in-ukraine-says-analyst</link>
-            <guid isPermaLink="false">1666433734831</guid>
+            <guid isPermaLink="false">1666522825168</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -137,7 +167,7 @@
                 <![CDATA[ This year's finalists included WikiLeaks founder Julian Assange and Colombia's Truth Commission. ]]>
             </title>
             <link>https://www.euronews.com/my-europe/2022/10/19/meps-award-ukraines-brave-people-and-president-zelenskyy-with-top-human-rights-prize</link>
-            <guid isPermaLink="false">1666433734832</guid>
+            <guid isPermaLink="false">1666522825169</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -147,7 +177,7 @@
                 <![CDATA[ Putin imposes martial law in four Russia-annexed regions of Ukraine ]]>
             </title>
             <link>https://www.euronews.com/2022/10/19/putin-imposes-martial-law-in-four-russia-annexed-regions-of-ukraine</link>
-            <guid isPermaLink="false">1666433734833</guid>
+            <guid isPermaLink="false">1666522825170</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -157,7 +187,7 @@
                 <![CDATA[ Ilya Ponomarev says he is the spokesman of the National Republican Army, which claims to have been behind the car bomb that murdered Darya Dugina, the daughter of ultra-nationalist Alexander Dugin. ]]>
             </title>
             <link>https://www.euronews.com/my-europe/2022/10/19/ukraine-war-meet-the-russian-exile-trying-to-overthrow-vladimir-putin</link>
-            <guid isPermaLink="false">1666433734834</guid>
+            <guid isPermaLink="false">1666522825171</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -167,7 +197,7 @@
                 <![CDATA[ These are the six key developments in the Ukraine war you need to know today. ]]>
             </title>
             <link>https://www.euronews.com/2022/10/19/ukraine-war-russian-army-chief-admits-kherson-tense-amid-ukrainian-offensive</link>
-            <guid isPermaLink="false">1666433734835</guid>
+            <guid isPermaLink="false">1666522825172</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -177,7 +207,7 @@
                 <![CDATA[ Russia and Ukraine completed a prisoner swap on Monday, including 72 seamen and 108 Ukrainian women. ]]>
             </title>
             <link>https://www.euronews.com/video/2022/10/18/ukraine-russia-prisoner-swap</link>
-            <guid isPermaLink="false">1666433734836</guid>
+            <guid isPermaLink="false">1666522825173</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -187,7 +217,7 @@
                 <![CDATA[ "The cold weather brings diseases, flu, especially for the elderly who are weaker and there is no more medicine here," said one volunteer. ]]>
             </title>
             <link>https://www.euronews.com/2022/10/18/ukraine-war-in-bakhmut-locals-face-bombs-power-cuts-and-freezing-temperatures</link>
-            <guid isPermaLink="false">1666433734837</guid>
+            <guid isPermaLink="false">1666522825174</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -197,7 +227,7 @@
                 <![CDATA[ The head of the BSI agency, Arne Schönbohm, was dismissed after allegations appeared linking him to a security agency founded by a former Russian intelligence agent. ]]>
             </title>
             <link>https://www.euronews.com/2022/10/18/arne-schonbohm-german-cybersecurity-chief-sacked-over-alleged-ties-with-russia</link>
-            <guid isPermaLink="false">1666433734838</guid>
+            <guid isPermaLink="false">1666522825175</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -207,7 +237,7 @@
                 <![CDATA[ New research shows that it's not just the climate that benefits from the green energy transition. ]]>
             </title>
             <link>https://www.euronews.com/green/2022/10/18/ukraine-war-pivot-to-wind-and-solar-power-saved-the-eu-11bn-new-research-shows</link>
-            <guid isPermaLink="false">1666433734839</guid>
+            <guid isPermaLink="false">1666522825176</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -217,7 +247,7 @@
                 <![CDATA[ These are the latest developments in the Ukraine war you need to know about from Tuesday. ]]>
             </title>
             <link>https://www.euronews.com/2022/10/18/ukraine-war-russia-strikes-energy-facilities-in-several-cities-mykolaiv-residential-block-</link>
-            <guid isPermaLink="false">1666433734840</guid>
+            <guid isPermaLink="false">1666522825177</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -227,7 +257,7 @@
                 <![CDATA[ Three of the victims died when they jumped from the upper floors of the building in a desperate attempt to escape the flames, according to the vice governor of the region, Anna Menkova. ]]>
             </title>
             <link>https://www.euronews.com/2022/10/17/russian-strike-jet-crashes-into-an-apartment-building-in-yeysk</link>
-            <guid isPermaLink="false">1666433734841</guid>
+            <guid isPermaLink="false">1666522825178</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -237,7 +267,7 @@
                 <![CDATA[ The UN children's fund says almost four million children in the region — three-quarters of them Russian — will go into poverty because of the war and the economic downturn. ]]>
             </title>
             <link>https://www.euronews.com/my-europe/2022/10/17/child-poverty-surge-in-eastern-europe-and-russia-due-to-ukraine-war-and-inflation-says-uni</link>
-            <guid isPermaLink="false">1666433734842</guid>
+            <guid isPermaLink="false">1666522825179</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -247,7 +277,7 @@
                 <![CDATA[ President Zelenskyy accuses Russia of 'terrorising' civilians in a new wave of attacks; EU mulls sanctions against Iran over 'suicide drones': Monday's key developments. ]]>
             </title>
             <link>https://www.euronews.com/2022/10/17/ukraine-war-kamikaze-drones-hit-kyiv-intense-fighting-near-donetsk-towns</link>
-            <guid isPermaLink="false">1666433734843</guid>
+            <guid isPermaLink="false">1666522825180</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -257,47 +287,7 @@
                 <![CDATA[ The Russian Defence Ministry said the assailants were nationals of a former Soviet state and labelled the attack as "terrorism". ]]>
             </title>
             <link>https://www.euronews.com/2022/10/16/two-men-open-fire-at-russian-military-range-in-belgorod-killing-15-and-wounding-11</link>
-            <guid isPermaLink="false">1666433734844</guid>
-            <dc:creator>
-                <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
-            </dc:creator>
-        </item>
-        <item>
-            <title>
-                <![CDATA[ SpaceX's founder said he will stop funding Starlink satellites in Ukraine, which are vital for communication in the war-torn country. ]]>
-            </title>
-            <link>https://www.euronews.com/2022/10/14/backlash-after-elon-musk-says-he-can-no-longer-fund-starlink-in-ukraine</link>
-            <guid isPermaLink="false">1666433734845</guid>
-            <dc:creator>
-                <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
-            </dc:creator>
-        </item>
-        <item>
-            <title>
-                <![CDATA[ These are the latest developments in the Ukraine war you need to know about from the weekend. ]]>
-            </title>
-            <link>https://www.euronews.com/2022/10/14/ukraine-war-new-russian-gas-hub-in-turkey-rape-deliberate-strategy-crimean-bridge-repair-p</link>
-            <guid isPermaLink="false">1666433734846</guid>
-            <dc:creator>
-                <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
-            </dc:creator>
-        </item>
-        <item>
-            <title>
-                <![CDATA[ Numerous drone sightings have been reported near Norwegian offshore oil and gas platforms in recent weeks. ]]>
-            </title>
-            <link>https://www.euronews.com/my-europe/2022/10/14/norway-russian-man-detained-with-drones-suspected-of-breaching-sanctions</link>
-            <guid isPermaLink="false">1666433734847</guid>
-            <dc:creator>
-                <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
-            </dc:creator>
-        </item>
-        <item>
-            <title>
-                <![CDATA[ Russian diplomats trolled with parking space in Ukrainian colours ]]>
-            </title>
-            <link>https://www.euronews.com/2022/10/21/ukraine-war-finnish-city-of-turku-trolls-russian-diplomats-with-parking-space-in-ukrainian</link>
-            <guid isPermaLink="false">1666433734848</guid>
+            <guid isPermaLink="false">1666522825181</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -307,7 +297,7 @@
                 <![CDATA[ 1 ]]>
             </title>
             <link>https://www.euronews.com/tag/war-in-ukraine?p=1</link>
-            <guid isPermaLink="false">1666433734849</guid>
+            <guid isPermaLink="false">1666522825182</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -317,7 +307,7 @@
                 <![CDATA[ Next ]]>
             </title>
             <link>https://www.euronews.com/tag/war-in-ukraine?p=2</link>
-            <guid isPermaLink="false">1666433734850</guid>
+            <guid isPermaLink="false">1666522825183</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -327,7 +317,7 @@
                 <![CDATA[ 3 ]]>
             </title>
             <link>https://www.euronews.com/tag/war-in-ukraine?p=3</link>
-            <guid isPermaLink="false">1666433734851</guid>
+            <guid isPermaLink="false">1666522825184</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -337,37 +327,47 @@
                 <![CDATA[ 4 ]]>
             </title>
             <link>https://www.euronews.com/tag/war-in-ukraine?p=4</link>
-            <guid isPermaLink="false">1666433734852</guid>
+            <guid isPermaLink="false">1666522825185</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
         </item>
         <item>
             <title>
-                <![CDATA[ 34 ]]>
+                <![CDATA[ 35 ]]>
             </title>
-            <link>https://www.euronews.com/tag/war-in-ukraine?p=34</link>
-            <guid isPermaLink="false">1666433734853</guid>
+            <link>https://www.euronews.com/tag/war-in-ukraine?p=35</link>
+            <guid isPermaLink="false">1666522825186</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
         </item>
         <item>
             <title>
-                <![CDATA[ RUSSIA-UKRAINE INVASION ]]>
+                <![CDATA[ PM Modi’s “today’s era is not of war” message resonated widely in Europe, says German Ambassador Ackermann ]]>
             </title>
-            <link>https://www.euronews.com/tag/russia-ukraine-invasion</link>
-            <guid isPermaLink="false">1666433734854</guid>
+            <link>https://www.thehindu.com/news/national/pm-modis-todays-era-is-not-of-war-message-resonated-widely-in-europe-says-german-ambassador-ackermann/article66048678.ece</link>
+            <guid isPermaLink="false">1666522825188</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
         </item>
         <item>
             <title>
-                <![CDATA[ Russia-Ukraine Crisis ]]>
+                <![CDATA[ Russian-installed authorities order evacuation of Kherson ]]>
             </title>
-            <link>https://www.thehindu.com/topic/russia-ukraine-crisis/</link>
-            <guid isPermaLink="false">1666433734856</guid>
+            <link>https://www.thehindu.com/news/international/russian-installed-authorities-order-evacuation-of-kherson/article66045017.ece</link>
+            <guid isPermaLink="false">1666522825189</guid>
+            <dc:creator>
+                <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
+            </dc:creator>
+        </item>
+        <item>
+            <title>
+                <![CDATA[ Lights go out in Ukraine as Russia launches "massive" strike ]]>
+            </title>
+            <link>https://www.thehindu.com/news/international/lights-go-out-in-ukraine-as-russia-launches-massive-strike/article66044406.ece</link>
+            <guid isPermaLink="false">1666522825190</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -377,7 +377,7 @@
                 <![CDATA[ Russia's Defence Minister discusses Ukraine in call with U.S. counterpart ]]>
             </title>
             <link>https://www.thehindu.com/news/international/russias-defence-minister-discusses-ukraine-in-call-with-us-counterpart/article66041077.ece</link>
-            <guid isPermaLink="false">1666433734857</guid>
+            <guid isPermaLink="false">1666522825191</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -387,7 +387,7 @@
                 <![CDATA[ Ukrainian forces pile pressure on Russian-held Kherson ]]>
             </title>
             <link>https://www.thehindu.com/news/international/ukrainian-forces-pile-pressure-on-russian-held-kherson/article66040396.ece</link>
-            <guid isPermaLink="false">1666433734858</guid>
+            <guid isPermaLink="false">1666522825192</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -397,7 +397,7 @@
                 <![CDATA[ Iranian troops in Crimea backing Russian drone strikes, says U.S. ]]>
             </title>
             <link>https://www.thehindu.com/news/international/iranian-troops-in-crimea-backing-russian-drone-strikes-says-us/article66038858.ece</link>
-            <guid isPermaLink="false">1666433734859</guid>
+            <guid isPermaLink="false">1666522825193</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -407,7 +407,7 @@
                 <![CDATA[ Putin's vodka gift to Berlusconi flouts Russia sanctions, says E.U. Commission ]]>
             </title>
             <link>https://www.thehindu.com/news/international/putins-vodka-gift-to-berlusconi-flouts-russia-sanctions-says-eu-commission/article66035481.ece</link>
-            <guid isPermaLink="false">1666433734860</guid>
+            <guid isPermaLink="false">1666522825194</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -417,7 +417,7 @@
                 <![CDATA[ Putin declares martial law in annexed regions of Ukraine ]]>
             </title>
             <link>https://www.thehindu.com/news/international/putin-declares-martial-law-in-annexed-regions-of-ukraine/article66031630.ece</link>
-            <guid isPermaLink="false">1666433734861</guid>
+            <guid isPermaLink="false">1666522825195</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -427,7 +427,7 @@
                 <![CDATA[ Elon Musk says Starlink network in Ukraine has not received U.S. funding ]]>
             </title>
             <link>https://www.thehindu.com/sci-tech/technology/elon-musk-says-starlink-network-in-ukraine-has-not-received-us-funding/article66029718.ece</link>
-            <guid isPermaLink="false">1666433734862</guid>
+            <guid isPermaLink="false">1666522825196</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -437,7 +437,7 @@
                 <![CDATA[ Kyiv says Russian strikes leave over 1,100 Ukraine towns without power ]]>
             </title>
             <link>https://www.thehindu.com/news/international/kyiv-says-russian-strikes-leave-over-1100-ukraine-towns-without-power/article66027594.ece</link>
-            <guid isPermaLink="false">1666433734863</guid>
+            <guid isPermaLink="false">1666522825197</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -447,7 +447,7 @@
                 <![CDATA[ Top news of the day: Seven dead as helicopter ferrying Kedarnath pilgrims crashes; U.N. chief says he fully supports PM Modi’s ‘not an era of war’ remark to Putin, and more ]]>
             </title>
             <link>https://www.thehindu.com/news/top-news-of-the-day-october-18-2022-many-dead-as-helicopter-ferrying-kedarnath-pilgrims-crashes-un-chief-says-he-fully-supports-pm-modis-not-an-era-of-war-remark-to-putin-and-more/article66026988.ece</link>
-            <guid isPermaLink="false">1666433734864</guid>
+            <guid isPermaLink="false">1666522825198</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -457,7 +457,7 @@
                 <![CDATA[ Estonian MPs declare Russia a ‘terrorist regime’ ]]>
             </title>
             <link>https://www.thehindu.com/news/international/estonian-mps-declare-russia-a-terrorist-regime/article66026715.ece</link>
-            <guid isPermaLink="false">1666433734865</guid>
+            <guid isPermaLink="false">1666522825199</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -467,7 +467,7 @@
                 <![CDATA[ U.S. to continue imposing sanctions on Russian, Iranian arms trade: White House ]]>
             </title>
             <link>https://www.thehindu.com/news/international/us-to-continue-imposing-sanctions-on-russian-iranian-arms-trade-white-house/article66026529.ece</link>
-            <guid isPermaLink="false">1666433734866</guid>
+            <guid isPermaLink="false">1666522825200</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -477,7 +477,7 @@
                 <![CDATA[ Two killed in Kyiv as Russia attacks Ukrainian energy facilities ]]>
             </title>
             <link>https://www.thehindu.com/news/international/two-killed-in-kyiv-as-russia-attacks-ukrainian-energy-facilities/article66026508.ece</link>
-            <guid isPermaLink="false">1666433734867</guid>
+            <guid isPermaLink="false">1666522825201</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -487,7 +487,7 @@
                 <![CDATA[ U.N. chief Guterres says he fully supports PM Modi’s ‘not an era of war’ remark to Russian President Putin ]]>
             </title>
             <link>https://www.thehindu.com/news/international/un-chief-guterres-says-he-fully-supports-pm-modis-not-an-era-of-war-remark-to-russian-president-putin/article66026062.ece</link>
-            <guid isPermaLink="false">1666433734868</guid>
+            <guid isPermaLink="false">1666522825202</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -497,7 +497,7 @@
                 <![CDATA[ Russia prepares to toughen anti-gay law in conservative push ]]>
             </title>
             <link>https://www.thehindu.com/news/international/russia-prepares-to-toughen-anti-gay-law-in-conservative-push/article66022791.ece</link>
-            <guid isPermaLink="false">1666433734869</guid>
+            <guid isPermaLink="false">1666522825203</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -507,7 +507,7 @@
                 <![CDATA[ European Union to launch training mission for Ukraine troops ]]>
             </title>
             <link>https://www.thehindu.com/news/international/european-union-to-launch-training-mission-for-ukraine-troops/article66021496.ece</link>
-            <guid isPermaLink="false">1666433734870</guid>
+            <guid isPermaLink="false">1666522825204</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -517,7 +517,7 @@
                 <![CDATA[ Elon Musk says he will keep funding Ukraine, even though Starlink is losing money ]]>
             </title>
             <link>https://www.thehindu.com/sci-tech/technology/elon-musk-keep-funding-ukraine-even-though-starlink-internet-satellite-losing-money-russia-war-kyiv/article66020605.ece</link>
-            <guid isPermaLink="false">1666433734871</guid>
+            <guid isPermaLink="false">1666522825205</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -527,7 +527,7 @@
                 <![CDATA[ Several explosions rock Kyiv; attacked by ‘kamikaze drones’, says Ukrainian presidency ]]>
             </title>
             <link>https://www.thehindu.com/news/international/several-explosions-rock-kyiv-a-week-after-russia-launched-strikes-across-ukraine/article66020537.ece</link>
-            <guid isPermaLink="false">1666433734872</guid>
+            <guid isPermaLink="false">1666522825206</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -537,7 +537,7 @@
                 <![CDATA[ Gunmen kill 11 at Russian army base in new blow to Moscow ]]>
             </title>
             <link>https://www.thehindu.com/news/international/gunmen-kill-11-at-russian-army-base-in-new-blow-to-moscow/article66017328.ece</link>
-            <guid isPermaLink="false">1666433734873</guid>
+            <guid isPermaLink="false">1666522825207</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -547,7 +547,7 @@
                 <![CDATA[ First Russian soldiers arrive in Belarus for joint force ]]>
             </title>
             <link>https://www.thehindu.com/news/international/first-russian-soldiers-arrive-in-belarus-for-joint-force/article66014943.ece</link>
-            <guid isPermaLink="false">1666433734874</guid>
+            <guid isPermaLink="false">1666522825208</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -557,7 +557,7 @@
                 <![CDATA[ Russia hits power site by Kyiv, guards seized land ]]>
             </title>
             <link>https://www.thehindu.com/news/international/ukraine-russia-hits-power-site-by-kyiv-guards-seized-land/article66014331.ece</link>
-            <guid isPermaLink="false">1666433734875</guid>
+            <guid isPermaLink="false">1666522825209</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -567,7 +567,7 @@
                 <![CDATA[ Elon Musk seeks U.S. funding of Ukraine satellite network ]]>
             </title>
             <link>https://www.thehindu.com/news/international/elon-musk-seeks-us-funding-of-ukraine-satellite-network/article66012151.ece</link>
-            <guid isPermaLink="false">1666433734876</guid>
+            <guid isPermaLink="false">1666522825210</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -577,7 +577,7 @@
                 <![CDATA[ Putin describes India and China as 'close allies and partners; says they always talked about resolving Ukraine conflict peacefully ]]>
             </title>
             <link>https://www.thehindu.com/news/international/putin-describes-india-and-china-as-close-allies-and-partners-says-they-always-talked-about-resolving-ukraine-conflict-peacefully/article66012153.ece</link>
-            <guid isPermaLink="false">1666433734877</guid>
+            <guid isPermaLink="false">1666522825211</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -587,7 +587,7 @@
                 <![CDATA[ Worldview with Suhasini Haidar| UN votes against Russia | Can India continue to abstain? ]]>
             </title>
             <link>https://www.thehindu.com/news/international/worldview-with-suhasini-haidar-un-votes-against-russia-can-india-continue-to-abstain/article66010619.ece</link>
-            <guid isPermaLink="false">1666433734878</guid>
+            <guid isPermaLink="false">1666522825212</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -597,7 +597,7 @@
                 <![CDATA[ Putin says more 'massive' strikes against Ukraine not necessary 'for now' ]]>
             </title>
             <link>https://www.thehindu.com/news/international/putin-says-more-massive-strikes-against-ukraine-not-necessary-for-now/article66010855.ece</link>
-            <guid isPermaLink="false">1666433734879</guid>
+            <guid isPermaLink="false">1666522825213</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -607,7 +607,7 @@
                 <![CDATA[ Rape used in Ukraine as a Russian ‘military strategy’, says United Nations ]]>
             </title>
             <link>https://www.thehindu.com/news/international/rape-used-in-ukraine-as-a-russian-military-strategy-says-united-nations/article66010568.ece</link>
-            <guid isPermaLink="false">1666433734880</guid>
+            <guid isPermaLink="false">1666522825214</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -617,7 +617,7 @@
                 <![CDATA[ Russian President Putin dismisses Macron’s critique of Moscow’s role in Karabakh conflict ]]>
             </title>
             <link>https://www.thehindu.com/news/international/russian-president-putin-dismisses-his-french-counterpart-macrons-critique-of-moscows-role-in-karabakh-conflict/article66009551.ece</link>
-            <guid isPermaLink="false">1666433734881</guid>
+            <guid isPermaLink="false">1666522825215</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -627,7 +627,7 @@
                 <![CDATA[ Russia to evacuate Kherson residents as Ukraine advances ]]>
             </title>
             <link>https://www.thehindu.com/news/international/russia-to-evacuate-kherson-residents-as-ukraine-advances/article66008913.ece</link>
-            <guid isPermaLink="false">1666433734882</guid>
+            <guid isPermaLink="false">1666522825216</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -637,7 +637,7 @@
                 <![CDATA[ Top news of the day: Supreme Court delivers split verdict on Hijab row, case to go to a larger Bench; Thackeray’s Sena faction alleges ECI ‘biased’ towards Shinde group, and more ]]>
             </title>
             <link>https://www.thehindu.com/news/top-news-of-the-day-october-13-2022-supreme-court-delivers-split-verdict-on-hijab-row-case-to-go-to-a-larger-bench-thackerays-sena-faction-alleges-eci-biased-towards-shinde-group-and-more/article66006262.ece</link>
-            <guid isPermaLink="false">1666433734883</guid>
+            <guid isPermaLink="false">1666522825217</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -647,7 +647,7 @@
                 <![CDATA[ Russia confirms death of five soldiers drafted to Ukraine ]]>
             </title>
             <link>https://www.thehindu.com/news/international/russia-confirms-death-of-five-soldiers-drafted-to-ukraine/article66005931.ece</link>
-            <guid isPermaLink="false">1666433734884</guid>
+            <guid isPermaLink="false">1666522825218</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -657,7 +657,7 @@
                 <![CDATA[ NATO holds nuclear talks amid war tensions, Russian President Vladimir Putin threats ]]>
             </title>
             <link>https://www.thehindu.com/news/international/nato-holds-nuclear-talks-amid-war-tensions-russian-president-vladimir-putin-threats/article66004922.ece</link>
-            <guid isPermaLink="false">1666433734885</guid>
+            <guid isPermaLink="false">1666522825219</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -667,7 +667,7 @@
                 <![CDATA[ खतरनाक कुचक्र: क्रीमिया पुल पर बमबारी और रूस की जवाबी कार्रवाई ]]>
             </title>
             <link>https://www.thehindu.com/opinion/editorial/hindi/dangerous-spiral-the-hindu-editorial-on-crimea-bridge-bombing-and-russias-retaliation/article66004813.ece</link>
-            <guid isPermaLink="false">1666433734886</guid>
+            <guid isPermaLink="false">1666522825220</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -677,7 +677,7 @@
                 <![CDATA[ ஆபத்தான சுழல் ]]>
             </title>
             <link>https://www.thehindu.com/opinion/editorial/tamil/dangerous-spiral-crimea-bridge-bombing-and-russias-retaliation-tamil/article66004524.ece</link>
-            <guid isPermaLink="false">1666433734887</guid>
+            <guid isPermaLink="false">1666522825221</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -687,7 +687,7 @@
                 <![CDATA[ Starlink helps restore energy, communications infrastructure in parts of Ukraine ]]>
             </title>
             <link>https://www.thehindu.com/sci-tech/technology/elon-musk-ceo-spacex-starlink-internet-helps-restore-energy-communications-infrastructure-russia-ukraine-war-mykhailo-fedorov/article66004338.ece</link>
-            <guid isPermaLink="false">1666433734888</guid>
+            <guid isPermaLink="false">1666522825222</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -697,7 +697,7 @@
                 <![CDATA[ Ukraine’s Kyiv area hit by Iranian-made kamikaze drones ]]>
             </title>
             <link>https://www.thehindu.com/news/international/ukraines-kyiv-area-hit-by-iranian-made-kamikaze-drones/article66004313.ece</link>
-            <guid isPermaLink="false">1666433734889</guid>
+            <guid isPermaLink="false">1666522825223</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -707,7 +707,7 @@
                 <![CDATA[ ‘Frivolous and pointless’: India slams Pakistan for raising Kashmir issue at UNGA vote on Russia ]]>
             </title>
             <link>https://www.thehindu.com/news/national/frivolous-and-pointless-india-slams-pakistan-for-raising-kashmir-issue-at-unga-vote-on-russia/article66003959.ece</link>
-            <guid isPermaLink="false">1666433734890</guid>
+            <guid isPermaLink="false">1666522825224</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -717,7 +717,7 @@
                 <![CDATA[ U.N. demands Russia reverse Ukraine annexations, India abstains from vote ]]>
             </title>
             <link>https://www.thehindu.com/news/international/un-demands-russia-reverse-illegal-annexations-in-ukraine/article66003910.ece</link>
-            <guid isPermaLink="false">1666433734891</guid>
+            <guid isPermaLink="false">1666522825225</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -727,7 +727,7 @@
                 <![CDATA[ Dangerous spiral: On Crimea bridge bombing and Russia’s retaliation ]]>
             </title>
             <link>https://www.thehindu.com/opinion/editorial/dangerous-spiral-the-hindu-editorial-on-crimea-bridge-bombing-and-russias-retaliation/article66001534.ece</link>
-            <guid isPermaLink="false">1666433734892</guid>
+            <guid isPermaLink="false">1666522825226</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -737,7 +737,7 @@
                 <![CDATA[ Competing with China, constraining Russia are priorities of Biden’s National Security Strategy ]]>
             </title>
             <link>https://www.thehindu.com/news/international/competing-with-china-constraining-russia-are-priorities-of-bidens-national-security-strategy/article66002695.ece</link>
-            <guid isPermaLink="false">1666433734893</guid>
+            <guid isPermaLink="false">1666522825227</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -747,7 +747,7 @@
                 <![CDATA[ Russia detains eight suspects over Crimea bridge blast ]]>
             </title>
             <link>https://www.thehindu.com/news/international/russia-detains-eight-suspects-over-crimea-bridge-blast/article66000085.ece</link>
-            <guid isPermaLink="false">1666433734894</guid>
+            <guid isPermaLink="false">1666522825228</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -757,7 +757,7 @@
                 <![CDATA[ President Putin’s military call-up to fight in Ukraine | More than 20 Russians flee, sail to South Korea; most refused entry ]]>
             </title>
             <link>https://www.thehindu.com/news/international/president-putins-military-call-up-to-fight-in-ukraine-more-than-20-russians-flee-sail-to-south-korea-most-refused-entry/article65999926.ece</link>
-            <guid isPermaLink="false">1666433734895</guid>
+            <guid isPermaLink="false">1666522825229</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -767,7 +767,7 @@
                 <![CDATA[ Vladimir Putin 'miscalculated' Russia's ability to occupy Ukraine: Joe Biden ]]>
             </title>
             <link>https://www.thehindu.com/news/international/vladimir-putin-miscalculated-russias-ability-to-occupy-ukraine-joe-biden/article65999724.ece</link>
-            <guid isPermaLink="false">1666433734896</guid>
+            <guid isPermaLink="false">1666522825230</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -777,7 +777,7 @@
                 <![CDATA[ Top news of the day: Justice D.Y. Chandrachud named 50th Chief Justice of India; Russia adds Meta to list of ‘terrorist and extremist’ organisations, and more ]]>
             </title>
             <link>https://www.thehindu.com/news/cities/chennai/chen-news/top-news-of-the-day-justice-dy-chandrachud-named-50th-chief-justice-of-india-russia-adds-meta-to-list-of-terrorist-and-extremist-organisations-and-more/article65997294.ece</link>
-            <guid isPermaLink="false">1666433734897</guid>
+            <guid isPermaLink="false">1666522825231</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -787,7 +787,7 @@
                 <![CDATA[ Russia adds Meta to list of ‘terrorist and extremist’ organisations ]]>
             </title>
             <link>https://www.thehindu.com/news/international/russia-adds-meta-to-terrorists-and-extremists-organisations-list/article65996986.ece</link>
-            <guid isPermaLink="false">1666433734898</guid>
+            <guid isPermaLink="false">1666522825232</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -797,7 +797,7 @@
                 <![CDATA[ Data | Energy inflation in Europe peaks at 40% as Russia squeezes oil supply ]]>
             </title>
             <link>https://www.thehindu.com/data/data-energy-inflation-in-europe-peaks-at-40-as-russia-squeezes-oil-supply/article65994379.ece</link>
-            <guid isPermaLink="false">1666433734899</guid>
+            <guid isPermaLink="false">1666522825233</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -807,7 +807,7 @@
                 <![CDATA[ G7 to hold crisis talks on Russia's bombing blitz in Ukraine ]]>
             </title>
             <link>https://www.thehindu.com/news/international/g7-to-hold-crisis-talks-on-russias-bombing-blitz-in-ukraine/article65995509.ece</link>
-            <guid isPermaLink="false">1666433734900</guid>
+            <guid isPermaLink="false">1666522825234</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -817,7 +817,7 @@
                 <![CDATA[ At UNGA, India votes to reject Russia’s demand for secret ballot on draft resolution on Ukraine ]]>
             </title>
             <link>https://www.thehindu.com/news/national/in-unga-india-votes-to-reject-russias-demand-for-secret-ballot-on-draft-resolution-on-ukraine/article65995280.ece</link>
-            <guid isPermaLink="false">1666433734901</guid>
+            <guid isPermaLink="false">1666522825235</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -827,7 +827,7 @@
                 <![CDATA[ U.N. meets on Ukraine hours after Russian strikes ]]>
             </title>
             <link>https://www.thehindu.com/news/international/un-meets-on-ukraine-hours-after-russian-strikes/article65995250.ece</link>
-            <guid isPermaLink="false">1666433734902</guid>
+            <guid isPermaLink="false">1666522825236</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -837,7 +837,7 @@
                 <![CDATA[ Russia’s continued defiance of international law ]]>
             </title>
             <link>https://www.thehindu.com/opinion/lead/russias-continued-defiance-of-international-law/article65993523.ece</link>
-            <guid isPermaLink="false">1666433734903</guid>
+            <guid isPermaLink="false">1666522825237</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -847,7 +847,7 @@
                 <![CDATA[ Top news of the day: Many killed as Russia strikes Kyiv, multiple Ukrainian cities; Economic Sciences Nobel for trio’s research on banks and financial crises, and more ]]>
             </title>
             <link>https://www.thehindu.com/news/top-news-of-the-day-october-10-2022-many-killed-as-russia-strikes-kyiv-multiple-ukrainian-cities-economic-sciences-nobel-for-trios-research-on-banks-and-financial-crises-and-more/article65993050.ece</link>
-            <guid isPermaLink="false">1666433734904</guid>
+            <guid isPermaLink="false">1666522825238</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -857,7 +857,7 @@
                 <![CDATA[ Putin vows more ‘severe’ attacks after Russian missiles batter Ukraine ]]>
             </title>
             <link>https://www.thehindu.com/news/international/putin-vows-more-severe-attacks-after-russian-missiles-batter-ukraine/article65992927.ece</link>
-            <guid isPermaLink="false">1666433734905</guid>
+            <guid isPermaLink="false">1666522825239</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -867,7 +867,7 @@
                 <![CDATA[ Ukraine conflict does not serve interests of anybody: EAM Jaishankar ]]>
             </title>
             <link>https://www.thehindu.com/news/national/ukraine-conflict-does-not-serve-interests-of-anybody-eam-jaishankar/article65991541.ece</link>
-            <guid isPermaLink="false">1666433734906</guid>
+            <guid isPermaLink="false">1666522825240</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -877,7 +877,7 @@
                 <![CDATA[ Dozens killed, hurt in Zaporizhzhia city shelling, says Ukraine's military ]]>
             </title>
             <link>https://www.thehindu.com/news/international/dozens-killed-hurt-in-zaporizhzhia-city-shelling-says-ukraines-military/article65987686.ece</link>
-            <guid isPermaLink="false">1666433734907</guid>
+            <guid isPermaLink="false">1666522825241</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -887,7 +887,7 @@
                 <![CDATA[ Crimea bridge resumes traffic after blast, Russia appoints new Ukraine war commander ]]>
             </title>
             <link>https://www.thehindu.com/news/international/crimea-bridge-resumes-traffic-after-blast-russia-appoints-new-ukraine-war-commander/article65987687.ece</link>
-            <guid isPermaLink="false">1666433734908</guid>
+            <guid isPermaLink="false">1666522825242</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -897,7 +897,7 @@
                 <![CDATA[ Russia names new general to lead Ukraine offensive after setbacks ]]>
             </title>
             <link>https://www.thehindu.com/news/international/russia-names-new-general-to-lead-ukraine-offensive-after-setbacks/article65985677.ece</link>
-            <guid isPermaLink="false">1666433734909</guid>
+            <guid isPermaLink="false">1666522825243</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -907,7 +907,7 @@
                 <![CDATA[ Top news of the day: A day after Indian remarks, China says Xinjiang not a human rights issue; 3 killed, key Russian supply route damaged in Crimea bridge blast, and more ]]>
             </title>
             <link>https://www.thehindu.com/news/top-news-of-the-day-october-08-2022-a-day-after-indian-remarks-china-says-xinjiang-not-a-human-rights-issue-3-killed-key-russian-supply-route-damaged-in-crimea-bridge-blast-and-more/article65985197.ece</link>
-            <guid isPermaLink="false">1666433734910</guid>
+            <guid isPermaLink="false">1666522825244</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -917,7 +917,7 @@
                 <![CDATA[ 3 killed, key Russian supply route damaged in Crimea bridge blast ]]>
             </title>
             <link>https://www.thehindu.com/news/international/russia-kerch-strait-crimea-bridge-damaged-fire-ukraine/article65983852.ece</link>
-            <guid isPermaLink="false">1666433734911</guid>
+            <guid isPermaLink="false">1666522825245</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -927,7 +927,7 @@
                 <![CDATA[ Russia-backed forces claim gains near Bakhmut in east Ukraine ]]>
             </title>
             <link>https://www.thehindu.com/news/international/russia-backed-forces-claim-gains-near-bakhmut-in-east-ukraine/article65983791.ece</link>
-            <guid isPermaLink="false">1666433734912</guid>
+            <guid isPermaLink="false">1666522825246</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -937,7 +937,7 @@
                 <![CDATA[ Multiple explosions rock eastern Ukraine city of Kharkiv ]]>
             </title>
             <link>https://www.thehindu.com/news/international/multiple-explosions-rock-eastern-ukraine-city-of-kharkiv/article65982740.ece</link>
-            <guid isPermaLink="false">1666433734913</guid>
+            <guid isPermaLink="false">1666522825247</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -947,7 +947,7 @@
                 <![CDATA[ Ukraine predicts more battlefield successes as Putin’s generals face public backlash ]]>
             </title>
             <link>https://www.thehindu.com/news/international/ukraine-predicts-more-battlefield-successes-as-putins-generals-face-public-backlash/article65981215.ece</link>
-            <guid isPermaLink="false">1666433734914</guid>
+            <guid isPermaLink="false">1666522825248</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -957,7 +957,7 @@
                 <![CDATA[ Ukraine changes mind on UN rights council vote on Xinjiang ]]>
             </title>
             <link>https://www.thehindu.com/news/international/ukraine-changes-mind-on-un-rights-council-vote-on-xinjiang/article65981258.ece</link>
-            <guid isPermaLink="false">1666433734915</guid>
+            <guid isPermaLink="false">1666522825249</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -967,7 +967,7 @@
                 <![CDATA[ Top news of the day: Belarus activist Ales Bialiatski, Russian and Ukrainian organisations win Nobel Peace Prize; Three-member panel to look into granting SC status to converted Dalits, and more ]]>
             </title>
             <link>https://www.thehindu.com/news/top-news-of-the-day-october-07-2022-belarus-activist-ales-bialiatski-russian-and-ukrainian-organisations-win-nobel-peace-prize-three-member-panel-to-look-into-granting-sc-status-to-converted-dalits-an/article65981312.ece</link>
-            <guid isPermaLink="false">1666433734916</guid>
+            <guid isPermaLink="false">1666522825250</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -977,7 +977,7 @@
                 <![CDATA[ Russian missiles, drones hit Ukraine’s Zaporizhzhia again as death toll rises ]]>
             </title>
             <link>https://www.thehindu.com/news/international/russian-missiles-drones-hit-ukraines-zaporizhzhia-again-as-death-toll-rises/article65980354.ece</link>
-            <guid isPermaLink="false">1666433734917</guid>
+            <guid isPermaLink="false">1666522825251</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -987,7 +987,7 @@
                 <![CDATA[ Amid Ukraine war, Putin turns 70 with a prayer for his health ]]>
             </title>
             <link>https://www.thehindu.com/news/international/amid-ukraine-war-putin-turns-70-with-a-prayer-for-his-health/article65979808.ece</link>
-            <guid isPermaLink="false">1666433734918</guid>
+            <guid isPermaLink="false">1666522825252</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -997,7 +997,7 @@
                 <![CDATA[ IMF warns of higher recession risk and darker global outlook ]]>
             </title>
             <link>https://www.thehindu.com/business/economy/imf-warns-of-higher-recession-risk-and-darker-global-outlook/article65977892.ece</link>
-            <guid isPermaLink="false">1666433734919</guid>
+            <guid isPermaLink="false">1666522825253</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -1007,7 +1007,7 @@
                 <![CDATA[ Is India in a bind over its relations with Russia? ]]>
             </title>
             <link>https://www.thehindu.com/opinion/op-ed/is-india-in-a-bind-over-its-relations-with-russia/article65976919.ece</link>
-            <guid isPermaLink="false">1666433734920</guid>
+            <guid isPermaLink="false">1666522825254</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -1017,7 +1017,7 @@
                 <![CDATA[ Ukraine says recaptured vast tracts of key Kherson region ]]>
             </title>
             <link>https://www.thehindu.com/news/international/ukraine-says-recaptured-vast-tracts-of-key-kherson-region/article65977092.ece</link>
-            <guid isPermaLink="false">1666433734921</guid>
+            <guid isPermaLink="false">1666522825255</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -1027,7 +1027,7 @@
                 <![CDATA[ Russian rockets slam into Ukrainian city near Europe’s biggest nuclear power plant ]]>
             </title>
             <link>https://www.thehindu.com/news/international/russian-rockets-slam-into-ukrainian-city-near-europes-biggest-nuclear-power-plant/article65975877.ece</link>
-            <guid isPermaLink="false">1666433734922</guid>
+            <guid isPermaLink="false">1666522825256</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -1037,37 +1037,7 @@
                 <![CDATA[ India willing to do whatever it can to facilitate solution to Ukraine crisis: S. Jaishankar in New Zealand ]]>
             </title>
             <link>https://www.thehindu.com/news/national/india-willing-to-do-whatever-it-can-to-facilitate-solution-to-ukraine-crisis-s-jaishankar-in-new-zealand/article65975615.ece</link>
-            <guid isPermaLink="false">1666433734923</guid>
-            <dc:creator>
-                <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
-            </dc:creator>
-        </item>
-        <item>
-            <title>
-                <![CDATA[ நடுநிலையும் புறக்கணிப்பும் ]]>
-            </title>
-            <link>https://www.thehindu.com/opinion/editorial/tamil/tamil-editorial-on-indias-stand-in-the-russia-ukraine-conflict/article65974893.ece</link>
-            <guid isPermaLink="false">1666433734924</guid>
-            <dc:creator>
-                <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
-            </dc:creator>
-        </item>
-        <item>
-            <title>
-                <![CDATA[ Putin says Ukraine fight to 'stabilise,' Kyiv presses counterattack ]]>
-            </title>
-            <link>https://www.thehindu.com/news/international/putin-says-ukraine-fight-to-stabilise-kyiv-presses-counterattack/article65972865.ece</link>
-            <guid isPermaLink="false">1666433734925</guid>
-            <dc:creator>
-                <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
-            </dc:creator>
-        </item>
-        <item>
-            <title>
-                <![CDATA[ Neutrality and abstention: On India’s stand in the Russia-Ukraine conflict ]]>
-            </title>
-            <link>https://www.thehindu.com/opinion/editorial/neutrality-and-abstention-the-hindu-editorial-on-indias-stand-in-the-russia-ukraine-conflict/article65972267.ece</link>
-            <guid isPermaLink="false">1666433734926</guid>
+            <guid isPermaLink="false">1666522825257</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -1076,30 +1046,60 @@
             <title>
                 <![CDATA[ 2K
 |
-Russian Ram Leela treat for PM Modi in Ayodhya ]]>
+‘Monster’ movie review: An endurance test of a film, with a warped portrayal of LGBTQIA+ issues ]]>
             </title>
-            <link>https://www.thehindu.com/news/national/russian-ram-leela-treat-for-pm-modi-in-ayodhya/article66035292.ece</link>
-            <guid isPermaLink="false">1666433734927</guid>
+            <link>https://www.thehindu.com/entertainment/movies/monster-movie-review-an-endurance-test-of-a-film-with-a-warped-portrayal-of-lgbtqia-issues/article66039785.ece</link>
+            <guid isPermaLink="false">1666522825258</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
         </item>
         <item>
             <title>
-                <![CDATA[ Ukrainians 'laughing in the face of evil' amid threat of nuclear escalation ]]>
+                <![CDATA[ 'If he loses the war, it will be the end for him': Exiled diplomat claims Putin would sacrifice 20 million soldiers ]]>
             </title>
-            <link>https://news.sky.com/story/ukraine-war-diaries-ukrainians-laughing-in-the-face-of-evil-amid-threat-of-nuclear-escalation-12725852</link>
-            <guid isPermaLink="false">1666433734929</guid>
+            <link>https://news.sky.com/story/ukraine-war-vladimir-putin-would-sacrifice-20-million-soldiers-to-win-and-ensure-political-survival-exiled-diplomat-says-12726372</link>
+            <guid isPermaLink="false">1666522825260</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
         </item>
         <item>
             <title>
-                <![CDATA[ Putin's forces 'preparing to blow up major dam and flood thousands' - as Russia and US ministers 'hold phone call' ]]>
+                <![CDATA[ 'Not a civilian evacuation': Collaborators and Russians leaving Kherson, resident says ]]>
             </title>
-            <link>https://news.sky.com/story/ukraine-latest-news-putin-bombs-energy-facilities-across-ukraine-as-30-of-power-stations-wiped-out-12541713</link>
-            <guid isPermaLink="false">1666433734930</guid>
+            <link>https://news.sky.com/story/not-a-civilian-evacuation-collaborators-and-russians-fleeing-kherson-resident-says-12727584</link>
+            <guid isPermaLink="false">1666522825261</guid>
+            <dc:creator>
+                <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
+            </dc:creator>
+        </item>
+        <item>
+            <title>
+                <![CDATA[ Russian-installed authorities in Kherson order 'immediate' evacuation ]]>
+            </title>
+            <link>https://news.sky.com/story/ukraine-war-russian-installed-authorities-in-kherson-order-immediate-evacuation-amid-warnings-of-counteroffensive-12727146</link>
+            <guid isPermaLink="false">1666522825262</guid>
+            <dc:creator>
+                <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
+            </dc:creator>
+        </item>
+        <item>
+            <title>
+                <![CDATA[ Putin 'will sacrifice millions' ]]>
+            </title>
+            <link>https://news.sky.com/video/ukraine-war-putin-will-sacrifice-10-or-20-million-russians-to-win-this-war-says-former-russian-diplomat-12726398</link>
+            <guid isPermaLink="false">1666522825263</guid>
+            <dc:creator>
+                <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
+            </dc:creator>
+        </item>
+        <item>
+            <title>
+                <![CDATA[ Thousands fleeing Kherson ]]>
+            </title>
+            <link>https://news.sky.com/video/ukraine-thousands-fleeing-kherson-12727604</link>
+            <guid isPermaLink="false">1666522825264</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -1109,27 +1109,47 @@ Russian Ram Leela treat for PM Modi in Ayodhya ]]>
                 <![CDATA[ 'It doesn't stop': The Ukrainian soldiers fighting Russia from beneath the trees ]]>
             </title>
             <link>https://news.sky.com/story/ukraine-war-it-doesnt-stop-the-soldiers-fighting-russia-from-beneath-the-trees-12725715</link>
-            <guid isPermaLink="false">1666433734931</guid>
+            <guid isPermaLink="false">1666522825265</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
         </item>
         <item>
             <title>
-                <![CDATA[ Life appears normal in Moscow... but a sinister undercurrent exists as Putin's war drags on | Dominic Waghorn ]]>
+                <![CDATA[ Life appears normal in Moscow... but a sinister undercurrent exists as Putin's war drags on ]]>
             </title>
             <link>https://news.sky.com/story/ukraine-war-life-appears-normal-in-moscow-but-a-sinister-undercurrent-exists-as-putins-conflict-drags-on-12726905</link>
-            <guid isPermaLink="false">1666433734932</guid>
+            <guid isPermaLink="false">1666522825266</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
         </item>
         <item>
             <title>
-                <![CDATA[ ‘24 hours a day we have attacks’ ]]>
+                <![CDATA[ Ukrainians 'laughing in the face of evil' amid threat of nuclear escalation ]]>
+            </title>
+            <link>https://news.sky.com/story/ukraine-war-diaries-ukrainians-laughing-in-the-face-of-evil-amid-threat-of-nuclear-escalation-12725852</link>
+            <guid isPermaLink="false">1666522825267</guid>
+            <dc:creator>
+                <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
+            </dc:creator>
+        </item>
+        <item>
+            <title>
+                <![CDATA[ Putin's forces 'preparing to blow up major dam and flood thousands' - as Russia and US ministers 'hold phone call' ]]>
+            </title>
+            <link>https://news.sky.com/story/ukraine-latest-news-putin-bombs-energy-facilities-across-ukraine-as-30-of-power-stations-wiped-out-12541713</link>
+            <guid isPermaLink="false">1666522825268</guid>
+            <dc:creator>
+                <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
+            </dc:creator>
+        </item>
+        <item>
+            <title>
+                <![CDATA[ '24 hours a day we have attacks' ]]>
             </title>
             <link>https://news.sky.com/video/ukrainian-soldiers-operate-beneath-the-trees-as-russian-attacks-come-24-hours-a-day-12726475</link>
-            <guid isPermaLink="false">1666433734933</guid>
+            <guid isPermaLink="false">1666522825269</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -1139,27 +1159,7 @@ Russian Ram Leela treat for PM Modi in Ayodhya ]]>
                 <![CDATA[ What is happening in Kherson? ]]>
             </title>
             <link>https://news.sky.com/video/ukraine-war-are-russians-planning-to-withdraw-from-kherson-12726463</link>
-            <guid isPermaLink="false">1666433734934</guid>
-            <dc:creator>
-                <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
-            </dc:creator>
-        </item>
-        <item>
-            <title>
-                <![CDATA[ The intensifying battle for energy and how Ukraine's fight for every inch affects European supply ]]>
-            </title>
-            <link>https://news.sky.com/story/ukraine-the-energy-war-and-how-the-frontline-fight-at-nuclear-power-plant-intensifies-12724056</link>
-            <guid isPermaLink="false">1666433734935</guid>
-            <dc:creator>
-                <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
-            </dc:creator>
-        </item>
-        <item>
-            <title>
-                <![CDATA[ Putin fires sniper rifle at Russian boot camp after Ukraine setbacks ]]>
-            </title>
-            <link>https://news.sky.com/story/vladimir-putin-fires-rifle-at-russian-boot-camp-after-ukraine-setbacks-12726059</link>
-            <guid isPermaLink="false">1666433734936</guid>
+            <guid isPermaLink="false">1666522825270</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -1169,7 +1169,7 @@ Russian Ram Leela treat for PM Modi in Ayodhya ]]>
                 <![CDATA[ Putin fires a sniper rifle at training site ]]>
             </title>
             <link>https://news.sky.com/video/ukraine-war-vladimir-putin-tries-out-a-sniper-rifle-at-training-site-12726057</link>
-            <guid isPermaLink="false">1666433734937</guid>
+            <guid isPermaLink="false">1666522825271</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -1179,7 +1179,7 @@ Russian Ram Leela treat for PM Modi in Ayodhya ]]>
                 <![CDATA[ Kherson residents line up to evacuate ]]>
             </title>
             <link>https://news.sky.com/video/ukraine-war-kherson-residents-line-up-at-ferry-terminal-amid-evacuation-calls-12724636</link>
-            <guid isPermaLink="false">1666433734938</guid>
+            <guid isPermaLink="false">1666522825272</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -1189,37 +1189,7 @@ Russian Ram Leela treat for PM Modi in Ayodhya ]]>
                 <![CDATA[ Putin: Martial law in annexed Ukraine ]]>
             </title>
             <link>https://news.sky.com/video/ukraine-war-putin-declares-martial-law-in-annexed-regions-12724607</link>
-            <guid isPermaLink="false">1666433734939</guid>
-            <dc:creator>
-                <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
-            </dc:creator>
-        </item>
-        <item>
-            <title>
-                <![CDATA[ Putin 'trying to intimidate citizens' ]]>
-            </title>
-            <link>https://news.sky.com/video/ukraine-war-vladimir-putin-is-trying-to-intimidate-citizens-says-joe-biden-12725212</link>
-            <guid isPermaLink="false">1666433734940</guid>
-            <dc:creator>
-                <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
-            </dc:creator>
-        </item>
-        <item>
-            <title>
-                <![CDATA[ Iranian Revolutionary Guard troops in Crimea aiding Russia with drones, says intelligence report ]]>
-            </title>
-            <link>https://news.sky.com/story/iranian-revolutionary-guard-on-the-ground-aiding-russia-in-crimea-says-intelligence-report-12725990</link>
-            <guid isPermaLink="false">1666433734941</guid>
-            <dc:creator>
-                <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
-            </dc:creator>
-        </item>
-        <item>
-            <title>
-                <![CDATA[ Russian jet 'released missile' near RAF aircraft during patrol over Black Sea ]]>
-            </title>
-            <link>https://news.sky.com/story/russian-jet-released-missile-near-raf-aircraft-during-patrol-over-black-sea-12725414</link>
-            <guid isPermaLink="false">1666433734942</guid>
+            <guid isPermaLink="false">1666522825273</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>

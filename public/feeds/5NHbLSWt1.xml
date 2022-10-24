@@ -4,19 +4,19 @@
     xmlns:media="http://search.yahoo.com/mrss/" version="2.0">
     <channel>
         <title>
-            <![CDATA[ offcamuscareer.com ]]>
+            <![CDATA[ offcampuscareer.com ]]>
         </title>
         <description>
-            <![CDATA[ offcamuscareer.com ]]>
+            <![CDATA[ offcampuscareer.com ]]>
         </description>
         <link>https://www.offcampuscareer.com/sitemapscanner/new</link>
         <image>
             <url>https://www.offcampuscareer.com/favicon.ico</url>
-            <title>offcamuscareer.com</title>
+            <title>offcampuscareer.com</title>
             <link>https://www.offcampuscareer.com/sitemapscanner/new</link>
         </image>
         <generator>https://www.offcampuscareer.com</generator>
-        <lastBuildDate>Sat Oct 22 2022 11:45:03 GMT+0000 (Coordinated Universal Time)</lastBuildDate>
+        <lastBuildDate>Sun Oct 23 2022 14:01:12 GMT+0000 (Coordinated Universal Time)</lastBuildDate>
         <atom:link href="https://www.offcampuscareer.com/feeds/5NHbLSWt1.xml" rel="self" type="application/rss+xml"/>
         <language>
             <![CDATA[ en ]]>
@@ -27,7 +27,7 @@
                 <![CDATA[ Home ]]>
             </title>
             <link>https://www.cbr.com/</link>
-            <guid isPermaLink="false">1666439103910</guid>
+            <guid isPermaLink="false">1666533672565</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -37,7 +37,7 @@
                 <![CDATA[ CBR Exclusives ]]>
             </title>
             <link>https://www.cbr.com/category/cbr-exclusives/</link>
-            <guid isPermaLink="false">1666439103911</guid>
+            <guid isPermaLink="false">1666533672566</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -47,7 +47,7 @@
                 <![CDATA[ Comics News ]]>
             </title>
             <link>https://www.cbr.com/category/comics/news/</link>
-            <guid isPermaLink="false">1666439103912</guid>
+            <guid isPermaLink="false">1666533672567</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -57,7 +57,7 @@
                 <![CDATA[ Comic Features ]]>
             </title>
             <link>https://www.cbr.com/category/comics-features/</link>
-            <guid isPermaLink="false">1666439103913</guid>
+            <guid isPermaLink="false">1666533672568</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -67,7 +67,7 @@
                 <![CDATA[ See More ]]>
             </title>
             <link>https://www.cbr.com/category/comics/previews/</link>
-            <guid isPermaLink="false">1666439103914</guid>
+            <guid isPermaLink="false">1666533672569</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -77,7 +77,7 @@
                 <![CDATA[ See More ]]>
             </title>
             <link>https://www.cbr.com/category/comics/reviews/</link>
-            <guid isPermaLink="false">1666439103915</guid>
+            <guid isPermaLink="false">1666533672570</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -87,7 +87,7 @@
                 <![CDATA[ Comic Solicitations ]]>
             </title>
             <link>https://www.cbr.com/comic-book-solicitations-marvel-dc-dark-horse-image/</link>
-            <guid isPermaLink="false">1666439103916</guid>
+            <guid isPermaLink="false">1666533672571</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -97,7 +97,7 @@
                 <![CDATA[ Marvel Comics ]]>
             </title>
             <link>https://www.cbr.com/tag/marvel/</link>
-            <guid isPermaLink="false">1666439103917</guid>
+            <guid isPermaLink="false">1666533672572</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -107,7 +107,7 @@
                 <![CDATA[ DC Comics ]]>
             </title>
             <link>https://www.cbr.com/tag/dc-comics/</link>
-            <guid isPermaLink="false">1666439103918</guid>
+            <guid isPermaLink="false">1666533672573</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -117,7 +117,7 @@
                 <![CDATA[ Dark Horse Comics ]]>
             </title>
             <link>https://www.cbr.com/tag/dark-horse-comics/</link>
-            <guid isPermaLink="false">1666439103919</guid>
+            <guid isPermaLink="false">1666533672574</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -127,7 +127,7 @@
                 <![CDATA[ Image Comics ]]>
             </title>
             <link>https://www.cbr.com/tag/image-comics/</link>
-            <guid isPermaLink="false">1666439103920</guid>
+            <guid isPermaLink="false">1666533672575</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -137,7 +137,7 @@
                 <![CDATA[ Movie News ]]>
             </title>
             <link>https://www.cbr.com/category/movies/news-movies/</link>
-            <guid isPermaLink="false">1666439103921</guid>
+            <guid isPermaLink="false">1666533672576</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -147,7 +147,7 @@
                 <![CDATA[ Movie Features ]]>
             </title>
             <link>https://www.cbr.com/category/movies/movie-features/</link>
-            <guid isPermaLink="false">1666439103922</guid>
+            <guid isPermaLink="false">1666533672577</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -157,7 +157,7 @@
                 <![CDATA[ Movie Reviews ]]>
             </title>
             <link>https://www.cbr.com/category/movies/reviews-movies/</link>
-            <guid isPermaLink="false">1666439103923</guid>
+            <guid isPermaLink="false">1666533672578</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -167,7 +167,7 @@
                 <![CDATA[ Black Adam ]]>
             </title>
             <link>https://www.cbr.com/tag/black-adam-film/</link>
-            <guid isPermaLink="false">1666439103924</guid>
+            <guid isPermaLink="false">1666533672579</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -177,7 +177,7 @@
                 <![CDATA[ Black Panther: Wakanda Forever ]]>
             </title>
             <link>https://www.cbr.com/tag/black-panther-wakanda-forever/</link>
-            <guid isPermaLink="false">1666439103925</guid>
+            <guid isPermaLink="false">1666533672580</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -187,7 +187,7 @@
                 <![CDATA[ Prey ]]>
             </title>
             <link>https://www.cbr.com/tag/prey-movie/</link>
-            <guid isPermaLink="false">1666439103926</guid>
+            <guid isPermaLink="false">1666533672581</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -197,7 +197,7 @@
                 <![CDATA[ The Batman ]]>
             </title>
             <link>https://www.cbr.com/tag/the-batman/</link>
-            <guid isPermaLink="false">1666439103927</guid>
+            <guid isPermaLink="false">1666533672582</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -207,7 +207,7 @@
                 <![CDATA[ Spider Man: No Way Home ]]>
             </title>
             <link>https://www.cbr.com/tag/spider-man-no-way-home/</link>
-            <guid isPermaLink="false">1666439103928</guid>
+            <guid isPermaLink="false">1666533672583</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -217,7 +217,7 @@
                 <![CDATA[ TV News ]]>
             </title>
             <link>https://www.cbr.com/category/tv/news-tv/</link>
-            <guid isPermaLink="false">1666439103929</guid>
+            <guid isPermaLink="false">1666533672584</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -227,7 +227,7 @@
                 <![CDATA[ TV Features ]]>
             </title>
             <link>https://www.cbr.com/category/tv/tv-features/</link>
-            <guid isPermaLink="false">1666439103930</guid>
+            <guid isPermaLink="false">1666533672585</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -237,7 +237,7 @@
                 <![CDATA[ TV Reviews ]]>
             </title>
             <link>https://www.cbr.com/category/tv/reviews-tv/</link>
-            <guid isPermaLink="false">1666439103931</guid>
+            <guid isPermaLink="false">1666533672586</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -247,7 +247,7 @@
                 <![CDATA[ House of the Dragon ]]>
             </title>
             <link>https://www.cbr.com/tag/house-of-the-dragon/</link>
-            <guid isPermaLink="false">1666439103932</guid>
+            <guid isPermaLink="false">1666533672587</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -257,7 +257,7 @@
                 <![CDATA[ Andor ]]>
             </title>
             <link>https://www.cbr.com/tag/andor/</link>
-            <guid isPermaLink="false">1666439103933</guid>
+            <guid isPermaLink="false">1666533672588</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -267,7 +267,7 @@
                 <![CDATA[ She-Hulk: Attorney at Law ]]>
             </title>
             <link>https://www.cbr.com/tag/she-hulk-attorney-at-law/</link>
-            <guid isPermaLink="false">1666439103934</guid>
+            <guid isPermaLink="false">1666533672589</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -277,7 +277,7 @@
                 <![CDATA[ LOTR: The Rings of Power ]]>
             </title>
             <link>https://www.cbr.com/tag/the-lord-of-the-rings-the-rings-of-power/</link>
-            <guid isPermaLink="false">1666439103935</guid>
+            <guid isPermaLink="false">1666533672590</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -287,7 +287,7 @@
                 <![CDATA[ The Sandman ]]>
             </title>
             <link>https://www.cbr.com/tag/the-sandman-tv/</link>
-            <guid isPermaLink="false">1666439103936</guid>
+            <guid isPermaLink="false">1666533672591</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -297,7 +297,7 @@
                 <![CDATA[ Wrestling ]]>
             </title>
             <link>https://www.cbr.com/category/wrestling/</link>
-            <guid isPermaLink="false">1666439103937</guid>
+            <guid isPermaLink="false">1666533672592</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -307,7 +307,7 @@
                 <![CDATA[ Anime ]]>
             </title>
             <link>https://www.cbr.com/category/anime-news/</link>
-            <guid isPermaLink="false">1666439103938</guid>
+            <guid isPermaLink="false">1666533672593</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -317,7 +317,7 @@
                 <![CDATA[ One Piece ]]>
             </title>
             <link>https://www.cbr.com/tag/one-piece/</link>
-            <guid isPermaLink="false">1666439103939</guid>
+            <guid isPermaLink="false">1666533672594</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -327,7 +327,7 @@
                 <![CDATA[ Naruto ]]>
             </title>
             <link>https://www.cbr.com/tag/naruto/</link>
-            <guid isPermaLink="false">1666439103940</guid>
+            <guid isPermaLink="false">1666533672595</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -337,7 +337,7 @@
                 <![CDATA[ Dragon Ball ]]>
             </title>
             <link>https://www.cbr.com/tag/dragon-ball/</link>
-            <guid isPermaLink="false">1666439103941</guid>
+            <guid isPermaLink="false">1666533672596</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -347,7 +347,7 @@
                 <![CDATA[ All Gaming ]]>
             </title>
             <link>https://www.cbr.com/category/video-game/</link>
-            <guid isPermaLink="false">1666439103942</guid>
+            <guid isPermaLink="false">1666533672597</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -357,7 +357,7 @@
                 <![CDATA[ Dungeons & Dragons ]]>
             </title>
             <link>https://www.cbr.com/tag/dungeons-and-dragons/</link>
-            <guid isPermaLink="false">1666439103943</guid>
+            <guid isPermaLink="false">1666533672598</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -367,7 +367,7 @@
                 <![CDATA[ Dungeons & Dragons Builds Guide ]]>
             </title>
             <link>https://www.cbr.com/dnd-5e-character-build-guide-wotc/</link>
-            <guid isPermaLink="false">1666439103944</guid>
+            <guid isPermaLink="false">1666533672599</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -377,7 +377,7 @@
                 <![CDATA[ Pokémon Scarlet and Violet ]]>
             </title>
             <link>https://www.cbr.com/tag/pokemon-scarlet-and-violet/</link>
-            <guid isPermaLink="false">1666439103945</guid>
+            <guid isPermaLink="false">1666533672600</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -387,7 +387,7 @@
                 <![CDATA[ Gotham Knights ]]>
             </title>
             <link>https://www.cbr.com/tag/gotham-knights/</link>
-            <guid isPermaLink="false">1666439103946</guid>
+            <guid isPermaLink="false">1666533672601</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -397,7 +397,7 @@
                 <![CDATA[ Midnight Suns ]]>
             </title>
             <link>https://www.cbr.com/tag/marvels-midnight-suns/</link>
-            <guid isPermaLink="false">1666439103947</guid>
+            <guid isPermaLink="false">1666533672602</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -407,7 +407,7 @@
                 <![CDATA[ Lists ]]>
             </title>
             <link>https://www.cbr.com/category/lists/</link>
-            <guid isPermaLink="false">1666439103948</guid>
+            <guid isPermaLink="false">1666533672603</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -417,7 +417,7 @@
                 <![CDATA[ Write For Us ]]>
             </title>
             <link>https://www.cbr.com/contributor/</link>
-            <guid isPermaLink="false">1666439103949</guid>
+            <guid isPermaLink="false">1666533672604</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -427,7 +427,7 @@
                 <![CDATA[ CBR Forums ]]>
             </title>
             <link>https://community.cbr.com/</link>
-            <guid isPermaLink="false">1666439103950</guid>
+            <guid isPermaLink="false">1666533672605</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -437,7 +437,7 @@
                 <![CDATA[ About Us ]]>
             </title>
             <link>https://www.cbr.com/about/</link>
-            <guid isPermaLink="false">1666439103951</guid>
+            <guid isPermaLink="false">1666533672606</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -447,7 +447,7 @@
                 <![CDATA[ Advertise with Us ]]>
             </title>
             <link>https://www.cbr.com/contact/#advertising</link>
-            <guid isPermaLink="false">1666439103952</guid>
+            <guid isPermaLink="false">1666533672607</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -457,7 +457,7 @@
                 <![CDATA[ Privacy ]]>
             </title>
             <link>https://www.cbr.com/privacy-policy/</link>
-            <guid isPermaLink="false">1666439103953</guid>
+            <guid isPermaLink="false">1666533672608</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -467,7 +467,7 @@
                 <![CDATA[ Nerd Culture ]]>
             </title>
             <link>https://www.cbr.com/category/nerd-culture/</link>
-            <guid isPermaLink="false">1666439103954</guid>
+            <guid isPermaLink="false">1666533672609</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -477,7 +477,7 @@
                 <![CDATA[ Find a Comic Shop ]]>
             </title>
             <link>https://findacomicshop.com/</link>
-            <guid isPermaLink="false">1666439103955</guid>
+            <guid isPermaLink="false">1666533672610</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -487,7 +487,7 @@
                 <![CDATA[  ]]>
             </title>
             <link>https://www.youtube.com/user/comicbookresources</link>
-            <guid isPermaLink="false">1666439103956</guid>
+            <guid isPermaLink="false">1666533672611</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -497,7 +497,7 @@
                 <![CDATA[  ]]>
             </title>
             <link>https://www.facebook.com/comicbookresources</link>
-            <guid isPermaLink="false">1666439103957</guid>
+            <guid isPermaLink="false">1666533672612</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -507,7 +507,7 @@
                 <![CDATA[  ]]>
             </title>
             <link>https://www.instagram.com/comicbookresources</link>
-            <guid isPermaLink="false">1666439103958</guid>
+            <guid isPermaLink="false">1666533672613</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -517,7 +517,7 @@
                 <![CDATA[  ]]>
             </title>
             <link>https://twitter.com/cbr</link>
-            <guid isPermaLink="false">1666439103959</guid>
+            <guid isPermaLink="false">1666533672614</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -527,7 +527,7 @@
                 <![CDATA[  ]]>
             </title>
             <link>https://www.tiktok.com/@comicbookresources</link>
-            <guid isPermaLink="false">1666439103960</guid>
+            <guid isPermaLink="false">1666533672615</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -537,7 +537,7 @@
                 <![CDATA[  ]]>
             </title>
             <link>https://linkedin.com/company/comic-book-resources</link>
-            <guid isPermaLink="false">1666439103961</guid>
+            <guid isPermaLink="false">1666533672616</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -547,7 +547,7 @@
                 <![CDATA[  ]]>
             </title>
             <link>https://news.google.com/publications/caaqbwgkml6lgqswmol8ag</link>
-            <guid isPermaLink="false">1666439103962</guid>
+            <guid isPermaLink="false">1666533672617</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -557,7 +557,7 @@
                 <![CDATA[  ]]>
             </title>
             <link>https://www.cbr.com/feed/</link>
-            <guid isPermaLink="false">1666439103963</guid>
+            <guid isPermaLink="false">1666533672618</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -567,7 +567,7 @@
                 <![CDATA[ Covering the hottest movie and TV topics that fans want. ]]>
             </title>
             <link>https://www.cbr.com//screenrant.com</link>
-            <guid isPermaLink="false">1666439103964</guid>
+            <guid isPermaLink="false">1666533672619</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -577,7 +577,7 @@
                 <![CDATA[ All the latest gaming news, game reviews and trailers. ]]>
             </title>
             <link>https://www.cbr.com//gamerant.com</link>
-            <guid isPermaLink="false">1666439103965</guid>
+            <guid isPermaLink="false">1666533672620</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -587,7 +587,7 @@
                 <![CDATA[ New Movie News, Movie Trailers & upcoming Movie Reviews ]]>
             </title>
             <link>https://www.cbr.com//collider.com</link>
-            <guid isPermaLink="false">1666439103966</guid>
+            <guid isPermaLink="false">1666533672621</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -597,7 +597,77 @@
                 <![CDATA[  ]]>
             </title>
             <link>https://www.cbr.com/feed/category/comics/news/</link>
-            <guid isPermaLink="false">1666439103967</guid>
+            <guid isPermaLink="false">1666533672622</guid>
+            <dc:creator>
+                <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
+            </dc:creator>
+        </item>
+        <item>
+            <title>
+                <![CDATA[ Batman's Bluebird Finally Becomes a Robin in Awesome Fan Art ]]>
+            </title>
+            <link>https://www.cbr.com/batman-bluebird-harper-row-becomes-robin-fan-art-dc/</link>
+            <guid isPermaLink="false">1666533672623</guid>
+            <dc:creator>
+                <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
+            </dc:creator>
+        </item>
+        <item>
+            <title>
+                <![CDATA[ Sean Gribbin ]]>
+            </title>
+            <link>https://www.cbr.com/author/sean-gribbin/</link>
+            <guid isPermaLink="false">1666533672624</guid>
+            <dc:creator>
+                <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
+            </dc:creator>
+        </item>
+        <item>
+            <title>
+                <![CDATA[ Old Man Bane Is Nothing Like You'd Expect of the Former Batman Villain ]]>
+            </title>
+            <link>https://www.cbr.com/batman-one-bad-day-old-man-bane-dc/</link>
+            <guid isPermaLink="false">1666533672625</guid>
+            <dc:creator>
+                <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
+            </dc:creator>
+        </item>
+        <item>
+            <title>
+                <![CDATA[ Cyborg, Green Lantern, Batwing and More Star in DC's Black History Month Celebration ]]>
+            </title>
+            <link>https://www.cbr.com/cyborg-green-lantern-batwing-dc-black-history-month-celebration-dc/</link>
+            <guid isPermaLink="false">1666533672626</guid>
+            <dc:creator>
+                <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
+            </dc:creator>
+        </item>
+        <item>
+            <title>
+                <![CDATA[ Harley Quinn Has Started Her Very Own Cult ]]>
+            </title>
+            <link>https://www.cbr.com/harley-quinn-starts-cult-quintessentials-resurrection-dc/</link>
+            <guid isPermaLink="false">1666533672627</guid>
+            <dc:creator>
+                <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
+            </dc:creator>
+        </item>
+        <item>
+            <title>
+                <![CDATA[ Harley Quinn: Poison Ivy Is Forming Her Own Version of the Legion of Doom ]]>
+            </title>
+            <link>https://www.cbr.com/harley-quinn-poison-ivy-legion-of-doom-ladies-dc/</link>
+            <guid isPermaLink="false">1666533672628</guid>
+            <dc:creator>
+                <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
+            </dc:creator>
+        </item>
+        <item>
+            <title>
+                <![CDATA[ Captain Cold Reveals the Best Way to Kill Gorilla Grodd ]]>
+            </title>
+            <link>https://www.cbr.com/captain-cold-best-way-kill-gorilla-grodd-rogues-dc/</link>
+            <guid isPermaLink="false">1666533672629</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -607,7 +677,7 @@
                 <![CDATA[ EXCLUSIVE: Disney’s Gargoyles Debuts the New Series' First Eight Pages ]]>
             </title>
             <link>https://www.cbr.com/disney-gargoyles-debuts-series-eight-pages-preview-greg-weisman/</link>
-            <guid isPermaLink="false">1666439103968</guid>
+            <guid isPermaLink="false">1666533672630</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -617,7 +687,7 @@
                 <![CDATA[ Brandon Schreur ]]>
             </title>
             <link>https://www.cbr.com/author/brandon-schreur/</link>
-            <guid isPermaLink="false">1666439103969</guid>
+            <guid isPermaLink="false">1666533672631</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -627,7 +697,7 @@
                 <![CDATA[ Iron Man Is About to Wage a New Armor War - Against Ironheart ]]>
             </title>
             <link>https://www.cbr.com/iron-man-wage-armor-war-ironheart-invincible-marvel/</link>
-            <guid isPermaLink="false">1666439103970</guid>
+            <guid isPermaLink="false">1666533672632</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -637,7 +707,7 @@
                 <![CDATA[ Deadpool's New Superpower Is a Full-On Body Horror Nightmare ]]>
             </title>
             <link>https://www.cbr.com/deadpool-superpower-six-arms-body-horror/</link>
-            <guid isPermaLink="false">1666439103971</guid>
+            <guid isPermaLink="false">1666533672633</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -647,7 +717,7 @@
                 <![CDATA[ Harley Quinn: The Animated Series' Comic Brings Back Poison Ivy's Ex-Girlfriend ]]>
             </title>
             <link>https://www.cbr.com/harley-quinn-animated-series-comic-poison-ivy-ex-girlfriend-bella-garten-gardener/</link>
-            <guid isPermaLink="false">1666439103972</guid>
+            <guid isPermaLink="false">1666533672634</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -657,7 +727,7 @@
                 <![CDATA[ Jim Lee's Batman vs Spawn Cover Prepares Fans for the DC/Image Battle ]]>
             </title>
             <link>https://www.cbr.com/jim-lee-batman-vs-spawn-cover-dc-image-battle/</link>
-            <guid isPermaLink="false">1666439103973</guid>
+            <guid isPermaLink="false">1666533672635</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -667,7 +737,7 @@
                 <![CDATA[ Marvel's Most Powerful Avenger Is Now an Elderly Woman ]]>
             </title>
             <link>https://www.cbr.com/starbrand-powerful-avenger-elderly-woman-marvel/</link>
-            <guid isPermaLink="false">1666439103974</guid>
+            <guid isPermaLink="false">1666533672636</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -677,7 +747,7 @@
                 <![CDATA[ Nightwing Has a New Crimefighting Partner and More in DC's Lazarus Planet Event ]]>
             </title>
             <link>https://www.cbr.com/nightwing-crimefighting-partner-city-boy-dc-lazarus-planet-event/</link>
-            <guid isPermaLink="false">1666439103975</guid>
+            <guid isPermaLink="false">1666533672637</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -687,7 +757,7 @@
                 <![CDATA[ DC Explores the Lazarus Planet, Flash Declares a One-Minute War in January Solicits ]]>
             </title>
             <link>https://www.cbr.com/lazarus-planet-flash-superman-batman-harley-quinn-january-solicitations-2023/</link>
-            <guid isPermaLink="false">1666439103976</guid>
+            <guid isPermaLink="false">1666533672638</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -697,7 +767,7 @@
                 <![CDATA[ Madam Satan Returns in Archie Comics' Chilling Adventures in Sorcery Sequel (Exclusive Preview) ]]>
             </title>
             <link>https://www.cbr.com/madam-satan-returns-achie-comics-chilling-adventures-sorcery-sequel/</link>
-            <guid isPermaLink="false">1666439103977</guid>
+            <guid isPermaLink="false">1666533672639</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -707,7 +777,7 @@
                 <![CDATA[ Noah Dominguez ]]>
             </title>
             <link>https://www.cbr.com/author/ndom/</link>
-            <guid isPermaLink="false">1666439103978</guid>
+            <guid isPermaLink="false">1666533672640</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -717,7 +787,7 @@
                 <![CDATA[ Hasbro's New Marvel Legends Figure Is So Obscure, People Think It's Evil Dead's Ash ]]>
             </title>
             <link>https://www.cbr.com/hasbro-marvel-pretty-boy-figure-ash-williams-evil-dead/</link>
-            <guid isPermaLink="false">1666439103979</guid>
+            <guid isPermaLink="false">1666533672641</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -727,7 +797,7 @@
                 <![CDATA[ Jacob Rubin ]]>
             </title>
             <link>https://www.cbr.com/author/jacob-rubin/</link>
-            <guid isPermaLink="false">1666439103980</guid>
+            <guid isPermaLink="false">1666533672642</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -737,7 +807,7 @@
                 <![CDATA[ Green Arrow Just Got a God-Level Power-Up ]]>
             </title>
             <link>https://www.cbr.com/green-arrow-god-level-upgrade-apollo-bow-quiver-dceased/</link>
-            <guid isPermaLink="false">1666439103981</guid>
+            <guid isPermaLink="false">1666533672643</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -747,7 +817,7 @@
                 <![CDATA[ Disney's Darkwing Duck Recruits Nakayama, Andolfo for Stunning First Issue Covers ]]>
             </title>
             <link>https://www.cbr.com/disney-darkwing-duck-david-nakayama-mirka-andolfo-first-issue-covers/</link>
-            <guid isPermaLink="false">1666439103982</guid>
+            <guid isPermaLink="false">1666533672644</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -757,7 +827,7 @@
                 <![CDATA[ EXCLUSIVE: Spider-Man Insinuates a Major Ally Could Be Behind Hobgoblin's Recent Return ]]>
             </title>
             <link>https://www.cbr.com/spider-man-insinuates-major-ally-ned-leeds-hobgoblin-return/</link>
-            <guid isPermaLink="false">1666439103983</guid>
+            <guid isPermaLink="false">1666533672645</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -767,7 +837,7 @@
                 <![CDATA[ John Dodge ]]>
             </title>
             <link>https://www.cbr.com/author/john-dodge/</link>
-            <guid isPermaLink="false">1666439103984</guid>
+            <guid isPermaLink="false">1666533672646</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -777,77 +847,7 @@
                 <![CDATA[ Star Wars Announces Darth Vader Is About to Discover a New Threat ]]>
             </title>
             <link>https://www.cbr.com/star-wars-darth-vader-discover-new-threat-ajax-sigma-droid/</link>
-            <guid isPermaLink="false">1666439103985</guid>
-            <dc:creator>
-                <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
-            </dc:creator>
-        </item>
-        <item>
-            <title>
-                <![CDATA[ The X-Men’s Sins of Sinister Event Begins, Scarlet Witch Returns in Marvel’s January Solicits ]]>
-            </title>
-            <link>https://www.cbr.com/x-men-sins-of-sinister-scarlet-witch-marvel-january-solicitations-2023/</link>
-            <guid isPermaLink="false">1666439103986</guid>
-            <dc:creator>
-                <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
-            </dc:creator>
-        </item>
-        <item>
-            <title>
-                <![CDATA[ Marvel Recreates Iconic Spider-Man, X-Men Covers in New Homage Variant Series ]]>
-            </title>
-            <link>https://www.cbr.com/marvel-recreates-iconic-spider-man-x-men-covers-variant-series/</link>
-            <guid isPermaLink="false">1666439103987</guid>
-            <dc:creator>
-                <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
-            </dc:creator>
-        </item>
-        <item>
-            <title>
-                <![CDATA[ DC Recreates the Batman/Robin Slapping Meme With the Penguin ]]>
-            </title>
-            <link>https://www.cbr.com/penguin-batman-robin-slapping-meme-recreated-dc/</link>
-            <guid isPermaLink="false">1666439103988</guid>
-            <dc:creator>
-                <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
-            </dc:creator>
-        </item>
-        <item>
-            <title>
-                <![CDATA[ Samuel Gelman ]]>
-            </title>
-            <link>https://www.cbr.com/author/sgel/</link>
-            <guid isPermaLink="false">1666439103989</guid>
-            <dc:creator>
-                <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
-            </dc:creator>
-        </item>
-        <item>
-            <title>
-                <![CDATA[ Thor and Venom Just Merged to Create a New 'God in Black' Hybrid ]]>
-            </title>
-            <link>https://www.cbr.com/thor-venom-merged-create-god-in-black-hybrid-marvel/</link>
-            <guid isPermaLink="false">1666439103990</guid>
-            <dc:creator>
-                <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
-            </dc:creator>
-        </item>
-        <item>
-            <title>
-                <![CDATA[ Power Rangers Gets a New Creative Team to Usher in the Next Morphinomenal Era ]]>
-            </title>
-            <link>https://www.cbr.com/power-rangers-creative-team-usher-morphinomenal-era/</link>
-            <guid isPermaLink="false">1666439103991</guid>
-            <dc:creator>
-                <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
-            </dc:creator>
-        </item>
-        <item>
-            <title>
-                <![CDATA[ A Batman's New Mission Is to Kill All Kryptonians ]]>
-            </title>
-            <link>https://www.cbr.com/flashpoint-batman-new-mission-kill-kryptonians-invasion-superman-jor-el/</link>
-            <guid isPermaLink="false">1666439103992</guid>
+            <guid isPermaLink="false">1666533672647</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -857,67 +857,67 @@
                 <![CDATA[ Show More ]]>
             </title>
             <link>https://www.cbr.com/category/comics/news/2/</link>
-            <guid isPermaLink="false">1666439103993</guid>
+            <guid isPermaLink="false">1666533672648</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
         </item>
         <item>
             <title>
-                <![CDATA[ Judgment Day Introduces Marvel’s Very First TILF ]]>
+                <![CDATA[ Jane Austen's Horror Parody Is a Halloween Must-watch in 2022 ]]>
             </title>
-            <link>https://www.cbr.com/avengers-judgment-day-celestial-progenitor-earth-tilf-marvel/</link>
-            <guid isPermaLink="false">1666439103994</guid>
+            <link>https://www.cbr.com/northanger-abbey-jane-austen-horror-satire-how-watch-halloween-2022/</link>
+            <guid isPermaLink="false">1666533672649</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
         </item>
         <item>
             <title>
-                <![CDATA[ Tiger & Bunny 2 Finally Brings Back Yuri Petrov's Alter Ego, Lunatic ]]>
+                <![CDATA[ 7 Movies to Watch From Halloween Until Christmas ]]>
             </title>
-            <link>https://www.cbr.com/tiger-bunny-2-episode-20-lunatic-yuri-petrov-alter-ego-returns/</link>
-            <guid isPermaLink="false">1666439103995</guid>
+            <link>https://www.cbr.com/halloween-christmas-movies-addams-family-edward-scissorhands/</link>
+            <guid isPermaLink="false">1666533672650</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
         </item>
         <item>
             <title>
-                <![CDATA[ The Entire World is Opposing the Celestials' Judgment Day - Literally ]]>
+                <![CDATA[ Fruits Basket's Characters Make for a Fascinating Study in Psychology ]]>
             </title>
-            <link>https://www.cbr.com/judgment-day-world-opposition-marvel/</link>
-            <guid isPermaLink="false">1666439103996</guid>
+            <link>https://www.cbr.com/fruits-basket-anime-manga-characters-fascinating-study-psychology/</link>
+            <guid isPermaLink="false">1666533672651</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
         </item>
         <item>
             <title>
-                <![CDATA[ A Classic Hulk Ally Has Infiltrated Daredevil’s Cult - But is He Really an Enemy? ]]>
+                <![CDATA[ Fresh Off the Boat Presented a Compelling Olympics Conspiracy Theory ]]>
             </title>
-            <link>https://www.cbr.com/daredevil-doc-sasquatch-samson-the-fist-new-member-marvel/</link>
-            <guid isPermaLink="false">1666439103997</guid>
+            <link>https://www.cbr.com/fresh-off-the-boat-olympics-michelle-kwan-theory/</link>
+            <guid isPermaLink="false">1666533672652</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
         </item>
         <item>
             <title>
-                <![CDATA[ The Last: Naruto the Movie Still Holds Up Today - Even as a Standalone Film ]]>
+                <![CDATA[ Digimon Ghost Game Proves That Ruli and Angoramon Are an Excellent Team ]]>
             </title>
-            <link>https://www.cbr.com/the-last-naruto-the-movie-still-holds-up-today-standalone-film/</link>
-            <guid isPermaLink="false">1666439103998</guid>
+            <link>https://www.cbr.com/digimon-ghost-game-episode-46-ruli-angoramon-improve-communication/</link>
+            <guid isPermaLink="false">1666533672653</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
         </item>
         <item>
             <title>
-                <![CDATA[ I'm the Villainess Is a Charming Isekai Anime But a Failed Deconstruction ]]>
+                <![CDATA[ How the Bride of Frankenstein Became a Feminist Icon Against All Odds ]]>
             </title>
-            <link>https://www.cbr.com/im-the-villainess-so-im-taming-the-final-boss-charming-isekai-anime-not-subversive/</link>
-            <guid isPermaLink="false">1666439103999</guid>
+            <link>https://www.cbr.com/bride-of-frankenstein-feminist-icon-limited-screen-time-universal-classic-monsters/</link>
+            <guid isPermaLink="false">1666533672654</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -927,7 +927,7 @@
                 <![CDATA[ REVIEW: DC's Black Adam #5 ]]>
             </title>
             <link>https://www.cbr.com/dc-black-adam-5-review/</link>
-            <guid isPermaLink="false">1666439104000</guid>
+            <guid isPermaLink="false">1666533672655</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -937,7 +937,7 @@
                 <![CDATA[ EXCLUSIVE REVIEW: Vault Comics' Barbaric: Axe to Grind #3 ]]>
             </title>
             <link>https://www.cbr.com/vault-comics-barbaric-axe-to-grind-3-review/</link>
-            <guid isPermaLink="false">1666439104001</guid>
+            <guid isPermaLink="false">1666533672656</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -947,7 +947,7 @@
                 <![CDATA[ REVIEW: DC's Nightwing #97 ]]>
             </title>
             <link>https://www.cbr.com/dc-nightwing-97-review/</link>
-            <guid isPermaLink="false">1666439104002</guid>
+            <guid isPermaLink="false">1666533672657</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -957,7 +957,7 @@
                 <![CDATA[ REVIEW: Marvel's X-Men #16 ]]>
             </title>
             <link>https://www.cbr.com/marvel-x-men-16-review/</link>
-            <guid isPermaLink="false">1666439104003</guid>
+            <guid isPermaLink="false">1666533672658</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -967,7 +967,7 @@
                 <![CDATA[ REVIEW: Marvel's Moon Knight #16 ]]>
             </title>
             <link>https://www.cbr.com/marvel-moon-knight-16-review/</link>
-            <guid isPermaLink="false">1666439104004</guid>
+            <guid isPermaLink="false">1666533672659</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -977,7 +977,7 @@
                 <![CDATA[ REVIEW: Marvel's Deadly Neighborhood Spider-Man #1 ]]>
             </title>
             <link>https://www.cbr.com/marvel-deadly-neighborhood-spider-man-1-review/</link>
-            <guid isPermaLink="false">1666439104005</guid>
+            <guid isPermaLink="false">1666533672660</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -987,7 +987,7 @@
                 <![CDATA[ In Flames: The Jester's Curse ]]>
             </title>
             <link>https://www.cbr.com/in-flames-the-jesters-curse/</link>
-            <guid isPermaLink="false">1666439104006</guid>
+            <guid isPermaLink="false">1666533672661</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -997,7 +997,7 @@
                 <![CDATA[ Jimmy's Little Bastards #2 ]]>
             </title>
             <link>https://www.cbr.com/jimmys-little-bastards-2/</link>
-            <guid isPermaLink="false">1666439104007</guid>
+            <guid isPermaLink="false">1666533672662</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -1007,7 +1007,7 @@
                 <![CDATA[ The 06 Protocol #2 ]]>
             </title>
             <link>https://www.cbr.com/the-06-protocol-2/</link>
-            <guid isPermaLink="false">1666439104008</guid>
+            <guid isPermaLink="false">1666533672663</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -1017,7 +1017,7 @@
                 <![CDATA[ Last Line #2 ]]>
             </title>
             <link>https://www.cbr.com/last-line-2/</link>
-            <guid isPermaLink="false">1666439104009</guid>
+            <guid isPermaLink="false">1666533672664</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -1027,7 +1027,7 @@
                 <![CDATA[ Hell Is a Squared Circle ]]>
             </title>
             <link>https://www.cbr.com/hell-is-a-squared-circle/</link>
-            <guid isPermaLink="false">1666439104010</guid>
+            <guid isPermaLink="false">1666533672665</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -1037,37 +1037,37 @@
                 <![CDATA[ The 06 Protocol #1 ]]>
             </title>
             <link>https://www.cbr.com/the-06-protocol-1/</link>
-            <guid isPermaLink="false">1666439104011</guid>
+            <guid isPermaLink="false">1666533672666</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
         </item>
         <item>
             <title>
-                <![CDATA[ How to Build Lord of the Rings' Gandalf In Dungeons & Dragons ]]>
+                <![CDATA[ Craig Robinson's Most Lovable Role Was As a Criminal ]]>
             </title>
-            <link>https://www.cbr.com/dnd-5e-gandalf-build-guide-lotr/</link>
-            <guid isPermaLink="false">1666439104012</guid>
+            <link>https://www.cbr.com/craig-robinson-brooklyn99-doug-judy-nbc/</link>
+            <guid isPermaLink="false">1666533672667</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
         </item>
         <item>
             <title>
-                <![CDATA[ D&D: Why DMs Should Ask Players This Simple Question Every Session ]]>
+                <![CDATA[ Our Flag Means Death Has a Chance to Be Even Better in Season 2 ]]>
             </title>
-            <link>https://www.cbr.com/dnd-dm-player-recap-wotc-ttrpg/</link>
-            <guid isPermaLink="false">1666439104013</guid>
+            <link>https://www.cbr.com/our-flag-means-death-season2-hbo-max/</link>
+            <guid isPermaLink="false">1666533672668</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
         </item>
         <item>
             <title>
-                <![CDATA[ Werewolf by Night Uses Classic Filmmaking to Get Away with the Most Violent MCU Story ]]>
+                <![CDATA[ Do It Yourself! Promises to Be the Next Laid-Back Camp ]]>
             </title>
-            <link>https://www.cbr.com/werewolf-by-night-mcu-violence-disney-plus/</link>
-            <guid isPermaLink="false">1666439104014</guid>
+            <link>https://www.cbr.com/do-it-yourself-laid-back-camp-similarities/</link>
+            <guid isPermaLink="false">1666533672669</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -1077,7 +1077,7 @@
                 <![CDATA[ Comic News ]]>
             </title>
             <link>undefined</link>
-            <guid isPermaLink="false">1666439104015</guid>
+            <guid isPermaLink="false">1666533672670</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -1087,7 +1087,7 @@
                 <![CDATA[ Contact Us ]]>
             </title>
             <link>https://www.cbr.com/contact/</link>
-            <guid isPermaLink="false">1666439104016</guid>
+            <guid isPermaLink="false">1666533672671</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -1097,7 +1097,7 @@
                 <![CDATA[ Terms ]]>
             </title>
             <link>https://www.cbr.com/terms-of-use/</link>
-            <guid isPermaLink="false">1666439104017</guid>
+            <guid isPermaLink="false">1666533672672</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -1107,7 +1107,7 @@
                 <![CDATA[ Copyright ]]>
             </title>
             <link>https://www.cbr.com/dmca-take-down-policy/</link>
-            <guid isPermaLink="false">1666439104018</guid>
+            <guid isPermaLink="false">1666533672673</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -1117,7 +1117,7 @@
                 <![CDATA[ Press Kit ]]>
             </title>
             <link>https://www.cbr.com/press-kit/</link>
-            <guid isPermaLink="false">1666439104019</guid>
+            <guid isPermaLink="false">1666533672674</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -1127,7 +1127,7 @@
                 <![CDATA[ Fact Checking Policy ]]>
             </title>
             <link>https://www.cbr.com/fact-checking-policy/</link>
-            <guid isPermaLink="false">1666439104020</guid>
+            <guid isPermaLink="false">1666533672675</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -1137,7 +1137,7 @@
                 <![CDATA[ Corrections Policy ]]>
             </title>
             <link>https://www.cbr.com/corrections-policy/</link>
-            <guid isPermaLink="false">1666439104021</guid>
+            <guid isPermaLink="false">1666533672676</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -1147,7 +1147,7 @@
                 <![CDATA[ Ethics Policy ]]>
             </title>
             <link>https://www.cbr.com/ethics-policy/</link>
-            <guid isPermaLink="false">1666439104022</guid>
+            <guid isPermaLink="false">1666533672677</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -1157,7 +1157,7 @@
                 <![CDATA[ Ownership Policy ]]>
             </title>
             <link>https://www.cbr.com/ownership-funding-advertising-policy/</link>
-            <guid isPermaLink="false">1666439104023</guid>
+            <guid isPermaLink="false">1666533672678</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -1167,7 +1167,7 @@
                 <![CDATA[ Home ]]>
             </title>
             <link>https://screenrant.com/</link>
-            <guid isPermaLink="false">1666439104024</guid>
+            <guid isPermaLink="false">1666533672679</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -1177,7 +1177,7 @@
                 <![CDATA[ SR Exclusives ]]>
             </title>
             <link>https://screenrant.com/sr-originals/</link>
-            <guid isPermaLink="false">1666439104025</guid>
+            <guid isPermaLink="false">1666533672680</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -1187,7 +1187,7 @@
                 <![CDATA[ Movie News ]]>
             </title>
             <link>https://screenrant.com/movie-news/</link>
-            <guid isPermaLink="false">1666439104026</guid>
+            <guid isPermaLink="false">1666533672681</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -1197,7 +1197,7 @@
                 <![CDATA[ TV News ]]>
             </title>
             <link>https://screenrant.com/tv-news/</link>
-            <guid isPermaLink="false">1666439104027</guid>
+            <guid isPermaLink="false">1666533672682</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -1207,7 +1207,7 @@
                 <![CDATA[ See More ]]>
             </title>
             <link>https://screenrant.com/movie-reviews/</link>
-            <guid isPermaLink="false">1666439104028</guid>
+            <guid isPermaLink="false">1666533672683</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -1217,7 +1217,7 @@
                 <![CDATA[ Interviews ]]>
             </title>
             <link>https://screenrant.com/interviews/</link>
-            <guid isPermaLink="false">1666439104029</guid>
+            <guid isPermaLink="false">1666533672684</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -1227,7 +1227,7 @@
                 <![CDATA[ Tech ]]>
             </title>
             <link>https://screenrant.com/tech/</link>
-            <guid isPermaLink="false">1666439104030</guid>
+            <guid isPermaLink="false">1666533672685</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -1237,7 +1237,7 @@
                 <![CDATA[ Game News ]]>
             </title>
             <link>https://screenrant.com/gaming/</link>
-            <guid isPermaLink="false">1666439104031</guid>
+            <guid isPermaLink="false">1666533672686</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -1247,7 +1247,7 @@
                 <![CDATA[ Game Features ]]>
             </title>
             <link>https://screenrant.com/game-features/</link>
-            <guid isPermaLink="false">1666439104032</guid>
+            <guid isPermaLink="false">1666533672687</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -1257,7 +1257,7 @@
                 <![CDATA[ Game Guides ]]>
             </title>
             <link>https://screenrant.com/game-guides/</link>
-            <guid isPermaLink="false">1666439104033</guid>
+            <guid isPermaLink="false">1666533672688</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -1267,7 +1267,7 @@
                 <![CDATA[ Game Reviews ]]>
             </title>
             <link>https://screenrant.com/game-reviews/</link>
-            <guid isPermaLink="false">1666439104034</guid>
+            <guid isPermaLink="false">1666533672689</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -1277,7 +1277,7 @@
                 <![CDATA[ See More ]]>
             </title>
             <link>https://screenrant.com/movie-trailers/</link>
-            <guid isPermaLink="false">1666439104035</guid>
+            <guid isPermaLink="false">1666533672690</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -1287,7 +1287,7 @@
                 <![CDATA[ Lists ]]>
             </title>
             <link>https://screenrant.com/lists/</link>
-            <guid isPermaLink="false">1666439104036</guid>
+            <guid isPermaLink="false">1666533672691</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -1297,7 +1297,7 @@
                 <![CDATA[ Podcasts ]]>
             </title>
             <link>https://screenrant.com/podcasts/</link>
-            <guid isPermaLink="false">1666439104037</guid>
+            <guid isPermaLink="false">1666533672692</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -1307,7 +1307,7 @@
                 <![CDATA[ Top Movies ]]>
             </title>
             <link>https://screenrant.com/movies/2022/</link>
-            <guid isPermaLink="false">1666439104038</guid>
+            <guid isPermaLink="false">1666533672693</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -1317,7 +1317,7 @@
                 <![CDATA[ Comics ]]>
             </title>
             <link>https://screenrant.com/comics/</link>
-            <guid isPermaLink="false">1666439104039</guid>
+            <guid isPermaLink="false">1666533672694</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -1327,7 +1327,7 @@
                 <![CDATA[ Horror ]]>
             </title>
             <link>https://screenrant.com/horror/</link>
-            <guid isPermaLink="false">1666439104040</guid>
+            <guid isPermaLink="false">1666533672695</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -1337,7 +1337,7 @@
                 <![CDATA[ Reality TV ]]>
             </title>
             <link>https://screenrant.com/reality-tv/</link>
-            <guid isPermaLink="false">1666439104041</guid>
+            <guid isPermaLink="false">1666533672696</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -1347,7 +1347,7 @@
                 <![CDATA[ WWE ]]>
             </title>
             <link>https://screenrant.com/wwe/</link>
-            <guid isPermaLink="false">1666439104042</guid>
+            <guid isPermaLink="false">1666533672697</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -1357,7 +1357,7 @@
                 <![CDATA[ Anime ]]>
             </title>
             <link>https://screenrant.com/anime/</link>
-            <guid isPermaLink="false">1666439104043</guid>
+            <guid isPermaLink="false">1666533672698</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -1367,7 +1367,7 @@
                 <![CDATA[ Buyer's Guides ]]>
             </title>
             <link>https://screenrant.com/buyers-guides/</link>
-            <guid isPermaLink="false">1666439104044</guid>
+            <guid isPermaLink="false">1666533672699</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -1377,7 +1377,7 @@
                 <![CDATA[ Advertise with Us ]]>
             </title>
             <link>https://screenrant.com/contact/#advertising</link>
-            <guid isPermaLink="false">1666439104045</guid>
+            <guid isPermaLink="false">1666533672700</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -1387,7 +1387,7 @@
                 <![CDATA[ Privacy ]]>
             </title>
             <link>https://screenrant.com/page/privacy-policy/</link>
-            <guid isPermaLink="false">1666439104046</guid>
+            <guid isPermaLink="false">1666533672701</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -1397,7 +1397,7 @@
                 <![CDATA[  ]]>
             </title>
             <link>https://www.youtube.com/user/screenrant?sub_confirmation=1</link>
-            <guid isPermaLink="false">1666439104047</guid>
+            <guid isPermaLink="false">1666533672702</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -1407,7 +1407,7 @@
                 <![CDATA[  ]]>
             </title>
             <link>https://www.facebook.com/screenrant</link>
-            <guid isPermaLink="false">1666439104048</guid>
+            <guid isPermaLink="false">1666533672703</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -1417,7 +1417,7 @@
                 <![CDATA[  ]]>
             </title>
             <link>https://www.instagram.com/screenrant/</link>
-            <guid isPermaLink="false">1666439104049</guid>
+            <guid isPermaLink="false">1666533672704</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -1427,7 +1427,7 @@
                 <![CDATA[  ]]>
             </title>
             <link>https://twitter.com/screenrant</link>
-            <guid isPermaLink="false">1666439104050</guid>
+            <guid isPermaLink="false">1666533672705</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -1437,7 +1437,7 @@
                 <![CDATA[  ]]>
             </title>
             <link>https://www.tiktok.com/@screenrant</link>
-            <guid isPermaLink="false">1666439104051</guid>
+            <guid isPermaLink="false">1666533672706</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -1447,7 +1447,7 @@
                 <![CDATA[  ]]>
             </title>
             <link>https://www.linkedin.com/company/screen-rant/</link>
-            <guid isPermaLink="false">1666439104052</guid>
+            <guid isPermaLink="false">1666533672707</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -1457,7 +1457,7 @@
                 <![CDATA[  ]]>
             </title>
             <link>https://www.pinterest.com/screenrant/</link>
-            <guid isPermaLink="false">1666439104053</guid>
+            <guid isPermaLink="false">1666533672708</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -1467,7 +1467,7 @@
                 <![CDATA[  ]]>
             </title>
             <link>https://discord.gg/8deaagutwb</link>
-            <guid isPermaLink="false">1666439104054</guid>
+            <guid isPermaLink="false">1666533672709</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -1477,7 +1477,7 @@
                 <![CDATA[  ]]>
             </title>
             <link>https://news.google.com/publications/caaqbwgkmj6lgqsw-oh8ag</link>
-            <guid isPermaLink="false">1666439104055</guid>
+            <guid isPermaLink="false">1666533672710</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -1487,7 +1487,7 @@
                 <![CDATA[  ]]>
             </title>
             <link>https://flipboard.com/@screenrant</link>
-            <guid isPermaLink="false">1666439104056</guid>
+            <guid isPermaLink="false">1666533672711</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -1497,7 +1497,7 @@
                 <![CDATA[  ]]>
             </title>
             <link>https://screenrant.com/feed/</link>
-            <guid isPermaLink="false">1666439104057</guid>
+            <guid isPermaLink="false">1666533672712</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -1507,7 +1507,7 @@
                 <![CDATA[  ]]>
             </title>
             <link>https://screenrant.com/newsletter/</link>
-            <guid isPermaLink="false">1666439104058</guid>
+            <guid isPermaLink="false">1666533672713</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -1517,7 +1517,7 @@
                 <![CDATA[ The go-to source for comic book and superhero movie fans. ]]>
             </title>
             <link>https://screenrant.com//cbr.com</link>
-            <guid isPermaLink="false">1666439104059</guid>
+            <guid isPermaLink="false">1666533672714</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -1527,7 +1527,7 @@
                 <![CDATA[ All the latest gaming news, game reviews and trailers. ]]>
             </title>
             <link>https://screenrant.com//gamerant.com</link>
-            <guid isPermaLink="false">1666439104060</guid>
+            <guid isPermaLink="false">1666533672715</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -1537,7 +1537,7 @@
                 <![CDATA[ Movie News, Movie Trailers & upcoming Movie Reviews ]]>
             </title>
             <link>https://screenrant.com//collider.com</link>
-            <guid isPermaLink="false">1666439104061</guid>
+            <guid isPermaLink="false">1666533672716</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -1547,7 +1547,7 @@
                 <![CDATA[ The Leading Source for Gaming News, Reviews, and Interviews ]]>
             </title>
             <link>https://screenrant.com//thegamer.com</link>
-            <guid isPermaLink="false">1666439104062</guid>
+            <guid isPermaLink="false">1666533672717</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -1557,77 +1557,17 @@
                 <![CDATA[  ]]>
             </title>
             <link>https://screenrant.com/feed/comics/</link>
-            <guid isPermaLink="false">1666439104063</guid>
+            <guid isPermaLink="false">1666533672718</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
         </item>
         <item>
             <title>
-                <![CDATA[ DC Finally Gives the Man Who Killed Batman's Parents Superpowers ]]>
+                <![CDATA[ The Death of One 'Evil Superman' Led To the Birth of All Superhero Comics ]]>
             </title>
-            <link>https://screenrant.com/batmans-parents-murderer-joe-chill-gets-superpowers/</link>
-            <guid isPermaLink="false">1666439104064</guid>
-            <dc:creator>
-                <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
-            </dc:creator>
-        </item>
-        <item>
-            <title>
-                <![CDATA[ Joe Anthony Myrick ]]>
-            </title>
-            <link>https://screenrant.com/author/joe-myrick/</link>
-            <guid isPermaLink="false">1666439104065</guid>
-            <dc:creator>
-                <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
-            </dc:creator>
-        </item>
-        <item>
-            <title>
-                <![CDATA[ The Biggest Ways Scarlet Witch Has Changed Since Her First Appearance ]]>
-            </title>
-            <link>https://screenrant.com/marvel-comics-scarlet-witch-changes-x-men-avengers/</link>
-            <guid isPermaLink="false">1666439104066</guid>
-            <dc:creator>
-                <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
-            </dc:creator>
-        </item>
-        <item>
-            <title>
-                <![CDATA[ Spencer Connolly ]]>
-            </title>
-            <link>https://screenrant.com/author/spencer-connolly/</link>
-            <guid isPermaLink="false">1666439104067</guid>
-            <dc:creator>
-                <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
-            </dc:creator>
-        </item>
-        <item>
-            <title>
-                <![CDATA[ The Jedi Officially Allowed Study of the Dark Side (Is It a Plothole?) ]]>
-            </title>
-            <link>https://screenrant.com/star-wars-jedi-dark-side-force-study-barleth/</link>
-            <guid isPermaLink="false">1666439104068</guid>
-            <dc:creator>
-                <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
-            </dc:creator>
-        </item>
-        <item>
-            <title>
-                <![CDATA[ Thomas Bacon ]]>
-            </title>
-            <link>https://screenrant.com/author/thob/</link>
-            <guid isPermaLink="false">1666439104069</guid>
-            <dc:creator>
-                <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
-            </dc:creator>
-        </item>
-        <item>
-            <title>
-                <![CDATA[ How One Batman Villain Beat the Entire Bat-Family Completely By Accident ]]>
-            </title>
-            <link>https://screenrant.com/how-one-batman-villain-beat-batfamily-penguin-failsafe/</link>
-            <guid isPermaLink="false">1666439104070</guid>
+            <link>https://screenrant.com/death-evil-superman-plutonian-foundation-all-superhero-comics/</link>
+            <guid isPermaLink="false">1666533672719</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -1637,57 +1577,17 @@
                 <![CDATA[ Dashiel Reaves ]]>
             </title>
             <link>https://screenrant.com/author/charlie-reaves/</link>
-            <guid isPermaLink="false">1666439104071</guid>
+            <guid isPermaLink="false">1666533672720</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
         </item>
         <item>
             <title>
-                <![CDATA[ Marvel's New Alien Series Highlights A Major Xenomorph Mystery ]]>
+                <![CDATA[ New Rick and Morty Series Turns Morty's Teacher into the New Rick ]]>
             </title>
-            <link>https://screenrant.com/alien-xenomorph-mystery-die-old-age/</link>
-            <guid isPermaLink="false">1666439104072</guid>
-            <dc:creator>
-                <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
-            </dc:creator>
-        </item>
-        <item>
-            <title>
-                <![CDATA[ Frank Martin ]]>
-            </title>
-            <link>https://screenrant.com/author/frank-martin/</link>
-            <guid isPermaLink="false">1666439104073</guid>
-            <dc:creator>
-                <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
-            </dc:creator>
-        </item>
-        <item>
-            <title>
-                <![CDATA[ David Duchovny's First Graphic Novel KEPLER Rewrites Human History (Exclusive Preview) ]]>
-            </title>
-            <link>https://screenrant.com/david-duchovny-graphic-novel-kepler-scifi-alternate-history/</link>
-            <guid isPermaLink="false">1666439104074</guid>
-            <dc:creator>
-                <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
-            </dc:creator>
-        </item>
-        <item>
-            <title>
-                <![CDATA[ Samantha King ]]>
-            </title>
-            <link>https://screenrant.com/author/samantha-king/</link>
-            <guid isPermaLink="false">1666439104075</guid>
-            <dc:creator>
-                <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
-            </dc:creator>
-        </item>
-        <item>
-            <title>
-                <![CDATA[ Ray Bradbury's Classic Comic Stories Return in 'Home To Stay' Collection ]]>
-            </title>
-            <link>https://screenrant.com/ray-bradbury-ec-comic-home-to-stay-collection/</link>
-            <guid isPermaLink="false">1666439104076</guid>
+            <link>https://screenrant.com/rick-and-morty-new-series-goldenfold-comics/</link>
+            <guid isPermaLink="false">1666533672721</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -1697,37 +1597,57 @@
                 <![CDATA[ Andy Davis ]]>
             </title>
             <link>https://screenrant.com/author/andrew-davis/</link>
-            <guid isPermaLink="false">1666439104077</guid>
+            <guid isPermaLink="false">1666533672722</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
         </item>
         <item>
             <title>
-                <![CDATA[ X-Men: Beast's Descent Into Villainy Just Became All Too Real ]]>
+                <![CDATA[ Mace Windu Survived In Star Wars Visions Continuity (& He's Back) ]]>
             </title>
-            <link>https://screenrant.com/xmen-beast-villain-real-life-sexual-misconduct-xforce/</link>
-            <guid isPermaLink="false">1666439104078</guid>
+            <link>https://screenrant.com/mace-windu-survived-star-wars-visions-ronin/</link>
+            <guid isPermaLink="false">1666533672723</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
         </item>
         <item>
             <title>
-                <![CDATA[ Jonathan Jones ]]>
+                <![CDATA[ Kevin Erdmann ]]>
             </title>
-            <link>https://screenrant.com/author/jonathanb-jones/</link>
-            <guid isPermaLink="false">1666439104079</guid>
+            <link>https://screenrant.com/author/kerdm/</link>
+            <guid isPermaLink="false">1666533672724</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
         </item>
         <item>
             <title>
-                <![CDATA[ One Green Lantern Death is So Offensive, Everyone Ignores It ]]>
+                <![CDATA[ Spider-Man Cosplay Proves His Coolest Alt-Costume Deserves a Comeback ]]>
             </title>
-            <link>https://screenrant.com/green-lantern-death-kyle-rayner-mother/</link>
-            <guid isPermaLink="false">1666439104080</guid>
+            <link>https://screenrant.com/spiderman-armor-cosplay-mk-2-game-suit/</link>
+            <guid isPermaLink="false">1666533672725</guid>
+            <dc:creator>
+                <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
+            </dc:creator>
+        </item>
+        <item>
+            <title>
+                <![CDATA[ Spencer Connolly ]]>
+            </title>
+            <link>https://screenrant.com/author/spencer-connolly/</link>
+            <guid isPermaLink="false">1666533672726</guid>
+            <dc:creator>
+                <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
+            </dc:creator>
+        </item>
+        <item>
+            <title>
+                <![CDATA[ The Biggest Ways Red Hood Has Changed Since His First Appearance ]]>
+            </title>
+            <link>https://screenrant.com/biggest-ways-red-hood-changed-since-first-appearance/</link>
+            <guid isPermaLink="false">1666533672727</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -1737,47 +1657,47 @@
                 <![CDATA[ Justin Epps ]]>
             </title>
             <link>https://screenrant.com/author/justin-epps/</link>
-            <guid isPermaLink="false">1666439104081</guid>
+            <guid isPermaLink="false">1666533672728</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
         </item>
         <item>
             <title>
-                <![CDATA[ Star Wars' Separatists Knew Sith Secrets Even Palpatine Didn't ]]>
+                <![CDATA[ Marvel Confirms Daredevil Has Always Been More Than A Street Level Hero ]]>
             </title>
-            <link>https://screenrant.com/star-wars-palpatine-mistake-sith-origin-history/</link>
-            <guid isPermaLink="false">1666439104082</guid>
+            <link>https://screenrant.com/marvel-namor-and-thor-prove-daredevil-cosmic-hero/</link>
+            <guid isPermaLink="false">1666533672729</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
         </item>
         <item>
             <title>
-                <![CDATA[ Boruto Threatening to Become Dragon Ball Z Will Ruin Naruto ]]>
+                <![CDATA[ Iron Man's Celestial Armor Shows How Odin Has Broken His Mind ]]>
             </title>
-            <link>https://screenrant.com/boruto-74-become-dragon-ball-ruin-naruto/</link>
-            <guid isPermaLink="false">1666439104083</guid>
+            <link>https://screenrant.com/iron-man-most-powerful-armor-odin-celestial/</link>
+            <guid isPermaLink="false">1666533672730</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
         </item>
         <item>
             <title>
-                <![CDATA[ Evan Mullicane ]]>
+                <![CDATA[ Grace Del Pizzo ]]>
             </title>
-            <link>https://screenrant.com/author/evan-mullicane/</link>
-            <guid isPermaLink="false">1666439104084</guid>
+            <link>https://screenrant.com/author/grace-delpizzo/</link>
+            <guid isPermaLink="false">1666533672731</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
         </item>
         <item>
             <title>
-                <![CDATA[ Gwen Stacy and Uncle Ben Return From The Dead In The Exact Same Way ]]>
+                <![CDATA[ Iron Man's Latest Story Proves Tony Stark Is The Villain Of His Own Story ]]>
             </title>
-            <link>https://screenrant.com/spider-man-gwen-stacy-uncle-ben-resurrection-marvel/</link>
-            <guid isPermaLink="false">1666439104085</guid>
+            <link>https://screenrant.com/iron-man-latest-proves-tony-stark-villain-marvel/</link>
+            <guid isPermaLink="false">1666533672732</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -1787,87 +1707,77 @@
                 <![CDATA[ Joshua Isaak ]]>
             </title>
             <link>https://screenrant.com/author/josh-shapiro/</link>
-            <guid isPermaLink="false">1666439104086</guid>
+            <guid isPermaLink="false">1666533672733</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
         </item>
         <item>
             <title>
-                <![CDATA[ Superman’s Warworld Saga Has a Brilliant Reference To His First Comic ]]>
+                <![CDATA[ Dracula is Marvel's Version of Darth Vader ]]>
             </title>
-            <link>https://screenrant.com/superman-warworld-saga-reference-action-comics-nycc/</link>
-            <guid isPermaLink="false">1666439104087</guid>
+            <link>https://screenrant.com/dracula-is-marvels-version-of-darth-vader/</link>
+            <guid isPermaLink="false">1666533672734</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
         </item>
         <item>
             <title>
-                <![CDATA[ Kate O'Donoghue ]]>
+                <![CDATA[ Shaun Corley ]]>
             </title>
-            <link>https://screenrant.com/author/kate-odonoghue/</link>
-            <guid isPermaLink="false">1666439104088</guid>
+            <link>https://screenrant.com/author/shaun-corley/</link>
+            <guid isPermaLink="false">1666533672735</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
         </item>
         <item>
             <title>
-                <![CDATA[ One Piece's Dr. Vegapunk Is NOTHING Like Fans Imagined ]]>
+                <![CDATA[ Marvel's Hulkling & Wiccan Romance Sequel Gets November Release Date ]]>
             </title>
-            <link>https://screenrant.com/one-piece-vegapunk-reveal-nothing-like-fans-imagine/</link>
-            <guid isPermaLink="false">1666439104089</guid>
+            <link>https://screenrant.com/marvel-hulkling-wiccan-romance-sequel-possibilities-release-date/</link>
+            <guid isPermaLink="false">1666533672736</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
         </item>
         <item>
             <title>
-                <![CDATA[ Sebastian Baksh ]]>
+                <![CDATA[ Alex Schlesinger ]]>
             </title>
-            <link>https://screenrant.com/author/sebastian-baksh/</link>
-            <guid isPermaLink="false">1666439104090</guid>
+            <link>https://screenrant.com/author/alex-schlesinger/</link>
+            <guid isPermaLink="false">1666533672737</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
         </item>
         <item>
             <title>
-                <![CDATA[ Marvel's Scariest Hero Is The Last One You'd Expect ]]>
+                <![CDATA[ Superman's Daily Routine Shows He'd Be A Hero Even Without Powers ]]>
             </title>
-            <link>https://screenrant.com/marvel-scariest-hero-is-fantastic-four-sue-storm/</link>
-            <guid isPermaLink="false">1666439104091</guid>
+            <link>https://screenrant.com/supermans-daily-routine-shows-hero-without-powers/</link>
+            <guid isPermaLink="false">1666533672738</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
         </item>
         <item>
             <title>
-                <![CDATA[ Nightwing's Marvel Equivalent Destroyed Him When They Fought ]]>
+                <![CDATA[ Avi Gibson ]]>
             </title>
-            <link>https://screenrant.com/dc-vs-marvel-nightwing-loses-fight-xmen/</link>
-            <guid isPermaLink="false">1666439104092</guid>
+            <link>https://screenrant.com/author/avi-gibson/</link>
+            <guid isPermaLink="false">1666533672739</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
         </item>
         <item>
             <title>
-                <![CDATA[ Tristan Benns ]]>
+                <![CDATA[ The Avengers Most Dangerous Threat Just Made The Hulk Weak ]]>
             </title>
-            <link>https://screenrant.com/author/tristan-benns/</link>
-            <guid isPermaLink="false">1666439104093</guid>
-            <dc:creator>
-                <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
-            </dc:creator>
-        </item>
-        <item>
-            <title>
-                <![CDATA[ Iron Man’s Most Dangerous Armor Is His Biggest Mistake Yet ]]>
-            </title>
-            <link>https://screenrant.com/iron-man-celestial-armor-dangerous-biggest-mistake-marvel/</link>
-            <guid isPermaLink="false">1666439104094</guid>
+            <link>https://screenrant.com/avengers-hulk-mech-strike-weak-fight-powers-doom/</link>
+            <guid isPermaLink="false">1666533672740</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -1877,57 +1787,117 @@
                 <![CDATA[ Liam McGuire ]]>
             </title>
             <link>https://screenrant.com/author/lmcgu/</link>
-            <guid isPermaLink="false">1666439104095</guid>
+            <guid isPermaLink="false">1666533672741</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
         </item>
         <item>
             <title>
-                <![CDATA[ One-Punch Man Creator ONE Launches New Shonen Fantasy Series ]]>
+                <![CDATA[ Interview: Batman/Spawn with Todd McFarlane and Greg Capullo ]]>
             </title>
-            <link>https://screenrant.com/one-punch-man-new-series-versus/</link>
-            <guid isPermaLink="false">1666439104096</guid>
+            <link>https://screenrant.com/interview-batman-spawn-with-todd-mcfarlane-greg-capullo-crossover/</link>
+            <guid isPermaLink="false">1666533672742</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
         </item>
         <item>
             <title>
-                <![CDATA[ Carlyle Edmundson ]]>
+                <![CDATA[ Jules Chin Greene ]]>
             </title>
-            <link>https://screenrant.com/author/william-edmundson/</link>
-            <guid isPermaLink="false">1666439104097</guid>
+            <link>https://screenrant.com/author/juliette-greene/</link>
+            <guid isPermaLink="false">1666533672743</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
         </item>
         <item>
             <title>
-                <![CDATA[ Signal Cosplay Proves the DCEU Needs Batman's Superpowered Sidekick ]]>
+                <![CDATA[ Stan Lee's Wildest Cameo Makes Him the Actual Leader of a Superteam ]]>
             </title>
-            <link>https://screenrant.com/signal-duke-thomas-cosplay-dceu-batmans-superpowered-sidekick/</link>
-            <guid isPermaLink="false">1666439104098</guid>
+            <link>https://screenrant.com/stan-lee-wildest-cameo-leader-superteam-mighty-7/</link>
+            <guid isPermaLink="false">1666533672744</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
         </item>
         <item>
             <title>
-                <![CDATA[ Brian Colucci ]]>
+                <![CDATA[ The Orville's One Forbidden Weapon Could Win Every War For The Union ]]>
             </title>
-            <link>https://screenrant.com/author/brian-colucci/</link>
-            <guid isPermaLink="false">1666439104099</guid>
+            <link>https://screenrant.com/orville-deadliest-weapon-warp-drive-union-war/</link>
+            <guid isPermaLink="false">1666533672745</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
         </item>
         <item>
             <title>
-                <![CDATA[ Jojo's Bizarre Adventure Proved Rohan Was Never a Bad Guy With One Moment ]]>
+                <![CDATA[ Kraven The Hunter Finally Finds Prey Worthier Than Spider-Man ]]>
             </title>
-            <link>https://screenrant.com/jojos-bizarre-adventure-rohan-not-bad-guy-prove/</link>
-            <guid isPermaLink="false">1666439104100</guid>
+            <link>https://screenrant.com/kraven-hunter-hunting-wolverine-not-spider-man/</link>
+            <guid isPermaLink="false">1666533672746</guid>
+            <dc:creator>
+                <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
+            </dc:creator>
+        </item>
+        <item>
+            <title>
+                <![CDATA[ Green Lantern: How Hal Jordan Accidentally Created The Yellow Lanterns ]]>
+            </title>
+            <link>https://screenrant.com/green-lantern-created-yellow-sinestro-corps/</link>
+            <guid isPermaLink="false">1666533672747</guid>
+            <dc:creator>
+                <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
+            </dc:creator>
+        </item>
+        <item>
+            <title>
+                <![CDATA[ Even Loki Respects the X-Men's Most Powerful Magic-User ]]>
+            </title>
+            <link>https://screenrant.com/even-loki-xmen-most-powerful-magic-user-magik/</link>
+            <guid isPermaLink="false">1666533672748</guid>
+            <dc:creator>
+                <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
+            </dc:creator>
+        </item>
+        <item>
+            <title>
+                <![CDATA[ Jonathan Jones ]]>
+            </title>
+            <link>https://screenrant.com/author/jonathanb-jones/</link>
+            <guid isPermaLink="false">1666533672749</guid>
+            <dc:creator>
+                <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
+            </dc:creator>
+        </item>
+        <item>
+            <title>
+                <![CDATA[ One Piece Confirms Its Most Overpowered Pirate's Major Weakness ]]>
+            </title>
+            <link>https://screenrant.com/one-piece-1063-law-pirates-crew-major-weakness/</link>
+            <guid isPermaLink="false">1666533672750</guid>
+            <dc:creator>
+                <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
+            </dc:creator>
+        </item>
+        <item>
+            <title>
+                <![CDATA[ Francesco Cacciatore ]]>
+            </title>
+            <link>https://screenrant.com/author/francesco-cacciatore/</link>
+            <guid isPermaLink="false">1666533672751</guid>
+            <dc:creator>
+                <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
+            </dc:creator>
+        </item>
+        <item>
+            <title>
+                <![CDATA[ Daredevil's Costume is Secretly More Powerful Than Nolan's Batman ]]>
+            </title>
+            <link>https://screenrant.com/daredevil-costume-secretly-makes-him-better-than-batman/</link>
+            <guid isPermaLink="false">1666533672752</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -1937,67 +1907,97 @@
                 <![CDATA[ Show More ]]>
             </title>
             <link>https://screenrant.com/comics/2/</link>
-            <guid isPermaLink="false">1666439104101</guid>
+            <guid isPermaLink="false">1666533672753</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
         </item>
         <item>
             <title>
-                <![CDATA[ 90 Day Fiancé: Natalie's Most-Mocked 'Villain' Photos After Weight Loss ]]>
+                <![CDATA[ 90 Day Fiancé: What Job Robert Springs Does For A Living In 2022 ]]>
             </title>
-            <link>https://screenrant.com/90-day-fiance-natalie-villain-photos-weight-loss/</link>
-            <guid isPermaLink="false">1666439104102</guid>
+            <link>https://screenrant.com/90-day-fiance-job-robert-springs-living-2022/</link>
+            <guid isPermaLink="false">1666533672754</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
         </item>
         <item>
             <title>
-                <![CDATA[ 10 Terrifying Horror Movies About Being Lost In The Woods ]]>
+                <![CDATA[ Is The Batman Starting Its Own Shared Universe? Your Questions Answered ]]>
             </title>
-            <link>https://screenrant.com/terrifying-horror-movies-about-being-lost-in-woods/</link>
-            <guid isPermaLink="false">1666439104103</guid>
+            <link>https://screenrant.com/the-batman-shared-universe-plans-questions-answers/</link>
+            <guid isPermaLink="false">1666533672755</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
         </item>
         <item>
             <title>
-                <![CDATA[ One Piece's Next Yonko Should Be a Classic Series Villain ]]>
+                <![CDATA[ How To Make The Apple Watch Series 7 Battery Last Longer ]]>
             </title>
-            <link>https://screenrant.com/one-piece-next-yonko-classic-villain-dracule-mihawk/</link>
-            <guid isPermaLink="false">1666439104104</guid>
+            <link>https://screenrant.com/apple-watch-series7-extend-battery-life-how/</link>
+            <guid isPermaLink="false">1666533672756</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
         </item>
         <item>
             <title>
-                <![CDATA[ Why The Family Chantel Star Chantel Finally Turned Her IG Comments Back On ]]>
+                <![CDATA[ What Job 90 Day Fiancé's Angela Deem Does For A Living In 2022 ]]>
             </title>
-            <link>https://screenrant.com/family-chantel-jimeno-turned-instagram-comments-back-on/</link>
-            <guid isPermaLink="false">1666439104105</guid>
+            <link>https://screenrant.com/job-90-day-fiance-angela-deem-living-2022/</link>
+            <guid isPermaLink="false">1666533672757</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
         </item>
         <item>
             <title>
-                <![CDATA[ 10 Harry Potter Memes That Perfectly Sum Up Dumbledore & Voldemort's Rivalry ]]>
+                <![CDATA[ Jackman's Return Makes The MCU's Best Wolverine Possible (It's Not Him!) ]]>
             </title>
-            <link>https://screenrant.com/10-harry-potter-memes-that-perfectly-sum-up-dumbledore-voldemorts-rivalry/</link>
-            <guid isPermaLink="false">1666439104106</guid>
+            <link>https://screenrant.com/hugh-jackman-wolverine-return-deadpool-3-dafne-keen-x23/</link>
+            <guid isPermaLink="false">1666533672758</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
         </item>
         <item>
             <title>
-                <![CDATA[ Every Justin Long Horror Movie Ranked, Worst To Best ]]>
+                <![CDATA[ Batman Officially Confirms the Only Villain He Wants to Befriend ]]>
             </title>
-            <link>https://screenrant.com/justin-long-horror-movies-ranked-worst-best/</link>
-            <guid isPermaLink="false">1666439104107</guid>
+            <link>https://screenrant.com/batman-confirms-only-villain-friend-two-face-one-bad-day/</link>
+            <guid isPermaLink="false">1666533672759</guid>
+            <dc:creator>
+                <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
+            </dc:creator>
+        </item>
+        <item>
+            <title>
+                <![CDATA[ Decision To Leave Review: Drama Boasts Enthralling Lead Performances [Middleburg] ]]>
+            </title>
+            <link>https://screenrant.com/decision-to-leave-2022-movie-reviews/</link>
+            <guid isPermaLink="false">1666533672760</guid>
+            <dc:creator>
+                <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
+            </dc:creator>
+        </item>
+        <item>
+            <title>
+                <![CDATA[ Lady Chatterley's Lover Review: Leads Sizzle In Magnetic Romance [Middleburg] ]]>
+            </title>
+            <link>https://screenrant.com/lady-chatterleys-lover-2022-movie-reviews/</link>
+            <guid isPermaLink="false">1666533672761</guid>
+            <dc:creator>
+                <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
+            </dc:creator>
+        </item>
+        <item>
+            <title>
+                <![CDATA[ The Son Review: Florian Zeller's Drama Lacks Depth & Sincerity [Middleburg] ]]>
+            </title>
+            <link>https://screenrant.com/the-son-2022-movie-reviews/</link>
+            <guid isPermaLink="false">1666533672762</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -2007,7 +2007,7 @@
                 <![CDATA[ Living Review: Bill Nighy Gets Vulnerable In Touching Adaptation [Middleburg] ]]>
             </title>
             <link>https://screenrant.com/living-2022-movie-reviews/</link>
-            <guid isPermaLink="false">1666439104108</guid>
+            <guid isPermaLink="false">1666533672763</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -2017,7 +2017,7 @@
                 <![CDATA[ White Noise Review: Noah Baumbach's Latest Is Messy, Tedious Drama [Middleburg] ]]>
             </title>
             <link>https://screenrant.com/white-noise-2022-movie-reviews/</link>
-            <guid isPermaLink="false">1666439104109</guid>
+            <guid isPermaLink="false">1666533672764</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -2027,37 +2027,7 @@
                 <![CDATA[ Argentina, 1985 Review: Gripping Legal Drama Succeeds On All Fronts ]]>
             </title>
             <link>https://screenrant.com/argentina-1985-2022-movie-reviews/</link>
-            <guid isPermaLink="false">1666439104110</guid>
-            <dc:creator>
-                <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
-            </dc:creator>
-        </item>
-        <item>
-            <title>
-                <![CDATA[ Ticket To Paradise Review: Roberts & Clooney Charm In Enjoyably Mediocre Rom-Com ]]>
-            </title>
-            <link>https://screenrant.com/ticket-to-paradise-2022-movie-reviews/</link>
-            <guid isPermaLink="false">1666439104111</guid>
-            <dc:creator>
-                <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
-            </dc:creator>
-        </item>
-        <item>
-            <title>
-                <![CDATA[ The School For Good & Evil Review: A Delightful & Heartfelt Twist On Fairy Tales ]]>
-            </title>
-            <link>https://screenrant.com/the-school-for-good-and-evil-2022-movie-reviews/</link>
-            <guid isPermaLink="false">1666439104112</guid>
-            <dc:creator>
-                <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
-            </dc:creator>
-        </item>
-        <item>
-            <title>
-                <![CDATA[ The Stranger Review: An Effective Psychological Crime Thriller ]]>
-            </title>
-            <link>https://screenrant.com/the-stranger-2022-movie-reviews/</link>
-            <guid isPermaLink="false">1666439104113</guid>
+            <guid isPermaLink="false">1666533672765</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -2067,7 +2037,7 @@
                 <![CDATA[ Missing Trailer Reveals Powerful Mystery From Shinzô Katayama [EXCLUSIVE] ]]>
             </title>
             <link>https://screenrant.com/missing-trailer-director-shinzo-katayama-exclusive/</link>
-            <guid isPermaLink="false">1666439104114</guid>
+            <guid isPermaLink="false">1666533672766</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -2077,7 +2047,7 @@
                 <![CDATA[ All Quiet On The Western Front Trailer Reveals Netflix's Brutal WW1 Movie ]]>
             </title>
             <link>https://screenrant.com/all-quiet-western-front-movie-trailer-video/</link>
-            <guid isPermaLink="false">1666439104115</guid>
+            <guid isPermaLink="false">1666533672767</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -2087,7 +2057,7 @@
                 <![CDATA[ Morgan Freeman Investigates Murder In The Minute You Wake Up Dead Trailer ]]>
             </title>
             <link>https://screenrant.com/the-minute-you-wake-up-dead-morgan-freeman-trailer/</link>
-            <guid isPermaLink="false">1666439104116</guid>
+            <guid isPermaLink="false">1666533672768</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -2097,7 +2067,7 @@
                 <![CDATA[ Creed 3 Trailer Pits Michael B. Jordan Against Jonathan Majors' Villain ]]>
             </title>
             <link>https://screenrant.com/creed-3-movie-trailer-video/</link>
-            <guid isPermaLink="false">1666439104117</guid>
+            <guid isPermaLink="false">1666533672769</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -2107,7 +2077,7 @@
                 <![CDATA[ A Christmas Story Christmas Trailer Reveals First Look At Older Ralphie ]]>
             </title>
             <link>https://screenrant.com/christmas-story-2-sequel-movie-trailer-video/</link>
-            <guid isPermaLink="false">1666439104118</guid>
+            <guid isPermaLink="false">1666533672770</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -2117,37 +2087,37 @@
                 <![CDATA[ Matilda The Musical Trailer Reveals New Look At Classic Matilda Scenes ]]>
             </title>
             <link>https://screenrant.com/matilda-musical-movie-trailer-video-netflix/</link>
-            <guid isPermaLink="false">1666439104119</guid>
+            <guid isPermaLink="false">1666533672771</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
         </item>
         <item>
             <title>
-                <![CDATA[ 90 Day Fiance: Why Miona Bell's Hair Has Created So Much Controversy ]]>
+                <![CDATA[ Are Natalie & Josh Still Together After 90 Day: The Single Life Season 3? ]]>
             </title>
-            <link>https://screenrant.com/90-day-fiance-miona-hair-controversy-makeover-blackfishing/</link>
-            <guid isPermaLink="false">1666439104120</guid>
+            <link>https://screenrant.com/natalie-josh-still-together-90-day-single-life/</link>
+            <guid isPermaLink="false">1666533672772</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
         </item>
         <item>
             <title>
-                <![CDATA[ Why Fans Think Welcome To Plathville's Kim Plath Has A New Man ]]>
+                <![CDATA[ 90 Day Fiancé: Big Ed’s Rare Full-Body Weight Loss Transformation Photos ]]>
             </title>
-            <link>https://screenrant.com/fans-think-welcome-plathville-kim-plath-new-man/</link>
-            <guid isPermaLink="false">1666439104121</guid>
+            <link>https://screenrant.com/90-day-big-ed-weight-loss-transformation-photos/</link>
+            <guid isPermaLink="false">1666533672773</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
         </item>
         <item>
             <title>
-                <![CDATA[ Every James Bond Actor, Ranked By Average Box Office Earnings ]]>
+                <![CDATA[ Star Trek's Other Nexus is Actually TNG's Version of Purgatory ]]>
             </title>
-            <link>https://screenrant.com/james-bond-actors-ranked-average-box-office-earnings/</link>
-            <guid isPermaLink="false">1666439104122</guid>
+            <link>https://screenrant.com/star-trek-next-generation-ghosts-nexus-purgatory/</link>
+            <guid isPermaLink="false">1666533672774</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -2157,7 +2127,7 @@
                 <![CDATA[ Comics News ]]>
             </title>
             <link>undefined</link>
-            <guid isPermaLink="false">1666439104123</guid>
+            <guid isPermaLink="false">1666533672775</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -2167,7 +2137,7 @@
                 <![CDATA[ Write For Us ]]>
             </title>
             <link>https://screenrant.com/contributor/</link>
-            <guid isPermaLink="false">1666439104124</guid>
+            <guid isPermaLink="false">1666533672776</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -2177,7 +2147,7 @@
                 <![CDATA[ Contact Us ]]>
             </title>
             <link>https://screenrant.com/contact/</link>
-            <guid isPermaLink="false">1666439104125</guid>
+            <guid isPermaLink="false">1666533672777</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -2187,7 +2157,7 @@
                 <![CDATA[ Terms ]]>
             </title>
             <link>https://screenrant.com/page/terms-of-use/</link>
-            <guid isPermaLink="false">1666439104126</guid>
+            <guid isPermaLink="false">1666533672778</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -2197,7 +2167,7 @@
                 <![CDATA[ Copyright ]]>
             </title>
             <link>https://screenrant.com/page/dmca-take-down-policy/</link>
-            <guid isPermaLink="false">1666439104127</guid>
+            <guid isPermaLink="false">1666533672779</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -2207,7 +2177,7 @@
                 <![CDATA[ About Us ]]>
             </title>
             <link>https://screenrant.com/page/about/</link>
-            <guid isPermaLink="false">1666439104128</guid>
+            <guid isPermaLink="false">1666533672780</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -2217,7 +2187,7 @@
                 <![CDATA[ Press Kit ]]>
             </title>
             <link>https://screenrant.com/page/press-kit/</link>
-            <guid isPermaLink="false">1666439104129</guid>
+            <guid isPermaLink="false">1666533672781</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -2227,7 +2197,7 @@
                 <![CDATA[ Fact Checking Policy ]]>
             </title>
             <link>https://screenrant.com/page/fact-checking-policy/</link>
-            <guid isPermaLink="false">1666439104130</guid>
+            <guid isPermaLink="false">1666533672782</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -2237,7 +2207,7 @@
                 <![CDATA[ Corrections Policy ]]>
             </title>
             <link>https://screenrant.com/page/corrections-policy/</link>
-            <guid isPermaLink="false">1666439104131</guid>
+            <guid isPermaLink="false">1666533672783</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -2247,7 +2217,7 @@
                 <![CDATA[ Ethics Policy ]]>
             </title>
             <link>https://screenrant.com/page/ethics-policy/</link>
-            <guid isPermaLink="false">1666439104132</guid>
+            <guid isPermaLink="false">1666533672784</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -2257,7 +2227,7 @@
                 <![CDATA[ Ownership Policy ]]>
             </title>
             <link>https://screenrant.com/page/ownership-funding-advertising-policy/</link>
-            <guid isPermaLink="false">1666439104133</guid>
+            <guid isPermaLink="false">1666533672785</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -2267,7 +2237,7 @@
                 <![CDATA[ Skip to main content area ]]>
             </title>
             <link>https://www.denofgeek.com#main</link>
-            <guid isPermaLink="false">1666439104134</guid>
+            <guid isPermaLink="false">1666533672786</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -2277,7 +2247,7 @@
                 <![CDATA[ Menu ]]>
             </title>
             <link>https://www.denofgeek.com#nav-primary__wrapper</link>
-            <guid isPermaLink="false">1666439104135</guid>
+            <guid isPermaLink="false">1666533672787</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -2287,7 +2257,7 @@
                 <![CDATA[ Subscribe Today! ]]>
             </title>
             <link>https://www.denofgeek.com/newsletter/</link>
-            <guid isPermaLink="false">1666439104136</guid>
+            <guid isPermaLink="false">1666533672788</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -2297,7 +2267,7 @@
                 <![CDATA[ Home ]]>
             </title>
             <link>https://www.denofgeek.com/</link>
-            <guid isPermaLink="false">1666439104137</guid>
+            <guid isPermaLink="false">1666533672789</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -2307,7 +2277,7 @@
                 <![CDATA[ Facebook ]]>
             </title>
             <link>https://www.facebook.com/denofgeekus</link>
-            <guid isPermaLink="false">1666439104138</guid>
+            <guid isPermaLink="false">1666533672790</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -2317,7 +2287,7 @@
                 <![CDATA[ Twitter ]]>
             </title>
             <link>https://twitter.com/denofgeekus</link>
-            <guid isPermaLink="false">1666439104139</guid>
+            <guid isPermaLink="false">1666533672791</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -2327,7 +2297,7 @@
                 <![CDATA[ Instagram ]]>
             </title>
             <link>https://www.instagram.com/denofgeek/</link>
-            <guid isPermaLink="false">1666439104140</guid>
+            <guid isPermaLink="false">1666533672792</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -2337,7 +2307,7 @@
                 <![CDATA[ Youtube ]]>
             </title>
             <link>https://www.youtube.com/user/denofgeektube</link>
-            <guid isPermaLink="false">1666439104141</guid>
+            <guid isPermaLink="false">1666533672793</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -2347,7 +2317,7 @@
                 <![CDATA[ Twitch ]]>
             </title>
             <link>https://www.twitch.tv/denofgeektv</link>
-            <guid isPermaLink="false">1666439104142</guid>
+            <guid isPermaLink="false">1666533672794</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -2357,7 +2327,7 @@
                 <![CDATA[ TikTok ]]>
             </title>
             <link>https://www.tiktok.com/@denofgeektv?lang=en</link>
-            <guid isPermaLink="false">1666439104143</guid>
+            <guid isPermaLink="false">1666533672795</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -2367,7 +2337,7 @@
                 <![CDATA[ Horror ]]>
             </title>
             <link>http://www.denofgeek.com/horror</link>
-            <guid isPermaLink="false">1666439104144</guid>
+            <guid isPermaLink="false">1666533672796</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -2377,7 +2347,7 @@
                 <![CDATA[ Movies ]]>
             </title>
             <link>https://www.denofgeek.com/movies/</link>
-            <guid isPermaLink="false">1666439104145</guid>
+            <guid isPermaLink="false">1666533672797</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -2387,7 +2357,7 @@
                 <![CDATA[ TV ]]>
             </title>
             <link>https://www.denofgeek.com/tv/</link>
-            <guid isPermaLink="false">1666439104146</guid>
+            <guid isPermaLink="false">1666533672798</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -2397,7 +2367,7 @@
                 <![CDATA[ Games ]]>
             </title>
             <link>https://www.denofgeek.com/games/</link>
-            <guid isPermaLink="false">1666439104147</guid>
+            <guid isPermaLink="false">1666533672799</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -2407,7 +2377,7 @@
                 <![CDATA[ Books ]]>
             </title>
             <link>https://www.denofgeek.com/books/</link>
-            <guid isPermaLink="false">1666439104148</guid>
+            <guid isPermaLink="false">1666533672800</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -2417,7 +2387,7 @@
                 <![CDATA[ Everything ]]>
             </title>
             <link>https://www.denofgeek.com/comics/</link>
-            <guid isPermaLink="false">1666439104149</guid>
+            <guid isPermaLink="false">1666533672801</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -2427,7 +2397,7 @@
                 <![CDATA[ Culture ]]>
             </title>
             <link>https://www.denofgeek.com/culture/</link>
-            <guid isPermaLink="false">1666439104150</guid>
+            <guid isPermaLink="false">1666533672802</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -2437,7 +2407,7 @@
                 <![CDATA[ Video ]]>
             </title>
             <link>https://www.denofgeek.com/video/</link>
-            <guid isPermaLink="false">1666439104151</guid>
+            <guid isPermaLink="false">1666533672803</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -2447,7 +2417,7 @@
                 <![CDATA[ Shopping ]]>
             </title>
             <link>https://www.denofgeek.com/shopping/</link>
-            <guid isPermaLink="false">1666439104152</guid>
+            <guid isPermaLink="false">1666533672804</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -2457,7 +2427,7 @@
                 <![CDATA[ Magazine ]]>
             </title>
             <link>https://www.denofgeek.com/magazine/</link>
-            <guid isPermaLink="false">1666439104153</guid>
+            <guid isPermaLink="false">1666533672805</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -2467,7 +2437,7 @@
                 <![CDATA[ Features ]]>
             </title>
             <link>https://www.denofgeek.com/comics/features/</link>
-            <guid isPermaLink="false">1666439104154</guid>
+            <guid isPermaLink="false">1666533672806</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -2477,7 +2447,7 @@
                 <![CDATA[ News ]]>
             </title>
             <link>https://www.denofgeek.com/comics/news/</link>
-            <guid isPermaLink="false">1666439104155</guid>
+            <guid isPermaLink="false">1666533672807</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -2487,7 +2457,7 @@
                 <![CDATA[ Reviews ]]>
             </title>
             <link>https://www.denofgeek.com/comics/reviews/</link>
-            <guid isPermaLink="false">1666439104156</guid>
+            <guid isPermaLink="false">1666533672808</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -2497,7 +2467,7 @@
                 <![CDATA[ Riddler: Year One - How Paul Dano Created a New Origin Story for His Batman Character ]]>
             </title>
             <link>https://www.denofgeek.com/comics/riddler-year-one-how-paul-dano-created-a-new-origin-story-for-his-batman-character/</link>
-            <guid isPermaLink="false">1666439104157</guid>
+            <guid isPermaLink="false">1666533672809</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -2507,7 +2477,7 @@
                 <![CDATA[ Features ]]>
             </title>
             <link>https://www.denofgeek.com/features/</link>
-            <guid isPermaLink="false">1666439104158</guid>
+            <guid isPermaLink="false">1666533672810</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -2517,7 +2487,7 @@
                 <![CDATA[ Mike Cecchini ]]>
             </title>
             <link>https://www.denofgeek.com/author/mike-cecchini/</link>
-            <guid isPermaLink="false">1666439104159</guid>
+            <guid isPermaLink="false">1666533672811</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -2527,7 +2497,7 @@
                 <![CDATA[ The Best New Horror Comics in October 2022: Werewolf by Night, Creepshow, Dracula, and More! ]]>
             </title>
             <link>https://www.denofgeek.com/comics/best-new-horror-comics-october-2022-werewolf-by-night-creepshow-dracula-more/</link>
-            <guid isPermaLink="false">1666439104160</guid>
+            <guid isPermaLink="false">1666533672812</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -2537,7 +2507,7 @@
                 <![CDATA[ John Constantine Explores Teenage Chaos Magic in New DC Project ]]>
             </title>
             <link>https://www.denofgeek.com/comics/john-constantine-explores-teenage-magic-in-new-dc-project/</link>
-            <guid isPermaLink="false">1666439104161</guid>
+            <guid isPermaLink="false">1666533672813</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -2547,7 +2517,7 @@
                 <![CDATA[ Rosie Knight ]]>
             </title>
             <link>https://www.denofgeek.com/author/rosie-knight/</link>
-            <guid isPermaLink="false">1666439104162</guid>
+            <guid isPermaLink="false">1666533672814</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -2557,7 +2527,7 @@
                 <![CDATA[ Why Are Marvel Fans So Obsessed with Mephisto? ]]>
             </title>
             <link>https://www.denofgeek.com/tv/why-are-marvel-fans-so-obsessed-with-mephisto/</link>
-            <guid isPermaLink="false">1666439104163</guid>
+            <guid isPermaLink="false">1666533672815</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -2567,7 +2537,7 @@
                 <![CDATA[ George Chrysostomou ]]>
             </title>
             <link>https://www.denofgeek.com/author/george-chrysostomou/</link>
-            <guid isPermaLink="false">1666439104164</guid>
+            <guid isPermaLink="false">1666533672816</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -2577,7 +2547,7 @@
                 <![CDATA[ Who Is Black Adam And What Are His Powers And Weaknesses? ]]>
             </title>
             <link>https://www.denofgeek.com/movies/shazam-who-is-black-adam/</link>
-            <guid isPermaLink="false">1666439104165</guid>
+            <guid isPermaLink="false">1666533672817</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -2587,7 +2557,7 @@
                 <![CDATA[ How Teen Titans: Robin Came to Feature Two Boy Wonders ]]>
             </title>
             <link>https://www.denofgeek.com/comics/how-teen-titans-robin-came-to-feature-two-boy-wonders/</link>
-            <guid isPermaLink="false">1666439104166</guid>
+            <guid isPermaLink="false">1666533672818</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -2597,7 +2567,7 @@
                 <![CDATA[ Werewolf by Night Star Keen to Stay in the MCU ]]>
             </title>
             <link>https://www.denofgeek.com/tv/werewolf-by-night-laura-donnelly-wants-to-stay-in-mcu/</link>
-            <guid isPermaLink="false">1666439104167</guid>
+            <guid isPermaLink="false">1666533672819</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -2607,7 +2577,7 @@
                 <![CDATA[ Don Kaye ]]>
             </title>
             <link>https://www.denofgeek.com/author/don-kaye/</link>
-            <guid isPermaLink="false">1666439104168</guid>
+            <guid isPermaLink="false">1666533672820</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -2617,7 +2587,7 @@
                 <![CDATA[ Werewolf By Night: The Dark History of the Bloodstones ]]>
             </title>
             <link>https://www.denofgeek.com/tv/werewolf-by-night-the-dark-history-of-the-bloodstones/</link>
-            <guid isPermaLink="false">1666439104169</guid>
+            <guid isPermaLink="false">1666533672821</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -2627,7 +2597,7 @@
                 <![CDATA[ Joe George ]]>
             </title>
             <link>https://www.denofgeek.com/author/joe-george/</link>
-            <guid isPermaLink="false">1666439104170</guid>
+            <guid isPermaLink="false">1666533672822</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -2637,7 +2607,7 @@
                 <![CDATA[ Batman Spawn: The Comic Book Crossover Years in the Making ]]>
             </title>
             <link>https://www.denofgeek.com/comics/batman-spawn-the-comic-book-crossover-years-in-the-making/</link>
-            <guid isPermaLink="false">1666439104171</guid>
+            <guid isPermaLink="false">1666533672823</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -2647,7 +2617,7 @@
                 <![CDATA[ Jim Dandeneau ]]>
             </title>
             <link>https://www.denofgeek.com/author/jim-dandy/</link>
-            <guid isPermaLink="false">1666439104172</guid>
+            <guid isPermaLink="false">1666533672824</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -2657,7 +2627,7 @@
                 <![CDATA[ Werewolf by Night and Hellraiser Lead New Den of Geek Magazine ]]>
             </title>
             <link>https://www.denofgeek.com/movies/werewolf-by-night-hellraiser-lead-new-magazine/</link>
-            <guid isPermaLink="false">1666439104173</guid>
+            <guid isPermaLink="false">1666533672825</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -2667,7 +2637,7 @@
                 <![CDATA[ News ]]>
             </title>
             <link>https://www.denofgeek.com/news/</link>
-            <guid isPermaLink="false">1666439104174</guid>
+            <guid isPermaLink="false">1666533672826</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -2677,7 +2647,7 @@
                 <![CDATA[ Den of Geek Staff ]]>
             </title>
             <link>https://www.denofgeek.com/author/den-of-geek-staff/</link>
-            <guid isPermaLink="false">1666439104175</guid>
+            <guid isPermaLink="false">1666533672827</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -2687,7 +2657,7 @@
                 <![CDATA[ Back to Smallville: A New Superman Origin Story Targets a Younger Audience ]]>
             </title>
             <link>https://www.denofgeek.com/comics/back-to-smallville-new-superman-origin-story-targets-younger-audience/</link>
-            <guid isPermaLink="false">1666439104176</guid>
+            <guid isPermaLink="false">1666533672828</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -2697,7 +2667,7 @@
                 <![CDATA[ The Sandman Review: One of the Best Comic Adaptations Ever ]]>
             </title>
             <link>https://www.denofgeek.com/tv/the-sandman-review-one-of-the-best-comic-adaptations-ever/</link>
-            <guid isPermaLink="false">1666439104177</guid>
+            <guid isPermaLink="false">1666533672829</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -2707,7 +2677,7 @@
                 <![CDATA[ Paper Girls Review: Prime Video Adaptation Delivers ]]>
             </title>
             <link>https://www.denofgeek.com/tv/paper-girls-review-prime-video/</link>
-            <guid isPermaLink="false">1666439104178</guid>
+            <guid isPermaLink="false">1666533672830</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -2717,7 +2687,7 @@
                 <![CDATA[ Chris Cummins ]]>
             </title>
             <link>https://www.denofgeek.com/author/chris-cummins/</link>
-            <guid isPermaLink="false">1666439104179</guid>
+            <guid isPermaLink="false">1666533672831</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -2727,7 +2697,7 @@
                 <![CDATA[ 7Fates: Chakho Review — How Do the Webtoon & Web Novel Compare? ]]>
             </title>
             <link>https://www.denofgeek.com/comics/7fates-chakho-review-how-do-the-webtoon-web-novel-compare/</link>
-            <guid isPermaLink="false">1666439104180</guid>
+            <guid isPermaLink="false">1666533672832</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -2737,7 +2707,7 @@
                 <![CDATA[ Kayti Burt ]]>
             </title>
             <link>https://www.denofgeek.com/author/kayti-burt/</link>
-            <guid isPermaLink="false">1666439104181</guid>
+            <guid isPermaLink="false">1666533672833</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -2747,7 +2717,7 @@
                 <![CDATA[ Eternals Review: Chloé Zhao Makes a Marvel Movie Like No Other ]]>
             </title>
             <link>https://www.denofgeek.com/movies/eternals-review-chloe-zhao-marvel-movie/</link>
-            <guid isPermaLink="false">1666439104182</guid>
+            <guid isPermaLink="false">1666533672834</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -2757,7 +2727,7 @@
                 <![CDATA[ Venom: Let There Be Carnage Review ]]>
             </title>
             <link>https://www.denofgeek.com/movies/venom-let-there-be-carnage-review/</link>
-            <guid isPermaLink="false">1666439104183</guid>
+            <guid isPermaLink="false">1666533672835</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -2767,7 +2737,7 @@
                 <![CDATA[ David Crow ]]>
             </title>
             <link>https://www.denofgeek.com/author/david-crow/</link>
-            <guid isPermaLink="false">1666439104184</guid>
+            <guid isPermaLink="false">1666533672836</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -2777,7 +2747,7 @@
                 <![CDATA[ Black Adam ]]>
             </title>
             <link>https://www.denofgeek.com/black-adam</link>
-            <guid isPermaLink="false">1666439104185</guid>
+            <guid isPermaLink="false">1666533672837</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -2787,7 +2757,7 @@
                 <![CDATA[ Batman ]]>
             </title>
             <link>https://www.denofgeek.com/batman</link>
-            <guid isPermaLink="false">1666439104186</guid>
+            <guid isPermaLink="false">1666533672838</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -2797,7 +2767,7 @@
                 <![CDATA[ The Flash ]]>
             </title>
             <link>https://www.denofgeek.com/the-flash</link>
-            <guid isPermaLink="false">1666439104187</guid>
+            <guid isPermaLink="false">1666533672839</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -2807,7 +2777,7 @@
                 <![CDATA[ Marvel ]]>
             </title>
             <link>https://www.denofgeek.com/marvel</link>
-            <guid isPermaLink="false">1666439104188</guid>
+            <guid isPermaLink="false">1666533672840</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -2817,7 +2787,7 @@
                 <![CDATA[ Spider-Man ]]>
             </title>
             <link>https://www.denofgeek.com/spider-man</link>
-            <guid isPermaLink="false">1666439104189</guid>
+            <guid isPermaLink="false">1666533672841</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -2827,7 +2797,7 @@
                 <![CDATA[ Superman ]]>
             </title>
             <link>https://www.denofgeek.com/superman</link>
-            <guid isPermaLink="false">1666439104190</guid>
+            <guid isPermaLink="false">1666533672842</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -2837,7 +2807,7 @@
                 <![CDATA[ Wonder Woman ]]>
             </title>
             <link>https://www.denofgeek.com/wonder-woman</link>
-            <guid isPermaLink="false">1666439104191</guid>
+            <guid isPermaLink="false">1666533672843</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -2847,7 +2817,7 @@
                 <![CDATA[ X-Men ]]>
             </title>
             <link>https://www.denofgeek.com/x-men</link>
-            <guid isPermaLink="false">1666439104192</guid>
+            <guid isPermaLink="false">1666533672844</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -2857,7 +2827,7 @@
                 <![CDATA[ Moon Knight ]]>
             </title>
             <link>https://www.denofgeek.com/moon-knight</link>
-            <guid isPermaLink="false">1666439104193</guid>
+            <guid isPermaLink="false">1666533672845</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -2867,7 +2837,7 @@
                 <![CDATA[ Deadpool 3: The Problem with Bringing Back Hugh Jackman's Wolverine ]]>
             </title>
             <link>https://www.denofgeek.com/movies/deadpool-3-problem-with-hugh-jackman-wolverine/</link>
-            <guid isPermaLink="false">1666439104194</guid>
+            <guid isPermaLink="false">1666533672846</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -2877,7 +2847,7 @@
                 <![CDATA[ Star Wars: 15 Best Jedi of All Time ]]>
             </title>
             <link>https://www.denofgeek.com/movies/star-wars-best-jedi/</link>
-            <guid isPermaLink="false">1666439104195</guid>
+            <guid isPermaLink="false">1666533672847</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -2887,7 +2857,7 @@
                 <![CDATA[ Missing Batman Character Finally Returns for New Dark Knight Origin Story ]]>
             </title>
             <link>https://www.denofgeek.com/comics/missing-batman-character-finally-returns-origin-story/</link>
-            <guid isPermaLink="false">1666439104196</guid>
+            <guid isPermaLink="false">1666533672848</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -2897,7 +2867,7 @@
                 <![CDATA[ The Ongoing Legacy of Milestone Media at DC ]]>
             </title>
             <link>https://www.denofgeek.com/comics/the-ongoing-legacy-of-milestone-media-at-dc/</link>
-            <guid isPermaLink="false">1666439104197</guid>
+            <guid isPermaLink="false">1666533672849</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -2907,7 +2877,7 @@
                 <![CDATA[ Beyond Wonder Woman: How Nubia Became Queen of the Amazons ]]>
             </title>
             <link>https://www.denofgeek.com/comics/beyond-wonder-woman-how-nubia-became-queen-of-the-amazons/</link>
-            <guid isPermaLink="false">1666439104198</guid>
+            <guid isPermaLink="false">1666533672850</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -2917,7 +2887,7 @@
                 <![CDATA[ Marvel’s Wonder Man Is About to Make the MCU Really Weird ]]>
             </title>
             <link>https://www.denofgeek.com/tv/marvels-wonder-man-is-about-to-make-the-mcu-really-weird/</link>
-            <guid isPermaLink="false">1666439104199</guid>
+            <guid isPermaLink="false">1666533672851</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -2927,7 +2897,7 @@
                 <![CDATA[ How She-Hulk Reinvents Marvel Villain Team The Wrecking Crew ]]>
             </title>
             <link>https://www.denofgeek.com/tv/she-hulk-reinvents-marvel-villain-team-the-wrecking-crew/</link>
-            <guid isPermaLink="false">1666439104200</guid>
+            <guid isPermaLink="false">1666533672852</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -2937,7 +2907,7 @@
                 <![CDATA[ Collision 2022 Recap: Where Tech Meets Pop Culture with DC Comics, Webtoon, Exploding Kittens, and GameSquare ]]>
             </title>
             <link>https://www.denofgeek.com/comics/collision-2022-recap-where-tech-meets-pop-culture-with-dc-comics-webtoon-exploding-kittens-and-gamesquare/</link>
-            <guid isPermaLink="false">1666439104201</guid>
+            <guid isPermaLink="false">1666533672853</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -2947,7 +2917,7 @@
                 <![CDATA[ Chris Longo ]]>
             </title>
             <link>https://www.denofgeek.com/author/chris-longo/</link>
-            <guid isPermaLink="false">1666439104202</guid>
+            <guid isPermaLink="false">1666533672854</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -2957,7 +2927,7 @@
                 <![CDATA[ The Sandman: How Gwendoline Christie Embraced Evil with Lucifer Morningstar ]]>
             </title>
             <link>https://www.denofgeek.com/tv/the-sandman-gwendoline-christie-lucifer-morningstar/</link>
-            <guid isPermaLink="false">1666439104203</guid>
+            <guid isPermaLink="false">1666533672855</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -2967,7 +2937,7 @@
                 <![CDATA[ Alana Joli Abbott ]]>
             </title>
             <link>https://www.denofgeek.com/author/alana-joli-abbott/</link>
-            <guid isPermaLink="false">1666439104204</guid>
+            <guid isPermaLink="false">1666533672856</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -2977,7 +2947,7 @@
                 <![CDATA[ Inside DC's Dark Crisis on Infinite Earths: The Title Change, The Villains, and More! ]]>
             </title>
             <link>https://www.denofgeek.com/comics/inside-dcs-dark-crisis-on-infinite-earths-the-title-change-the-villains-and-more/</link>
-            <guid isPermaLink="false">1666439104205</guid>
+            <guid isPermaLink="false">1666533672857</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -2987,7 +2957,7 @@
                 <![CDATA[ Why the She-Hulk Series Made One Big Change to the Character ]]>
             </title>
             <link>https://www.denofgeek.com/tv/why-she-hulk-series-made-one-big-change-character/</link>
-            <guid isPermaLink="false">1666439104206</guid>
+            <guid isPermaLink="false">1666533672858</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -2997,7 +2967,7 @@
                 <![CDATA[ She-Hulk: Attorney at Law Is Uncharted Territory for the MCU ]]>
             </title>
             <link>https://www.denofgeek.com/tv/she-hulk-attorney-at-law-uncharted-territory-mcu/</link>
-            <guid isPermaLink="false">1666439104207</guid>
+            <guid isPermaLink="false">1666533672859</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -3007,7 +2977,7 @@
                 <![CDATA[ The Sandman: What is "A Dream of a Thousand Cats" and "Calliope"? ]]>
             </title>
             <link>https://www.denofgeek.com/tv/the-sandman-what-is-a-dream-of-a-thousand-cats-and-calliope/</link>
-            <guid isPermaLink="false">1666439104208</guid>
+            <guid isPermaLink="false">1666533672860</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -3017,7 +2987,7 @@
                 <![CDATA[ New Batman Story Fixes Riddler's "Worst Origin Story" ]]>
             </title>
             <link>https://www.denofgeek.com/comics/new-batman-story-fixes-riddlers-worst-origin-story/</link>
-            <guid isPermaLink="false">1666439104209</guid>
+            <guid isPermaLink="false">1666533672861</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -3027,7 +2997,7 @@
                 <![CDATA[ Which Secret Wars Will MCU Phase 6 Adapt? ]]>
             </title>
             <link>https://www.denofgeek.com/movies/which-secret-wars-will-mcu-phase-6-adapt/</link>
-            <guid isPermaLink="false">1666439104210</guid>
+            <guid isPermaLink="false">1666533672862</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -3037,7 +3007,7 @@
                 <![CDATA[ The Sandman: The Endless, Their Powers, and Who Is the Prodigal? ]]>
             </title>
             <link>https://www.denofgeek.com/tv/the-sandman-endless-powers-prodigal/</link>
-            <guid isPermaLink="false">1666439104211</guid>
+            <guid isPermaLink="false">1666533672863</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -3047,7 +3017,7 @@
                 <![CDATA[ The Sandman Cast: Meet The Actors Who Play The Endless ]]>
             </title>
             <link>https://www.denofgeek.com/tv/the-sandman-cast-meet-the-actors-who-play-the-endless/</link>
-            <guid isPermaLink="false">1666439104212</guid>
+            <guid isPermaLink="false">1666533672864</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -3057,7 +3027,7 @@
                 <![CDATA[ Michael Ahr ]]>
             </title>
             <link>https://www.denofgeek.com/author/michael-ahr/</link>
-            <guid isPermaLink="false">1666439104213</guid>
+            <guid isPermaLink="false">1666533672865</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -3067,7 +3037,7 @@
                 <![CDATA[ The Sandman Season 1 Ending Explained: What's Next for Dream and Lucifer? ]]>
             </title>
             <link>https://www.denofgeek.com/tv/the-sandman-season-1-ending-explained-whats-next-for-dream-and-lucifer/</link>
-            <guid isPermaLink="false">1666439104214</guid>
+            <guid isPermaLink="false">1666533672866</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -3077,7 +3047,7 @@
                 <![CDATA[ View morelatest Comics articles ]]>
             </title>
             <link>https://www.denofgeek.com/comics/page/2/</link>
-            <guid isPermaLink="false">1666439104215</guid>
+            <guid isPermaLink="false">1666533672867</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -3087,7 +3057,7 @@
                 <![CDATA[ Subscribe ]]>
             </title>
             <link>https://www.denofgeek.com/magazine</link>
-            <guid isPermaLink="false">1666439104216</guid>
+            <guid isPermaLink="false">1666533672868</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -3097,7 +3067,7 @@
                 <![CDATA[ About Us ]]>
             </title>
             <link>https://www.denofgeek.com/about-us/</link>
-            <guid isPermaLink="false">1666439104217</guid>
+            <guid isPermaLink="false">1666533672869</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -3107,7 +3077,7 @@
                 <![CDATA[ Authors ]]>
             </title>
             <link>https://www.denofgeek.com/authors/</link>
-            <guid isPermaLink="false">1666439104218</guid>
+            <guid isPermaLink="false">1666533672870</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -3117,7 +3087,7 @@
                 <![CDATA[ Privacy Policy ]]>
             </title>
             <link>https://www.denofgeek.com/privacy-policy/</link>
-            <guid isPermaLink="false">1666439104219</guid>
+            <guid isPermaLink="false">1666533672871</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -3127,7 +3097,7 @@
                 <![CDATA[ Sitemap ]]>
             </title>
             <link>https://www.denofgeek.com/sitemap/</link>
-            <guid isPermaLink="false">1666439104220</guid>
+            <guid isPermaLink="false">1666533672872</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -3137,7 +3107,7 @@
                 <![CDATA[ Privacy Settings ]]>
             </title>
             <link>https://www.denofgeek.com#</link>
-            <guid isPermaLink="false">1666439104221</guid>
+            <guid isPermaLink="false">1666533672873</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>

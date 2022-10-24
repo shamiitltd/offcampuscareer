@@ -4,19 +4,19 @@
     xmlns:media="http://search.yahoo.com/mrss/" version="2.0">
     <channel>
         <title>
-            <![CDATA[ offcamuscareer.com ]]>
+            <![CDATA[ offcampuscareer.com ]]>
         </title>
         <description>
-            <![CDATA[ offcamuscareer.com ]]>
+            <![CDATA[ offcampuscareer.com ]]>
         </description>
         <link>https://www.offcampuscareer.com/sitemapscanner/new</link>
         <image>
             <url>https://www.offcampuscareer.com/favicon.ico</url>
-            <title>offcamuscareer.com</title>
+            <title>offcampuscareer.com</title>
             <link>https://www.offcampuscareer.com/sitemapscanner/new</link>
         </image>
         <generator>https://www.offcampuscareer.com</generator>
-        <lastBuildDate>Sat Oct 22 2022 07:00:19 GMT+0000 (Coordinated Universal Time)</lastBuildDate>
+        <lastBuildDate>Sun Oct 23 2022 07:45:16 GMT+0000 (Coordinated Universal Time)</lastBuildDate>
         <atom:link href="https://www.offcampuscareer.com/feeds/1i7neFZ3w.xml" rel="self" type="application/rss+xml"/>
         <language>
             <![CDATA[ en ]]>
@@ -27,7 +27,7 @@
                 <![CDATA[ Cricket ]]>
             </title>
             <link>https://www.hindustantimes.com/cricket</link>
-            <guid isPermaLink="false">1666422019155</guid>
+            <guid isPermaLink="false">1666511116975</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -37,7 +37,7 @@
                 <![CDATA[ T20 World Cup 2022 ]]>
             </title>
             <link>https://www.hindustantimes.com/cricket/t20-world-cup</link>
-            <guid isPermaLink="false">1666422019156</guid>
+            <guid isPermaLink="false">1666511116976</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -47,7 +47,7 @@
                 <![CDATA[ ICC Rankings ]]>
             </title>
             <link>https://www.hindustantimes.com/cricket/icc-rankings</link>
-            <guid isPermaLink="false">1666422019157</guid>
+            <guid isPermaLink="false">1666511116977</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -57,7 +57,37 @@
                 <![CDATA[ Schedule ]]>
             </title>
             <link>https://www.hindustantimes.com/cricket/schedule</link>
-            <guid isPermaLink="false">1666422019158</guid>
+            <guid isPermaLink="false">1666511116978</guid>
+            <dc:creator>
+                <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
+            </dc:creator>
+        </item>
+        <item>
+            <title>
+                <![CDATA[ VIEW FULL SCORECARD ]]>
+            </title>
+            <link>https://www.hindustantimes.com/cricket/live-full-scorecard-india-vs-pakistan-inpk10232022209250/</link>
+            <guid isPermaLink="false">1666511116979</guid>
+            <dc:creator>
+                <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
+            </dc:creator>
+        </item>
+        <item>
+            <title>
+                <![CDATA[ VIEW FULL SCORECARD ]]>
+            </title>
+            <link>https://www.hindustantimes.com/cricket/live-full-scorecard-sri-lanka-vs-ireland-slir10232022209249/</link>
+            <guid isPermaLink="false">1666511116980</guid>
+            <dc:creator>
+                <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
+            </dc:creator>
+        </item>
+        <item>
+            <title>
+                <![CDATA[ VIEW FULL SCORECARD ]]>
+            </title>
+            <link>https://www.hindustantimes.com/cricket/live-full-scorecard-england-vs-afghanistan-enaf10222022209248/</link>
+            <guid isPermaLink="false">1666511116981</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -67,7 +97,7 @@
                 <![CDATA[ VIEW FULL SCORECARD ]]>
             </title>
             <link>https://www.hindustantimes.com/cricket/live-full-scorecard-australia-vs-new-zealand-aunz10222022209247/</link>
-            <guid isPermaLink="false">1666422019159</guid>
+            <guid isPermaLink="false">1666511116982</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -77,37 +107,7 @@
                 <![CDATA[ VIEW FULL SCORECARD ]]>
             </title>
             <link>https://www.hindustantimes.com/cricket/live-full-scorecard-scotland-vs-zimbabwe-sczm10212022209246/</link>
-            <guid isPermaLink="false">1666422019160</guid>
-            <dc:creator>
-                <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
-            </dc:creator>
-        </item>
-        <item>
-            <title>
-                <![CDATA[ VIEW FULL SCORECARD ]]>
-            </title>
-            <link>https://www.hindustantimes.com/cricket/live-full-scorecard-ireland-vs-west-indies-irwi10212022209245/</link>
-            <guid isPermaLink="false">1666422019161</guid>
-            <dc:creator>
-                <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
-            </dc:creator>
-        </item>
-        <item>
-            <title>
-                <![CDATA[ VIEW FULL SCORECARD ]]>
-            </title>
-            <link>https://www.hindustantimes.com/cricket/live-full-scorecard-namibia-vs-united-arab-emirates-naua10202022209244/</link>
-            <guid isPermaLink="false">1666422019162</guid>
-            <dc:creator>
-                <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
-            </dc:creator>
-        </item>
-        <item>
-            <title>
-                <![CDATA[ VIEW FULL SCORECARD ]]>
-            </title>
-            <link>https://www.hindustantimes.com/cricket/live-full-scorecard-netherlands-vs-sri-lanka-nesl10202022209243/</link>
-            <guid isPermaLink="false">1666422019163</guid>
+            <guid isPermaLink="false">1666511116983</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -116,8 +116,8 @@
             <title>
                 <![CDATA[  ]]>
             </title>
-            <link>https://www.hindustantimes.com/cricket/rohit-sharma-s-first-reaction-on-bcci-vs-pcb-battle-for-asia-cup-and-world-cup-no-point-thinking-about-it-101666413582767.html</link>
-            <guid isPermaLink="false">1666422019164</guid>
+            <link>https://www.hindustantimes.com/cricket/india-vs-pakistan-live-score-t20-world-cup-2022-ind-vs-pak-match-today-latest-scorecard-at-mebourne-cricket-ground-mcg-101666499690282.html</link>
+            <guid isPermaLink="false">1666511116984</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -126,8 +126,8 @@
             <title>
                 <![CDATA[  ]]>
             </title>
-            <link>https://www.hindustantimes.com/cricket/virat-kohli-reverse-sweeps-yuzvendra-chahal-amid-vande-mataram-chants-before-pakistan-match-in-t20-world-cup-watch-video-101666419491436.html</link>
-            <guid isPermaLink="false">1666422019165</guid>
+            <link>https://www.hindustantimes.com/cricket/we-had-misunderstanding-once-virat-kohli-s-big-ms-dhoni-revelation-ahead-of-india-vs-pakistan-t20-world-cup-tie-101666503116330.html</link>
+            <guid isPermaLink="false">1666511116985</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -136,8 +136,8 @@
             <title>
                 <![CDATA[  ]]>
             </title>
-            <link>https://www.hindustantimes.com/cricket/australia-vs-new-zealand-live-score-t20-world-cup-2022-aus-vs-nz-match-today-latest-scorecard-at-sydney-cricket-ground-scg-101666413871339.html</link>
-            <guid isPermaLink="false">1666422019166</guid>
+            <link>https://www.hindustantimes.com/cricket/le-liya-bhai-tera-challenge-harbhajan-shuts-pakistan-anchor-with-savage-indian-cricket-doesn-t-need-pakistan-reply-101666500440221.html</link>
+            <guid isPermaLink="false">1666511116986</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -146,8 +146,8 @@
             <title>
                 <![CDATA[  ]]>
             </title>
-            <link>https://www.hindustantimes.com/cricket/only-captain-coach-can-take-call-unbelievable-how-it-s-affected-the-team-gavaskar-slams-india-for-optional-practice-before-pakistan-t20-world-cup-match-101666410364927.html</link>
-            <guid isPermaLink="false">1666422019167</guid>
+            <link>https://www.hindustantimes.com/cricket/apne-players-ko-sar-pe-chara-liya-shahid-afridi-s-fiery-reply-to-ex-ind-cricketer-s-atul-wassan-mohammad-rizwan-bara-naam-nehi-lag-rahe-remark-101666449028438.html</link>
+            <guid isPermaLink="false">1666511116987</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -156,8 +156,8 @@
             <title>
                 <![CDATA[  ]]>
             </title>
-            <link>https://www.hindustantimes.com/cricket/wasim-akram-angrily-interrupts-after-fan-asks-shoaib-malik-if-the-all-rounder-has-retired-from-cricket-tum-logo-ko-101666391832895.html</link>
-            <guid isPermaLink="false">1666422019168</guid>
+            <link>https://www.hindustantimes.com/cricket/watch-ye-match-me-pata-chalega-babar-azam-irked-with-aap-aur-rizwan-out-ho-gaye-toh-india-jeet-jaayega-question-in-pc-101666454091189.html</link>
+            <guid isPermaLink="false">1666511116988</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -166,8 +166,8 @@
             <title>
                 <![CDATA[  ]]>
             </title>
-            <link>https://www.hindustantimes.com/cricket/ms-dhoni-s-i-m-not-playing-t20-world-cup-viral-video-before-india-vs-pakistan-match-gives-goosebum-101666407727252.html</link>
-            <guid isPermaLink="false">1666422019169</guid>
+            <link>https://www.hindustantimes.com/cricket/ramiz-raja-reveals-his-last-minute-conversation-with-babar-azam-before-india-match-i-told-him-to-only-dream-about-101666489685171.html</link>
+            <guid isPermaLink="false">1666511116989</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -176,8 +176,8 @@
             <title>
                 <![CDATA[  ]]>
             </title>
-            <link>https://www.hindustantimes.com/cricket/you-didn-t-ask-a-single-question-about-suryakumar-yadav-your-first-name-was-virat-kohli-gambhir-reopens-hero-worship-debate-101666358424401.html</link>
-            <guid isPermaLink="false">1666422019170</guid>
+            <link>https://www.hindustantimes.com/cricket/t20-world-cup-renewed-india-face-pakistan-in-opening-test-101666450866055.html</link>
+            <guid isPermaLink="false">1666511116990</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -186,8 +186,8 @@
             <title>
                 <![CDATA[  ]]>
             </title>
-            <link>https://www.hindustantimes.com/cricket/kevin-pietersen-predicts-india-batter-as-top-run-scorer-for-t20-world-cup-and-it-s-not-virat-kohli-or-rohit-sharma-101666261008926.html</link>
-            <guid isPermaLink="false">1666422019171</guid>
+            <link>https://www.hindustantimes.com/cricket/melbourne-weather-forecast-india-vs-pakistan-t20-world-cup-will-rain-affect-marquee-clash-between-rohit-sharma-babar-azam-s-sides-101666445879157.html</link>
+            <guid isPermaLink="false">1666511116991</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -196,8 +196,8 @@
             <title>
                 <![CDATA[  ]]>
             </title>
-            <link>https://www.hindustantimes.com/cricket/dinesh-karthik-team-india-haven-t-shown-that-intention-gautam-gambhir-explains-why-dk-over-rishabh-pant-is-a-dangerous-choice-for-india-xi-in-t20-world-cup-101666349399930.html</link>
-            <guid isPermaLink="false">1666422019172</guid>
+            <link>https://www.hindustantimes.com/cricket/watch-bacchey-ko-lori-nahi-suna-rahe-babar-azam-s-hilarious-reply-to-reporter-s-question-on-rain-threat-in-ind-pak-match-101666441066782.html</link>
+            <guid isPermaLink="false">1666511116992</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -206,8 +206,8 @@
             <title>
                 <![CDATA[  ]]>
             </title>
-            <link>https://www.hindustantimes.com/cricket/jay-shah-sahab-agar-aapko-kuch-kehna-hi-tha-wasim-akram-s-strong-message-to-acc-president-amid-bcci-pcb-standoff-101666280221032.html</link>
-            <guid isPermaLink="false">1666422019173</guid>
+            <link>https://www.hindustantimes.com/cricket/suryakumar-yadav-doesn-t-bother-me-because-you-can-t-bat-like-viv-richards-everyday-ex-pakistan-captain-s-aamer-sohail-blunt-remark-101666430360585.html</link>
+            <guid isPermaLink="false">1666511116993</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -217,7 +217,7 @@
                 <![CDATA[ India at T20 ]]>
             </title>
             <link>https://www.hindustantimes.com/cricket/t20-world-cup/india-cricket-team</link>
-            <guid isPermaLink="false">1666422019174</guid>
+            <guid isPermaLink="false">1666511116994</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -228,7 +228,7 @@
 View ]]>
             </title>
             <link>https://www.hindustantimes.com/cricket/t20-world-cup/stats-records</link>
-            <guid isPermaLink="false">1666422019175</guid>
+            <guid isPermaLink="false">1666511116995</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -237,8 +237,8 @@ View ]]>
             <title>
                 <![CDATA[  ]]>
             </title>
-            <link>https://www.hindustantimes.com/cricket/watch-zimbabwe-fans-on-cloud-nine-after-team-qualifies-for-super-12-at-t20-world-cup-101666364275408.html</link>
-            <guid isPermaLink="false">1666422019176</guid>
+            <link>https://www.hindustantimes.com/cricket/irelands-george-dockrell-plays-against-sl-despite-turning-covid-positive-101666504286840.html</link>
+            <guid isPermaLink="false">1666511116996</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -247,8 +247,8 @@ View ]]>
             <title>
                 <![CDATA[  ]]>
             </title>
-            <link>https://www.hindustantimes.com/cricket/rohit-sharma-and-co-meet-governor-of-victoria-in-melbourne-ahead-of-ind-vs-pak-clash-at-t20-world-cup-101666357286424.html</link>
-            <guid isPermaLink="false">1666422019177</guid>
+            <link>https://www.hindustantimes.com/cricket/watch-mohammad-rizwan-s-epic-india-mein-aayenge-toh-dikhayenge-remark-leaves-indian-fans-in-splits-ahead-of-ind-pak-mcg-clash-101666499297769.html</link>
+            <guid isPermaLink="false">1666511116997</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -257,8 +257,8 @@ View ]]>
             <title>
                 <![CDATA[  ]]>
             </title>
-            <link>https://www.hindustantimes.com/cricket/syed-mushtaq-ali-t20-trophy-looking-out-for-the-next-big-ipl-star-101666376994643.html</link>
-            <guid isPermaLink="false">1666422019178</guid>
+            <link>https://www.hindustantimes.com/cricket/india-couldn-t-accept-that-loss-to-pakistan-gracefully-usse-aap-kehte-hai-ego-pakistan-great-aaqib-javed-recalls-2021-t20-world-cup-match-101666492105983.html</link>
+            <guid isPermaLink="false">1666511116998</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -267,8 +267,8 @@ View ]]>
             <title>
                 <![CDATA[  ]]>
             </title>
-            <link>https://www.hindustantimes.com/cricket/ready-for-a-roller-coaster-ride-101666374215607.html</link>
-            <guid isPermaLink="false">1666422019179</guid>
+            <link>https://www.hindustantimes.com/cricket/live-cricket-score-sri-lanka-vs-ireland-t20-world-cup-2022-sl-vs-ire-match-today-latest-scorecard-at-hobart-101666494354344.html</link>
+            <guid isPermaLink="false">1666511116999</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -277,8 +277,8 @@ View ]]>
             <title>
                 <![CDATA[  ]]>
             </title>
-            <link>https://www.hindustantimes.com/cricket/happy-to-see-zimbabwe-qualify-but-virender-sehwag-shoaib-akhtar-amit-mishra-deliver-sharp-verdicts-after-west-indies-bow-out-of-t20-wc-101666367535733.html</link>
-            <guid isPermaLink="false">1666422019180</guid>
+            <link>https://www.hindustantimes.com/cricket/rohit-sharma-showed-me-light-at-the-end-of-tunnel-dinesh-karthik-says-ever-grateful-to-ind-skipper-in-heartfelt-note-101666490906594.html</link>
+            <guid isPermaLink="false">1666511117000</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -287,8 +287,8 @@ View ]]>
             <title>
                 <![CDATA[  ]]>
             </title>
-            <link>https://www.hindustantimes.com/cricket/shafalis-quest-to-become-the-best-version-of-herself-101666365873741.html</link>
-            <guid isPermaLink="false">1666422019181</guid>
+            <link>https://www.hindustantimes.com/cricket/virat-kohli-to-resume-intense-t20i-battle-with-rohit-sharma-as-india-meet-arch-rivals-pakistan-at-world-cup-101666460626967.html</link>
+            <guid isPermaLink="false">1666511117001</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -297,8 +297,8 @@ View ]]>
             <title>
                 <![CDATA[  ]]>
             </title>
-            <link>https://www.hindustantimes.com/cricket/shami-looks-to-fill-the-breach-101666360814650.html</link>
-            <guid isPermaLink="false">1666422019182</guid>
+            <link>https://www.hindustantimes.com/cricket/india-vs-pakistan-2022-t20-world-cup-ind-vs-pak-head-to-head-record-and-form-guide-101666455665444.html</link>
+            <guid isPermaLink="false">1666511117002</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -307,8 +307,8 @@ View ]]>
             <title>
                 <![CDATA[  ]]>
             </title>
-            <link>https://www.hindustantimes.com/cricket/pcb-shares-crucial-update-on-shan-masood-ahead-of-india-vs-pakistan-clash-at-t20-world-cup-2022-101666357272477.html</link>
-            <guid isPermaLink="false">1666422019183</guid>
+            <link>https://www.hindustantimes.com/cricket/india-predicted-xi-vs-pakistan-t20-world-cup-2022-rohit-sharma-to-go-with-senior-players-to-boost-bowling-attack-101666440065850.html</link>
+            <guid isPermaLink="false">1666511117003</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -317,8 +317,8 @@ View ]]>
             <title>
                 <![CDATA[  ]]>
             </title>
-            <link>https://www.hindustantimes.com/cricket/whats-the-point-of-icc-scrap-the-asia-cup-if-that-s-the-case-javed-miandad-s-no-nonsense-reaction-to-jay-shah-s-remarks-101666356907282.html</link>
-            <guid isPermaLink="false">1666422019184</guid>
+            <link>https://www.hindustantimes.com/cricket/babar-azam-stands-on-verge-of-breaking-ms-dhoni-s-spectacular-captaincy-record-in-t20-world-cup-101666452178453.html</link>
+            <guid isPermaLink="false">1666511117004</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -327,8 +327,8 @@ View ]]>
             <title>
                 <![CDATA[  ]]>
             </title>
-            <link>https://www.hindustantimes.com/cricket/haris-rauf-bhi-raw-hi-aaya-tha-na-waism-akram-reacts-to-brett-lee-s-best-sports-car-parked-in-garage-reference-for-umran-malik-101666355167903.html</link>
-            <guid isPermaLink="false">1666422019185</guid>
+            <link>https://www.hindustantimes.com/cricket/t20-world-cup-2022-india-vs-pakistan-live-streaming-when-where-and-how-to-watch-ind-vs-pak-online-and-on-tv-101666448862731.html</link>
+            <guid isPermaLink="false">1666511117005</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -337,8 +337,8 @@ View ]]>
             <title>
                 <![CDATA[  ]]>
             </title>
-            <link>https://www.hindustantimes.com/cricket/i-thought-iski-jagah-main-hota-toh-shoaib-malik-reveals-chat-with-hasan-ali-after-dropped-catch-in-2021-t20-wc-semifinal-101666350524105.html</link>
-            <guid isPermaLink="false">1666422019186</guid>
+            <link>https://www.hindustantimes.com/cricket/babar-azam-has-faith-in-the-pakistan-middle-order-101666451437642.html</link>
+            <guid isPermaLink="false">1666511117006</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -347,8 +347,8 @@ View ]]>
             <title>
                 <![CDATA[  ]]>
             </title>
-            <link>https://www.hindustantimes.com/cricket/t20-world-cup-confirmed-two-teams-that-will-join-india-pakistan-in-group-2-check-out-complete-line-up-for-super-12-101666351245943.html</link>
-            <guid isPermaLink="false">1666422019187</guid>
+            <link>https://www.hindustantimes.com/cricket/bhangra-and-banter-as-india-train-under-fan-gaze-101666451413686.html</link>
+            <guid isPermaLink="false">1666511117007</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -357,8 +357,8 @@ View ]]>
             <title>
                 <![CDATA[  ]]>
             </title>
-            <link>https://www.hindustantimes.com/cricket/in-red-ball-ashwin-is-peerless-but-in-white-ball-muralitharan-s-blunt-assessment-of-star-india-spinner-s-woes-101666340940820.html</link>
-            <guid isPermaLink="false">1666422019188</guid>
+            <link>https://www.hindustantimes.com/cricket/india-vs-pakistan-2022-t20-world-cup-shaheen-afridi-vs-rohit-sharma-suryakumar-yadav-vs-mohammad-nawaz-key-battles-to-watch-out-for-in-mcg-tie-101666418738727.html</link>
+            <guid isPermaLink="false">1666511117008</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -367,8 +367,8 @@ View ]]>
             <title>
                 <![CDATA[  ]]>
             </title>
-            <link>https://www.hindustantimes.com/cricket/hetmyer-waiting-for-west-indies-team-at-airport-netizens-spark-meme-fest-after-ireland-dump-west-indies-from-t20-world-cup-101666347095368.html</link>
-            <guid isPermaLink="false">1666422019189</guid>
+            <link>https://www.hindustantimes.com/cricket/acrobatic-england-outclass-afghanistan-in-five-wicket-victory-at-t20-world-cup-101666450784636.html</link>
+            <guid isPermaLink="false">1666511117009</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -378,7 +378,7 @@ View ]]>
                 <![CDATA[  ]]>
             </title>
             <link>https://www.hindustantimes.com/cricket/page-2</link>
-            <guid isPermaLink="false">1666422019190</guid>
+            <guid isPermaLink="false">1666511117010</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -388,7 +388,7 @@ View ]]>
                 <![CDATA[ 3 ]]>
             </title>
             <link>https://www.hindustantimes.com/cricket/page-3</link>
-            <guid isPermaLink="false">1666422019191</guid>
+            <guid isPermaLink="false">1666511117011</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -398,7 +398,7 @@ View ]]>
                 <![CDATA[  ]]>
             </title>
             <link>https://www.hindustantimes.com/cricket/page-50</link>
-            <guid isPermaLink="false">1666422019192</guid>
+            <guid isPermaLink="false">1666511117012</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -408,7 +408,7 @@ View ]]>
                 <![CDATA[ CricHT Fantasy ]]>
             </title>
             <link>https://fantasycricket.hindustantimes.com/</link>
-            <guid isPermaLink="false">1666422019193</guid>
+            <guid isPermaLink="false">1666511117013</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -418,7 +418,7 @@ View ]]>
                 <![CDATA[ Cricket ]]>
             </title>
             <link>https://www.india.com/cricket-2/</link>
-            <guid isPermaLink="false">1666422019194</guid>
+            <guid isPermaLink="false">1666511117014</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -428,7 +428,7 @@ View ]]>
                 <![CDATA[ Cricket ]]>
             </title>
             <link>https://www.india.com/cricket/</link>
-            <guid isPermaLink="false">1666422019195</guid>
+            <guid isPermaLink="false">1666511117015</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -438,7 +438,7 @@ View ]]>
                 <![CDATA[ Series ]]>
             </title>
             <link>https://www.india.com/cricket/series/</link>
-            <guid isPermaLink="false">1666422019196</guid>
+            <guid isPermaLink="false">1666511117016</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -448,7 +448,7 @@ View ]]>
                 <![CDATA[ News ]]>
             </title>
             <link>https://www.india.com/cricket/news/</link>
-            <guid isPermaLink="false">1666422019197</guid>
+            <guid isPermaLink="false">1666511117017</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -458,7 +458,7 @@ View ]]>
                 <![CDATA[ ALL ]]>
             </title>
             <link>https://www.india.com/cricket/upcoming-match-list/</link>
-            <guid isPermaLink="false">1666422019198</guid>
+            <guid isPermaLink="false">1666511117018</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -468,47 +468,57 @@ View ]]>
                 <![CDATA[ ALL ]]>
             </title>
             <link>https://www.india.com/cricket/recently-concluded-match-list/</link>
-            <guid isPermaLink="false">1666422019199</guid>
+            <guid isPermaLink="false">1666511117019</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
         </item>
         <item>
             <title>
-                <![CDATA[ Rohit Sharma’s Press Conference Key Points: Mohammed Shami To Feature In Playing 11 Against PAK ]]>
+                <![CDATA[ Live Photos IND vs PAK T20 World Cup 2022: Catch All The Action Straight From MCG ]]>
             </title>
-            <link>https://www.india.com/sports/highlights-ind-vs-pak-rohit-sharma-press-conference-t20-world-cup-2022-930-am-ist-melbourne-cricket-ground-weather-updates-india-v-pakistan-probable-playing11-virat-kohli-kl-shami-babar-shaheen-cricke-5699148/</link>
-            <guid isPermaLink="false">1666422019200</guid>
+            <link>https://www.india.com/sports/live-photos-ind-vs-pak-t20-world-cup-2022-catch-all-the-action-straight-from-mcg-babar-azam-kohli-rizwan-shami-rohit-shaheen-cricket-fans-livephotos-5701325/</link>
+            <guid isPermaLink="false">1666511117020</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
         </item>
         <item>
             <title>
-                <![CDATA[ AUS vs NZ Dream11 Prediction, Fantasy Cricket Hints ICC T20 World Cup 2022: Captain, Vice-Captain, Probable Playing 11s For Today’s Australia vs New Zealand T20 WC at Sydney Cricket Ground at 12:30 PM IST October 22 Sat ]]>
+                <![CDATA[ LIVE | India vs Pakistan BUZZ, T20 WC 2022: Rohit, Babar STUMPS All at The TOSS. Here’s HOW ]]>
             </title>
-            <link>https://www.india.com/sports/aus-vs-nz-dream11-prediction-fantasy-cricket-hints-icc-t20-world-cup-2022-captain-vice-captain-probable-playing-11s-for-todays-australia-vs-new-zealand-t20-wc-at-sydney-cricket-ground-at-1230-p-5699121/</link>
-            <guid isPermaLink="false">1666422019201</guid>
+            <link>https://www.india.com/sports/live-india-vs-pakistan-updates-t20-world-cup-2022-super-12-match-4-live-streaming-online-melbourne-mcg-weather-rain-oct23-sun-ind-v-pak-toss-time-start-preview-playing-xi-rohit-babar-kohli-cricketnews-5700997/</link>
+            <guid isPermaLink="false">1666511117021</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
         </item>
         <item>
             <title>
-                <![CDATA[ Highlights Ireland vs West Indies, T20 World Cup 2022, Group Stage: Windies Crash Out, Ireland Win By 9 Wickets ]]>
+                <![CDATA[ LIVE | Ind vs Pak Updates, T20 World Cup 2022: India Win Toss, Opt to Bowl ]]>
             </title>
-            <link>https://www.india.com/sports/highlights-iire-vs-wi-cricket-match-updates-t20-world-cup-2022-qualifier-match-11-hobart-oct-21-fri-super-12-ireland-vs-windies-ball-commentary-live-streaming-hotstar-pooran-joseph-balbirnie-stirling-5697506/</link>
-            <guid isPermaLink="false">1666422019202</guid>
+            <link>https://www.india.com/sports/live-ind-vs-pak-score-updates-t20-world-cup-2022-super-12-match-4-mcg-weather-rain-ball-commentary-india-vs-pakistan-playing-11-toss-time-live-streaming-hotstar-rohit-sharma-babar-azam-cricket-news-5701204/</link>
+            <guid isPermaLink="false">1666511117022</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
         </item>
         <item>
             <title>
-                <![CDATA[ WI vs IRE Dream11 Prediction, Fantasy Cricket Hints ICC T20 World Cup 2022: Captain, Vice-Captain, Probable Playing 11s For Today’s West Indies vs Ireland T20 WC at Bellerive Oval, Hobart at 9:30 AM IST October 21 Fri ]]>
+                <![CDATA[ Highlights SL vs IRE, T20 World Cup 2022, Score: Kusal Mendis Leads Sri Lanka To A Thumping Win Over Ireland ]]>
             </title>
-            <link>https://www.india.com/sports/wi-vs-ire-dream11-prediction-fantasy-cricket-hints-icc-t20-world-cup-2022-captain-vice-captain-probable-playing-11s-for-todays-west-indies-vs-ireland-t20-wc-at-bellerive-oval-hobart-at-930-am-5697384/</link>
-            <guid isPermaLink="false">1666422019203</guid>
+            <link>https://www.india.com/sports/highlights-sl-vs-ire-t20-world-cup-2022-cricket-score-super-12-belerive-oval-hobart-oct-23-sun-ball-by-ball-commentary-sri-lanka-v-ireland-live-streaming-hotstar-de-silva-mendis-theekshana-live-news-5700940/</link>
+            <guid isPermaLink="false">1666511117023</guid>
+            <dc:creator>
+                <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
+            </dc:creator>
+        </item>
+        <item>
+            <title>
+                <![CDATA[ IND vs PAK Dream11 Prediction, Fantasy Cricket Hints ICC T20 World Cup 2022: Captain, Vice-Captain, Probable Playing 11s For Today’s India vs Pakistan T20 WC Match at Melbourne Cricket Ground at 1:30 PM IST October 23 Sun ]]>
+            </title>
+            <link>https://www.india.com/sports/ind-vs-pak-dream11-prediction-fantasy-cricket-hints-icc-t20-world-cup-2022-captain-vice-captain-india-vs-pakistan-t20-wc-melbourne-cricket-ground-130-pm-ist-october-23-sun-5700619/</link>
+            <guid isPermaLink="false">1666511117024</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -518,7 +528,7 @@ View ]]>
                 <![CDATA[ Next ]]>
             </title>
             <link>https://www.india.com/cricket/news/page/2/</link>
-            <guid isPermaLink="false">1666422019204</guid>
+            <guid isPermaLink="false">1666511117025</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -528,37 +538,7 @@ View ]]>
                 <![CDATA[ Live Cricket Score ]]>
             </title>
             <link>https://www.india.com/cricket/live-cricket-score/</link>
-            <guid isPermaLink="false">1666422019205</guid>
-            <dc:creator>
-                <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
-            </dc:creator>
-        </item>
-        <item>
-            <title>
-                <![CDATA[ Australia vs New Zealand - Super 12 - Match 1 ]]>
-            </title>
-            <link>https://www.india.com/cricket/series/icct20wc22-202254/live-score-super-12-match-1/australia-vs-new-zealand/summary/209247/</link>
-            <guid isPermaLink="false">1666422019206</guid>
-            <dc:creator>
-                <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
-            </dc:creator>
-        </item>
-        <item>
-            <title>
-                <![CDATA[ England vs Afghanistan - Super 12 - Match 2 ]]>
-            </title>
-            <link>https://www.india.com/cricket/series/icct20wc22-202254/live-score-super-12-match-2/england-vs-afghanistan/summary/209248/</link>
-            <guid isPermaLink="false">1666422019207</guid>
-            <dc:creator>
-                <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
-            </dc:creator>
-        </item>
-        <item>
-            <title>
-                <![CDATA[ Sri Lanka vs Ireland - Super 12 - Match 3 ]]>
-            </title>
-            <link>https://www.india.com/cricket/series/icct20wc22-202254/live-score-super-12-match-3/sri-lanka-vs-ireland/summary/209249/</link>
-            <guid isPermaLink="false">1666422019208</guid>
+            <guid isPermaLink="false">1666511117026</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -568,7 +548,7 @@ View ]]>
                 <![CDATA[ India vs Pakistan - Super 12 - Match 4 ]]>
             </title>
             <link>https://www.india.com/cricket/series/icct20wc22-202254/live-score-super-12-match-4/india-vs-pakistan/summary/209250/</link>
-            <guid isPermaLink="false">1666422019209</guid>
+            <guid isPermaLink="false">1666511117027</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -578,27 +558,67 @@ View ]]>
                 <![CDATA[ Bangladesh vs Netherlands - Super 12 - Match 5 ]]>
             </title>
             <link>https://www.india.com/cricket/series/icct20wc22-202254/live-score-super-12-match-5/bangladesh-vs-netherlands/summary/209251/</link>
-            <guid isPermaLink="false">1666422019210</guid>
+            <guid isPermaLink="false">1666511117028</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
         </item>
         <item>
             <title>
-                <![CDATA[ SA vs ZIM ]]>
+                <![CDATA[ South Africa vs Zimbabwe - Super 12 - Match 6 ]]>
             </title>
-            <link>https://www.india.com/cricket/series/icct20wc22-202254/super-12-match-6/south-africa-vs-zimbabwe/summary/209252/</link>
-            <guid isPermaLink="false">1666422019211</guid>
+            <link>https://www.india.com/cricket/series/icct20wc22-202254/live-score-super-12-match-6/south-africa-vs-zimbabwe/summary/209252/</link>
+            <guid isPermaLink="false">1666511117029</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
         </item>
         <item>
             <title>
-                <![CDATA[ AUS vs SL ]]>
+                <![CDATA[ Australia vs Sri Lanka - Super 12 - Match 7 ]]>
             </title>
-            <link>https://www.india.com/cricket/series/icct20wc22-202254/super-12-match-7/australia-vs-sri-lanka/summary/209253/</link>
-            <guid isPermaLink="false">1666422019212</guid>
+            <link>https://www.india.com/cricket/series/icct20wc22-202254/live-score-super-12-match-7/australia-vs-sri-lanka/summary/209253/</link>
+            <guid isPermaLink="false">1666511117030</guid>
+            <dc:creator>
+                <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
+            </dc:creator>
+        </item>
+        <item>
+            <title>
+                <![CDATA[ Ireland vs England - Super 12 - Match 8 ]]>
+            </title>
+            <link>https://www.india.com/cricket/series/icct20wc22-202254/live-score-super-12-match-8/ireland-vs-england/summary/209254/</link>
+            <guid isPermaLink="false">1666511117031</guid>
+            <dc:creator>
+                <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
+            </dc:creator>
+        </item>
+        <item>
+            <title>
+                <![CDATA[ NZ vs AFG ]]>
+            </title>
+            <link>https://www.india.com/cricket/series/icct20wc22-202254/super-12-match-9/new-zealand-vs-afghanistan/summary/209255/</link>
+            <guid isPermaLink="false">1666511117032</guid>
+            <dc:creator>
+                <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
+            </dc:creator>
+        </item>
+        <item>
+            <title>
+                <![CDATA[ Australia vs New Zealand - Super 12 - Match 1 ]]>
+            </title>
+            <link>https://www.india.com/cricket/series/icct20wc22-202254/live-score-super-12-match-1/australia-vs-new-zealand/full-scorecard/209247/</link>
+            <guid isPermaLink="false">1666511117033</guid>
+            <dc:creator>
+                <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
+            </dc:creator>
+        </item>
+        <item>
+            <title>
+                <![CDATA[ England vs Afghanistan - Super 12 - Match 2 ]]>
+            </title>
+            <link>https://www.india.com/cricket/series/icct20wc22-202254/live-score-super-12-match-2/england-vs-afghanistan/full-scorecard/209248/</link>
+            <guid isPermaLink="false">1666511117034</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -608,7 +628,7 @@ View ]]>
                 <![CDATA[ Ireland vs West Indies - Match 11 ]]>
             </title>
             <link>https://www.india.com/cricket/series/icct20wc22-202254/live-score-match-11/ireland-vs-west-indies/full-scorecard/209245/</link>
-            <guid isPermaLink="false">1666422019213</guid>
+            <guid isPermaLink="false">1666511117035</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -618,7 +638,7 @@ View ]]>
                 <![CDATA[ Scotland vs Zimbabwe - Match 12 ]]>
             </title>
             <link>https://www.india.com/cricket/series/icct20wc22-202254/live-score-match-12/scotland-vs-zimbabwe/full-scorecard/209246/</link>
-            <guid isPermaLink="false">1666422019214</guid>
+            <guid isPermaLink="false">1666511117036</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -628,37 +648,27 @@ View ]]>
                 <![CDATA[ Netherlands vs Sri Lanka - Match 9 ]]>
             </title>
             <link>https://www.india.com/cricket/series/icct20wc22-202254/live-score-match-9/netherlands-vs-sri-lanka/full-scorecard/209243/</link>
-            <guid isPermaLink="false">1666422019215</guid>
+            <guid isPermaLink="false">1666511117037</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
         </item>
         <item>
             <title>
-                <![CDATA[ Namibia vs United Arab Emirates - Match 10 ]]>
+                <![CDATA[ SA vs BAN ]]>
             </title>
-            <link>https://www.india.com/cricket/series/icct20wc22-202254/live-score-match-10/namibia-vs-united-arab-emirates/full-scorecard/209244/</link>
-            <guid isPermaLink="false">1666422019216</guid>
+            <link>https://www.india.com/cricket/series/icct20wc22-202254/super-12-match-10/south-africa-vs-bangladesh/summary/209256/</link>
+            <guid isPermaLink="false">1666511117038</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
         </item>
         <item>
             <title>
-                <![CDATA[ Scotland vs Ireland - Match 7 ]]>
+                <![CDATA[ IND vs NED ]]>
             </title>
-            <link>https://www.india.com/cricket/series/icct20wc22-202254/live-score-match-7/scotland-vs-ireland/full-scorecard/209241/</link>
-            <guid isPermaLink="false">1666422019217</guid>
-            <dc:creator>
-                <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
-            </dc:creator>
-        </item>
-        <item>
-            <title>
-                <![CDATA[ IRE vs ENG ]]>
-            </title>
-            <link>https://www.india.com/cricket/series/icct20wc22-202254/super-12-match-8/ireland-vs-england/summary/209254/</link>
-            <guid isPermaLink="false">1666422019218</guid>
+            <link>https://www.india.com/cricket/series/icct20wc22-202254/super-12-match-11/india-vs-netherlands/summary/209258/</link>
+            <guid isPermaLink="false">1666511117039</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -668,7 +678,7 @@ View ]]>
                 <![CDATA[ AUS vs SA ]]>
             </title>
             <link>https://www.india.com/cricket/series/aus-vs-sa-202527/live-score-3rd-odi-match/australia-vs-south-africa/full-scorecard/213015/</link>
-            <guid isPermaLink="false">1666422019219</guid>
+            <guid isPermaLink="false">1666511117040</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -678,7 +688,7 @@ View ]]>
                 <![CDATA[ AUS vs SA ]]>
             </title>
             <link>https://www.india.com/cricket/series/aus-vs-sa-202527/live-score-2nd-odi-match/australia-vs-south-africa/full-scorecard/213014/</link>
-            <guid isPermaLink="false">1666422019220</guid>
+            <guid isPermaLink="false">1666511117041</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -688,7 +698,7 @@ View ]]>
                 <![CDATA[ AUS vs SA ]]>
             </title>
             <link>https://www.india.com/cricket/series/aus-vs-sa-202527/live-score-1st-odi-match/australia-vs-south-africa/full-scorecard/213008/</link>
-            <guid isPermaLink="false">1666422019221</guid>
+            <guid isPermaLink="false">1666511117042</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -698,7 +708,7 @@ View ]]>
                 <![CDATA[ CricketCountry ]]>
             </title>
             <link>https://www.cricketcountry.com/</link>
-            <guid isPermaLink="false">1666422019222</guid>
+            <guid isPermaLink="false">1666511117043</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -708,7 +718,7 @@ View ]]>
                 <![CDATA[ टी-20 वर्ल्ड कप ]]>
             </title>
             <link>https://www.aajtak.in/sports/cricket/icc-t20-mens-world-cup-2022</link>
-            <guid isPermaLink="false">1666422019223</guid>
+            <guid isPermaLink="false">1666511117044</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -718,7 +728,7 @@ View ]]>
                 <![CDATA[ क्रिकेट ]]>
             </title>
             <link>https://www.aajtak.in/sports/cricket</link>
-            <guid isPermaLink="false">1666422019224</guid>
+            <guid isPermaLink="false">1666511117045</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -728,207 +738,207 @@ View ]]>
                 <![CDATA[  ]]>
             </title>
             <link>https://web.whatsapp.com:/send?text=%e0%a4%95%e0%a5%8d%e0%a4%b0%e0%a4%bf%e0%a4%95%e0%a5%87%e0%a4%9f via @aajtak https://www.aajtak.in/sports/cricket?utm_source=atweb_share</link>
-            <guid isPermaLink="false">1666422019225</guid>
+            <guid isPermaLink="false">1666511117046</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
         </item>
         <item>
             <title>
-                <![CDATA[ खुशखबरी! पलटा मेलबर्न का मौसम, जानें भारत-PAK मैच के वक्त बारिश के कितने आसार ]]>
+                <![CDATA[ बाबर-रिजवान आउट हुए तो भारत जीत जाएगा? सवाल पर PAK कप्तान ने दिया ये जवाब ]]>
             </title>
-            <link>https://www.aajtak.in/sports/cricket/story/india-vs-pakistan-rain-forecast-melbourne-weather-forecast-on-23rd-october-live-weather-t20-world-cup-2022-tspo-1561029-2022-10-22</link>
-            <guid isPermaLink="false">1666422019226</guid>
+            <link>https://www.aajtak.in/sports/cricket/story/babar-azam-press-conference-ahead-of-india-vs-pakistan-match-in-t20-world-cup-2022-mohammad-rizwan-tspo-1561438-2022-10-23</link>
+            <guid isPermaLink="false">1666511117047</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
         </item>
         <item>
             <title>
-                <![CDATA[ Ind Vs Pak: एशिया कप विवाद पर रोहित शर्मा का बड़ा बयान, 'इस बारे में सोचने का कोई...' ]]>
+                <![CDATA[ भारत-पाक का सुपरहिट मुकाबला आज, देखें मेलबर्न से खास कवरेज ]]>
             </title>
-            <link>https://www.aajtak.in/sports/cricket/story/rohit-sharma-asia-cup-2023-pakistan-statement-before-india-vs-pakistan-match-t20-world-cup-2022-team-india-disappointed-tspo-1561008-2022-10-22</link>
-            <guid isPermaLink="false">1666422019227</guid>
+            <link>https://www.aajtak.in/sports/cricket/video/t20-world-cup-ind-vs-pak-india-pakistan-match-today-exclusive-coverage-from-melbourne-1561488-2022-10-23</link>
+            <guid isPermaLink="false">1666511117048</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
         </item>
         <item>
             <title>
-                <![CDATA[ T20 WC: सेमीफाइनल में आराम से पहुंच सकता है भारत, मिला आसान ग्रुप ]]>
+                <![CDATA[ IndVsPak महामुकाबले से पहले बारिश के लिए तैयार हैं मोमिन! ]]>
             </title>
-            <link>https://www.aajtak.in/sports/cricket/story/t20-world-cup-2022-team-india-semifianl-chances-very-high-super-12-stage-tspo-1560967-2022-10-22</link>
-            <guid isPermaLink="false">1666422019228</guid>
+            <link>https://www.aajtak.in/sports/cricket/video/t20-world-cup-2022-momin-saqib-ready-for-rain-ahead-of-ind-vs-pak-india-pakistan-match-1561475-2022-10-23</link>
+            <guid isPermaLink="false">1666511117049</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
         </item>
         <item>
             <title>
-                <![CDATA[ भारत-PAK मैच पर संकट के बादल! जानें मेलबर्न के मौसम का ताजा अपडेट ]]>
+                <![CDATA[ PAK खिलाड़ी को जब अलमारी में छिपानी पड़ी थी अपनी वाइफ, पढ़ें किस्सा ]]>
             </title>
-            <link>https://www.aajtak.in/sports/cricket/story/t20-world-cup-2022-ind-vs-pak-match-melbourne-latest-weather-updates-mcg-tspo-1560947-2022-10-22</link>
-            <guid isPermaLink="false">1666422019229</guid>
+            <link>https://www.aajtak.in/sports/cricket/story/ind-vs-pak-world-cup-2022-saqlain-mushtaq-had-to-hide-his-wife-in-cupboard-during-world-cup-1999-tspo-1561472-2022-10-23</link>
+            <guid isPermaLink="false">1666511117050</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
         </item>
         <item>
             <title>
-                <![CDATA[ T20 WC: आज से सुपर-12 की जंग, कब और किससे भिड़ेगा भारत, जानें हर जवाब ]]>
+                <![CDATA[ मेलबर्न में मौसम चकाचक, जुटी हजारों की भीड़, थोड़ी देर में भारत-PAK मैच का टॉस ]]>
             </title>
-            <link>https://www.aajtak.in/sports/cricket/story/t20-world-cup-2022-team-india-full-schedule-venues-prize-money-1560921-2022-10-22</link>
-            <guid isPermaLink="false">1666422019230</guid>
+            <link>https://www.aajtak.in/sports/cricket/story/india-vs-pakistan-live-score-t20-world-cup-melbourne-rain-forecast-weather-report-rohit-sharma-virat-kohli-babar-azam-live-cricket-score-in-hindi-t20-world-cup-tspo-1561464-2022-10-23</link>
+            <guid isPermaLink="false">1666511117051</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
         </item>
         <item>
             <title>
-                <![CDATA[ एक्सपर्ट्स व्यू: भारत-पाक के बीच क‍ितना कड़ा होगा मुकाबला? ]]>
+                <![CDATA[ भारत-पाक मैच से पहले कोहली ने रोहित की कप्तानी पर दिया बड़ा बयान ]]>
             </title>
-            <link>https://www.aajtak.in/sports/cricket/video/t20-experts-view-on-cricket-world-cup-2022-india-vs-pakistan-in-australia-cricket-adda-1560836-2022-10-21</link>
-            <guid isPermaLink="false">1666422019231</guid>
+            <link>https://www.aajtak.in/sports/cricket/story/virat-kohli-interview-on-t20-world-cup-relation-with-rohit-sharma-team-india-ind-vs-pak-tspo-1561454-2022-10-23</link>
+            <guid isPermaLink="false">1666511117052</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
         </item>
         <item>
             <title>
-                <![CDATA[ 'मैं इससे सहमत नहीं...', प्रैक्टिस सत्र को लेकर टीम इंडिया पर भड़के गावस्कर ]]>
+                <![CDATA[ कोई भी मैदान हो, भारत ने हमेशा पाकिस्तान को रौंदा, आंकड़ों में देखें टीम इंडिया की दमदारी ]]>
             </title>
-            <link>https://www.aajtak.in/sports/cricket/story/t20-world-cup-2022-sunil-gavaskar-statement-on-optional-training-session-team-india-melbourne-rohit-sharma-tspo-1560831-2022-10-21</link>
-            <guid isPermaLink="false">1666422019232</guid>
+            <link>https://www.aajtak.in/sports/cricket/story/india-vs-pakistan-head-to-head-t20-world-cup-2022-ind-vs-pak-match-t20-h2h-stats-updates-tspo-1561415-2022-10-23</link>
+            <guid isPermaLink="false">1666511117053</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
         </item>
         <item>
             <title>
-                <![CDATA[ विराट कोहली को प्रैक्टिस भी नहीं करने दे रहे फैंस! ]]>
+                <![CDATA[ भारत-PAK मैच की टॉप-5 वॉर: जब 'इंदिरानगर के गुंडे' द्रविड़ ने सिखाया अख्तर को सबक ]]>
             </title>
-            <link>https://www.aajtak.in/short-videos/video/t20-cricket-world-cup-2022-virat-kohli-angry-on-fans-during-practice-match-mmt-1560731-2022-10-21</link>
-            <guid isPermaLink="false">1666422019233</guid>
+            <link>https://www.aajtak.in/sports/cricket/photo/india-vs-pakistan-5-memorable-fight-between-players-ind-vs-pak-match-t20-world-cup-2022-tspo-1561396-2022-10-23</link>
+            <guid isPermaLink="false">1666511117054</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
         </item>
         <item>
             <title>
-                <![CDATA[ टी20 वर्ल्ड कप में अब होगी सुपर-12 की जंग, नोट कर लें सभी मैचों का शेड्यूल ]]>
+                <![CDATA[ मेलबर्न में भारत-PAK के बीच जंग, ये हो सकती है दोनों टीमों की प्लेइंग-11 ]]>
             </title>
-            <link>https://www.aajtak.in/sports/cricket/story/t20-world-cup-2022-super-12-stage-full-schedule-india-vs-pakistan-austarlia-new-zealand-tspo-1560772-2022-10-21</link>
-            <guid isPermaLink="false">1666422019234</guid>
+            <link>https://www.aajtak.in/sports/cricket/story/team-india-predicted-playing-xi-vs-pakistan-t20-world-cup-2022-ind-vs-pak-match-melbourne-rohit-sharma-babar-azam-tspo-1561334-2022-10-23</link>
+            <guid isPermaLink="false">1666511117055</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
         </item>
         <item>
             <title>
-                <![CDATA[ भारत-PAK मैच नहीं होने देंगे इंद्रदेव? मेलबर्न में हो रही झमाझम बारिश, VIDEO ]]>
+                <![CDATA[ भारत-PAK मैच पर बारिश का खतरा? जानिए मेलबर्न में मौसम का हाल ]]>
             </title>
-            <link>https://www.aajtak.in/sports/cricket/story/t20-world-cup-2022-india-vs-pakistan-match-melbourne-weather-updates-rain-clouds-tspo-1560631-2022-10-21</link>
-            <guid isPermaLink="false">1666422019235</guid>
+            <link>https://www.aajtak.in/sports/cricket/story/india-vs-pakistan-match-t20-world-cup-2022-melbourne-weather-report-today-forecast-mcg-ind-vs-pak-t20-tspo-1561370-2022-10-23</link>
+            <guid isPermaLink="false">1666511117056</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
         </item>
         <item>
             <title>
-                <![CDATA[ T20 WC: वॉर्म-अप मैचों से भारत-PAK को क्या मिला? जानें कितना फायदा मिलेगा ]]>
+                <![CDATA[ T20 WC: पिछली हार का बदला लेने उतरेगी टीम इंडिया, मेलबर्न में पाकिस्तान से महाटक्कर ]]>
             </title>
-            <link>https://www.aajtak.in/sports/cricket/story/india-and-pakistan-team-analysis-after-warm-up-match-in-t20-world-cup-2022-virat-kohli-babar-azam-rohit-sharma-tspo-1560667-2022-10-21</link>
-            <guid isPermaLink="false">1666422019236</guid>
+            <link>https://www.aajtak.in/sports/cricket/story/t20-world-cup-2022-india-vs-pakistan-super-12-match-preview-melbourne-rohit-sharma-virat-kohli-babar-azam-tspo-1561319-2022-10-23</link>
+            <guid isPermaLink="false">1666511117057</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
         </item>
         <item>
             <title>
-                <![CDATA[ T20 WC: सुपर-12 की सभी टीमों का हुआ फैसला, भारत के ग्रुप में इन दो टीमों की हुई एंट्री ]]>
+                <![CDATA[ T-20 वर्ल्ड कप में मेगा मुकाबला, इंडिया का हल्ला बोल! ]]>
             </title>
-            <link>https://www.aajtak.in/sports/cricket/story/t20-wc-2022-zimbabwe-qualify-for-super-12-stage-zim-vs-sco-match-team-india-group-teams-tspo-1560688-2022-10-21</link>
-            <guid isPermaLink="false">1666422019237</guid>
+            <link>https://www.aajtak.in/sports/cricket/video/india-vs-pakistan-face-off-in-t20-world-cup-2022-australia-in-melbourne-on-sunday-biggest-rivalry-1561338-2022-10-22</link>
+            <guid isPermaLink="false">1666511117058</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
         </item>
         <item>
             <title>
-                <![CDATA[ T20 WC: धनश्री भी पहुंचीं ऑस्ट्रेलिया, इंस्टाग्राम पोस्ट से उर्वशी को कर दिया ट्रोल ]]>
+                <![CDATA[ IndVsPak: क्या मेलबर्न में होने वाली है रनों की बारिश? ]]>
             </title>
-            <link>https://www.aajtak.in/sports/cricket/story/dhanashree-verma-troll-urvashi-rautela-after-reach-australia-for-t20-world-cup-2022-rishabh-pant-yuzvendra-chahal-tspo-1560503-2022-10-21</link>
-            <guid isPermaLink="false">1666422019238</guid>
+            <link>https://www.aajtak.in/sports/cricket/video/india-vs-pakistan-men-in-blue-prepared-to-beat-biggest-rivals-t20-world-cup-2022-australia-1561330-2022-10-22</link>
+            <guid isPermaLink="false">1666511117059</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
         </item>
         <item>
             <title>
-                <![CDATA[ अब तो हद हो गई, कोहली हुए आगबबूला, प्रैक्टिस भी नहीं करने दे रहे फैन्स! ]]>
+                <![CDATA[ भारत-पाक के बीच होगा महामुकाबला, टी-20 वर्ल्ड कप में सुपर-12 का आगाज ]]>
             </title>
-            <link>https://www.aajtak.in/sports/cricket/story/virat-kohli-angry-to-fan-for-yelling-during-team-india-practice-session-for-ind-vs-pak-match-t20-world-cup-2022-tspo-1560612-2022-10-21</link>
-            <guid isPermaLink="false">1666422019239</guid>
+            <link>https://www.aajtak.in/sports/cricket/video/india-vs-pakistan-t-20-world-cup-match-in-melbourne-sports-news-in-hindi-1561325-2022-10-22</link>
+            <guid isPermaLink="false">1666511117060</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
         </item>
         <item>
             <title>
-                <![CDATA[ पंत ने किया गर्लफ्रेंड का चैनल प्रमोट, फैन्स बोले- उर्वशी का इंटरव्यू भी करो ]]>
+                <![CDATA[ टीम इंडिया देगी दिवाली गिफ्ट! PAK से आज महामुकाबला, पूरा होगा पिछले साल का बदला? ]]>
             </title>
-            <link>https://www.aajtak.in/sports/cricket/photo/rishabh-pant-girlfriend-isha-negi-video-share-fans-mention-urvashi-rautela-name-on-comments-tspo-1560443-2022-10-21</link>
-            <guid isPermaLink="false">1666422019240</guid>
+            <link>https://www.aajtak.in/sports/cricket/story/t20-world-cup-2022-ind-vs-pak-match-melbourne-rohit-sharma-men-wants-to-take-revenge-tspo-1561298-2022-10-22</link>
+            <guid isPermaLink="false">1666511117061</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
         </item>
         <item>
             <title>
-                <![CDATA[ PAK गेंदबाज ने पहले पैर तोड़ा, फिर अफगानी प्लेयर का हाल जानने पहुंचे शाहीन-बाबर ]]>
+                <![CDATA[ एक साल में पाकिस्तान से 2 मैच हार चुका है भारत, मेलबर्न में एक भी गलती पड़ेगी भारी! ]]>
             </title>
-            <link>https://www.aajtak.in/sports/cricket/story/shaheen-shah-afridi-and-babar-azam-with-rahmanullah-gurbaz-after-toe-crushing-in-t20-world-cup-2022-warm-up-match-tspo-1559939-2022-10-21</link>
-            <guid isPermaLink="false">1666422019241</guid>
+            <link>https://www.aajtak.in/sports/cricket/story/t20-world-cup-2022-india-vs-pakistan-super-12-match-melbourne-rohit-sharma-virat-kohli-tspo-1561266-2022-10-22</link>
+            <guid isPermaLink="false">1666511117062</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
         </item>
         <item>
             <title>
-                <![CDATA[ भारत-PAK 'महामुकाबले' से पहले पंत का दावा- कोहली संग करेंगे बड़ी पार्टनरशिप ]]>
+                <![CDATA[ छोटी दिवाली होगी पाकिस्तान पर जीत वाली? देखिए स्पेशल शो ]]>
             </title>
-            <link>https://www.aajtak.in/sports/cricket/story/t20-world-cup-team-india-rishabh-pant-on-immense-experience-of-virat-kohli-tspo-1559812-2022-10-21</link>
-            <guid isPermaLink="false">1666422019242</guid>
+            <link>https://www.aajtak.in/sports/cricket/video/t20-world-cup-2022-in-australia-will-india-win-over-pakistan-on-october-23-special-coverage-1561236-2022-10-22</link>
+            <guid isPermaLink="false">1666511117063</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
         </item>
         <item>
             <title>
-                <![CDATA[ दो बार की चैम्पियन वेस्टइंडीज टी20 वर्ल्ड कप से बाहर, आयरलैंड सुपर-12 में ]]>
+                <![CDATA[ 'सूर्या ही नहीं...', महामुकाबले से पहले बाबर आजम का बड़ा बयान ]]>
             </title>
-            <link>https://www.aajtak.in/sports/cricket/story/2-time-champion-west-indies-out-to-t20-world-cup-2022-after-loss-to-ireland-paul-stirling-tspo-1560533-2022-10-21</link>
-            <guid isPermaLink="false">1666422019243</guid>
+            <link>https://www.aajtak.in/sports/cricket/story/t20-world-cup-2022-india-vs-pakistan-we-have-plans-for-everyone-suryakumar-yadav-babar-azam-tspo-1561245-2022-10-22</link>
+            <guid isPermaLink="false">1666511117064</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
         </item>
         <item>
             <title>
-                <![CDATA[ मैच का वक्त, मौसम का हाल...भारत-PAK मुकाबले से जुड़े इन सवालों के जवाब जान लें ]]>
+                <![CDATA[ भारत-पाकिस्तान मुकाबले पर देखिए मेलबर्न से स्पेशल कवरेज ]]>
             </title>
-            <link>https://www.aajtak.in/sports/cricket/story/india-vs-pakistan-t20-world-cup-match-timing-date-weather-forecast-rain-updates-melbourne-ind-vs-pak-t20-wc-sqyad-details-live-streaming-tspo-1559969-2022-10-21</link>
-            <guid isPermaLink="false">1666422019244</guid>
+            <link>https://www.aajtak.in/sports/cricket/video/t20-world-cup-2022-australia-india-vs-pakistan-high-voltage-match-on-october-23-in-melbourne-1561214-2022-10-22</link>
+            <guid isPermaLink="false">1666511117065</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
         </item>
         <item>
             <title>
-                <![CDATA[ भारत के खिलाफ मैच से पहले PAK को झटका, ये स्टार प्लेयर पहुंचा अस्पताल ]]>
+                <![CDATA[ मिस्बाह का स्कूप, कोहली का धमाल... WC में भारत-PAK जंग के स्पेशल मोमेंट ]]>
             </title>
-            <link>https://www.aajtak.in/sports/cricket/story/shan-masood-taken-to-hospital-after-head-injury-india-vs-pakistan-match-t20-world-cup-2022-tspo-1560467-2022-10-21</link>
-            <guid isPermaLink="false">1666422019245</guid>
+            <link>https://www.aajtak.in/sports/cricket/story/t20-world-cup-india-vs-pakistan-match-top-special-moments-in-wc-history-virat-kohli-tspo-1561199-2022-10-22</link>
+            <guid isPermaLink="false">1666511117066</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -938,7 +948,7 @@ View ]]>
                 <![CDATA[ T20 वर्ल्ड कप ]]>
             </title>
             <link>https://www.livehindustan.com/cricket/icc-t20-world-cup/</link>
-            <guid isPermaLink="false">1666422019246</guid>
+            <guid isPermaLink="false">1666511117067</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -948,7 +958,7 @@ View ]]>
                 <![CDATA[ Cricket News ]]>
             </title>
             <link>https://www.livehindustan.com/cricket/</link>
-            <guid isPermaLink="false">1666422019247</guid>
+            <guid isPermaLink="false">1666511117068</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -958,7 +968,7 @@ View ]]>
                 <![CDATA[ और पढ़ें ]]>
             </title>
             <link>https://www.livehindustan.com/cricket/news</link>
-            <guid isPermaLink="false">1666422019248</guid>
+            <guid isPermaLink="false">1666511117069</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -968,7 +978,7 @@ View ]]>
                 <![CDATA[ शेड्यूल ]]>
             </title>
             <link>https://www.livehindustan.com/cricket/schedule/</link>
-            <guid isPermaLink="false">1666422019249</guid>
+            <guid isPermaLink="false">1666511117070</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -978,7 +988,7 @@ View ]]>
                 <![CDATA[ रैंकिंग ]]>
             </title>
             <link>https://www.livehindustan.com/cricket/icc-rankings/</link>
-            <guid isPermaLink="false">1666422019250</guid>
+            <guid isPermaLink="false">1666511117071</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -988,7 +998,7 @@ View ]]>
                 <![CDATA[ और देखें ]]>
             </title>
             <link>https://www.livehindustan.com/videos/cricket/</link>
-            <guid isPermaLink="false">1666422019251</guid>
+            <guid isPermaLink="false">1666511117072</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -998,7 +1008,7 @@ View ]]>
                 <![CDATA[ और पढ़ें ]]>
             </title>
             <link>https://www.livehindustan.com/cricket/analysis/news</link>
-            <guid isPermaLink="false">1666422019252</guid>
+            <guid isPermaLink="false">1666511117073</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -1008,7 +1018,7 @@ View ]]>
                 <![CDATA[ और पढ़ें ]]>
             </title>
             <link>https://www.livehindustan.com/cricket/interview/news</link>
-            <guid isPermaLink="false">1666422019253</guid>
+            <guid isPermaLink="false">1666511117074</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -1018,7 +1028,7 @@ View ]]>
                 <![CDATA[ और पढ़ें ]]>
             </title>
             <link>https://www.livehindustan.com/cricket/gossip/news</link>
-            <guid isPermaLink="false">1666422019254</guid>
+            <guid isPermaLink="false">1666511117075</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -1028,7 +1038,7 @@ View ]]>
                 <![CDATA[ रोचक ]]>
             </title>
             <link>https://www.livehindustan.com/cricket/off-the-field/news</link>
-            <guid isPermaLink="false">1666422019255</guid>
+            <guid isPermaLink="false">1666511117076</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -1038,217 +1048,277 @@ View ]]>
                 <![CDATA[ आईपीएल 2022 ]]>
             </title>
             <link>https://www.livehindustan.com/cricket/ipl/</link>
-            <guid isPermaLink="false">1666422019256</guid>
+            <guid isPermaLink="false">1666511117077</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
         </item>
         <item>
             <title>
-                <![CDATA[ रोहित ने प्रैक्टिस के दौरान इस गेंदबाज को बताया 'डेंजरस', वीडियो वायरल ]]>
+                <![CDATA[ LIVE: रोहित शर्मा ने टॉस जीतकर चुनी गेंदबाजी, यहां देखें प्लेइंग XI ]]>
             </title>
-            <link>https://www.livehindustan.com/cricket/story-rohit-sharma-lamsh-mohammed-shami-is-most-dangerous-bowler-icc-shares-video-7254588.html</link>
-            <guid isPermaLink="false">1666422019257</guid>
+            <link>https://www.livehindustan.com/cricket/story-ind-vs-pak-live-score-icc-mens-t20-world-cup-2022-super-12-india-vs-pakistan-live-cricket-score-23rd-oct-today-match-live-updates-in-hindi-7258588.html</link>
+            <guid isPermaLink="false">1666511117078</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
         </item>
         <item>
             <title>
-                <![CDATA[ हमने नौ साल से आईसीसी टूर्नामेंट नहीं जीता है यह निराशाजनक है - रोहित ]]>
+                <![CDATA[ सुपर-12 में श्रीलंका का जीत से आगाज, आयरलैंड को 9 विकेट से हराया Sun, 23 Oct 2022 12:51 PM ]]>
             </title>
-            <link>https://www.livehindustan.com/cricket/story-rohit-sharma-said-before-ind-vs-pak-clash-in-t20-world-cup-2022-we-are-disappointed-not-to-win-big-games-in-icc-tournaments-for-9-nine-years-7254567.html</link>
-            <guid isPermaLink="false">1666422019258</guid>
+            <link>https://www.livehindustan.com/cricket/story-t20-world-cup-2022-sl-vs-ire-sri-lanka-start-with-a-win-in-super-12-beat-ireland-by-9-wickets-7258808.html</link>
+            <guid isPermaLink="false">1666511117079</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
         </item>
         <item>
             <title>
-                <![CDATA[ AUS vs NZ मुकाबले का रोमांच खराब कर सकती है बारिश, देखें संभावित XI ]]>
+                <![CDATA[ आप, रिजवान आउट, तो जीत जाएगा भारत? बाबर ने दिया परफेक्ट जवाबपाकिस्तान के कप्तान बाबर आजम से जब पूछा गया कि अगर वो और रिजवान आउट हो गए, तो क्या भारत जीत जाएगा? इस पर पाकिस्तानी कप्तान ने कहा कि यह तो मैच के दिन ही पता चलेगा, टी20 में कुछ भी हो सकता है। ]]>
             </title>
-            <link>https://www.livehindustan.com/cricket/story-aus-vs-nz-probable-playing-xi-australia-vs-new-zealand-weather-report-rain-prediction-at-sydney-t20-world-cup-2022-7254472.html</link>
-            <guid isPermaLink="false">1666422019259</guid>
+            <link>https://www.livehindustan.com/cricket/story-aap-aur-rizwan-out-ho-gaye-to-india-jeet-jaayega-reporter-ke-sawal-par-babar-azam-ka-pefect-reply-ind-vs-pak-t20-wc-2022-7258648.html</link>
+            <guid isPermaLink="false">1666511117080</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
         </item>
         <item>
             <title>
-                <![CDATA[ मेलबर्न से मिली खुशखबरी, भारत बनाम पाकिस्तान मैच से हटे संकट के बादल!भारत vs पाकिस्तान मैच से पहले फैंस के लिए खुशखबरी।मेलबर्न में रविवार को बारिश की संभावना कम हो गई है। ]]>
+                <![CDATA[ मियांदाद ने भारत के खिलाफ उगला जहर, 100 करोड़ की जनता में भी...पाकिस्तान के पूर्व क्रिकेटर जावेद मियांदाद ने एक बार फिर भारत के खिलाफ जहर उगला है। मियांदाद ने कहा कि पाक 20 करोड़ की आबादी में जैसा टैलेंट पैदा करता है, भारत 100 करोड़ की आबादी में भी नहीं कर पाता। ]]>
             </title>
-            <link>https://www.livehindustan.com/cricket/story-melbourne-weather-forecast-on-23-october-2022-rain-possibility-goes-down-india-vs-pakistan-t20-world-cup-2022-match-will-happen-7254470.html</link>
-            <guid isPermaLink="false">1666422019260</guid>
+            <link>https://www.livehindustan.com/cricket/story-javed-miandad-spews-poison-against-india-india-does-not-produce-talent-like-pak-even-among-the-people-of-100-crores-7258788.html</link>
+            <guid isPermaLink="false">1666511117081</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
         </item>
         <item>
             <title>
-                <![CDATA[ क्या एशिया कप 2023 के लिए पाक जाएगा भारत? जानें रोहित शर्मा का जवाब Sat, 22 Oct 2022 10:05 AM ]]>
+                <![CDATA[ गांगुली ने बताया T20 WC 2022 में कौन सी टीमें पहुंचेंगी सेमीफाइनल मेंSun, 23 Oct 2022 12:07 PM ]]>
             </title>
-            <link>https://www.livehindustan.com/cricket/story-rohit-sharma-on-asia-cup-2023-in-pakistan-there-is-no-point-talk-about-india-tour-to-pakistan-or-not-let-the-bcci-to-decide-it-7254434.html</link>
-            <guid isPermaLink="false">1666422019261</guid>
+            <link>https://www.livehindustan.com/cricket/story-which-four-teams-will-reach-the-semi-finals-of-t20-world-cup-2022-sourav-ganguly-told-his-prediction-pakistan-and-new-zealand-are-out-of-the-race-7258671.html</link>
+            <guid isPermaLink="false">1666511117082</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
         </item>
         <item>
             <title>
-                <![CDATA[ रोहित ने बताया, एक साल में उनकी कप्तानी में क्या चीजें बदलींSat, 22 Oct 2022 09:52 AM ]]>
+                <![CDATA[ रोहित शर्मा इस वजह से पाकिस्तान के खिलाफ ऋषभ पंत को दे सकते हैं मौका ]]>
             </title>
-            <link>https://www.livehindustan.com/cricket/story-rohit-sharma-reveals-what-was-changed-from-t20-world-cup-2021-to-t20-world-cup-2022-in-team-india-7254424.html</link>
-            <guid isPermaLink="false">1666422019262</guid>
+            <link>https://www.livehindustan.com/cricket/story-ind-vs-pak-probable-playing-xi-icc-mens-t20-world-cup-rohit-sharma-may-give-chance-to-rishabh-pant-india-vs-pakistan-2022-7258514.html</link>
+            <guid isPermaLink="false">1666511117083</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
         </item>
         <item>
             <title>
-                <![CDATA[ सुनील गावस्कर अब इस बात को लेकर टीम इंडिया पर बरसे, खुनाई खरी-खोटीSat, 22 Oct 2022 08:45 AM ]]>
+                <![CDATA[ भारत के खिलाफ मुकाबले से पहले रमीज राजा की बाबर आजम से क्या हुई बात? ]]>
             </title>
-            <link>https://www.livehindustan.com/cricket/story-virat-kohli-suryakumar-yadav-kl-rahul-rishabh-pant-not-take-part-in-practice-session-sunil-gavaskar-got-angry-t20-world-cup-2022-7254335.html</link>
-            <guid isPermaLink="false">1666422019263</guid>
+            <link>https://www.livehindustan.com/cricket/story-ramiz-raja-reveals-his-last-minute-conversation-with-babar-azam-before-india-match-ind-vs-pak-t20-world-cup-7258727.html</link>
+            <guid isPermaLink="false">1666511117084</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
         </item>
         <item>
             <title>
-                <![CDATA[ इस खिलाड़ी का टीम में चयन भारत के लिए खतरनाक साबित हो सकता है- गंभीरSat, 22 Oct 2022 08:27 AM ]]>
+                <![CDATA[ IND vs PAK: खुशखबरी! MCG पर निकली धूप, तय समय पर शुरू होगा मैच Sun, 23 Oct 2022 11:12 AM ]]>
             </title>
-            <link>https://www.livehindustan.com/cricket/story-gautam-gambhir-prediction-dinesh-karthin-selection-over-rishabh-pant-in-the-playing-xi-can-prove-to-be-dangerous-for-india-7254361.html</link>
-            <guid isPermaLink="false">1666422019264</guid>
+            <link>https://www.livehindustan.com/cricket/story-ind-vs-pak-melbourne-weather-forecast-23-october-rain-prediction-all-details-here-india-vs-pakistan-t20-world-cup-2022-match-7258526.html</link>
+            <guid isPermaLink="false">1666511117085</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
         </item>
         <item>
             <title>
-                <![CDATA[ T20 WC: विराट की नजरें सचिन तेंदुलकर के एक और बड़े रिकॉर्ड पर सचिन तेंदुलकर ने वनडे वर्ल्ड कप के अलावा सिर्फ चैंपियंस ट्रॉफी खेली है। सचिन ने ICC टूर्नामेंट में खेले 61 मुकाबलों में 23 बार 50 का आंकड़ा पार किया है। इस दौरान उनके नाम 7 शतक और 16 अर्धशतक दर्ज है। ]]>
+                <![CDATA[ ओ विराट, जरा बाबर की तरह मारकर... PAK फैन ने लिए किंग कोहली के मजेआईसीसी टी20 वर्ल्ड कप 2022 में आज भारत का मुकाबला पाकिस्तान से होना है। मैच से एक दिन पहले जब विराट कोहली एमसीजी पर प्रैक्टिस सेशन के लिए आए, तो पाकिस्तानी फैन्स ने उनके जमकर मजे लिए। ]]>
             </title>
-            <link>https://www.livehindustan.com/cricket/story-virat-kohli-needs-one-more-50-plus-score-to-break-sachin-tendulkar-record-in-the-icc-limited-overs-tournaments-7254326.html</link>
-            <guid isPermaLink="false">1666422019265</guid>
+            <link>https://www.livehindustan.com/cricket/story-o-virat-zara-babar-azam-ki-tarah-straight-drive-khelkar-dikhao-pak-fans-trolled-virat-kohli-ahead-of-ind-vs-pak-t20-wc-match-7258586.html</link>
+            <guid isPermaLink="false">1666511117086</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
         </item>
         <item>
             <title>
-                <![CDATA[ AUS v NZ भिड़ंत से शुरू होगा सुपर-12, हिसाब चुकता करना चाहेगी कीवी टीम ]]>
+                <![CDATA[ आकाश चोपड़ा की प्लेइंग XI से भी पंत बाहर, इन 11 खिलाड़ियों को मिली जगहSun, 23 Oct 2022 09:59 AM ]]>
             </title>
-            <link>https://www.livehindustan.com/cricket/story-t20-world-cup-new-zealand-vs-australia-match-preview-13th-match-super-12-group-1-7252805.html</link>
-            <guid isPermaLink="false">1666422019266</guid>
+            <link>https://www.livehindustan.com/cricket/story-ind-vs-pak-rishabh-pant-out-of-aakash-chopra-predicted-playing-xi-vs-pakistan-these-11-players-got-a-place-7258637.html</link>
+            <guid isPermaLink="false">1666511117087</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
         </item>
         <item>
             <title>
-                <![CDATA[ टीम के प्रदर्शन से बौखलाया वेस्टइंडीज बोर्ड, खिलाड़ियों पर गिरेगी गाज Fri, 21 Oct 2022 11:00 PM ]]>
+                <![CDATA[ अपने प्लेयर्स को सिर पर चढ़ाया, पूर्व IND क्रिकेटर को अफरीदी ने लताड़ाटीम इंडिया के पूर्व क्रिकेटर अतुल वासन ने जब मोहम्मद रिजवान को बड़ा नाम नहीं बोला तो शाहिद अफरीदी भड़क उठे, उन्होंने जमकर वासन को खरी-खोटी सुनाई। आज टी20 वर्ल्ड कप में भारत और पाक का मैच होना है। ]]>
             </title>
-            <link>https://www.livehindustan.com/cricket/story-comment-by-cwi-president-ricky-skerritt-after-west-indies-early-exit-from-t20-world-cup-2022-7252634.html</link>
-            <guid isPermaLink="false">1666422019267</guid>
+            <link>https://www.livehindustan.com/cricket/story-apne-players-ko-sir-chadha-liya-hai-shahid-afridi-got-angry-over-atul-wasan-india-vs-pakistan-match-7258613.html</link>
+            <guid isPermaLink="false">1666511117088</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
         </item>
         <item>
             <title>
-                <![CDATA[ PAK के खिलाफ अक्षर और अश्विन में किसे मिलेगा, जानिए किसका पलड़ा भारीFri, 21 Oct 2022 10:21 PM ]]>
+                <![CDATA[ विराट ने खोली पोल- कप्तान रोहित के साथ रिश्ते को लेकर खुलकर की बातटी20 वर्ल्ड कप में टीम इंडिया के आगाज से पहले विराट कोहली ने रोहित शर्मा के साथ अपनी केमेस्ट्री पर खुलकर बात की। उन्होंने बताया कि दोनों के बीच किस तरह से बातचीत होती है और गेम को लेकर क्या समझ है। ]]>
             </title>
-            <link>https://www.livehindustan.com/cricket/story-toss-up-between-axar-patel-and-ashwin-for-second-spinners-slot-for-upcoming-match-against-pakistan-7252549.html</link>
-            <guid isPermaLink="false">1666422019268</guid>
+            <link>https://www.livehindustan.com/cricket/story-india-vs-pakistan-t20-world-cup-2022-virat-kohli-spoke-on-his-rapport-with-the-captain-rohit-sharma-ahead-of-ind-vs-pak-7258562.html</link>
+            <guid isPermaLink="false">1666511117089</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
         </item>
         <item>
             <title>
-                <![CDATA[ मसूद के सिर की चोट को लेकर PCB ने दिया अपडेट, जानिए खेलेंगे या नहींFri, 21 Oct 2022 08:40 PM ]]>
+                <![CDATA[ गंभीर ने गिनाई पाक की ताकत और कमजोरियां, क्या भारत उठा पाएगा फायदा? Sun, 23 Oct 2022 09:01 AM ]]>
             </title>
-            <link>https://www.livehindustan.com/cricket/story-t20-world-cup-2022-pakistan-cricket-board-shares-crucial-update-on-shan-masood-ahead-of-india-vs-pakistan-clash-7251980.html</link>
-            <guid isPermaLink="false">1666422019269</guid>
+            <link>https://www.livehindustan.com/cricket/story-ind-vs-pak-gautam-gambhir-enumerates-pakistan-strengths-and-weaknesses-will-india-be-able-to-take-advantage-7258607.html</link>
+            <guid isPermaLink="false">1666511117090</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
         </item>
         <item>
             <title>
-                <![CDATA[ T20 WC का पहला राउंड खत्म, अब इन 12 टीमों के बीच होगी जोरदार टक्करFri, 21 Oct 2022 06:06 PM ]]>
+                <![CDATA[ IND vs PAK: पाकिस्तान को हलके में लेने की गलती नहीं करेंगे रोहित शर्माटी20 में भारत और पाकिस्तान के बीच अभी तक कुल 11 मुकाबले खेले जा चुके हैं जिसमें 8 बार टीम इंडिया ने पाकिस्तान को धूल चटाई है। इसमें एक जीत 2007 टी20 वर्ल्ड कप के बॉल-आउट की भी शामिल है। ]]>
             </title>
-            <link>https://www.livehindustan.com/cricket/story-t20-world-cup-2022-zimbabwe-ireland-sri-lanka-and-netherlands-qualified-for-the-super-12-of-the-t20-world-cup-2022-second-round-set-to-start-for-tomorrow-7251173.html</link>
-            <guid isPermaLink="false">1666422019270</guid>
+            <link>https://www.livehindustan.com/cricket/story-ind-vs-pak-t20-world-cup-2022-head-to-head-record-babar-azam-vs-rohit-sharma-india-vs-pakistan-7258574.html</link>
+            <guid isPermaLink="false">1666511117091</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
         </item>
         <item>
             <title>
-                <![CDATA[ जिम्बाब्वे ने स्कॉटलैंड को पांच विकेट से हराकर सुपर-12 में बनाई जगहFri, 21 Oct 2022 05:01 PM ]]>
+                <![CDATA[ IND vs PAK: धोनी और कोहली के इस खास क्लब में शामिल होंगे रोहित शर्माICC टी20 वर्ल्ड कप 2022 में आज भारत और पाकिस्तान के बीच टूर्नामेंट का सबसे बड़ा मैच मेलबर्न क्रिकेट ग्राउंड पर खेला जाना है। इस मुकाबले के जरिए रोहित शर्मा आईसीसी इवेंट में बौतर कप्तान डेब्यू करेंगे। ]]>
             </title>
-            <link>https://www.livehindustan.com/cricket/story-t20-world-cup-zimbabwe-qualified-for-the-super-12-stage-for-the-first-time-in-the-history-of-the-tournament-defeat-scotland-by-5-wickets-7250929.html</link>
-            <guid isPermaLink="false">1666422019271</guid>
+            <link>https://www.livehindustan.com/cricket/story-rohit-sharma-will-become-the-third-player-to-captain-india-in-the-t20-world-cup-after-ms-dhoni-and-virat-kohli-7258552.html</link>
+            <guid isPermaLink="false">1666511117092</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
         </item>
         <item>
             <title>
-                <![CDATA[ T20 WC: ऑस्ट्रेलिया बनाम न्यूजीलैंड रोमांचक मुकाबले को ऐसे देखें LIVE Sat, 22 Oct 2022 09:01 AM ]]>
+                <![CDATA[ SMAT: मुंबई, पंजाब, कर्नाटक और हिमाचल प्रदेश क्वार्टर फाइनल में  Sat, 22 Oct 2022 10:55 PM ]]>
             </title>
-            <link>https://www.livehindustan.com/cricket/story-aus-vs-nz-live-streaming-t20-world-cup-2022-super-12-match-1-australia-vs-new-zealand-when-and-where-to-watch-live-match-7254381.html</link>
-            <guid isPermaLink="false">1666422019272</guid>
+            <link>https://www.livehindustan.com/cricket/story-syed-mushtaq-ali-t20-trophy-2022-mumbai-kerala-karnataka-register-wins-7256773.html</link>
+            <guid isPermaLink="false">1666511117093</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
         </item>
         <item>
             <title>
-                <![CDATA[ T20 WC की असली जंग आज से, सुपर-12 में खेले जाएंगे ये दो बड़े मुकाबलेSat, 22 Oct 2022 07:04 AM ]]>
+                <![CDATA[ तीसरी बार भिड़ने के लिए तैयार IND और PAK, जानिए किसका पलड़ा भारीSat, 22 Oct 2022 08:33 PM ]]>
             </title>
-            <link>https://www.livehindustan.com/cricket/story-icc-mens-t20-world-cup-2022-today-matches-aus-vs-nz-eng-vs-afg-match-timing-live-streaming-details-all-you-need-to-know-7254313.html</link>
-            <guid isPermaLink="false">1666422019273</guid>
+            <link>https://www.livehindustan.com/cricket/story-t20-world-cup-india-and-pakistan-faced-each-other-two-times-this-year-in-t20i-and-beat-each-other-once-set-to-face-third-time-in-2022-7256243.html</link>
+            <guid isPermaLink="false">1666511117094</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
         </item>
         <item>
             <title>
-                <![CDATA[ भारत-पाक मैच पर बारिश का खतरा, आज भी मेलबर्न में हुई मूसलाधार बारिशFri, 21 Oct 2022 09:31 PM ]]>
+                <![CDATA[ T20 WC: अफगानिस्तान पर सैम करन का कहर, इंग्लैंड 5 विकेट से जीता  Sat, 22 Oct 2022 07:52 PM ]]>
             </title>
-            <link>https://www.livehindustan.com/cricket/story-heavy-rain-is-likely-to-spoil-match-of-the-t20-world-cup-between-pakistan-and-india-at-the-melbourne-cricket-ground-latest-weather-update-7252347.html</link>
-            <guid isPermaLink="false">1666422019274</guid>
+            <link>https://www.livehindustan.com/cricket/story-england-vs-afghanistan-t20-world-cup-2022-sam-curran-takes-five-as-england-won-by-5-wkts-7256092.html</link>
+            <guid isPermaLink="false">1666511117095</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
         </item>
         <item>
             <title>
-                <![CDATA[ पाकिस्तानी कैंप में रोहित का हमशक्ल, जर्सी देख फैंस भी खा गए धोखाFri, 21 Oct 2022 03:44 PM ]]>
+                <![CDATA[ NZ ने 11 साल बाद AUS में जीता पहला मैच, मुकाबले में बने ये रिकॉर्ड्स  Sat, 22 Oct 2022 05:05 PM ]]>
             </title>
-            <link>https://www.livehindustan.com/cricket/story-t20-world-cup-indian-captain-rohit-sharma-lookalike-in-pakistan-squad-stuns-fans-7250442.html</link>
-            <guid isPermaLink="false">1666422019275</guid>
+            <link>https://www.livehindustan.com/cricket/story-new-zealand-win-their-first-mens-international-game-on-australian-soil-since-2011-7255209.html</link>
+            <guid isPermaLink="false">1666511117096</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
         </item>
         <item>
             <title>
-                <![CDATA[ फैन्स ने किया ध्यान भंग तो आग बबूला हुए विराट ने दी वॉर्निंग- VideoFri, 21 Oct 2022 02:21 PM ]]>
+                <![CDATA[ भारत बनाम पाकिस्तान रोमांचक मुकाबला आप ऐसे देख सकते हैं LIVE Sun, 23 Oct 2022 06:50 AM ]]>
             </title>
-            <link>https://www.livehindustan.com/cricket/story-virat-kohli-gave-a-warning-when-fans-disturbed-him-during-practice-session-video-went-viral-t20-world-cup-2022-7250131.html</link>
-            <guid isPermaLink="false">1666422019276</guid>
+            <link>https://www.livehindustan.com/cricket/story-ind-vs-pak-live-streaming-icc-mens-t20-world-cup-2022-super-12-when-and-where-to-watch-india-pakistan-t20-match-live-online-tv-7258537.html</link>
+            <guid isPermaLink="false">1666511117097</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
         </item>
         <item>
             <title>
-                <![CDATA[ दो पूर्व कप्तानों की भविष्यवाणी, ये बल्लेबाज बनाएगा सबसे ज्यादा रनSat, 22 Oct 2022 09:33 AM ]]>
+                <![CDATA[ विक्टोरिया गवर्नर ने भारतीय टीम को दी पार्टी, रोहित ने गिफ्ट की जर्सी Sat, 22 Oct 2022 06:54 PM ]]>
             </title>
-            <link>https://www.livehindustan.com/cricket/story-eoin-morgan-and-nasser-hussain-predict-jos-buttler-as-top-run-scorer-also-named-wicket-taker-in-t20-world-cup-2022-7254406.html</link>
-            <guid isPermaLink="false">1666422019277</guid>
+            <link>https://www.livehindustan.com/cricket/story-team-india-receives-warm-welcome-from-governor-of-victoria-ahead-of-t20-w-c-opener-7255825.html</link>
+            <guid isPermaLink="false">1666511117098</guid>
+            <dc:creator>
+                <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
+            </dc:creator>
+        </item>
+        <item>
+            <title>
+                <![CDATA[ ग्लेन फिलिप्स ने 'सुपरमैन' बन हवा में उड़कर पकड़ा अद्भुत कैच- VIDEOSat, 22 Oct 2022 05:58 PM ]]>
+            </title>
+            <link>https://www.livehindustan.com/cricket/story-glenn-phillips-takes-a-superman-catch-to-dismiss-marcus-stoinis-in-aus-vs-nz-t20-wc-match-7255566.html</link>
+            <guid isPermaLink="false">1666511117099</guid>
+            <dc:creator>
+                <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
+            </dc:creator>
+        </item>
+        <item>
+            <title>
+                <![CDATA[ मोहम्मद शमी बने लेग स्पिनर? देखें पेसर के नए अवतार का वीडियो  Sat, 22 Oct 2022 10:02 PM ]]>
+            </title>
+            <link>https://www.livehindustan.com/cricket/story-mohammed-shami-turns-into-leg-spinner-indian-pacers-reveals-new-avatar-7256521.html</link>
+            <guid isPermaLink="false">1666511117100</guid>
+            <dc:creator>
+                <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
+            </dc:creator>
+        </item>
+        <item>
+            <title>
+                <![CDATA[ भारत को हराने के लिए तैयार PAK, बाबर बोले- सभी के लिए प्लानिंग बनाई हैSat, 22 Oct 2022 08:59 PM ]]>
+            </title>
+            <link>https://www.livehindustan.com/cricket/story-t20-world-cup-india-vs-pakistan-babar-azam-says-we-have-plans-for-each-india-player-not-just-suryakumar-7256424.html</link>
+            <guid isPermaLink="false">1666511117101</guid>
+            <dc:creator>
+                <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
+            </dc:creator>
+        </item>
+        <item>
+            <title>
+                <![CDATA[ कप्तान बाबर आजम ने बताया, भारत के खिलाफ कैसी होगी PAK की प्लेइंग XI?  Sat, 22 Oct 2022 08:50 PM ]]>
+            </title>
+            <link>https://www.livehindustan.com/cricket/story-babar-azam-opens-up-on-pakistan-playing-xi-for-ind-vs-pak-in-t20-wc-7256256.html</link>
+            <guid isPermaLink="false">1666511117102</guid>
+            <dc:creator>
+                <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
+            </dc:creator>
+        </item>
+        <item>
+            <title>
+                <![CDATA[ विराट को PAK के खिलाफ मैच से ज्यादा इस चीज की है खुशी, खुद किया खुलासाSat, 22 Oct 2022 07:22 PM ]]>
+            </title>
+            <link>https://www.livehindustan.com/cricket/story-virat-kohli-on-pakistan-clash-in-t20-world-cup-2022-7255994.html</link>
+            <guid isPermaLink="false">1666511117103</guid>
+            <dc:creator>
+                <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
+            </dc:creator>
+        </item>
+        <item>
+            <title>
+                <![CDATA[ मोमिन साकिब का मजेदार इंटरव्यू वायरल ]]>
+            </title>
+            <link>https://www.livehindustan.com/videos/cricket/pakistani-comedian-momin-saqib-interview-ahead-of-india-vs-pakistan-match-1-7258738</link>
+            <guid isPermaLink="false">1666511117104</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -1258,7 +1328,7 @@ View ]]>
                 <![CDATA[ दीप्ति का नाम लेकर स्टार्क ने दी बटलर को वॉर्निंग, वीडियो वायरल ]]>
             </title>
             <link>https://www.livehindustan.com/videos/cricket/australia-fast-bowler-mitchell-starc-warns-jos-buttler-at-the-non-striker-1-7221769</link>
-            <guid isPermaLink="false">1666422019278</guid>
+            <guid isPermaLink="false">1666511117105</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -1268,7 +1338,7 @@ View ]]>
                 <![CDATA[ झूलन गोस्वामी ने इंटरनेशनल क्रिकेट को कहा अलविदा ]]>
             </title>
             <link>https://www.livehindustan.com/videos/sports/jhulan-goswami-bids-adieu-to-international-cricket-know-about-her-career-1-7131473</link>
-            <guid isPermaLink="false">1666422019279</guid>
+            <guid isPermaLink="false">1666511117106</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -1278,27 +1348,7 @@ View ]]>
                 <![CDATA[ मोहाली में भारत की करारी हार, पंड्या और राहुल की पारी गई बेकार ]]>
             </title>
             <link>https://www.livehindustan.com/videos/cricket/ind-vs-aus-1st-t20-australia-chase-down-209-to-beat-india-by-4-wickets-1-7111693</link>
-            <guid isPermaLink="false">1666422019280</guid>
-            <dc:creator>
-                <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
-            </dc:creator>
-        </item>
-        <item>
-            <title>
-                <![CDATA[ 1 अक्टूबर से बदल जाएंगे क्रिकेट के ये नियम, ICC ने किया ऐलान ]]>
-            </title>
-            <link>https://www.livehindustan.com/videos/cricket/these-rules-of-cricket-will-change-from-october-1-icc-announced-1-7111683</link>
-            <guid isPermaLink="false">1666422019281</guid>
-            <dc:creator>
-                <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
-            </dc:creator>
-        </item>
-        <item>
-            <title>
-                <![CDATA[ कानपुर में युवराज, रैना, पठान और सचिन तेंदुलकर की मस्ती ]]>
-            </title>
-            <link>https://www.livehindustan.com/videos/cricket/yuvraj-singh-dances-on-retro-songs-and-sachin-tendulkar-capture-moments-in-mobile-1-7074282</link>
-            <guid isPermaLink="false">1666422019282</guid>
+            <guid isPermaLink="false">1666511117107</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -1308,7 +1358,7 @@ View ]]>
                 <![CDATA[ Cricket News ]]>
             </title>
             <link>https://www.abplive.com/sports/cricket</link>
-            <guid isPermaLink="false">1666422019283</guid>
+            <guid isPermaLink="false">1666511117108</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -1318,7 +1368,7 @@ View ]]>
                 <![CDATA[ T20 वर्ल्ड कप 2022 ]]>
             </title>
             <link>https://www.abplive.com/sports/cricket/series/t20-world-cup.html</link>
-            <guid isPermaLink="false">1666422019284</guid>
+            <guid isPermaLink="false">1666511117109</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -1328,7 +1378,7 @@ View ]]>
                 <![CDATA[ view full schedule ]]>
             </title>
             <link>https://www.abplive.com/sports/cricket/series/t20-world-cup-schedule.html</link>
-            <guid isPermaLink="false">1666422019285</guid>
+            <guid isPermaLink="false">1666511117110</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -1338,7 +1388,7 @@ View ]]>
                 <![CDATA[ T20 वर्ल्ड कप 2022 अंक तालिका ]]>
             </title>
             <link>https://www.abplive.com/sports/cricket/series/t20-world-cup/points-table.html</link>
-            <guid isPermaLink="false">1666422019286</guid>
+            <guid isPermaLink="false">1666511117111</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -1347,7 +1397,7 @@ View ]]>
             <title>
                 <![CDATA[ LIVE
             
-            ICC पुरुष T20 विश्व कप, ऑस्ट्रेलिया, 2022 | सुपर 12 - मैच 13
+            ICC पुरुष T20 विश्व कप, ऑस्ट्रेलिया, 2022 | सुपर 12 - मैच 4
             
             
                 
@@ -1360,135 +1410,135 @@ View ]]>
                                 
                                     
                                 
-                                AUS
+                                IND
                             
                         VS
                                 
                                     
                                 
-                                NZ
+                                PAK
                             
                         0/0*
                             0.0 (RR 0.0) ]]>
             </title>
-            <link>https://www.abplive.com/sports/cricket/australia-vs-australia-t20-scorecard-live-aunz10222022209247.html</link>
-            <guid isPermaLink="false">1666422019287</guid>
+            <link>https://www.abplive.com/sports/cricket/india-vs-india-t20-scorecard-live-inpk10232022209250.html</link>
+            <guid isPermaLink="false">1666511117112</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
         </item>
         <item>
             <title>
-                <![CDATA[ ICC पुरुष T20 विश्व कप, ऑस्ट्रेलिया, 2022 | मैच 12
+                <![CDATA[ ICC पुरुष T20 विश्व कप, ऑस्ट्रेलिया, 2022 | सुपर 12 - मैच 3
             
             
                 
-                ज़िम्बाब्वे ने स्कॉटलैंड को  5 विकटों से हराया
+                श्रीलंका ने आयरलैंड को  9 विकटों से हराया
             
         
             
         
-        132/6
-                            20.0 (RR 6.6)
+        133/1
+                            15.0 (RR 8.87)
                                 
                                     
                                 
-                                SCO
+                                SL
                             
                         VS
-                                
-                                    
-                                
-                                ZIM
-                            
-                        133/5
-                            18.3 (RR 7.19) ]]>
-            </title>
-            <link>https://www.abplive.com/sports/cricket/scotland-vs-scotland-t20-scorecard-live-sczm10212022209246.html</link>
-            <guid isPermaLink="false">1666422019288</guid>
-            <dc:creator>
-                <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
-            </dc:creator>
-        </item>
-        <item>
-            <title>
-                <![CDATA[ ICC पुरुष T20 विश्व कप, ऑस्ट्रेलिया, 2022 | मैच 11
-            
-            
-                
-                आयरलैंड ने वेस्ट इंडीज को  9 विकटों से हराया
-            
-        
-            
-        
-        150/1
-                            17.3 (RR 8.57)
                                 
                                     
                                 
                                 IRE
                             
+                        128/8
+                            20.0 (RR 6.4) ]]>
+            </title>
+            <link>https://www.abplive.com/sports/cricket/sri-lanka-vs-sri-lanka-t20-scorecard-live-slir10232022209249.html</link>
+            <guid isPermaLink="false">1666511117113</guid>
+            <dc:creator>
+                <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
+            </dc:creator>
+        </item>
+        <item>
+            <title>
+                <![CDATA[ ICC पुरुष T20 विश्व कप, ऑस्ट्रेलिया, 2022 | सुपर 12 - मैच 2
+            
+            
+                
+                इंग्लैंड ने अफ़ग़ानिस्तान को  5 विकटों से हराया
+            
+        
+            
+        
+        113/5
+                            18.1 (RR 6.22)
+                                
+                                    
+                                
+                                ENG
+                            
                         VS
                                 
                                     
                                 
-                                WI
+                                AFG
                             
-                        146/5
-                            20.0 (RR 7.3) ]]>
+                        112/10
+                            19.4 (RR 5.69) ]]>
             </title>
-            <link>https://www.abplive.com/sports/cricket/ireland-vs-ireland-t20-scorecard-live-irwi10212022209245.html</link>
-            <guid isPermaLink="false">1666422019289</guid>
+            <link>https://www.abplive.com/sports/cricket/england-vs-england-t20-scorecard-live-enaf10222022209248.html</link>
+            <guid isPermaLink="false">1666511117114</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
         </item>
         <item>
             <title>
-                <![CDATA[ IND vs PAK in T20I: टी20 क्रिकेट में अब तक 11 बार हुई भारत-पाक की टक्कर, जानिए इन मुकाबलों से जुड़े 10 खास आंकड़े ]]>
+                <![CDATA[ T20 WC 2022: श्रीलंका ने आयरलैंड को दी एकतरफा शिकस्त, 9 विकेट से जीता मुकाबला ]]>
             </title>
-            <link>https://www.abplive.com/sports/cricket/ind-vs-pak-t20i-records-most-runs-most-wickets-stats-t20-world-cup-2022-2243541</link>
-            <guid isPermaLink="false">1666422019290</guid>
+            <link>https://www.abplive.com/sports/cricket/sri-lanka-beat-ireland-by-9-wickets-in-group-1-super12-match-t20-world-cup-2022-2244242</link>
+            <guid isPermaLink="false">1666511117115</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
         </item>
         <item>
             <title>
-                <![CDATA[ T20 World Cup शुरू होने के 15-20 दिन पहले टीम इंडिया क्यों पहुंच गई थी ऑस्ट्रेलिया? रोहित शर्मा ने किया खुलासा ]]>
+                <![CDATA[ India vs Pakistan Playing XI: भारत ने प्लेइंग इलेवन में अर्शदीप-भुवनेश्वर को किया शामिल, देखें पाक ने किसे-किसे दी जगह ]]>
             </title>
-            <link>https://www.abplive.com/sports/cricket/rohit-sharma-answered-why-team-india-reached-to-australia-15-to-20-days-before-t20-world-cup-2022-2243506</link>
-            <guid isPermaLink="false">1666422019291</guid>
+            <link>https://www.abplive.com/sports/cricket/india-vs-pakistan-playing-11-match-update-t20-world-cup-2022-rohit-sharma-babar-azam-2244231</link>
+            <guid isPermaLink="false">1666511117116</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
         </item>
         <item>
             <title>
-                <![CDATA[ IND vs PAK: भारत-पाक मैच से पहले रोहित का दावा, T20 World Cup में हमारे पास इतिहास बदलने का मौका ]]>
+                <![CDATA[ IND vs PAK LIVE Score: भारत ने जीता टॉस, पहले गेंदबाजी करने का फैसला किया ]]>
             </title>
-            <link>https://www.abplive.com/sports/cricket/india-vs-pakistan-rohit-sharma-says-team-india-have-chance-to-change-history-t20-world-cup-2022-2243512</link>
-            <guid isPermaLink="false">1666422019292</guid>
+            <link>https://www.abplive.com/sports/cricket/ind-vs-pak-t20-world-cup-2022-live-score-india-vs-pakistan-live-updates-match-highlights-rohit-sharma-virat-kohli-babar-azam-melbourne-stadium-2244186</link>
+            <guid isPermaLink="false">1666511117117</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
         </item>
         <item>
             <title>
-                <![CDATA[ IND vs PAK: मेलबर्न की गलियों में दिखा टीम इंडिया के खिलाड़ियों का जलवा, दीवारों पर रोहित-विराट की बनाई गई पेंटिंग, VIDEO ]]>
+                <![CDATA[ T20 WC 2022, IND vs PAK: महामुकाबले से पहले विराट कोहली ने कप्तान रोहित शर्मा को लेकर दिया बड़ा बयान, ‘हमारी बातचीत...’ ]]>
             </title>
-            <link>https://www.abplive.com/sports/cricket/t20-world-cup-street-art-mural-in-melbourne-virat-kohli-rohit-sharma-hardik-pandya-india-2243462</link>
-            <guid isPermaLink="false">1666422019293</guid>
+            <link>https://www.abplive.com/sports/cricket/virat-kohli-give-statement-about-rohit-sharma-ahed-of-ind-vs-pak-match-in-t20-world-cup-2022-2244229</link>
+            <guid isPermaLink="false">1666511117118</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
         </item>
         <item>
             <title>
-                <![CDATA[ T20 World Cup 2022: विक्टोरिया की गवर्नर को कप्तान रोहित शर्मा ने गिफ्ट की टीम इंडिया की जर्सी, देखें पूरा वीडियो ]]>
+                <![CDATA[ T20 WC 2022: ऑस्ट्रेलिया में खूब रन उगलता है विराट का बल्ला, जानें यहां कैसा रहा है भारतीय बल्लेबाजों का प्रदर्शन ]]>
             </title>
-            <link>https://www.abplive.com/sports/cricket/team-india-went-to-victoria-governor-house-and-meet-governor-linda-dessau-rohit-sharma-gift-him-indian-team-s-cricket-jersey-2243473</link>
-            <guid isPermaLink="false">1666422019294</guid>
+            <link>https://www.abplive.com/photo-gallery/sports/cricket-t20-world-cup-2022-ind-vs-pak-indian-batters-performance-in-australia-2244198</link>
+            <guid isPermaLink="false">1666511117119</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -1498,7 +1548,7 @@ View ]]>
                 <![CDATA[ view more ]]>
             </title>
             <link>https://www.abplive.com/videos/cricket</link>
-            <guid isPermaLink="false">1666422019295</guid>
+            <guid isPermaLink="false">1666511117120</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -1508,7 +1558,7 @@ View ]]>
                 <![CDATA[ IND vs PAK: रोमांचक मुकाबले में पाकिस्तान ने मारी बाज़ी, एशिया कप में 8 साल बाद भारत को हराया ]]>
             </title>
             <link>https://www.abplive.com/videos/sports/cricket-ind-vs-pak-pakistan-won-the-thrilling-match-defeated-india-after-8-years-in-the-asia-cup-2208077</link>
-            <guid isPermaLink="false">1666422019296</guid>
+            <guid isPermaLink="false">1666511117121</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -1518,7 +1568,7 @@ View ]]>
                 <![CDATA[ Asia Cup 2022: आज Super-4 मुकाबले में भिड़ेंगे भारत-पाकिस्तान | India vs Pakistan Asia Cup 2022 ]]>
             </title>
             <link>https://www.abplive.com/videos/sports/cricket-india-vs-pakistan-asia-cup-2022-today-2207477</link>
-            <guid isPermaLink="false">1666422019297</guid>
+            <guid isPermaLink="false">1666511117122</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -1528,7 +1578,7 @@ View ]]>
                 <![CDATA[ IND vs WI 3rd ODI: भारत ने लगाई जीत की हैट्रिक, 39 साल बाद वेस्टइंडीज में किया क्लीन स्वीप ]]>
             </title>
             <link>https://www.abplive.com/videos/sports/cricket-ind-vs-wi-3rd-odi-2178331</link>
-            <guid isPermaLink="false">1666422019298</guid>
+            <guid isPermaLink="false">1666511117123</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -1538,7 +1588,7 @@ View ]]>
                 <![CDATA[ Andrew Symonds Died: ऑस्ट्रेलिया के पूर्व दिग्गज क्रिकेटर एंड्र्यू साइमंड्स की मौत ]]>
             </title>
             <link>https://www.abplive.com/videos/sports/cricket-andrew-symonds-died-in-car-accident-2123918</link>
-            <guid isPermaLink="false">1666422019299</guid>
+            <guid isPermaLink="false">1666511117124</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -1548,7 +1598,7 @@ View ]]>
                 <![CDATA[ IPL 2022 CSK VS KKR : Ravindra Jadeja और Shreyas Iyer की टीम आमने सामने, जानें किसका पलड़ा भारी ]]>
             </title>
             <link>https://www.abplive.com/videos/sports/cricket-ipl-2022-csk-vs-kkr-ravindra-jadeja-and-shreyas-iyer-team-face-to-face-know-who-has-the-upper-hand-2089034</link>
-            <guid isPermaLink="false">1666422019300</guid>
+            <guid isPermaLink="false">1666511117125</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -1558,7 +1608,7 @@ View ]]>
                 <![CDATA[ IPL 2022: नए सीजन में Rohit Sharma की Mumbai Indians कितनी है तैयार, जानें टीम की ताकत और कमजोरी ]]>
             </title>
             <link>https://www.abplive.com/videos/sports/cricket-ipl-2022-how-ready-is-rohit-sharma-s-mumbai-indians-in-the-new-season-know-the-strength-and-weakness-of-the-team-2088760</link>
-            <guid isPermaLink="false">1666422019301</guid>
+            <guid isPermaLink="false">1666511117126</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -1568,7 +1618,7 @@ View ]]>
                 <![CDATA[ Australia के दिग्गज क्रिकेटर Shane Warne का 52 साल की उम्र में निधन ]]>
             </title>
             <link>https://www.abplive.com/videos/sports/cricket-shane-warne-passes-away-2074540</link>
-            <guid isPermaLink="false">1666422019302</guid>
+            <guid isPermaLink="false">1666511117127</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -1578,7 +1628,7 @@ View ]]>
                 <![CDATA[ LSG का Logo हुआ Launch, Mentor Gautam Gambhir और Owner Sanjiv Goenka ने बताया- IPL Auction का प्लान ]]>
             </title>
             <link>https://www.abplive.com/videos/sports/cricket-lsg-mentor-gautam-gambhir-and-owner-sanjiv-goenka-on-ipl-auction-plan-of-2022-2051490</link>
-            <guid isPermaLink="false">1666422019303</guid>
+            <guid isPermaLink="false">1666511117128</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -1588,7 +1638,7 @@ View ]]>
                 <![CDATA[ view more ]]>
             </title>
             <link>https://www.abplive.com/photo-gallery/cricket</link>
-            <guid isPermaLink="false">1666422019304</guid>
+            <guid isPermaLink="false">1666511117129</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -1598,7 +1648,7 @@ View ]]>
                 <![CDATA[ IND vs PAK: भारत-पाक टी20 मैचों में लीड स्कोरर हैं विराट कोहली, टॉप-5 में पाकिस्तान से तीन खिलाड़ी ]]>
             </title>
             <link>https://www.abplive.com/photo-gallery/sports/cricket-ind-vs-pak-top-five-batters-virat-kohli-most-runs-records-t20-world-cup-2022-2242757</link>
-            <guid isPermaLink="false">1666422019305</guid>
+            <guid isPermaLink="false">1666511117130</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -1608,7 +1658,7 @@ View ]]>
                 <![CDATA[ Photos: एक तरफ कोहली तो दूसरी तरफ बाबर आजम, विराट ने पाक खिलाड़ियों के साथ की प्रैक्टिस, तस्वीरें वायरल ]]>
             </title>
             <link>https://www.abplive.com/photo-gallery/sports/cricket-virat-kohli-babar-azam-and-mohammad-rizwan-practice-nets-before-india-pakistan-match-in-t20-world-cup-2022-2240961</link>
-            <guid isPermaLink="false">1666422019306</guid>
+            <guid isPermaLink="false">1666511117131</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -1618,7 +1668,7 @@ View ]]>
                 <![CDATA[ T20 World Cup में भारत के सबसे सफल गेंदबाज रहे हैं आर अश्विन, जानें टॉप-5 में कौन-कौन हैं शामिल ]]>
             </title>
             <link>https://www.abplive.com/photo-gallery/sports/cricket-r-ashwin-most-sucessfull-indian-bowler-in-t20-world-cup-top-5-indian-wicket-takers-in-the-tournament-history-2240817</link>
-            <guid isPermaLink="false">1666422019307</guid>
+            <guid isPermaLink="false">1666511117132</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -1628,37 +1678,27 @@ View ]]>
                 <![CDATA[ Photos: जानिए कौन हैं टीम इंडिया के साथ ऑस्ट्रेलिया जाने वाली 'मिस्ट्री गर्ल' राजलक्ष्मी अरोड़ा, क्या है उनका रोल ]]>
             </title>
             <link>https://www.abplive.com/photo-gallery/sports/cricket-rajalakshmi-arora-is-a-senior-media-producer-at-the-bcci-who-is-travelling-with-indian-cricket-team-for-t20-world-cup-2022-2240219</link>
-            <guid isPermaLink="false">1666422019308</guid>
+            <guid isPermaLink="false">1666511117133</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
         </item>
         <item>
             <title>
-                <![CDATA[ Photos: जब युवराज सिंह से उलझे एंड्रयू फ्लिंटॉफ, जानें टी20 वर्ल्ड कप से जुड़े अब तक के 5 बड़े विवाद ]]>
+                <![CDATA[ सुपर 12 - मैच 2 | 22nd Oct, Sat इंग्लैंडvsअफ़ग़ानिस्तानइंग्लैंड ने अफ़ग़ानिस्तान को  5 विकटों से हराया ]]>
             </title>
-            <link>https://www.abplive.com/photo-gallery/sports/cricket-when-andrew-flintoff-got-involved-with-yuvraj-singh-here-know-5-big-controversies-related-to-t20-world-cup-so-far-latest-cricket-news-2239493</link>
-            <guid isPermaLink="false">1666422019309</guid>
+            <link>https://www.abplive.com/sports/cricket/england-vs-afghanistan-t20-scorecard-live-enaf10222022209248.html</link>
+            <guid isPermaLink="false">1666511117134</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
         </item>
         <item>
             <title>
-                <![CDATA[ मैच 12 | 21st Oct, Fri स्कॉटलैंडvsज़िम्बाब्वेज़िम्बाब्वे ने स्कॉटलैंड को  5 विकटों से हराया ]]>
+                <![CDATA[ सुपर 12 - मैच 1 | 22nd Oct, Sat ऑस्ट्रेलियाvsन्यूज़ीलैंडन्यूज़ीलैंड ने ऑस्ट्रेलिया को  89 रनों से हराया ]]>
             </title>
-            <link>https://www.abplive.com/sports/cricket/scotland-vs-zimbabwe-t20-scorecard-live-sczm10212022209246.html</link>
-            <guid isPermaLink="false">1666422019310</guid>
-            <dc:creator>
-                <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
-            </dc:creator>
-        </item>
-        <item>
-            <title>
-                <![CDATA[ मैच 11 | 21st Oct, Fri आयरलैंडvsवेस्ट इंडीजआयरलैंड ने वेस्ट इंडीज को  9 विकटों से हराया ]]>
-            </title>
-            <link>https://www.abplive.com/sports/cricket/ireland-vs-west-indies-t20-scorecard-live-irwi10212022209245.html</link>
-            <guid isPermaLink="false">1666422019311</guid>
+            <link>https://www.abplive.com/sports/cricket/australia-vs-new-zealand-t20-scorecard-live-aunz10222022209247.html</link>
+            <guid isPermaLink="false">1666511117135</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -1668,7 +1708,7 @@ View ]]>
                 <![CDATA[ view full results ]]>
             </title>
             <link>https://www.abplive.com/sports/cricket/series/t20-world-cup-result.html</link>
-            <guid isPermaLink="false">1666422019312</guid>
+            <guid isPermaLink="false">1666511117136</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -1678,67 +1718,117 @@ View ]]>
                 <![CDATA[ view more ]]>
             </title>
             <link>https://www.abplive.com/news/cricket</link>
-            <guid isPermaLink="false">1666422019313</guid>
+            <guid isPermaLink="false">1666511117137</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
         </item>
         <item>
             <title>
-                <![CDATA[ Yuvraj Singh बने ब्लाइंड टी20 विश्व कप के ब्रांड एंबेसडर, अजय कुमार रेड्डी करेंगे टीम इंडिया की कप्तानी ]]>
+                <![CDATA[ IND vs PAK: भारत के खिलाफ मैच से पहले बाबार आजम़ ने दिया बड़ा बयान, ‘हमें अपने मिडिल ऑर्डर पर...’ ]]>
             </title>
-            <link>https://www.abplive.com/sports/cricket/yuvraj-singh-brand-ambassador-of-blind-t20-world-cup-ajay-kumar-reddy-indian-captain-2243447</link>
-            <guid isPermaLink="false">1666422019314</guid>
+            <link>https://www.abplive.com/sports/cricket/before-ind-vs-pak-match-in-t20-world-cup-2022-babar-azam-said-i-have-belief-in-the-middle-order-2244191</link>
+            <guid isPermaLink="false">1666511117138</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
         </item>
         <item>
             <title>
-                <![CDATA[ IND vs PAK: अक्षर या अश्विन? जानें प्लेइंग-11 में कौन होगा टीम इंडिया का दूसरा स्पिनर ]]>
+                <![CDATA[ IND vs PAK Dream11 Tips: भारत-पाक मैच के लिए यह होगी परफेक्ट ड्रीम-11, इन्हें बनाएं कप्तान ]]>
             </title>
-            <link>https://www.abplive.com/sports/cricket/t20-world-cup-2022-ind-vs-pak-axar-patel-or-r-ashwin-playing11-debate-2243444</link>
-            <guid isPermaLink="false">1666422019315</guid>
+            <link>https://www.abplive.com/sports/cricket/t20-world-cup-2022-ind-vs-pak-dream11-tips-and-suggestions-fantacy11-2244177</link>
+            <guid isPermaLink="false">1666511117139</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
         </item>
         <item>
             <title>
-                <![CDATA[ T20 World Cup 2022: आज से शुरू होगा असल धमाल, सुपर-12 के पहले मुकाबले में इन दो टीमों के बीच है टक्कर ]]>
+                <![CDATA[ IND vs PAK, T20 WC: मैच से पहले मेलबर्न पहुंचकर भारतीय फैंस ने जमाया माहौल, देखिए क्या है नज़ारे ]]>
             </title>
-            <link>https://www.abplive.com/sports/cricket/t20-world-cup-2022-super-12-round-starts-with-aus-vs-nz-match-preview-possible-playing11-2243416</link>
-            <guid isPermaLink="false">1666422019316</guid>
+            <link>https://www.abplive.com/sports/cricket/indian-fans-looking-very-excited-for-ind-vs-pak-match-in-t20-world-cup-2022-dancing-outside-the-mcg-2244165</link>
+            <guid isPermaLink="false">1666511117140</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
         </item>
         <item>
             <title>
-                <![CDATA[ T20 World Cup 2022: विक्टोरिया के गवर्नर से मिले टीम इंडिया के खिलाड़ी, बीसीसीआई ने शेयर किया फोटो ]]>
+                <![CDATA[ IND vs PAK: मेलबर्न में विकेट चटकाने में फास्ट बॉलर्स और कसी हुई गेंदबाजी करने में स्पिनर्स आगे, देखें इस मैदान के 5 रोचक फैक्ट्स ]]>
             </title>
-            <link>https://www.abplive.com/sports/cricket/indian-cricket-team-met-governor-of-victoria-linda-dessau-ac-and-other-dignitaries-on-friday-2243358</link>
-            <guid isPermaLink="false">1666422019317</guid>
+            <link>https://www.abplive.com/sports/cricket/melbourne-cricket-ground-records-ind-vs-pak-t20-world-cup-2022-2244151</link>
+            <guid isPermaLink="false">1666511117141</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
         </item>
         <item>
             <title>
-                <![CDATA[ T20 World Cup 2022: अर्शदीप सिंह समेत पहला वर्ल्ड कप खेल रहे इन खिलाड़ियों पर रहेंगी निगाहें, देखें पूरी लिस्ट ]]>
+                <![CDATA[ T20 WC: पाकिस्तानी फैंस ने की विराट कोहली से छींटाकशी, बोले- बाबर की तरह स्ट्रेट ड्राइव लगाकर दिखाओ ]]>
             </title>
-            <link>https://www.abplive.com/sports/cricket/t20-world-cup-2022-top-debutant-arshdeep-singh-india-naseem-shah-pakistan-camroon-green-2243346</link>
-            <guid isPermaLink="false">1666422019318</guid>
+            <link>https://www.abplive.com/sports/cricket/pakistani-fans-try-to-sledge-virat-kohli-by-saying-zra-babar-ki-tarh-straight-drive-maarke-dikhao-during-net-practice-2244134</link>
+            <guid isPermaLink="false">1666511117142</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
         </item>
         <item>
             <title>
-                <![CDATA[ T20 World Cup 2022: पाकिस्तान से मैच के बाद नीदरलैंड्स के खिलाफ मैदान में होगी टीम इंडिया, देखें पूरा शेड्यूल ]]>
+                <![CDATA[ IND vs PAK, T20 WC 2022: मेलबर्न में दमदार रहा है टीम इंडिया का रिकॉर्ड, अनुभव और सक्सेस रेट के मामले में बहुत पीछे है पाकिस्तान ]]>
             </title>
-            <link>https://www.abplive.com/sports/cricket/team-india-t20-world-cup-2022-full-schedule-match-time-india-vs-pakistan-2243333</link>
-            <guid isPermaLink="false">1666422019319</guid>
+            <link>https://www.abplive.com/sports/cricket/ind-vs-pak-t20-world-cup-2022-india-melbourne-cricket-ground-records-pakistan-at-mcg-2244129</link>
+            <guid isPermaLink="false">1666511117143</guid>
+            <dc:creator>
+                <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
+            </dc:creator>
+        </item>
+        <item>
+            <title>
+                <![CDATA[ IND vs PAK: भारत-पाक टी20 मैचों में चेज़ करने वाली टीम का सक्सेस रेट बेहतर, 72% मुकाबले जीते; MCG में भी यही ट्रेंड ]]>
+            </title>
+            <link>https://www.abplive.com/sports/cricket/ind-vs-pak-t20-records-bowling-first-success-rate-higher-india-pakistan-t20-world-cup-2022-2244109</link>
+            <guid isPermaLink="false">1666511117144</guid>
+            <dc:creator>
+                <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
+            </dc:creator>
+        </item>
+        <item>
+            <title>
+                <![CDATA[ ICC T20 World Cup 2022: भारत के लिए बजी खतरे की घंटी, पाकिस्तान की टीम में वापस लौटे शाहीन शाह अफरीदी ]]>
+            </title>
+            <link>https://www.abplive.com/sports/cricket/pakistan-playing-11-for-the-clash-against-india-shaheen-afridi-return-to-the-side-t20-world-cup-2022-2244115</link>
+            <guid isPermaLink="false">1666511117145</guid>
+            <dc:creator>
+                <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
+            </dc:creator>
+        </item>
+        <item>
+            <title>
+                <![CDATA[ ICC T20 WC 2022: पाकिस्तान को लगा तगड़ा झटका, भारत के खिलाफ मैच से बाहर हुआ स्टार बल्लेबाज ]]>
+            </title>
+            <link>https://www.abplive.com/sports/cricket/india-vs-pakistan-playing-11-t20-world-cup-2022-australia-fakhar-zaman-is-injured-2244102</link>
+            <guid isPermaLink="false">1666511117146</guid>
+            <dc:creator>
+                <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
+            </dc:creator>
+        </item>
+        <item>
+            <title>
+                <![CDATA[ IND vs PAK: इस बार भी मुकाबला भारतीय बल्लेबाजों और पाकिस्तानी गेंदबाजों के बीच, जानें दोनों टीमों की मजबूत और कमजोर कड़ी ]]>
+            </title>
+            <link>https://www.abplive.com/sports/cricket/t20-world-cup-2022-ind-vs-pak-match-preview-india-and-pakistan-strength-and-weakness-2244086</link>
+            <guid isPermaLink="false">1666511117147</guid>
+            <dc:creator>
+                <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
+            </dc:creator>
+        </item>
+        <item>
+            <title>
+                <![CDATA[ Melbourne Weather Update: भारत-पाक मैच से पहले मेलबर्न से अच्छी खबर, आज पूरा दिन साफ रहेगा मौसम ]]>
+            </title>
+            <link>https://www.abplive.com/sports/cricket/india-vs-pakistan-t20-world-cup-melbourne-weather-update-for-ind-vs-pak-cricket-match-2244074</link>
+            <guid isPermaLink="false">1666511117148</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -1748,7 +1838,7 @@ View ]]>
                 <![CDATA[ WahcricketCricket News ]]>
             </title>
             <link>https://www.wahcricket.com/</link>
-            <guid isPermaLink="false">1666422019320</guid>
+            <guid isPermaLink="false">1666511117149</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -1758,7 +1848,7 @@ View ]]>
                 <![CDATA[ Cricket ]]>
             </title>
             <link>https://www.skysports.com/cricket</link>
-            <guid isPermaLink="false">1666422019321</guid>
+            <guid isPermaLink="false">1666511117150</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -1768,7 +1858,7 @@ View ]]>
                 <![CDATA[ News ]]>
             </title>
             <link>https://www.skysports.com/cricket/news</link>
-            <guid isPermaLink="false">1666422019322</guid>
+            <guid isPermaLink="false">1666511117151</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -1778,7 +1868,7 @@ View ]]>
                 <![CDATA[ Teams ]]>
             </title>
             <link>https://www.skysports.com/cricket/teams</link>
-            <guid isPermaLink="false">1666422019323</guid>
+            <guid isPermaLink="false">1666511117152</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -1788,7 +1878,7 @@ View ]]>
                 <![CDATA[ Blog ]]>
             </title>
             <link>https://www.skysports.com/cricket/live-blog</link>
-            <guid isPermaLink="false">1666422019324</guid>
+            <guid isPermaLink="false">1666511117153</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -1798,7 +1888,7 @@ View ]]>
                 <![CDATA[ Competitions ]]>
             </title>
             <link>https://www.skysports.com/cricket/competitions</link>
-            <guid isPermaLink="false">1666422019325</guid>
+            <guid isPermaLink="false">1666511117154</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -1808,7 +1898,7 @@ View ]]>
                 <![CDATA[ Fixtures/Results ]]>
             </title>
             <link>https://www.skysports.com/cricket/fixtures-results</link>
-            <guid isPermaLink="false">1666422019326</guid>
+            <guid isPermaLink="false">1666511117155</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -1818,7 +1908,7 @@ View ]]>
                 <![CDATA[ Tables ]]>
             </title>
             <link>https://www.skysports.com/cricket/tables</link>
-            <guid isPermaLink="false">1666422019327</guid>
+            <guid isPermaLink="false">1666511117156</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -1828,7 +1918,7 @@ View ]]>
                 <![CDATA[ Video ]]>
             </title>
             <link>https://www.skysports.com/watch/video/sports/cricket</link>
-            <guid isPermaLink="false">1666422019328</guid>
+            <guid isPermaLink="false">1666511117157</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -1838,7 +1928,7 @@ View ]]>
                 <![CDATA[ Pundits ]]>
             </title>
             <link>https://www.skysports.com/cricket/pundits</link>
-            <guid isPermaLink="false">1666422019329</guid>
+            <guid isPermaLink="false">1666511117158</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -1848,7 +1938,7 @@ View ]]>
                 <![CDATA[ Women's ]]>
             </title>
             <link>https://www.skysports.com/cricket/womens-cricket</link>
-            <guid isPermaLink="false">1666422019330</guid>
+            <guid isPermaLink="false">1666511117159</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -1858,7 +1948,7 @@ View ]]>
                 <![CDATA[ On Sky ]]>
             </title>
             <link>https://www.skysports.com/watch/cricket-on-sky</link>
-            <guid isPermaLink="false">1666422019331</guid>
+            <guid isPermaLink="false">1666511117160</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -1868,7 +1958,7 @@ View ]]>
                 <![CDATA[ Video ]]>
             </title>
             <link>https://www.skysports.com/cricket/video</link>
-            <guid isPermaLink="false">1666422019332</guid>
+            <guid isPermaLink="false">1666511117161</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -1878,17 +1968,17 @@ View ]]>
                 <![CDATA[ Features ]]>
             </title>
             <link>https://www.skysports.com/cricket/features</link>
-            <guid isPermaLink="false">1666422019333</guid>
+            <guid isPermaLink="false">1666511117162</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
         </item>
         <item>
             <title>
-                <![CDATA[ Stokes criticises 'stupid' size of boundary markers after Topley blow ]]>
+                <![CDATA[ India bowl against Pakistan in T20 World Cup LIVE! ]]>
             </title>
-            <link>https://www.skysports.com/cricket/news/12123/12726615/t20-world-cup-ben-stokes-critical-of-boundary-markers-after-reece-topleys-injury</link>
-            <guid isPermaLink="false">1666422019334</guid>
+            <link>https://www.skysports.com/cricket/live-blog/12123/12728013/india-bowl-against-pakistan-in-t20-world-cup-live</link>
+            <guid isPermaLink="false">1666511117163</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -1898,7 +1988,77 @@ View ]]>
                 <![CDATA[ T20 World Cup 2022 ]]>
             </title>
             <link>https://www.skysports.com/cricket/news/topic/9792/t20-world-cup-2022</link>
-            <guid isPermaLink="false">1666422019335</guid>
+            <guid isPermaLink="false">1666511117164</guid>
+            <dc:creator>
+                <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
+            </dc:creator>
+        </item>
+        <item>
+            <title>
+                <![CDATA[ Ireland thumped by Sri Lanka in Super 12 opener ]]>
+            </title>
+            <link>https://www.skysports.com/cricket/news/12123/12728006/t20-world-cup-ireland-thumped-by-sri-lanka-as-kusal-mendis-stars-with-the-bat-again</link>
+            <guid isPermaLink="false">1666511117165</guid>
+            <dc:creator>
+                <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
+            </dc:creator>
+        </item>
+        <item>
+            <title>
+                <![CDATA[ Missed opportunity for England to boost net run rate? ]]>
+            </title>
+            <link>https://www.skysports.com/cricket/news/12123/12727392/t20-world-cup-did-england-miss-opportunity-to-significantly-boost-net-run-rate-against-afghanistan</link>
+            <guid isPermaLink="false">1666511117166</guid>
+            <dc:creator>
+                <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
+            </dc:creator>
+        </item>
+        <item>
+            <title>
+                <![CDATA[ ‘Street smart’ Curran is England’s Mr Versatile ]]>
+            </title>
+            <link>https://www.skysports.com/cricket/news/12173/12727379/street-smart-sam-curran-is-englands-mr-versatile-all-rounder-stakes-claim-as-jos-buttlers-death-bowler</link>
+            <guid isPermaLink="false">1666511117167</guid>
+            <dc:creator>
+                <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
+            </dc:creator>
+        </item>
+        <item>
+            <title>
+                <![CDATA[ Curran takes five wickets as England beat Afghanistan ]]>
+            </title>
+            <link>https://www.skysports.com/cricket/news/12123/12726951/t20-world-cup-england-beat-afghanistan-in-opening-game-as-sam-curran-takes-five-wickets</link>
+            <guid isPermaLink="false">1666511117168</guid>
+            <dc:creator>
+                <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
+            </dc:creator>
+        </item>
+        <item>
+            <title>
+                <![CDATA[ Australia annihilated by New Zealand in T20 World Cup ]]>
+            </title>
+            <link>https://www.skysports.com/cricket/news/12123/12726948/australia-annihilated-by-new-zealand-in-t20-world-cup-as-defending-champions-crumbled-in-tournament-opener</link>
+            <guid isPermaLink="false">1666511117169</guid>
+            <dc:creator>
+                <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
+            </dc:creator>
+        </item>
+        <item>
+            <title>
+                <![CDATA[ Durham's record wicket-taker Rushworth to leave club ]]>
+            </title>
+            <link>https://www.skysports.com/cricket/news/12140/12726932/chris-rushworth-durhams-record-first-class-wicket-taker-to-leave-club-for-personal-reasons</link>
+            <guid isPermaLink="false">1666511117170</guid>
+            <dc:creator>
+                <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
+            </dc:creator>
+        </item>
+        <item>
+            <title>
+                <![CDATA[ Stokes criticises 'stupid' size of boundary markers after Topley blow ]]>
+            </title>
+            <link>https://www.skysports.com/cricket/news/12173/12726615/t20-world-cup-ben-stokes-critical-of-boundary-markers-after-reece-topleys-injury</link>
+            <guid isPermaLink="false">1666511117171</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -1908,7 +2068,7 @@ View ]]>
                 <![CDATA[ Cricket Scotland appoints new board members in wake of damning racism report ]]>
             </title>
             <link>https://www.skysports.com/cricket/news/12123/12726603/cricket-scotland-appoints-two-new-board-members-in-wake-of-damning-racism-report</link>
-            <guid isPermaLink="false">1666422019336</guid>
+            <guid isPermaLink="false">1666511117172</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -1918,37 +2078,7 @@ View ]]>
                 <![CDATA[ Jos Buttler: England's fiery, thinking, hard-hitting captain ]]>
             </title>
             <link>https://www.skysports.com/cricket/news/12173/12725588/jos-buttler-eoin-morgan-discusses-englands-fiery-and-thinking-captain-ahead-of-t20-world-cup</link>
-            <guid isPermaLink="false">1666422019337</guid>
-            <dc:creator>
-                <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
-            </dc:creator>
-        </item>
-        <item>
-            <title>
-                <![CDATA[ T20 World Cup: Here come the heavy hitters! ]]>
-            </title>
-            <link>https://www.skysports.com/cricket/news/12123/12722125/t20-world-cup-england-australia-india-and-more-make-their-entrance-as-super-12-stage-begins</link>
-            <guid isPermaLink="false">1666422019338</guid>
-            <dc:creator>
-                <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
-            </dc:creator>
-        </item>
-        <item>
-            <title>
-                <![CDATA[ England 'chomping at the bit' for T20 World Cup | 'Our first big moment' ]]>
-            </title>
-            <link>https://www.skysports.com/cricket/news/12123/12726054/t20-world-cup-englands-jos-buttler-liam-livingstone-and-alex-hales-on-their-first-big-moment</link>
-            <guid isPermaLink="false">1666422019339</guid>
-            <dc:creator>
-                <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
-            </dc:creator>
-        </item>
-        <item>
-            <title>
-                <![CDATA[ Khan anticipates 'great contest' against England batters ]]>
-            </title>
-            <link>https://www.skysports.com/watch/video/sports/cricket/12726255/rashid-khan-on-facing-england-batters-it-will-be-a-great-contest</link>
-            <guid isPermaLink="false">1666422019340</guid>
+            <guid isPermaLink="false">1666511117173</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -1957,8 +2087,8 @@ View ]]>
             <title>
                 <![CDATA[ Watch the T20 World Cup on Sky: Full fixture list and TV times ]]>
             </title>
-            <link>https://www.skysports.com/cricket/news/12040/12710209/mens-t20-world-cup-2022-full-fixture-list-with-every-game-to-be-shown-live-on-sky-sports</link>
-            <guid isPermaLink="false">1666422019341</guid>
+            <link>https://www.skysports.com/cricket/news/12123/12710209/mens-t20-world-cup-2022-full-fixture-list-with-every-game-to-be-shown-live-on-sky-sports</link>
+            <guid isPermaLink="false">1666511117174</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -1968,7 +2098,7 @@ View ]]>
                 <![CDATA[ Scotland knocked out of T20 World Cup as Zimbabwe advance ]]>
             </title>
             <link>https://www.skysports.com/cricket/news/12123/12726169/t20-world-cup-scotland-knocked-out-after-defeat-to-zimbabwe</link>
-            <guid isPermaLink="false">1666422019342</guid>
+            <guid isPermaLink="false">1666511117175</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -1978,17 +2108,22 @@ View ]]>
                 <![CDATA[ Ireland reach Super 12s and eliminate West Indies in crushing win ]]>
             </title>
             <link>https://www.skysports.com/cricket/news/12123/12726028/t20-world-cup-ireland-reach-super-12s-and-eliminate-west-indies-with-crushing-win-in-hobart</link>
-            <guid isPermaLink="false">1666422019343</guid>
+            <guid isPermaLink="false">1666511117176</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
         </item>
         <item>
             <title>
-                <![CDATA[ How will England do? Top wicket-taker? Pundits' T20 World Cup picks ]]>
+                <![CDATA[ /22/10/192x192/skysports-mark-wood-suryakumar-yadav_5936035.jpg?20221020140038" class="promo-block__image auto-size__target">
+  
+            
+
+            
+                How will England do? Top wicket-taker? Pundits' T20 World Cup picks ]]>
             </title>
-            <link>https://www.skysports.com/cricket/news/12175/12723569/how-will-england-do-at-t20-world-cup-nasser-hussain-eoin-morgan-and-michael-atherton-make-tournament-predictions</link>
-            <guid isPermaLink="false">1666422019344</guid>
+            <link>https://www.skysports.com/cricket/news/12172/12723569/how-will-england-do-at-t20-world-cup-nasser-hussain-eoin-morgan-and-michael-atherton-make-tournament-predictions</link>
+            <guid isPermaLink="false">1666511117177</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -1998,7 +2133,7 @@ View ]]>
                 <![CDATA[ Archer could take part in England warm-up match next month ]]>
             </title>
             <link>https://www.skysports.com/cricket/news/12123/12725636/jofra-archer-could-be-back-bowling-in-an-england-shirt-in-abu-dhabi-by-the-end-of-next-month</link>
-            <guid isPermaLink="false">1666422019345</guid>
+            <guid isPermaLink="false">1666511117178</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -2008,7 +2143,7 @@ View ]]>
                 <![CDATA[ Netherlands join Sri Lanka in Super 12s after Namibia lose thriller ]]>
             </title>
             <link>https://www.skysports.com/cricket/news/12123/12725418/t20-world-cup-netherlands-join-sri-lanka-in-super-12s-after-namibia-lose-thriller-to-uae</link>
-            <guid isPermaLink="false">1666422019346</guid>
+            <guid isPermaLink="false">1666511117179</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -2018,7 +2153,7 @@ View ]]>
                 <![CDATA[ Teenager Ahmed in England Lions squad | Archer edges closer to return ]]>
             </title>
             <link>https://www.skysports.com/cricket/news/12123/12725253/england-lions-teenager-rehan-ahmed-named-in-15-man-squad-jofra-archer-to-travel-to-uae</link>
-            <guid isPermaLink="false">1666422019347</guid>
+            <guid isPermaLink="false">1666511117180</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -2028,7 +2163,7 @@ View ]]>
                 <![CDATA[ England Lions ]]>
             </title>
             <link>https://www.skysports.com/cricket/news/topic/8170/england-lions</link>
-            <guid isPermaLink="false">1666422019348</guid>
+            <guid isPermaLink="false">1666511117181</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -2038,7 +2173,7 @@ View ]]>
                 <![CDATA[ Pakistan could boycott 50-over World Cup in India ]]>
             </title>
             <link>https://www.skysports.com/cricket/news/12123/12724526/pakistan-could-boycott-2023-50-over-world-cup-over-indias-asia-cup-stance</link>
-            <guid isPermaLink="false">1666422019349</guid>
+            <guid isPermaLink="false">1666511117182</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -2048,7 +2183,7 @@ View ]]>
                 <![CDATA[ Who are the players to watch at the T20 World Cup? ]]>
             </title>
             <link>https://www.skysports.com/cricket/news/19935/12717510/t20-world-cup-harry-brook-shaheen-shah-afridi-david-warner-and-the-players-to-watch-in-australia</link>
-            <guid isPermaLink="false">1666422019350</guid>
+            <guid isPermaLink="false">1666511117183</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -2058,57 +2193,7 @@ View ]]>
                 <![CDATA[ England seamer Topley out of T20 World Cup with Mills drafted in ]]>
             </title>
             <link>https://www.skysports.com/cricket/news/12123/12724338/reece-topley-england-seamer-out-of-t20-world-cup-due-to-ankle-injury</link>
-            <guid isPermaLink="false">1666422019351</guid>
-            <dc:creator>
-                <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
-            </dc:creator>
-        </item>
-        <item>
-            <title>
-                <![CDATA[ Women's IPL approved for 2023 | Binny named new BCCI president ]]>
-            </title>
-            <link>https://www.skysports.com/cricket/news/12123/12723558/womens-ipl-approved-for-2023-start-roger-binny-named-new-bcci-president-taking-over-from-sourav-ganguly</link>
-            <guid isPermaLink="false">1666422019352</guid>
-            <dc:creator>
-                <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
-            </dc:creator>
-        </item>
-        <item>
-            <title>
-                <![CDATA[ Cummins replaces Finch as Australia one-day skipper ]]>
-            </title>
-            <link>https://www.skysports.com/cricket/news/12123/12723441/pat-cummins-succeeds-aaron-finch-as-australias-one-day-international-captain</link>
-            <guid isPermaLink="false">1666422019353</guid>
-            <dc:creator>
-                <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
-            </dc:creator>
-        </item>
-        <item>
-            <title>
-                <![CDATA[ England thrash Pakistan in final T20 World Cup warm-up ]]>
-            </title>
-            <link>https://www.skysports.com/cricket/news/12343/12722917/t20-world-cup-england-ease-to-six-wicket-win-over-pakistan-in-final-warm-up-match-in-australia</link>
-            <guid isPermaLink="false">1666422019354</guid>
-            <dc:creator>
-                <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
-            </dc:creator>
-        </item>
-        <item>
-            <title>
-                <![CDATA[ Pakistan ]]>
-            </title>
-            <link>https://www.skysports.com/cricket/teams/pakistan</link>
-            <guid isPermaLink="false">1666422019355</guid>
-            <dc:creator>
-                <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
-            </dc:creator>
-        </item>
-        <item>
-            <title>
-                <![CDATA[ 'Poor young man!' Batter trips over boundary after being caught out! ]]>
-            </title>
-            <link>https://www.skysports.com/watch/video/sports/cricket/12721964/from-bad-to-worst-for-aayan-khan-as-he-trips-over-the-boundary</link>
-            <guid isPermaLink="false">1666422019356</guid>
+            <guid isPermaLink="false">1666511117184</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -2118,47 +2203,32 @@ View ]]>
                 <![CDATA[ Show More ]]>
             </title>
             <link>https://www.skysports.com/cricket/news/more/2</link>
-            <guid isPermaLink="false">1666422019357</guid>
+            <guid isPermaLink="false">1666511117185</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
         </item>
         <item>
             <title>
-                <![CDATA[ Who are the players to watch at the T20 World Cup? ]]>
+                <![CDATA[ Watch the T20 World Cup on Sky: Full fixture list and TV times ]]>
             </title>
-            <link>https://www.skysports.com/cricket/news/12172/12717510/t20-world-cup-harry-brook-shaheen-shah-afridi-david-warner-and-the-players-to-watch-in-australia</link>
-            <guid isPermaLink="false">1666422019358</guid>
+            <link>https://www.skysports.com/cricket/news/12172/12710209/mens-t20-world-cup-2022-full-fixture-list-with-every-game-to-be-shown-live-on-sky-sports</link>
+            <guid isPermaLink="false">1666511117186</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
         </item>
         <item>
             <title>
-                <![CDATA[ /22/10/192x192/chris-woakes-england-t20-cricket_5917852.jpg?20221002185516" class="promo-block__image auto-size__target">
+                <![CDATA[ /22/10/192x192/skysports-jos-buttler-england_5936005.jpg?20221019140115" class="promo-block__image auto-size__target">
   
             
 
             
-                England winning games but questions remain ahead of T20 World Cup ]]>
+                Jos Buttler: England's fiery, thinking, hard-hitting captain ]]>
             </title>
-            <link>https://www.skysports.com/cricket/news/12172/12720369/england-winning-games-but-questions-remain-ahead-of-t20-world-cup-opener-vs-afghanistan</link>
-            <guid isPermaLink="false">1666422019359</guid>
-            <dc:creator>
-                <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
-            </dc:creator>
-        </item>
-        <item>
-            <title>
-                <![CDATA[ /22/10/192x192/virat-kohli-india-t20-international-cricket_5926647.jpg?20221010083425" class="promo-block__image auto-size__target">
-  
-            
-
-            
-                T20 World Cup squads - who have the teams picked? ]]>
-            </title>
-            <link>https://www.skysports.com/cricket/news/12172/12687055/t20-world-cup-squads-who-have-the-teams-picked-for-2022-edition</link>
-            <guid isPermaLink="false">1666422019360</guid>
+            <link>https://www.skysports.com/cricket/news/12172/12725588/jos-buttler-eoin-morgan-discusses-englands-fiery-and-thinking-captain-ahead-of-t20-world-cup</link>
+            <guid isPermaLink="false">1666511117187</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -2168,7 +2238,7 @@ View ]]>
                 <![CDATA[ Cricket365 ]]>
             </title>
             <link>http://www.cricket365.com/</link>
-            <guid isPermaLink="false">1666422019361</guid>
+            <guid isPermaLink="false">1666511117188</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -2178,7 +2248,7 @@ View ]]>
                 <![CDATA[ Sky Sports Cricket ]]>
             </title>
             <link>https://www.skysports.com/watch/sky-sports-cricket</link>
-            <guid isPermaLink="false">1666422019362</guid>
+            <guid isPermaLink="false">1666511117189</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>

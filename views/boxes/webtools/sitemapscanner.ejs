@@ -54,7 +54,7 @@
                                     <a class="search-choice-close fas fa-times" data-option-array-index="0"></a>
                                 </li> -->
                     <li class="search-field">
-                        <input type="text" placeholder="e.g. jhon@gmail.com" class="searchInput" autocomplete="off">
+                        <input type="text" placeholder="e.g. jhon@gmail.com" class="searchInput" name="emails" autocomplete="off">
                     </li>
                 </div>
                 <div class="search-suggestions">
@@ -84,7 +84,7 @@
                     <% } %>
                     <!-- <input type="text" placeholder="e.g. Computer Science" class="invisible"  name="urls" value="" data-value="" autocomplete="none"> -->
                     <li class="search-field">
-                        <input type="text" placeholder="e.g. https://..com/smap.xml" class="searchInput"
+                        <input type="text" placeholder="e.g. https://..com/smap.xml" class="searchInput"  name="urls"
                             autocomplete="off">
                     </li>
                 </div>
@@ -114,7 +114,7 @@
                     <% } %>
                     <!-- <input type="text" placeholder="e.g. Computer Science" class="invisible"  name="included" value="" data-value="" autocomplete="none"> -->
                     <li class="search-field">
-                        <input type="text" placeholder="e.g. story included" class="searchInput" autocomplete="off">
+                        <input type="text" placeholder="e.g. story included" class="searchInput" autocomplete="off" name="included">
                     </li>
                 </div>
                 <div class="search-suggestions ">
@@ -143,7 +143,36 @@
                     <% } %>
                     <!-- <input type="text" placeholder="e.g. Computer Science" class="invisible"  name="excluded" value="" data-value="" autocomplete="none"> -->
                     <li class="search-field">
-                        <input type="text" placeholder="e.g. .jpg" class="searchInput" autocomplete="off">
+                        <input type="text" placeholder="e.g. .jpg" class="searchInput" autocomplete="off" name="excluded">
+                    </li>
+                </div>
+                <div class="search-suggestions ">
+                    <div class="autocom-box">
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="flex-row full-width-normal bottom-border">
+        <div class="half-width-normal">
+            <label for="remarks">Enter Remarks [Help you in searching](Optional) </label>
+        </div>
+        <div class="half-width-normal">
+            <div class="chosen-container">
+                <div class="chosen-choices flex-row flex-wrap" id="remarks">
+                    <% if(dataObject.remarks){ %>
+                    <% for(let i=0; i < dataObject.remarks.length; i++ ) {%>
+                    <li class="search-choice" data-key="remarks">
+                        <span><%-dataObject.remarks[i] %></span>
+                        <input class="invisible" type="text" value="<%-dataObject.remarks[i] %>" name="remarks">
+                        <a class="search-choice-close fas fa-times" title="Remove this tag"
+                            data-val="<%-dataObject.remarks[i] %>"></a>
+                    </li>
+                    <% } %>
+                    <% } %>
+                    <!-- <input type="text" placeholder="e.g. Computer Science" class="invisible"  name="excluded" value="" data-value="" autocomplete="none"> -->
+                    <li class="search-field">
+                        <input type="text" placeholder="e.g. .jpg" class="searchInput" autocomplete="off" name="remarks">
                     </li>
                 </div>
                 <div class="search-suggestions ">
@@ -184,6 +213,9 @@
     <input class="invisible" type="text" value="<%-dataObject.uid %>" name="userid">
     <% if(dataObject.rssid){ %>
     <input class="invisible" type="text" value="<%-dataObject.rssid %>" name="rssid">
+    <% } %>
+    <% if(dataObject.directorypath){ %>
+    <input class="invisible" type="text" value="<%-dataObject.directorypath %>" name="directorypath">
     <% } %>
     <div class="flex-row">
         <button type="submit">Submit</button>

@@ -18,8 +18,8 @@ function createInstance( popperButton, popperPopup ) {
             {
                 name: "flip", //flips popper with allowed placements
                 options: {
-                    // allowedAutoPlacements: ["right", "left", "top", "bottom"],
-                    allowedAutoPlacements: [ "bottom" ],
+                    allowedAutoPlacements: ["right", "left", "top", "bottom"],
+                    // allowedAutoPlacements: [ "bottom" ],
                     rootBoundary: "viewport"
                 }
             }

@@ -33,7 +33,6 @@ app.use( express.urlencoded( {
     limit: '50mb',
     extended: true
 } ) );
-
 app.use( express.static( path.join( __dirname, 'public' ) ) );
 app.use( express.static( path.join( __dirname, 'routes' ) ) );
 app.use( cookieParser() );
@@ -57,7 +56,6 @@ app.use( '/', getRoutestools ); // Routing path
 app.use( '/', getRoutesBox ); // Routing path 
 app.use( '/', postRoutes ); // Routing path
 app.use( '/', postRoutestools ); // Routing path
-
 
 
 //set methods
@@ -165,6 +163,11 @@ app.get( '/courses/organisation/:companyName/:jobtitle', async ( req, res ) => {
 } )
 
 app.get( '/*/new', checkAuthentication, ( req, res ) => {
+    res.render( 'outerMostContainers/containerWithSearchForm', {
+        user: req.user
+    } );
+} )
+app.get( '/profile/*', checkAuthentication, ( req, res ) => {
     res.render( 'outerMostContainers/containerWithSearchForm', {
         user: req.user
     } );

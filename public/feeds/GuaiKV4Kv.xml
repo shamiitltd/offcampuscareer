@@ -4,19 +4,19 @@
     xmlns:media="http://search.yahoo.com/mrss/" version="2.0">
     <channel>
         <title>
-            <![CDATA[ offcamuscareer.com ]]>
+            <![CDATA[ offcampuscareer.com ]]>
         </title>
         <description>
-            <![CDATA[ offcamuscareer.com ]]>
+            <![CDATA[ offcampuscareer.com ]]>
         </description>
         <link>https://www.offcampuscareer.com/sitemapscanner/new</link>
         <image>
             <url>https://www.offcampuscareer.com/favicon.ico</url>
-            <title>offcamuscareer.com</title>
+            <title>offcampuscareer.com</title>
             <link>https://www.offcampuscareer.com/sitemapscanner/new</link>
         </image>
         <generator>https://www.offcampuscareer.com</generator>
-        <lastBuildDate>Sat Oct 22 2022 12:31:13 GMT+0000 (Coordinated Universal Time)</lastBuildDate>
+        <lastBuildDate>Sun Oct 23 2022 14:20:35 GMT+0000 (Coordinated Universal Time)</lastBuildDate>
         <atom:link href="https://www.offcampuscareer.com/feeds/GuaiKV4Kv.xml" rel="self" type="application/rss+xml"/>
         <language>
             <![CDATA[ en ]]>
@@ -24,10 +24,20 @@
 
         <item>
             <title>
+                <![CDATA[ /news-23-10-2022.xml ]]>
+            </title>
+            <link>https://news.abplive.com/news-23-10-2022.xml</link>
+            <guid isPermaLink="false">1666534835653</guid>
+            <dc:creator>
+                <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
+            </dc:creator>
+        </item>
+        <item>
+            <title>
                 <![CDATA[ /news-22-10-2022.xml ]]>
             </title>
             <link>https://news.abplive.com/news-22-10-2022.xml</link>
-            <guid isPermaLink="false">1666441873556</guid>
+            <guid isPermaLink="false">1666534835654</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -37,7 +47,7 @@
                 <![CDATA[ /news-21-10-2022.xml ]]>
             </title>
             <link>https://news.abplive.com/news-21-10-2022.xml</link>
-            <guid isPermaLink="false">1666441873557</guid>
+            <guid isPermaLink="false">1666534835655</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -47,7 +57,7 @@
                 <![CDATA[ /news-20-10-2022.xml ]]>
             </title>
             <link>https://news.abplive.com/news-20-10-2022.xml</link>
-            <guid isPermaLink="false">1666441873558</guid>
+            <guid isPermaLink="false">1666534835656</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -57,7 +67,7 @@
                 <![CDATA[ /news-19-10-2022.xml ]]>
             </title>
             <link>https://news.abplive.com/news-19-10-2022.xml</link>
-            <guid isPermaLink="false">1666441873559</guid>
+            <guid isPermaLink="false">1666534835657</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -67,7 +77,7 @@
                 <![CDATA[ /news-18-10-2022.xml ]]>
             </title>
             <link>https://news.abplive.com/news-18-10-2022.xml</link>
-            <guid isPermaLink="false">1666441873560</guid>
+            <guid isPermaLink="false">1666534835658</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -77,7 +87,7 @@
                 <![CDATA[ /news-17-10-2022.xml ]]>
             </title>
             <link>https://news.abplive.com/news-17-10-2022.xml</link>
-            <guid isPermaLink="false">1666441873561</guid>
+            <guid isPermaLink="false">1666534835659</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -87,7 +97,7 @@
                 <![CDATA[ /news-16-10-2022.xml ]]>
             </title>
             <link>https://news.abplive.com/news-16-10-2022.xml</link>
-            <guid isPermaLink="false">1666441873562</guid>
+            <guid isPermaLink="false">1666534835660</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -97,7 +107,7 @@
                 <![CDATA[ /news-15-10-2022.xml ]]>
             </title>
             <link>https://news.abplive.com/news-15-10-2022.xml</link>
-            <guid isPermaLink="false">1666441873563</guid>
+            <guid isPermaLink="false">1666534835661</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -107,7 +117,7 @@
                 <![CDATA[ /news-14-10-2022.xml ]]>
             </title>
             <link>https://news.abplive.com/news-14-10-2022.xml</link>
-            <guid isPermaLink="false">1666441873564</guid>
+            <guid isPermaLink="false">1666534835662</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -117,7 +127,7 @@
                 <![CDATA[ /news-13-10-2022.xml ]]>
             </title>
             <link>https://news.abplive.com/news-13-10-2022.xml</link>
-            <guid isPermaLink="false">1666441873565</guid>
+            <guid isPermaLink="false">1666534835663</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -127,7 +137,7 @@
                 <![CDATA[ /news-12-10-2022.xml ]]>
             </title>
             <link>https://news.abplive.com/news-12-10-2022.xml</link>
-            <guid isPermaLink="false">1666441873566</guid>
+            <guid isPermaLink="false">1666534835664</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -137,7 +147,7 @@
                 <![CDATA[ /news-11-10-2022.xml ]]>
             </title>
             <link>https://news.abplive.com/news-11-10-2022.xml</link>
-            <guid isPermaLink="false">1666441873567</guid>
+            <guid isPermaLink="false">1666534835665</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -147,7 +157,7 @@
                 <![CDATA[ /news-10-10-2022.xml ]]>
             </title>
             <link>https://news.abplive.com/news-10-10-2022.xml</link>
-            <guid isPermaLink="false">1666441873568</guid>
+            <guid isPermaLink="false">1666534835666</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -157,7 +167,7 @@
                 <![CDATA[ /news-09-10-2022.xml ]]>
             </title>
             <link>https://news.abplive.com/news-09-10-2022.xml</link>
-            <guid isPermaLink="false">1666441873569</guid>
+            <guid isPermaLink="false">1666534835667</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -167,7 +177,7 @@
                 <![CDATA[ /news-08-10-2022.xml ]]>
             </title>
             <link>https://news.abplive.com/news-08-10-2022.xml</link>
-            <guid isPermaLink="false">1666441873570</guid>
+            <guid isPermaLink="false">1666534835668</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -177,7 +187,7 @@
                 <![CDATA[ /news-07-10-2022.xml ]]>
             </title>
             <link>https://news.abplive.com/news-07-10-2022.xml</link>
-            <guid isPermaLink="false">1666441873571</guid>
+            <guid isPermaLink="false">1666534835669</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -187,7 +197,7 @@
                 <![CDATA[ /news-06-10-2022.xml ]]>
             </title>
             <link>https://news.abplive.com/news-06-10-2022.xml</link>
-            <guid isPermaLink="false">1666441873572</guid>
+            <guid isPermaLink="false">1666534835670</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -197,7 +207,7 @@
                 <![CDATA[ /news-05-10-2022.xml ]]>
             </title>
             <link>https://news.abplive.com/news-05-10-2022.xml</link>
-            <guid isPermaLink="false">1666441873573</guid>
+            <guid isPermaLink="false">1666534835671</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -207,7 +217,7 @@
                 <![CDATA[ /news-04-10-2022.xml ]]>
             </title>
             <link>https://news.abplive.com/news-04-10-2022.xml</link>
-            <guid isPermaLink="false">1666441873574</guid>
+            <guid isPermaLink="false">1666534835672</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -217,7 +227,7 @@
                 <![CDATA[ /news-03-10-2022.xml ]]>
             </title>
             <link>https://news.abplive.com/news-03-10-2022.xml</link>
-            <guid isPermaLink="false">1666441873575</guid>
+            <guid isPermaLink="false">1666534835673</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -227,7 +237,7 @@
                 <![CDATA[ /news-02-10-2022.xml ]]>
             </title>
             <link>https://news.abplive.com/news-02-10-2022.xml</link>
-            <guid isPermaLink="false">1666441873576</guid>
+            <guid isPermaLink="false">1666534835674</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -237,7 +247,7 @@
                 <![CDATA[ /news-01-10-2022.xml ]]>
             </title>
             <link>https://news.abplive.com/news-01-10-2022.xml</link>
-            <guid isPermaLink="false">1666441873577</guid>
+            <guid isPermaLink="false">1666534835675</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -247,7 +257,7 @@
                 <![CDATA[ /news-30-09-2022.xml ]]>
             </title>
             <link>https://news.abplive.com/news-30-09-2022.xml</link>
-            <guid isPermaLink="false">1666441873578</guid>
+            <guid isPermaLink="false">1666534835676</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -257,7 +267,7 @@
                 <![CDATA[ /news-29-09-2022.xml ]]>
             </title>
             <link>https://news.abplive.com/news-29-09-2022.xml</link>
-            <guid isPermaLink="false">1666441873579</guid>
+            <guid isPermaLink="false">1666534835677</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -267,7 +277,7 @@
                 <![CDATA[ /news-28-09-2022.xml ]]>
             </title>
             <link>https://news.abplive.com/news-28-09-2022.xml</link>
-            <guid isPermaLink="false">1666441873580</guid>
+            <guid isPermaLink="false">1666534835678</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -277,7 +287,7 @@
                 <![CDATA[ /news-27-09-2022.xml ]]>
             </title>
             <link>https://news.abplive.com/news-27-09-2022.xml</link>
-            <guid isPermaLink="false">1666441873581</guid>
+            <guid isPermaLink="false">1666534835679</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -287,7 +297,7 @@
                 <![CDATA[ /news-26-09-2022.xml ]]>
             </title>
             <link>https://news.abplive.com/news-26-09-2022.xml</link>
-            <guid isPermaLink="false">1666441873582</guid>
+            <guid isPermaLink="false">1666534835680</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -297,7 +307,7 @@
                 <![CDATA[ /news-25-09-2022.xml ]]>
             </title>
             <link>https://news.abplive.com/news-25-09-2022.xml</link>
-            <guid isPermaLink="false">1666441873583</guid>
+            <guid isPermaLink="false">1666534835681</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -307,7 +317,7 @@
                 <![CDATA[ /news-24-09-2022.xml ]]>
             </title>
             <link>https://news.abplive.com/news-24-09-2022.xml</link>
-            <guid isPermaLink="false">1666441873584</guid>
+            <guid isPermaLink="false">1666534835682</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -317,7 +327,7 @@
                 <![CDATA[ /news-23-09-2022.xml ]]>
             </title>
             <link>https://news.abplive.com/news-23-09-2022.xml</link>
-            <guid isPermaLink="false">1666441873585</guid>
+            <guid isPermaLink="false">1666534835683</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -327,7 +337,7 @@
                 <![CDATA[ /news-22-09-2022.xml ]]>
             </title>
             <link>https://news.abplive.com/news-22-09-2022.xml</link>
-            <guid isPermaLink="false">1666441873586</guid>
+            <guid isPermaLink="false">1666534835684</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -337,7 +347,7 @@
                 <![CDATA[ /news-21-09-2022.xml ]]>
             </title>
             <link>https://news.abplive.com/news-21-09-2022.xml</link>
-            <guid isPermaLink="false">1666441873587</guid>
+            <guid isPermaLink="false">1666534835685</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -347,7 +357,7 @@
                 <![CDATA[ /news-20-09-2022.xml ]]>
             </title>
             <link>https://news.abplive.com/news-20-09-2022.xml</link>
-            <guid isPermaLink="false">1666441873588</guid>
+            <guid isPermaLink="false">1666534835686</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -357,7 +367,7 @@
                 <![CDATA[ /news-19-09-2022.xml ]]>
             </title>
             <link>https://news.abplive.com/news-19-09-2022.xml</link>
-            <guid isPermaLink="false">1666441873589</guid>
+            <guid isPermaLink="false">1666534835687</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -367,7 +377,7 @@
                 <![CDATA[ /news-18-09-2022.xml ]]>
             </title>
             <link>https://news.abplive.com/news-18-09-2022.xml</link>
-            <guid isPermaLink="false">1666441873590</guid>
+            <guid isPermaLink="false">1666534835688</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -377,7 +387,7 @@
                 <![CDATA[ /news-17-09-2022.xml ]]>
             </title>
             <link>https://news.abplive.com/news-17-09-2022.xml</link>
-            <guid isPermaLink="false">1666441873591</guid>
+            <guid isPermaLink="false">1666534835689</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -387,7 +397,7 @@
                 <![CDATA[ /news-16-09-2022.xml ]]>
             </title>
             <link>https://news.abplive.com/news-16-09-2022.xml</link>
-            <guid isPermaLink="false">1666441873592</guid>
+            <guid isPermaLink="false">1666534835690</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -397,7 +407,7 @@
                 <![CDATA[ /news-15-09-2022.xml ]]>
             </title>
             <link>https://news.abplive.com/news-15-09-2022.xml</link>
-            <guid isPermaLink="false">1666441873593</guid>
+            <guid isPermaLink="false">1666534835691</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -407,7 +417,7 @@
                 <![CDATA[ /news-14-09-2022.xml ]]>
             </title>
             <link>https://news.abplive.com/news-14-09-2022.xml</link>
-            <guid isPermaLink="false">1666441873594</guid>
+            <guid isPermaLink="false">1666534835692</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -417,7 +427,7 @@
                 <![CDATA[ /news-13-09-2022.xml ]]>
             </title>
             <link>https://news.abplive.com/news-13-09-2022.xml</link>
-            <guid isPermaLink="false">1666441873595</guid>
+            <guid isPermaLink="false">1666534835693</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -427,7 +437,7 @@
                 <![CDATA[ /news-12-09-2022.xml ]]>
             </title>
             <link>https://news.abplive.com/news-12-09-2022.xml</link>
-            <guid isPermaLink="false">1666441873596</guid>
+            <guid isPermaLink="false">1666534835694</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -437,7 +447,7 @@
                 <![CDATA[ /news-11-09-2022.xml ]]>
             </title>
             <link>https://news.abplive.com/news-11-09-2022.xml</link>
-            <guid isPermaLink="false">1666441873597</guid>
+            <guid isPermaLink="false">1666534835695</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -447,7 +457,7 @@
                 <![CDATA[ /news-10-09-2022.xml ]]>
             </title>
             <link>https://news.abplive.com/news-10-09-2022.xml</link>
-            <guid isPermaLink="false">1666441873598</guid>
+            <guid isPermaLink="false">1666534835696</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -457,7 +467,7 @@
                 <![CDATA[ /news-09-09-2022.xml ]]>
             </title>
             <link>https://news.abplive.com/news-09-09-2022.xml</link>
-            <guid isPermaLink="false">1666441873599</guid>
+            <guid isPermaLink="false">1666534835697</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -467,7 +477,7 @@
                 <![CDATA[ /news-08-09-2022.xml ]]>
             </title>
             <link>https://news.abplive.com/news-08-09-2022.xml</link>
-            <guid isPermaLink="false">1666441873600</guid>
+            <guid isPermaLink="false">1666534835698</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -477,7 +487,7 @@
                 <![CDATA[ /news-07-09-2022.xml ]]>
             </title>
             <link>https://news.abplive.com/news-07-09-2022.xml</link>
-            <guid isPermaLink="false">1666441873601</guid>
+            <guid isPermaLink="false">1666534835699</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -487,7 +497,7 @@
                 <![CDATA[ /news-06-09-2022.xml ]]>
             </title>
             <link>https://news.abplive.com/news-06-09-2022.xml</link>
-            <guid isPermaLink="false">1666441873602</guid>
+            <guid isPermaLink="false">1666534835700</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -497,7 +507,7 @@
                 <![CDATA[ /news-05-09-2022.xml ]]>
             </title>
             <link>https://news.abplive.com/news-05-09-2022.xml</link>
-            <guid isPermaLink="false">1666441873603</guid>
+            <guid isPermaLink="false">1666534835701</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -507,7 +517,7 @@
                 <![CDATA[ /news-04-09-2022.xml ]]>
             </title>
             <link>https://news.abplive.com/news-04-09-2022.xml</link>
-            <guid isPermaLink="false">1666441873604</guid>
+            <guid isPermaLink="false">1666534835702</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -517,7 +527,7 @@
                 <![CDATA[ /news-03-09-2022.xml ]]>
             </title>
             <link>https://news.abplive.com/news-03-09-2022.xml</link>
-            <guid isPermaLink="false">1666441873605</guid>
+            <guid isPermaLink="false">1666534835703</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -527,7 +537,7 @@
                 <![CDATA[ /news-02-09-2022.xml ]]>
             </title>
             <link>https://news.abplive.com/news-02-09-2022.xml</link>
-            <guid isPermaLink="false">1666441873606</guid>
+            <guid isPermaLink="false">1666534835704</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -537,7 +547,7 @@
                 <![CDATA[ /news-01-09-2022.xml ]]>
             </title>
             <link>https://news.abplive.com/news-01-09-2022.xml</link>
-            <guid isPermaLink="false">1666441873607</guid>
+            <guid isPermaLink="false">1666534835705</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -547,7 +557,7 @@
                 <![CDATA[ /news-31-08-2022.xml ]]>
             </title>
             <link>https://news.abplive.com/news-31-08-2022.xml</link>
-            <guid isPermaLink="false">1666441873608</guid>
+            <guid isPermaLink="false">1666534835706</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -557,7 +567,7 @@
                 <![CDATA[ /news-30-08-2022.xml ]]>
             </title>
             <link>https://news.abplive.com/news-30-08-2022.xml</link>
-            <guid isPermaLink="false">1666441873609</guid>
+            <guid isPermaLink="false">1666534835707</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -567,7 +577,7 @@
                 <![CDATA[ /news-29-08-2022.xml ]]>
             </title>
             <link>https://news.abplive.com/news-29-08-2022.xml</link>
-            <guid isPermaLink="false">1666441873610</guid>
+            <guid isPermaLink="false">1666534835708</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -577,7 +587,7 @@
                 <![CDATA[ /news-28-08-2022.xml ]]>
             </title>
             <link>https://news.abplive.com/news-28-08-2022.xml</link>
-            <guid isPermaLink="false">1666441873611</guid>
+            <guid isPermaLink="false">1666534835709</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -587,7 +597,7 @@
                 <![CDATA[ /news-27-08-2022.xml ]]>
             </title>
             <link>https://news.abplive.com/news-27-08-2022.xml</link>
-            <guid isPermaLink="false">1666441873612</guid>
+            <guid isPermaLink="false">1666534835710</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -597,7 +607,7 @@
                 <![CDATA[ /news-26-08-2022.xml ]]>
             </title>
             <link>https://news.abplive.com/news-26-08-2022.xml</link>
-            <guid isPermaLink="false">1666441873613</guid>
+            <guid isPermaLink="false">1666534835711</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -607,7 +617,7 @@
                 <![CDATA[ /news-25-08-2022.xml ]]>
             </title>
             <link>https://news.abplive.com/news-25-08-2022.xml</link>
-            <guid isPermaLink="false">1666441873614</guid>
+            <guid isPermaLink="false">1666534835712</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -617,7 +627,7 @@
                 <![CDATA[ /news-24-08-2022.xml ]]>
             </title>
             <link>https://news.abplive.com/news-24-08-2022.xml</link>
-            <guid isPermaLink="false">1666441873615</guid>
+            <guid isPermaLink="false">1666534835713</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -627,7 +637,7 @@
                 <![CDATA[ /news-23-08-2022.xml ]]>
             </title>
             <link>https://news.abplive.com/news-23-08-2022.xml</link>
-            <guid isPermaLink="false">1666441873616</guid>
+            <guid isPermaLink="false">1666534835714</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -637,7 +647,7 @@
                 <![CDATA[ /news-22-08-2022.xml ]]>
             </title>
             <link>https://news.abplive.com/news-22-08-2022.xml</link>
-            <guid isPermaLink="false">1666441873617</guid>
+            <guid isPermaLink="false">1666534835715</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -647,7 +657,7 @@
                 <![CDATA[ /news-21-08-2022.xml ]]>
             </title>
             <link>https://news.abplive.com/news-21-08-2022.xml</link>
-            <guid isPermaLink="false">1666441873618</guid>
+            <guid isPermaLink="false">1666534835716</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -657,7 +667,7 @@
                 <![CDATA[ /news-20-08-2022.xml ]]>
             </title>
             <link>https://news.abplive.com/news-20-08-2022.xml</link>
-            <guid isPermaLink="false">1666441873619</guid>
+            <guid isPermaLink="false">1666534835717</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -667,7 +677,7 @@
                 <![CDATA[ /news-19-08-2022.xml ]]>
             </title>
             <link>https://news.abplive.com/news-19-08-2022.xml</link>
-            <guid isPermaLink="false">1666441873620</guid>
+            <guid isPermaLink="false">1666534835718</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -677,7 +687,7 @@
                 <![CDATA[ /news-18-08-2022.xml ]]>
             </title>
             <link>https://news.abplive.com/news-18-08-2022.xml</link>
-            <guid isPermaLink="false">1666441873621</guid>
+            <guid isPermaLink="false">1666534835719</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -687,7 +697,7 @@
                 <![CDATA[ /news-17-08-2022.xml ]]>
             </title>
             <link>https://news.abplive.com/news-17-08-2022.xml</link>
-            <guid isPermaLink="false">1666441873622</guid>
+            <guid isPermaLink="false">1666534835720</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -697,7 +707,7 @@
                 <![CDATA[ /news-16-08-2022.xml ]]>
             </title>
             <link>https://news.abplive.com/news-16-08-2022.xml</link>
-            <guid isPermaLink="false">1666441873623</guid>
+            <guid isPermaLink="false">1666534835721</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -707,7 +717,7 @@
                 <![CDATA[ /news-15-08-2022.xml ]]>
             </title>
             <link>https://news.abplive.com/news-15-08-2022.xml</link>
-            <guid isPermaLink="false">1666441873624</guid>
+            <guid isPermaLink="false">1666534835722</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -717,7 +727,7 @@
                 <![CDATA[ /news-14-08-2022.xml ]]>
             </title>
             <link>https://news.abplive.com/news-14-08-2022.xml</link>
-            <guid isPermaLink="false">1666441873625</guid>
+            <guid isPermaLink="false">1666534835723</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -727,7 +737,7 @@
                 <![CDATA[ /news-13-08-2022.xml ]]>
             </title>
             <link>https://news.abplive.com/news-13-08-2022.xml</link>
-            <guid isPermaLink="false">1666441873626</guid>
+            <guid isPermaLink="false">1666534835724</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -737,7 +747,7 @@
                 <![CDATA[ /news-12-08-2022.xml ]]>
             </title>
             <link>https://news.abplive.com/news-12-08-2022.xml</link>
-            <guid isPermaLink="false">1666441873627</guid>
+            <guid isPermaLink="false">1666534835725</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -747,7 +757,7 @@
                 <![CDATA[ /news-11-08-2022.xml ]]>
             </title>
             <link>https://news.abplive.com/news-11-08-2022.xml</link>
-            <guid isPermaLink="false">1666441873628</guid>
+            <guid isPermaLink="false">1666534835726</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -757,7 +767,7 @@
                 <![CDATA[ /news-10-08-2022.xml ]]>
             </title>
             <link>https://news.abplive.com/news-10-08-2022.xml</link>
-            <guid isPermaLink="false">1666441873629</guid>
+            <guid isPermaLink="false">1666534835727</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -767,7 +777,7 @@
                 <![CDATA[ /news-09-08-2022.xml ]]>
             </title>
             <link>https://news.abplive.com/news-09-08-2022.xml</link>
-            <guid isPermaLink="false">1666441873630</guid>
+            <guid isPermaLink="false">1666534835728</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -777,7 +787,7 @@
                 <![CDATA[ /news-08-08-2022.xml ]]>
             </title>
             <link>https://news.abplive.com/news-08-08-2022.xml</link>
-            <guid isPermaLink="false">1666441873631</guid>
+            <guid isPermaLink="false">1666534835729</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -787,7 +797,7 @@
                 <![CDATA[ /news-07-08-2022.xml ]]>
             </title>
             <link>https://news.abplive.com/news-07-08-2022.xml</link>
-            <guid isPermaLink="false">1666441873632</guid>
+            <guid isPermaLink="false">1666534835730</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -797,7 +807,7 @@
                 <![CDATA[ /news-06-08-2022.xml ]]>
             </title>
             <link>https://news.abplive.com/news-06-08-2022.xml</link>
-            <guid isPermaLink="false">1666441873633</guid>
+            <guid isPermaLink="false">1666534835731</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -807,7 +817,7 @@
                 <![CDATA[ /news-05-08-2022.xml ]]>
             </title>
             <link>https://news.abplive.com/news-05-08-2022.xml</link>
-            <guid isPermaLink="false">1666441873634</guid>
+            <guid isPermaLink="false">1666534835732</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -817,7 +827,7 @@
                 <![CDATA[ /news-04-08-2022.xml ]]>
             </title>
             <link>https://news.abplive.com/news-04-08-2022.xml</link>
-            <guid isPermaLink="false">1666441873635</guid>
+            <guid isPermaLink="false">1666534835733</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -827,7 +837,7 @@
                 <![CDATA[ /news-03-08-2022.xml ]]>
             </title>
             <link>https://news.abplive.com/news-03-08-2022.xml</link>
-            <guid isPermaLink="false">1666441873636</guid>
+            <guid isPermaLink="false">1666534835734</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -837,7 +847,7 @@
                 <![CDATA[ /news-02-08-2022.xml ]]>
             </title>
             <link>https://news.abplive.com/news-02-08-2022.xml</link>
-            <guid isPermaLink="false">1666441873637</guid>
+            <guid isPermaLink="false">1666534835735</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -847,7 +857,7 @@
                 <![CDATA[ /news-01-08-2022.xml ]]>
             </title>
             <link>https://news.abplive.com/news-01-08-2022.xml</link>
-            <guid isPermaLink="false">1666441873638</guid>
+            <guid isPermaLink="false">1666534835736</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -857,7 +867,7 @@
                 <![CDATA[ /news-31-07-2022.xml ]]>
             </title>
             <link>https://news.abplive.com/news-31-07-2022.xml</link>
-            <guid isPermaLink="false">1666441873639</guid>
+            <guid isPermaLink="false">1666534835737</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -867,7 +877,7 @@
                 <![CDATA[ /news-30-07-2022.xml ]]>
             </title>
             <link>https://news.abplive.com/news-30-07-2022.xml</link>
-            <guid isPermaLink="false">1666441873640</guid>
+            <guid isPermaLink="false">1666534835738</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -877,7 +887,7 @@
                 <![CDATA[ /news-29-07-2022.xml ]]>
             </title>
             <link>https://news.abplive.com/news-29-07-2022.xml</link>
-            <guid isPermaLink="false">1666441873641</guid>
+            <guid isPermaLink="false">1666534835739</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -887,7 +897,7 @@
                 <![CDATA[ /news-28-07-2022.xml ]]>
             </title>
             <link>https://news.abplive.com/news-28-07-2022.xml</link>
-            <guid isPermaLink="false">1666441873642</guid>
+            <guid isPermaLink="false">1666534835740</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -897,7 +907,7 @@
                 <![CDATA[ /news-27-07-2022.xml ]]>
             </title>
             <link>https://news.abplive.com/news-27-07-2022.xml</link>
-            <guid isPermaLink="false">1666441873643</guid>
+            <guid isPermaLink="false">1666534835741</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -907,7 +917,7 @@
                 <![CDATA[ /news-26-07-2022.xml ]]>
             </title>
             <link>https://news.abplive.com/news-26-07-2022.xml</link>
-            <guid isPermaLink="false">1666441873644</guid>
+            <guid isPermaLink="false">1666534835742</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -917,7 +927,7 @@
                 <![CDATA[ /news-25-07-2022.xml ]]>
             </title>
             <link>https://news.abplive.com/news-25-07-2022.xml</link>
-            <guid isPermaLink="false">1666441873645</guid>
+            <guid isPermaLink="false">1666534835743</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -927,7 +937,7 @@
                 <![CDATA[ /news-24-07-2022.xml ]]>
             </title>
             <link>https://news.abplive.com/news-24-07-2022.xml</link>
-            <guid isPermaLink="false">1666441873646</guid>
+            <guid isPermaLink="false">1666534835744</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -937,7 +947,7 @@
                 <![CDATA[ /news-23-07-2022.xml ]]>
             </title>
             <link>https://news.abplive.com/news-23-07-2022.xml</link>
-            <guid isPermaLink="false">1666441873647</guid>
+            <guid isPermaLink="false">1666534835745</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -947,7 +957,7 @@
                 <![CDATA[ /news-22-07-2022.xml ]]>
             </title>
             <link>https://news.abplive.com/news-22-07-2022.xml</link>
-            <guid isPermaLink="false">1666441873648</guid>
+            <guid isPermaLink="false">1666534835746</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -957,7 +967,7 @@
                 <![CDATA[ /news-21-07-2022.xml ]]>
             </title>
             <link>https://news.abplive.com/news-21-07-2022.xml</link>
-            <guid isPermaLink="false">1666441873649</guid>
+            <guid isPermaLink="false">1666534835747</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -967,7 +977,7 @@
                 <![CDATA[ /news-20-07-2022.xml ]]>
             </title>
             <link>https://news.abplive.com/news-20-07-2022.xml</link>
-            <guid isPermaLink="false">1666441873650</guid>
+            <guid isPermaLink="false">1666534835748</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -977,7 +987,7 @@
                 <![CDATA[ /news-19-07-2022.xml ]]>
             </title>
             <link>https://news.abplive.com/news-19-07-2022.xml</link>
-            <guid isPermaLink="false">1666441873651</guid>
+            <guid isPermaLink="false">1666534835749</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -987,7 +997,7 @@
                 <![CDATA[ /news-18-07-2022.xml ]]>
             </title>
             <link>https://news.abplive.com/news-18-07-2022.xml</link>
-            <guid isPermaLink="false">1666441873652</guid>
+            <guid isPermaLink="false">1666534835750</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -997,7 +1007,7 @@
                 <![CDATA[ /news-17-07-2022.xml ]]>
             </title>
             <link>https://news.abplive.com/news-17-07-2022.xml</link>
-            <guid isPermaLink="false">1666441873653</guid>
+            <guid isPermaLink="false">1666534835751</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -1007,7 +1017,7 @@
                 <![CDATA[ /news-16-07-2022.xml ]]>
             </title>
             <link>https://news.abplive.com/news-16-07-2022.xml</link>
-            <guid isPermaLink="false">1666441873654</guid>
+            <guid isPermaLink="false">1666534835752</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -1017,7 +1027,7 @@
                 <![CDATA[ /news-15-07-2022.xml ]]>
             </title>
             <link>https://news.abplive.com/news-15-07-2022.xml</link>
-            <guid isPermaLink="false">1666441873655</guid>
+            <guid isPermaLink="false">1666534835753</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -1027,7 +1037,7 @@
                 <![CDATA[ /news-14-07-2022.xml ]]>
             </title>
             <link>https://news.abplive.com/news-14-07-2022.xml</link>
-            <guid isPermaLink="false">1666441873656</guid>
+            <guid isPermaLink="false">1666534835754</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -1037,7 +1047,7 @@
                 <![CDATA[ /news-13-07-2022.xml ]]>
             </title>
             <link>https://news.abplive.com/news-13-07-2022.xml</link>
-            <guid isPermaLink="false">1666441873657</guid>
+            <guid isPermaLink="false">1666534835755</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -1047,7 +1057,7 @@
                 <![CDATA[ /news-12-07-2022.xml ]]>
             </title>
             <link>https://news.abplive.com/news-12-07-2022.xml</link>
-            <guid isPermaLink="false">1666441873658</guid>
+            <guid isPermaLink="false">1666534835756</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -1057,7 +1067,7 @@
                 <![CDATA[ /news-11-07-2022.xml ]]>
             </title>
             <link>https://news.abplive.com/news-11-07-2022.xml</link>
-            <guid isPermaLink="false">1666441873659</guid>
+            <guid isPermaLink="false">1666534835757</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -1067,7 +1077,7 @@
                 <![CDATA[ /news-10-07-2022.xml ]]>
             </title>
             <link>https://news.abplive.com/news-10-07-2022.xml</link>
-            <guid isPermaLink="false">1666441873660</guid>
+            <guid isPermaLink="false">1666534835758</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -1077,7 +1087,7 @@
                 <![CDATA[ /news-09-07-2022.xml ]]>
             </title>
             <link>https://news.abplive.com/news-09-07-2022.xml</link>
-            <guid isPermaLink="false">1666441873661</guid>
+            <guid isPermaLink="false">1666534835759</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -1087,7 +1097,7 @@
                 <![CDATA[ /news-08-07-2022.xml ]]>
             </title>
             <link>https://news.abplive.com/news-08-07-2022.xml</link>
-            <guid isPermaLink="false">1666441873662</guid>
+            <guid isPermaLink="false">1666534835760</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -1097,7 +1107,7 @@
                 <![CDATA[ /news-07-07-2022.xml ]]>
             </title>
             <link>https://news.abplive.com/news-07-07-2022.xml</link>
-            <guid isPermaLink="false">1666441873663</guid>
+            <guid isPermaLink="false">1666534835761</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -1107,7 +1117,7 @@
                 <![CDATA[ /news-06-07-2022.xml ]]>
             </title>
             <link>https://news.abplive.com/news-06-07-2022.xml</link>
-            <guid isPermaLink="false">1666441873664</guid>
+            <guid isPermaLink="false">1666534835762</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -1117,7 +1127,7 @@
                 <![CDATA[ /news-05-07-2022.xml ]]>
             </title>
             <link>https://news.abplive.com/news-05-07-2022.xml</link>
-            <guid isPermaLink="false">1666441873665</guid>
+            <guid isPermaLink="false">1666534835763</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -1127,7 +1137,7 @@
                 <![CDATA[ /news-04-07-2022.xml ]]>
             </title>
             <link>https://news.abplive.com/news-04-07-2022.xml</link>
-            <guid isPermaLink="false">1666441873666</guid>
+            <guid isPermaLink="false">1666534835764</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -1137,7 +1147,7 @@
                 <![CDATA[ /news-03-07-2022.xml ]]>
             </title>
             <link>https://news.abplive.com/news-03-07-2022.xml</link>
-            <guid isPermaLink="false">1666441873667</guid>
+            <guid isPermaLink="false">1666534835765</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -1147,7 +1157,7 @@
                 <![CDATA[ /news-02-07-2022.xml ]]>
             </title>
             <link>https://news.abplive.com/news-02-07-2022.xml</link>
-            <guid isPermaLink="false">1666441873668</guid>
+            <guid isPermaLink="false">1666534835766</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -1157,7 +1167,7 @@
                 <![CDATA[ /news-01-07-2022.xml ]]>
             </title>
             <link>https://news.abplive.com/news-01-07-2022.xml</link>
-            <guid isPermaLink="false">1666441873669</guid>
+            <guid isPermaLink="false">1666534835767</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -1167,7 +1177,7 @@
                 <![CDATA[ /news-30-06-2022.xml ]]>
             </title>
             <link>https://news.abplive.com/news-30-06-2022.xml</link>
-            <guid isPermaLink="false">1666441873670</guid>
+            <guid isPermaLink="false">1666534835768</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -1177,7 +1187,7 @@
                 <![CDATA[ /news-29-06-2022.xml ]]>
             </title>
             <link>https://news.abplive.com/news-29-06-2022.xml</link>
-            <guid isPermaLink="false">1666441873671</guid>
+            <guid isPermaLink="false">1666534835769</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -1187,7 +1197,7 @@
                 <![CDATA[ /news-28-06-2022.xml ]]>
             </title>
             <link>https://news.abplive.com/news-28-06-2022.xml</link>
-            <guid isPermaLink="false">1666441873672</guid>
+            <guid isPermaLink="false">1666534835770</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -1197,7 +1207,7 @@
                 <![CDATA[ /news-27-06-2022.xml ]]>
             </title>
             <link>https://news.abplive.com/news-27-06-2022.xml</link>
-            <guid isPermaLink="false">1666441873673</guid>
+            <guid isPermaLink="false">1666534835771</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -1207,7 +1217,7 @@
                 <![CDATA[ /news-26-06-2022.xml ]]>
             </title>
             <link>https://news.abplive.com/news-26-06-2022.xml</link>
-            <guid isPermaLink="false">1666441873674</guid>
+            <guid isPermaLink="false">1666534835772</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -1217,7 +1227,7 @@
                 <![CDATA[ /news-25-06-2022.xml ]]>
             </title>
             <link>https://news.abplive.com/news-25-06-2022.xml</link>
-            <guid isPermaLink="false">1666441873675</guid>
+            <guid isPermaLink="false">1666534835773</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -1227,7 +1237,7 @@
                 <![CDATA[ /news-24-06-2022.xml ]]>
             </title>
             <link>https://news.abplive.com/news-24-06-2022.xml</link>
-            <guid isPermaLink="false">1666441873676</guid>
+            <guid isPermaLink="false">1666534835774</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -1237,7 +1247,7 @@
                 <![CDATA[ /news-23-06-2022.xml ]]>
             </title>
             <link>https://news.abplive.com/news-23-06-2022.xml</link>
-            <guid isPermaLink="false">1666441873677</guid>
+            <guid isPermaLink="false">1666534835775</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -1247,7 +1257,7 @@
                 <![CDATA[ /news-22-06-2022.xml ]]>
             </title>
             <link>https://news.abplive.com/news-22-06-2022.xml</link>
-            <guid isPermaLink="false">1666441873678</guid>
+            <guid isPermaLink="false">1666534835776</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -1257,7 +1267,7 @@
                 <![CDATA[ /news-21-06-2022.xml ]]>
             </title>
             <link>https://news.abplive.com/news-21-06-2022.xml</link>
-            <guid isPermaLink="false">1666441873679</guid>
+            <guid isPermaLink="false">1666534835777</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -1267,7 +1277,7 @@
                 <![CDATA[ /news-20-06-2022.xml ]]>
             </title>
             <link>https://news.abplive.com/news-20-06-2022.xml</link>
-            <guid isPermaLink="false">1666441873680</guid>
+            <guid isPermaLink="false">1666534835778</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -1277,7 +1287,7 @@
                 <![CDATA[ /news-19-06-2022.xml ]]>
             </title>
             <link>https://news.abplive.com/news-19-06-2022.xml</link>
-            <guid isPermaLink="false">1666441873681</guid>
+            <guid isPermaLink="false">1666534835779</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -1287,7 +1297,7 @@
                 <![CDATA[ /news-18-06-2022.xml ]]>
             </title>
             <link>https://news.abplive.com/news-18-06-2022.xml</link>
-            <guid isPermaLink="false">1666441873682</guid>
+            <guid isPermaLink="false">1666534835780</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -1297,7 +1307,7 @@
                 <![CDATA[ /news-17-06-2022.xml ]]>
             </title>
             <link>https://news.abplive.com/news-17-06-2022.xml</link>
-            <guid isPermaLink="false">1666441873683</guid>
+            <guid isPermaLink="false">1666534835781</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -1307,7 +1317,7 @@
                 <![CDATA[ /news-16-06-2022.xml ]]>
             </title>
             <link>https://news.abplive.com/news-16-06-2022.xml</link>
-            <guid isPermaLink="false">1666441873684</guid>
+            <guid isPermaLink="false">1666534835782</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -1317,7 +1327,7 @@
                 <![CDATA[ /news-15-06-2022.xml ]]>
             </title>
             <link>https://news.abplive.com/news-15-06-2022.xml</link>
-            <guid isPermaLink="false">1666441873685</guid>
+            <guid isPermaLink="false">1666534835783</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -1327,7 +1337,7 @@
                 <![CDATA[ /news-14-06-2022.xml ]]>
             </title>
             <link>https://news.abplive.com/news-14-06-2022.xml</link>
-            <guid isPermaLink="false">1666441873686</guid>
+            <guid isPermaLink="false">1666534835784</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -1337,7 +1347,7 @@
                 <![CDATA[ /news-13-06-2022.xml ]]>
             </title>
             <link>https://news.abplive.com/news-13-06-2022.xml</link>
-            <guid isPermaLink="false">1666441873687</guid>
+            <guid isPermaLink="false">1666534835785</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -1347,7 +1357,7 @@
                 <![CDATA[ /news-12-06-2022.xml ]]>
             </title>
             <link>https://news.abplive.com/news-12-06-2022.xml</link>
-            <guid isPermaLink="false">1666441873688</guid>
+            <guid isPermaLink="false">1666534835786</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -1357,7 +1367,7 @@
                 <![CDATA[ /news-11-06-2022.xml ]]>
             </title>
             <link>https://news.abplive.com/news-11-06-2022.xml</link>
-            <guid isPermaLink="false">1666441873689</guid>
+            <guid isPermaLink="false">1666534835787</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -1367,7 +1377,7 @@
                 <![CDATA[ /news-10-06-2022.xml ]]>
             </title>
             <link>https://news.abplive.com/news-10-06-2022.xml</link>
-            <guid isPermaLink="false">1666441873690</guid>
+            <guid isPermaLink="false">1666534835788</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -1377,7 +1387,7 @@
                 <![CDATA[ /news-09-06-2022.xml ]]>
             </title>
             <link>https://news.abplive.com/news-09-06-2022.xml</link>
-            <guid isPermaLink="false">1666441873691</guid>
+            <guid isPermaLink="false">1666534835789</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -1387,7 +1397,7 @@
                 <![CDATA[ /news-08-06-2022.xml ]]>
             </title>
             <link>https://news.abplive.com/news-08-06-2022.xml</link>
-            <guid isPermaLink="false">1666441873692</guid>
+            <guid isPermaLink="false">1666534835790</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -1397,7 +1407,7 @@
                 <![CDATA[ /news-07-06-2022.xml ]]>
             </title>
             <link>https://news.abplive.com/news-07-06-2022.xml</link>
-            <guid isPermaLink="false">1666441873693</guid>
+            <guid isPermaLink="false">1666534835791</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -1407,7 +1417,7 @@
                 <![CDATA[ /news-06-06-2022.xml ]]>
             </title>
             <link>https://news.abplive.com/news-06-06-2022.xml</link>
-            <guid isPermaLink="false">1666441873694</guid>
+            <guid isPermaLink="false">1666534835792</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -1417,7 +1427,7 @@
                 <![CDATA[ /news-05-06-2022.xml ]]>
             </title>
             <link>https://news.abplive.com/news-05-06-2022.xml</link>
-            <guid isPermaLink="false">1666441873695</guid>
+            <guid isPermaLink="false">1666534835793</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -1427,7 +1437,7 @@
                 <![CDATA[ /news-04-06-2022.xml ]]>
             </title>
             <link>https://news.abplive.com/news-04-06-2022.xml</link>
-            <guid isPermaLink="false">1666441873696</guid>
+            <guid isPermaLink="false">1666534835794</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -1437,7 +1447,7 @@
                 <![CDATA[ /news-03-06-2022.xml ]]>
             </title>
             <link>https://news.abplive.com/news-03-06-2022.xml</link>
-            <guid isPermaLink="false">1666441873697</guid>
+            <guid isPermaLink="false">1666534835795</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -1447,7 +1457,7 @@
                 <![CDATA[ /news-02-06-2022.xml ]]>
             </title>
             <link>https://news.abplive.com/news-02-06-2022.xml</link>
-            <guid isPermaLink="false">1666441873698</guid>
+            <guid isPermaLink="false">1666534835796</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -1457,7 +1467,7 @@
                 <![CDATA[ /news-01-06-2022.xml ]]>
             </title>
             <link>https://news.abplive.com/news-01-06-2022.xml</link>
-            <guid isPermaLink="false">1666441873699</guid>
+            <guid isPermaLink="false">1666534835797</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -1467,7 +1477,7 @@
                 <![CDATA[ /news-31-05-2022.xml ]]>
             </title>
             <link>https://news.abplive.com/news-31-05-2022.xml</link>
-            <guid isPermaLink="false">1666441873700</guid>
+            <guid isPermaLink="false">1666534835798</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -1477,7 +1487,7 @@
                 <![CDATA[ /news-30-05-2022.xml ]]>
             </title>
             <link>https://news.abplive.com/news-30-05-2022.xml</link>
-            <guid isPermaLink="false">1666441873701</guid>
+            <guid isPermaLink="false">1666534835799</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -1487,7 +1497,7 @@
                 <![CDATA[ /news-29-05-2022.xml ]]>
             </title>
             <link>https://news.abplive.com/news-29-05-2022.xml</link>
-            <guid isPermaLink="false">1666441873702</guid>
+            <guid isPermaLink="false">1666534835800</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -1497,7 +1507,7 @@
                 <![CDATA[ /news-28-05-2022.xml ]]>
             </title>
             <link>https://news.abplive.com/news-28-05-2022.xml</link>
-            <guid isPermaLink="false">1666441873703</guid>
+            <guid isPermaLink="false">1666534835801</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -1507,7 +1517,7 @@
                 <![CDATA[ /news-27-05-2022.xml ]]>
             </title>
             <link>https://news.abplive.com/news-27-05-2022.xml</link>
-            <guid isPermaLink="false">1666441873704</guid>
+            <guid isPermaLink="false">1666534835802</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -1517,7 +1527,7 @@
                 <![CDATA[ /news-26-05-2022.xml ]]>
             </title>
             <link>https://news.abplive.com/news-26-05-2022.xml</link>
-            <guid isPermaLink="false">1666441873705</guid>
+            <guid isPermaLink="false">1666534835803</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -1527,7 +1537,7 @@
                 <![CDATA[ /news-25-05-2022.xml ]]>
             </title>
             <link>https://news.abplive.com/news-25-05-2022.xml</link>
-            <guid isPermaLink="false">1666441873706</guid>
+            <guid isPermaLink="false">1666534835804</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -1537,7 +1547,7 @@
                 <![CDATA[ /news-24-05-2022.xml ]]>
             </title>
             <link>https://news.abplive.com/news-24-05-2022.xml</link>
-            <guid isPermaLink="false">1666441873707</guid>
+            <guid isPermaLink="false">1666534835805</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -1547,7 +1557,7 @@
                 <![CDATA[ /news-23-05-2022.xml ]]>
             </title>
             <link>https://news.abplive.com/news-23-05-2022.xml</link>
-            <guid isPermaLink="false">1666441873708</guid>
+            <guid isPermaLink="false">1666534835806</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -1557,7 +1567,7 @@
                 <![CDATA[ /news-22-05-2022.xml ]]>
             </title>
             <link>https://news.abplive.com/news-22-05-2022.xml</link>
-            <guid isPermaLink="false">1666441873709</guid>
+            <guid isPermaLink="false">1666534835807</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -1567,7 +1577,7 @@
                 <![CDATA[ /news-21-05-2022.xml ]]>
             </title>
             <link>https://news.abplive.com/news-21-05-2022.xml</link>
-            <guid isPermaLink="false">1666441873710</guid>
+            <guid isPermaLink="false">1666534835808</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -1577,7 +1587,7 @@
                 <![CDATA[ /news-20-05-2022.xml ]]>
             </title>
             <link>https://news.abplive.com/news-20-05-2022.xml</link>
-            <guid isPermaLink="false">1666441873711</guid>
+            <guid isPermaLink="false">1666534835809</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -1587,7 +1597,7 @@
                 <![CDATA[ /news-19-05-2022.xml ]]>
             </title>
             <link>https://news.abplive.com/news-19-05-2022.xml</link>
-            <guid isPermaLink="false">1666441873712</guid>
+            <guid isPermaLink="false">1666534835810</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -1597,7 +1607,7 @@
                 <![CDATA[ /news-18-05-2022.xml ]]>
             </title>
             <link>https://news.abplive.com/news-18-05-2022.xml</link>
-            <guid isPermaLink="false">1666441873713</guid>
+            <guid isPermaLink="false">1666534835811</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -1607,7 +1617,7 @@
                 <![CDATA[ /news-17-05-2022.xml ]]>
             </title>
             <link>https://news.abplive.com/news-17-05-2022.xml</link>
-            <guid isPermaLink="false">1666441873714</guid>
+            <guid isPermaLink="false">1666534835812</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -1617,7 +1627,7 @@
                 <![CDATA[ /news-16-05-2022.xml ]]>
             </title>
             <link>https://news.abplive.com/news-16-05-2022.xml</link>
-            <guid isPermaLink="false">1666441873715</guid>
+            <guid isPermaLink="false">1666534835813</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -1627,7 +1637,7 @@
                 <![CDATA[ /news-15-05-2022.xml ]]>
             </title>
             <link>https://news.abplive.com/news-15-05-2022.xml</link>
-            <guid isPermaLink="false">1666441873716</guid>
+            <guid isPermaLink="false">1666534835814</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -1637,7 +1647,7 @@
                 <![CDATA[ /news-14-05-2022.xml ]]>
             </title>
             <link>https://news.abplive.com/news-14-05-2022.xml</link>
-            <guid isPermaLink="false">1666441873717</guid>
+            <guid isPermaLink="false">1666534835815</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -1647,7 +1657,7 @@
                 <![CDATA[ /news-13-05-2022.xml ]]>
             </title>
             <link>https://news.abplive.com/news-13-05-2022.xml</link>
-            <guid isPermaLink="false">1666441873718</guid>
+            <guid isPermaLink="false">1666534835816</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -1657,7 +1667,7 @@
                 <![CDATA[ /news-12-05-2022.xml ]]>
             </title>
             <link>https://news.abplive.com/news-12-05-2022.xml</link>
-            <guid isPermaLink="false">1666441873719</guid>
+            <guid isPermaLink="false">1666534835817</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -1667,7 +1677,7 @@
                 <![CDATA[ /news-11-05-2022.xml ]]>
             </title>
             <link>https://news.abplive.com/news-11-05-2022.xml</link>
-            <guid isPermaLink="false">1666441873720</guid>
+            <guid isPermaLink="false">1666534835818</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -1677,7 +1687,7 @@
                 <![CDATA[ /news-10-05-2022.xml ]]>
             </title>
             <link>https://news.abplive.com/news-10-05-2022.xml</link>
-            <guid isPermaLink="false">1666441873721</guid>
+            <guid isPermaLink="false">1666534835819</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -1687,7 +1697,7 @@
                 <![CDATA[ /news-09-05-2022.xml ]]>
             </title>
             <link>https://news.abplive.com/news-09-05-2022.xml</link>
-            <guid isPermaLink="false">1666441873722</guid>
+            <guid isPermaLink="false">1666534835820</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -1697,7 +1707,7 @@
                 <![CDATA[ /news-08-05-2022.xml ]]>
             </title>
             <link>https://news.abplive.com/news-08-05-2022.xml</link>
-            <guid isPermaLink="false">1666441873723</guid>
+            <guid isPermaLink="false">1666534835821</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -1707,7 +1717,7 @@
                 <![CDATA[ /news-07-05-2022.xml ]]>
             </title>
             <link>https://news.abplive.com/news-07-05-2022.xml</link>
-            <guid isPermaLink="false">1666441873724</guid>
+            <guid isPermaLink="false">1666534835822</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -1717,7 +1727,7 @@
                 <![CDATA[ /news-06-05-2022.xml ]]>
             </title>
             <link>https://news.abplive.com/news-06-05-2022.xml</link>
-            <guid isPermaLink="false">1666441873725</guid>
+            <guid isPermaLink="false">1666534835823</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -1727,7 +1737,7 @@
                 <![CDATA[ /news-05-05-2022.xml ]]>
             </title>
             <link>https://news.abplive.com/news-05-05-2022.xml</link>
-            <guid isPermaLink="false">1666441873726</guid>
+            <guid isPermaLink="false">1666534835824</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -1737,7 +1747,7 @@
                 <![CDATA[ /news-04-05-2022.xml ]]>
             </title>
             <link>https://news.abplive.com/news-04-05-2022.xml</link>
-            <guid isPermaLink="false">1666441873727</guid>
+            <guid isPermaLink="false">1666534835825</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -1747,7 +1757,7 @@
                 <![CDATA[ /news-03-05-2022.xml ]]>
             </title>
             <link>https://news.abplive.com/news-03-05-2022.xml</link>
-            <guid isPermaLink="false">1666441873728</guid>
+            <guid isPermaLink="false">1666534835826</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -1757,7 +1767,7 @@
                 <![CDATA[ /news-02-05-2022.xml ]]>
             </title>
             <link>https://news.abplive.com/news-02-05-2022.xml</link>
-            <guid isPermaLink="false">1666441873729</guid>
+            <guid isPermaLink="false">1666534835827</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -1767,7 +1777,7 @@
                 <![CDATA[ /news-01-05-2022.xml ]]>
             </title>
             <link>https://news.abplive.com/news-01-05-2022.xml</link>
-            <guid isPermaLink="false">1666441873730</guid>
+            <guid isPermaLink="false">1666534835828</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -1777,7 +1787,7 @@
                 <![CDATA[ /news-30-04-2022.xml ]]>
             </title>
             <link>https://news.abplive.com/news-30-04-2022.xml</link>
-            <guid isPermaLink="false">1666441873731</guid>
+            <guid isPermaLink="false">1666534835829</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -1787,7 +1797,7 @@
                 <![CDATA[ /news-29-04-2022.xml ]]>
             </title>
             <link>https://news.abplive.com/news-29-04-2022.xml</link>
-            <guid isPermaLink="false">1666441873732</guid>
+            <guid isPermaLink="false">1666534835830</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -1797,7 +1807,7 @@
                 <![CDATA[ /news-28-04-2022.xml ]]>
             </title>
             <link>https://news.abplive.com/news-28-04-2022.xml</link>
-            <guid isPermaLink="false">1666441873733</guid>
+            <guid isPermaLink="false">1666534835831</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -1807,7 +1817,7 @@
                 <![CDATA[ /news-27-04-2022.xml ]]>
             </title>
             <link>https://news.abplive.com/news-27-04-2022.xml</link>
-            <guid isPermaLink="false">1666441873734</guid>
+            <guid isPermaLink="false">1666534835832</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -1817,7 +1827,7 @@
                 <![CDATA[ /news-26-04-2022.xml ]]>
             </title>
             <link>https://news.abplive.com/news-26-04-2022.xml</link>
-            <guid isPermaLink="false">1666441873735</guid>
+            <guid isPermaLink="false">1666534835833</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -1827,7 +1837,7 @@
                 <![CDATA[ /news-25-04-2022.xml ]]>
             </title>
             <link>https://news.abplive.com/news-25-04-2022.xml</link>
-            <guid isPermaLink="false">1666441873736</guid>
+            <guid isPermaLink="false">1666534835834</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -1837,7 +1847,7 @@
                 <![CDATA[ /news-24-04-2022.xml ]]>
             </title>
             <link>https://news.abplive.com/news-24-04-2022.xml</link>
-            <guid isPermaLink="false">1666441873737</guid>
+            <guid isPermaLink="false">1666534835835</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -1847,7 +1857,7 @@
                 <![CDATA[ /news-23-04-2022.xml ]]>
             </title>
             <link>https://news.abplive.com/news-23-04-2022.xml</link>
-            <guid isPermaLink="false">1666441873738</guid>
+            <guid isPermaLink="false">1666534835836</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -1857,7 +1867,7 @@
                 <![CDATA[ /news-22-04-2022.xml ]]>
             </title>
             <link>https://news.abplive.com/news-22-04-2022.xml</link>
-            <guid isPermaLink="false">1666441873739</guid>
+            <guid isPermaLink="false">1666534835837</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -1867,7 +1877,7 @@
                 <![CDATA[ /news-21-04-2022.xml ]]>
             </title>
             <link>https://news.abplive.com/news-21-04-2022.xml</link>
-            <guid isPermaLink="false">1666441873740</guid>
+            <guid isPermaLink="false">1666534835838</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -1877,7 +1887,7 @@
                 <![CDATA[ /news-20-04-2022.xml ]]>
             </title>
             <link>https://news.abplive.com/news-20-04-2022.xml</link>
-            <guid isPermaLink="false">1666441873741</guid>
+            <guid isPermaLink="false">1666534835839</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -1887,7 +1897,7 @@
                 <![CDATA[ /news-19-04-2022.xml ]]>
             </title>
             <link>https://news.abplive.com/news-19-04-2022.xml</link>
-            <guid isPermaLink="false">1666441873742</guid>
+            <guid isPermaLink="false">1666534835840</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -1897,7 +1907,7 @@
                 <![CDATA[ /news-18-04-2022.xml ]]>
             </title>
             <link>https://news.abplive.com/news-18-04-2022.xml</link>
-            <guid isPermaLink="false">1666441873743</guid>
+            <guid isPermaLink="false">1666534835841</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -1907,7 +1917,7 @@
                 <![CDATA[ /news-17-04-2022.xml ]]>
             </title>
             <link>https://news.abplive.com/news-17-04-2022.xml</link>
-            <guid isPermaLink="false">1666441873744</guid>
+            <guid isPermaLink="false">1666534835842</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -1917,7 +1927,7 @@
                 <![CDATA[ /news-16-04-2022.xml ]]>
             </title>
             <link>https://news.abplive.com/news-16-04-2022.xml</link>
-            <guid isPermaLink="false">1666441873745</guid>
+            <guid isPermaLink="false">1666534835843</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -1927,7 +1937,7 @@
                 <![CDATA[ /news-15-04-2022.xml ]]>
             </title>
             <link>https://news.abplive.com/news-15-04-2022.xml</link>
-            <guid isPermaLink="false">1666441873746</guid>
+            <guid isPermaLink="false">1666534835844</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -1937,7 +1947,7 @@
                 <![CDATA[ /news-14-04-2022.xml ]]>
             </title>
             <link>https://news.abplive.com/news-14-04-2022.xml</link>
-            <guid isPermaLink="false">1666441873747</guid>
+            <guid isPermaLink="false">1666534835845</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -1947,7 +1957,7 @@
                 <![CDATA[ /news-13-04-2022.xml ]]>
             </title>
             <link>https://news.abplive.com/news-13-04-2022.xml</link>
-            <guid isPermaLink="false">1666441873748</guid>
+            <guid isPermaLink="false">1666534835846</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -1957,7 +1967,7 @@
                 <![CDATA[ /news-12-04-2022.xml ]]>
             </title>
             <link>https://news.abplive.com/news-12-04-2022.xml</link>
-            <guid isPermaLink="false">1666441873749</guid>
+            <guid isPermaLink="false">1666534835847</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -1967,7 +1977,7 @@
                 <![CDATA[ /news-11-04-2022.xml ]]>
             </title>
             <link>https://news.abplive.com/news-11-04-2022.xml</link>
-            <guid isPermaLink="false">1666441873750</guid>
+            <guid isPermaLink="false">1666534835848</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -1977,7 +1987,7 @@
                 <![CDATA[ /news-10-04-2022.xml ]]>
             </title>
             <link>https://news.abplive.com/news-10-04-2022.xml</link>
-            <guid isPermaLink="false">1666441873751</guid>
+            <guid isPermaLink="false">1666534835849</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -1987,7 +1997,7 @@
                 <![CDATA[ /news-09-04-2022.xml ]]>
             </title>
             <link>https://news.abplive.com/news-09-04-2022.xml</link>
-            <guid isPermaLink="false">1666441873752</guid>
+            <guid isPermaLink="false">1666534835850</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -1997,7 +2007,7 @@
                 <![CDATA[ /news-08-04-2022.xml ]]>
             </title>
             <link>https://news.abplive.com/news-08-04-2022.xml</link>
-            <guid isPermaLink="false">1666441873753</guid>
+            <guid isPermaLink="false">1666534835851</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -2007,7 +2017,7 @@
                 <![CDATA[ /news-07-04-2022.xml ]]>
             </title>
             <link>https://news.abplive.com/news-07-04-2022.xml</link>
-            <guid isPermaLink="false">1666441873754</guid>
+            <guid isPermaLink="false">1666534835852</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -2017,7 +2027,7 @@
                 <![CDATA[ /news-06-04-2022.xml ]]>
             </title>
             <link>https://news.abplive.com/news-06-04-2022.xml</link>
-            <guid isPermaLink="false">1666441873755</guid>
+            <guid isPermaLink="false">1666534835853</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -2027,7 +2037,7 @@
                 <![CDATA[ /news-05-04-2022.xml ]]>
             </title>
             <link>https://news.abplive.com/news-05-04-2022.xml</link>
-            <guid isPermaLink="false">1666441873756</guid>
+            <guid isPermaLink="false">1666534835854</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -2037,7 +2047,7 @@
                 <![CDATA[ /news-04-04-2022.xml ]]>
             </title>
             <link>https://news.abplive.com/news-04-04-2022.xml</link>
-            <guid isPermaLink="false">1666441873757</guid>
+            <guid isPermaLink="false">1666534835855</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -2047,7 +2057,7 @@
                 <![CDATA[ /news-03-04-2022.xml ]]>
             </title>
             <link>https://news.abplive.com/news-03-04-2022.xml</link>
-            <guid isPermaLink="false">1666441873758</guid>
+            <guid isPermaLink="false">1666534835856</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -2057,7 +2067,7 @@
                 <![CDATA[ /news-02-04-2022.xml ]]>
             </title>
             <link>https://news.abplive.com/news-02-04-2022.xml</link>
-            <guid isPermaLink="false">1666441873759</guid>
+            <guid isPermaLink="false">1666534835857</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -2067,7 +2077,7 @@
                 <![CDATA[ /news-01-04-2022.xml ]]>
             </title>
             <link>https://news.abplive.com/news-01-04-2022.xml</link>
-            <guid isPermaLink="false">1666441873760</guid>
+            <guid isPermaLink="false">1666534835858</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -2077,7 +2087,7 @@
                 <![CDATA[ /news-31-03-2022.xml ]]>
             </title>
             <link>https://news.abplive.com/news-31-03-2022.xml</link>
-            <guid isPermaLink="false">1666441873761</guid>
+            <guid isPermaLink="false">1666534835859</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -2087,7 +2097,7 @@
                 <![CDATA[ /news-30-03-2022.xml ]]>
             </title>
             <link>https://news.abplive.com/news-30-03-2022.xml</link>
-            <guid isPermaLink="false">1666441873762</guid>
+            <guid isPermaLink="false">1666534835860</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -2097,7 +2107,7 @@
                 <![CDATA[ /news-29-03-2022.xml ]]>
             </title>
             <link>https://news.abplive.com/news-29-03-2022.xml</link>
-            <guid isPermaLink="false">1666441873763</guid>
+            <guid isPermaLink="false">1666534835861</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -2107,7 +2117,7 @@
                 <![CDATA[ /news-28-03-2022.xml ]]>
             </title>
             <link>https://news.abplive.com/news-28-03-2022.xml</link>
-            <guid isPermaLink="false">1666441873764</guid>
+            <guid isPermaLink="false">1666534835862</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -2117,7 +2127,7 @@
                 <![CDATA[ /news-27-03-2022.xml ]]>
             </title>
             <link>https://news.abplive.com/news-27-03-2022.xml</link>
-            <guid isPermaLink="false">1666441873765</guid>
+            <guid isPermaLink="false">1666534835863</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -2127,7 +2137,7 @@
                 <![CDATA[ /news-26-03-2022.xml ]]>
             </title>
             <link>https://news.abplive.com/news-26-03-2022.xml</link>
-            <guid isPermaLink="false">1666441873766</guid>
+            <guid isPermaLink="false">1666534835864</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -2137,7 +2147,7 @@
                 <![CDATA[ /news-25-03-2022.xml ]]>
             </title>
             <link>https://news.abplive.com/news-25-03-2022.xml</link>
-            <guid isPermaLink="false">1666441873767</guid>
+            <guid isPermaLink="false">1666534835865</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -2147,7 +2157,7 @@
                 <![CDATA[ /news-24-03-2022.xml ]]>
             </title>
             <link>https://news.abplive.com/news-24-03-2022.xml</link>
-            <guid isPermaLink="false">1666441873768</guid>
+            <guid isPermaLink="false">1666534835866</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -2157,7 +2167,7 @@
                 <![CDATA[ /news-23-03-2022.xml ]]>
             </title>
             <link>https://news.abplive.com/news-23-03-2022.xml</link>
-            <guid isPermaLink="false">1666441873769</guid>
+            <guid isPermaLink="false">1666534835867</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -2167,7 +2177,7 @@
                 <![CDATA[ /news-22-03-2022.xml ]]>
             </title>
             <link>https://news.abplive.com/news-22-03-2022.xml</link>
-            <guid isPermaLink="false">1666441873770</guid>
+            <guid isPermaLink="false">1666534835868</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -2177,7 +2187,7 @@
                 <![CDATA[ /news-21-03-2022.xml ]]>
             </title>
             <link>https://news.abplive.com/news-21-03-2022.xml</link>
-            <guid isPermaLink="false">1666441873771</guid>
+            <guid isPermaLink="false">1666534835869</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -2187,7 +2197,7 @@
                 <![CDATA[ /news-20-03-2022.xml ]]>
             </title>
             <link>https://news.abplive.com/news-20-03-2022.xml</link>
-            <guid isPermaLink="false">1666441873772</guid>
+            <guid isPermaLink="false">1666534835870</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -2197,7 +2207,7 @@
                 <![CDATA[ /news-19-03-2022.xml ]]>
             </title>
             <link>https://news.abplive.com/news-19-03-2022.xml</link>
-            <guid isPermaLink="false">1666441873773</guid>
+            <guid isPermaLink="false">1666534835871</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -2207,7 +2217,7 @@
                 <![CDATA[ /news-18-03-2022.xml ]]>
             </title>
             <link>https://news.abplive.com/news-18-03-2022.xml</link>
-            <guid isPermaLink="false">1666441873774</guid>
+            <guid isPermaLink="false">1666534835872</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -2217,7 +2227,7 @@
                 <![CDATA[ /news-17-03-2022.xml ]]>
             </title>
             <link>https://news.abplive.com/news-17-03-2022.xml</link>
-            <guid isPermaLink="false">1666441873775</guid>
+            <guid isPermaLink="false">1666534835873</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -2227,7 +2237,7 @@
                 <![CDATA[ /news-16-03-2022.xml ]]>
             </title>
             <link>https://news.abplive.com/news-16-03-2022.xml</link>
-            <guid isPermaLink="false">1666441873776</guid>
+            <guid isPermaLink="false">1666534835874</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -2237,7 +2247,7 @@
                 <![CDATA[ /news-15-03-2022.xml ]]>
             </title>
             <link>https://news.abplive.com/news-15-03-2022.xml</link>
-            <guid isPermaLink="false">1666441873777</guid>
+            <guid isPermaLink="false">1666534835875</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -2247,7 +2257,7 @@
                 <![CDATA[ /news-14-03-2022.xml ]]>
             </title>
             <link>https://news.abplive.com/news-14-03-2022.xml</link>
-            <guid isPermaLink="false">1666441873778</guid>
+            <guid isPermaLink="false">1666534835876</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -2257,7 +2267,7 @@
                 <![CDATA[ /news-13-03-2022.xml ]]>
             </title>
             <link>https://news.abplive.com/news-13-03-2022.xml</link>
-            <guid isPermaLink="false">1666441873779</guid>
+            <guid isPermaLink="false">1666534835877</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -2267,7 +2277,7 @@
                 <![CDATA[ /news-12-03-2022.xml ]]>
             </title>
             <link>https://news.abplive.com/news-12-03-2022.xml</link>
-            <guid isPermaLink="false">1666441873780</guid>
+            <guid isPermaLink="false">1666534835878</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -2277,7 +2287,7 @@
                 <![CDATA[ /news-11-03-2022.xml ]]>
             </title>
             <link>https://news.abplive.com/news-11-03-2022.xml</link>
-            <guid isPermaLink="false">1666441873781</guid>
+            <guid isPermaLink="false">1666534835879</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -2287,7 +2297,7 @@
                 <![CDATA[ /news-10-03-2022.xml ]]>
             </title>
             <link>https://news.abplive.com/news-10-03-2022.xml</link>
-            <guid isPermaLink="false">1666441873782</guid>
+            <guid isPermaLink="false">1666534835880</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -2297,7 +2307,7 @@
                 <![CDATA[ /news-09-03-2022.xml ]]>
             </title>
             <link>https://news.abplive.com/news-09-03-2022.xml</link>
-            <guid isPermaLink="false">1666441873783</guid>
+            <guid isPermaLink="false">1666534835881</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -2307,7 +2317,7 @@
                 <![CDATA[ /news-08-03-2022.xml ]]>
             </title>
             <link>https://news.abplive.com/news-08-03-2022.xml</link>
-            <guid isPermaLink="false">1666441873784</guid>
+            <guid isPermaLink="false">1666534835882</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -2317,7 +2327,7 @@
                 <![CDATA[ /news-07-03-2022.xml ]]>
             </title>
             <link>https://news.abplive.com/news-07-03-2022.xml</link>
-            <guid isPermaLink="false">1666441873785</guid>
+            <guid isPermaLink="false">1666534835883</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -2327,7 +2337,7 @@
                 <![CDATA[ /news-06-03-2022.xml ]]>
             </title>
             <link>https://news.abplive.com/news-06-03-2022.xml</link>
-            <guid isPermaLink="false">1666441873786</guid>
+            <guid isPermaLink="false">1666534835884</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -2337,7 +2347,7 @@
                 <![CDATA[ /news-05-03-2022.xml ]]>
             </title>
             <link>https://news.abplive.com/news-05-03-2022.xml</link>
-            <guid isPermaLink="false">1666441873787</guid>
+            <guid isPermaLink="false">1666534835885</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -2347,7 +2357,7 @@
                 <![CDATA[ /news-04-03-2022.xml ]]>
             </title>
             <link>https://news.abplive.com/news-04-03-2022.xml</link>
-            <guid isPermaLink="false">1666441873788</guid>
+            <guid isPermaLink="false">1666534835886</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -2357,7 +2367,7 @@
                 <![CDATA[ /news-03-03-2022.xml ]]>
             </title>
             <link>https://news.abplive.com/news-03-03-2022.xml</link>
-            <guid isPermaLink="false">1666441873789</guid>
+            <guid isPermaLink="false">1666534835887</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -2367,7 +2377,7 @@
                 <![CDATA[ /news-02-03-2022.xml ]]>
             </title>
             <link>https://news.abplive.com/news-02-03-2022.xml</link>
-            <guid isPermaLink="false">1666441873790</guid>
+            <guid isPermaLink="false">1666534835888</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -2377,7 +2387,7 @@
                 <![CDATA[ /news-01-03-2022.xml ]]>
             </title>
             <link>https://news.abplive.com/news-01-03-2022.xml</link>
-            <guid isPermaLink="false">1666441873791</guid>
+            <guid isPermaLink="false">1666534835889</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -2387,7 +2397,7 @@
                 <![CDATA[ /news-28-02-2022.xml ]]>
             </title>
             <link>https://news.abplive.com/news-28-02-2022.xml</link>
-            <guid isPermaLink="false">1666441873792</guid>
+            <guid isPermaLink="false">1666534835890</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -2397,7 +2407,7 @@
                 <![CDATA[ /news-27-02-2022.xml ]]>
             </title>
             <link>https://news.abplive.com/news-27-02-2022.xml</link>
-            <guid isPermaLink="false">1666441873793</guid>
+            <guid isPermaLink="false">1666534835891</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -2407,7 +2417,7 @@
                 <![CDATA[ /news-26-02-2022.xml ]]>
             </title>
             <link>https://news.abplive.com/news-26-02-2022.xml</link>
-            <guid isPermaLink="false">1666441873794</guid>
+            <guid isPermaLink="false">1666534835892</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -2417,7 +2427,7 @@
                 <![CDATA[ /news-25-02-2022.xml ]]>
             </title>
             <link>https://news.abplive.com/news-25-02-2022.xml</link>
-            <guid isPermaLink="false">1666441873795</guid>
+            <guid isPermaLink="false">1666534835893</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -2427,7 +2437,7 @@
                 <![CDATA[ /news-24-02-2022.xml ]]>
             </title>
             <link>https://news.abplive.com/news-24-02-2022.xml</link>
-            <guid isPermaLink="false">1666441873796</guid>
+            <guid isPermaLink="false">1666534835894</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -2437,7 +2447,7 @@
                 <![CDATA[ /news-23-02-2022.xml ]]>
             </title>
             <link>https://news.abplive.com/news-23-02-2022.xml</link>
-            <guid isPermaLink="false">1666441873797</guid>
+            <guid isPermaLink="false">1666534835895</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -2447,7 +2457,7 @@
                 <![CDATA[ /news-22-02-2022.xml ]]>
             </title>
             <link>https://news.abplive.com/news-22-02-2022.xml</link>
-            <guid isPermaLink="false">1666441873798</guid>
+            <guid isPermaLink="false">1666534835896</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -2457,7 +2467,7 @@
                 <![CDATA[ /news-21-02-2022.xml ]]>
             </title>
             <link>https://news.abplive.com/news-21-02-2022.xml</link>
-            <guid isPermaLink="false">1666441873799</guid>
+            <guid isPermaLink="false">1666534835897</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -2467,7 +2477,7 @@
                 <![CDATA[ /news-20-02-2022.xml ]]>
             </title>
             <link>https://news.abplive.com/news-20-02-2022.xml</link>
-            <guid isPermaLink="false">1666441873800</guid>
+            <guid isPermaLink="false">1666534835898</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -2477,7 +2487,7 @@
                 <![CDATA[ /news-19-02-2022.xml ]]>
             </title>
             <link>https://news.abplive.com/news-19-02-2022.xml</link>
-            <guid isPermaLink="false">1666441873801</guid>
+            <guid isPermaLink="false">1666534835899</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -2487,7 +2497,7 @@
                 <![CDATA[ /news-18-02-2022.xml ]]>
             </title>
             <link>https://news.abplive.com/news-18-02-2022.xml</link>
-            <guid isPermaLink="false">1666441873802</guid>
+            <guid isPermaLink="false">1666534835900</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -2497,7 +2507,7 @@
                 <![CDATA[ /news-17-02-2022.xml ]]>
             </title>
             <link>https://news.abplive.com/news-17-02-2022.xml</link>
-            <guid isPermaLink="false">1666441873803</guid>
+            <guid isPermaLink="false">1666534835901</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -2507,7 +2517,7 @@
                 <![CDATA[ /news-16-02-2022.xml ]]>
             </title>
             <link>https://news.abplive.com/news-16-02-2022.xml</link>
-            <guid isPermaLink="false">1666441873804</guid>
+            <guid isPermaLink="false">1666534835902</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -2517,7 +2527,7 @@
                 <![CDATA[ /news-15-02-2022.xml ]]>
             </title>
             <link>https://news.abplive.com/news-15-02-2022.xml</link>
-            <guid isPermaLink="false">1666441873805</guid>
+            <guid isPermaLink="false">1666534835903</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -2527,7 +2537,7 @@
                 <![CDATA[ /news-14-02-2022.xml ]]>
             </title>
             <link>https://news.abplive.com/news-14-02-2022.xml</link>
-            <guid isPermaLink="false">1666441873806</guid>
+            <guid isPermaLink="false">1666534835904</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -2537,7 +2547,7 @@
                 <![CDATA[ /news-13-02-2022.xml ]]>
             </title>
             <link>https://news.abplive.com/news-13-02-2022.xml</link>
-            <guid isPermaLink="false">1666441873807</guid>
+            <guid isPermaLink="false">1666534835905</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -2547,7 +2557,7 @@
                 <![CDATA[ /news-12-02-2022.xml ]]>
             </title>
             <link>https://news.abplive.com/news-12-02-2022.xml</link>
-            <guid isPermaLink="false">1666441873808</guid>
+            <guid isPermaLink="false">1666534835906</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -2557,7 +2567,7 @@
                 <![CDATA[ /news-11-02-2022.xml ]]>
             </title>
             <link>https://news.abplive.com/news-11-02-2022.xml</link>
-            <guid isPermaLink="false">1666441873809</guid>
+            <guid isPermaLink="false">1666534835907</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -2567,7 +2577,7 @@
                 <![CDATA[ /news-10-02-2022.xml ]]>
             </title>
             <link>https://news.abplive.com/news-10-02-2022.xml</link>
-            <guid isPermaLink="false">1666441873810</guid>
+            <guid isPermaLink="false">1666534835908</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -2577,7 +2587,7 @@
                 <![CDATA[ /news-09-02-2022.xml ]]>
             </title>
             <link>https://news.abplive.com/news-09-02-2022.xml</link>
-            <guid isPermaLink="false">1666441873811</guid>
+            <guid isPermaLink="false">1666534835909</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -2587,7 +2597,7 @@
                 <![CDATA[ /news-08-02-2022.xml ]]>
             </title>
             <link>https://news.abplive.com/news-08-02-2022.xml</link>
-            <guid isPermaLink="false">1666441873812</guid>
+            <guid isPermaLink="false">1666534835910</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -2597,7 +2607,7 @@
                 <![CDATA[ /news-07-02-2022.xml ]]>
             </title>
             <link>https://news.abplive.com/news-07-02-2022.xml</link>
-            <guid isPermaLink="false">1666441873813</guid>
+            <guid isPermaLink="false">1666534835911</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -2607,7 +2617,7 @@
                 <![CDATA[ /news-06-02-2022.xml ]]>
             </title>
             <link>https://news.abplive.com/news-06-02-2022.xml</link>
-            <guid isPermaLink="false">1666441873814</guid>
+            <guid isPermaLink="false">1666534835912</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -2617,7 +2627,7 @@
                 <![CDATA[ /news-05-02-2022.xml ]]>
             </title>
             <link>https://news.abplive.com/news-05-02-2022.xml</link>
-            <guid isPermaLink="false">1666441873815</guid>
+            <guid isPermaLink="false">1666534835913</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -2627,7 +2637,7 @@
                 <![CDATA[ /news-04-02-2022.xml ]]>
             </title>
             <link>https://news.abplive.com/news-04-02-2022.xml</link>
-            <guid isPermaLink="false">1666441873816</guid>
+            <guid isPermaLink="false">1666534835914</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -2637,7 +2647,7 @@
                 <![CDATA[ /news-03-02-2022.xml ]]>
             </title>
             <link>https://news.abplive.com/news-03-02-2022.xml</link>
-            <guid isPermaLink="false">1666441873817</guid>
+            <guid isPermaLink="false">1666534835915</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -2647,7 +2657,7 @@
                 <![CDATA[ /news-02-02-2022.xml ]]>
             </title>
             <link>https://news.abplive.com/news-02-02-2022.xml</link>
-            <guid isPermaLink="false">1666441873818</guid>
+            <guid isPermaLink="false">1666534835916</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -2657,7 +2667,7 @@
                 <![CDATA[ /news-01-02-2022.xml ]]>
             </title>
             <link>https://news.abplive.com/news-01-02-2022.xml</link>
-            <guid isPermaLink="false">1666441873819</guid>
+            <guid isPermaLink="false">1666534835917</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -2667,7 +2677,7 @@
                 <![CDATA[ /news-31-01-2022.xml ]]>
             </title>
             <link>https://news.abplive.com/news-31-01-2022.xml</link>
-            <guid isPermaLink="false">1666441873820</guid>
+            <guid isPermaLink="false">1666534835918</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -2677,7 +2687,7 @@
                 <![CDATA[ /news-30-01-2022.xml ]]>
             </title>
             <link>https://news.abplive.com/news-30-01-2022.xml</link>
-            <guid isPermaLink="false">1666441873821</guid>
+            <guid isPermaLink="false">1666534835919</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -2687,7 +2697,7 @@
                 <![CDATA[ /news-29-01-2022.xml ]]>
             </title>
             <link>https://news.abplive.com/news-29-01-2022.xml</link>
-            <guid isPermaLink="false">1666441873822</guid>
+            <guid isPermaLink="false">1666534835920</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -2697,7 +2707,7 @@
                 <![CDATA[ /news-28-01-2022.xml ]]>
             </title>
             <link>https://news.abplive.com/news-28-01-2022.xml</link>
-            <guid isPermaLink="false">1666441873823</guid>
+            <guid isPermaLink="false">1666534835921</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -2707,7 +2717,7 @@
                 <![CDATA[ /news-27-01-2022.xml ]]>
             </title>
             <link>https://news.abplive.com/news-27-01-2022.xml</link>
-            <guid isPermaLink="false">1666441873824</guid>
+            <guid isPermaLink="false">1666534835922</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -2717,7 +2727,7 @@
                 <![CDATA[ /news-26-01-2022.xml ]]>
             </title>
             <link>https://news.abplive.com/news-26-01-2022.xml</link>
-            <guid isPermaLink="false">1666441873825</guid>
+            <guid isPermaLink="false">1666534835923</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -2727,7 +2737,7 @@
                 <![CDATA[ /news-25-01-2022.xml ]]>
             </title>
             <link>https://news.abplive.com/news-25-01-2022.xml</link>
-            <guid isPermaLink="false">1666441873826</guid>
+            <guid isPermaLink="false">1666534835924</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -2737,7 +2747,7 @@
                 <![CDATA[ /news-24-01-2022.xml ]]>
             </title>
             <link>https://news.abplive.com/news-24-01-2022.xml</link>
-            <guid isPermaLink="false">1666441873827</guid>
+            <guid isPermaLink="false">1666534835925</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -2747,7 +2757,7 @@
                 <![CDATA[ /news-23-01-2022.xml ]]>
             </title>
             <link>https://news.abplive.com/news-23-01-2022.xml</link>
-            <guid isPermaLink="false">1666441873828</guid>
+            <guid isPermaLink="false">1666534835926</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -2757,7 +2767,7 @@
                 <![CDATA[ /news-22-01-2022.xml ]]>
             </title>
             <link>https://news.abplive.com/news-22-01-2022.xml</link>
-            <guid isPermaLink="false">1666441873829</guid>
+            <guid isPermaLink="false">1666534835927</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -2767,7 +2777,7 @@
                 <![CDATA[ /news-21-01-2022.xml ]]>
             </title>
             <link>https://news.abplive.com/news-21-01-2022.xml</link>
-            <guid isPermaLink="false">1666441873830</guid>
+            <guid isPermaLink="false">1666534835928</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -2777,7 +2787,7 @@
                 <![CDATA[ /news-20-01-2022.xml ]]>
             </title>
             <link>https://news.abplive.com/news-20-01-2022.xml</link>
-            <guid isPermaLink="false">1666441873831</guid>
+            <guid isPermaLink="false">1666534835929</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -2787,7 +2797,7 @@
                 <![CDATA[ /news-19-01-2022.xml ]]>
             </title>
             <link>https://news.abplive.com/news-19-01-2022.xml</link>
-            <guid isPermaLink="false">1666441873832</guid>
+            <guid isPermaLink="false">1666534835930</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -2797,7 +2807,7 @@
                 <![CDATA[ /news-18-01-2022.xml ]]>
             </title>
             <link>https://news.abplive.com/news-18-01-2022.xml</link>
-            <guid isPermaLink="false">1666441873833</guid>
+            <guid isPermaLink="false">1666534835931</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -2807,7 +2817,7 @@
                 <![CDATA[ /news-17-01-2022.xml ]]>
             </title>
             <link>https://news.abplive.com/news-17-01-2022.xml</link>
-            <guid isPermaLink="false">1666441873834</guid>
+            <guid isPermaLink="false">1666534835932</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -2817,7 +2827,7 @@
                 <![CDATA[ /news-16-01-2022.xml ]]>
             </title>
             <link>https://news.abplive.com/news-16-01-2022.xml</link>
-            <guid isPermaLink="false">1666441873835</guid>
+            <guid isPermaLink="false">1666534835933</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -2827,7 +2837,7 @@
                 <![CDATA[ /news-15-01-2022.xml ]]>
             </title>
             <link>https://news.abplive.com/news-15-01-2022.xml</link>
-            <guid isPermaLink="false">1666441873836</guid>
+            <guid isPermaLink="false">1666534835934</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -2837,7 +2847,7 @@
                 <![CDATA[ /news-14-01-2022.xml ]]>
             </title>
             <link>https://news.abplive.com/news-14-01-2022.xml</link>
-            <guid isPermaLink="false">1666441873837</guid>
+            <guid isPermaLink="false">1666534835935</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -2847,7 +2857,7 @@
                 <![CDATA[ /news-13-01-2022.xml ]]>
             </title>
             <link>https://news.abplive.com/news-13-01-2022.xml</link>
-            <guid isPermaLink="false">1666441873838</guid>
+            <guid isPermaLink="false">1666534835936</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -2857,7 +2867,7 @@
                 <![CDATA[ /news-12-01-2022.xml ]]>
             </title>
             <link>https://news.abplive.com/news-12-01-2022.xml</link>
-            <guid isPermaLink="false">1666441873839</guid>
+            <guid isPermaLink="false">1666534835937</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -2867,7 +2877,7 @@
                 <![CDATA[ /news-11-01-2022.xml ]]>
             </title>
             <link>https://news.abplive.com/news-11-01-2022.xml</link>
-            <guid isPermaLink="false">1666441873840</guid>
+            <guid isPermaLink="false">1666534835938</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -2877,7 +2887,7 @@
                 <![CDATA[ /news-10-01-2022.xml ]]>
             </title>
             <link>https://news.abplive.com/news-10-01-2022.xml</link>
-            <guid isPermaLink="false">1666441873841</guid>
+            <guid isPermaLink="false">1666534835939</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -2887,7 +2897,7 @@
                 <![CDATA[ /news-09-01-2022.xml ]]>
             </title>
             <link>https://news.abplive.com/news-09-01-2022.xml</link>
-            <guid isPermaLink="false">1666441873842</guid>
+            <guid isPermaLink="false">1666534835940</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -2897,7 +2907,7 @@
                 <![CDATA[ /news-08-01-2022.xml ]]>
             </title>
             <link>https://news.abplive.com/news-08-01-2022.xml</link>
-            <guid isPermaLink="false">1666441873843</guid>
+            <guid isPermaLink="false">1666534835941</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -2907,7 +2917,7 @@
                 <![CDATA[ /news-07-01-2022.xml ]]>
             </title>
             <link>https://news.abplive.com/news-07-01-2022.xml</link>
-            <guid isPermaLink="false">1666441873844</guid>
+            <guid isPermaLink="false">1666534835942</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -2917,7 +2927,7 @@
                 <![CDATA[ /news-06-01-2022.xml ]]>
             </title>
             <link>https://news.abplive.com/news-06-01-2022.xml</link>
-            <guid isPermaLink="false">1666441873845</guid>
+            <guid isPermaLink="false">1666534835943</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -2927,7 +2937,7 @@
                 <![CDATA[ /news-05-01-2022.xml ]]>
             </title>
             <link>https://news.abplive.com/news-05-01-2022.xml</link>
-            <guid isPermaLink="false">1666441873846</guid>
+            <guid isPermaLink="false">1666534835944</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -2937,7 +2947,7 @@
                 <![CDATA[ /news-04-01-2022.xml ]]>
             </title>
             <link>https://news.abplive.com/news-04-01-2022.xml</link>
-            <guid isPermaLink="false">1666441873847</guid>
+            <guid isPermaLink="false">1666534835945</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -2947,7 +2957,7 @@
                 <![CDATA[ /news-03-01-2022.xml ]]>
             </title>
             <link>https://news.abplive.com/news-03-01-2022.xml</link>
-            <guid isPermaLink="false">1666441873848</guid>
+            <guid isPermaLink="false">1666534835946</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -2957,7 +2967,7 @@
                 <![CDATA[ /news-02-01-2022.xml ]]>
             </title>
             <link>https://news.abplive.com/news-02-01-2022.xml</link>
-            <guid isPermaLink="false">1666441873849</guid>
+            <guid isPermaLink="false">1666534835947</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -2967,7 +2977,7 @@
                 <![CDATA[ /news-01-01-2022.xml ]]>
             </title>
             <link>https://news.abplive.com/news-01-01-2022.xml</link>
-            <guid isPermaLink="false">1666441873850</guid>
+            <guid isPermaLink="false">1666534835948</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -2977,7 +2987,7 @@
                 <![CDATA[ /news-31-12-2021.xml ]]>
             </title>
             <link>https://news.abplive.com/news-31-12-2021.xml</link>
-            <guid isPermaLink="false">1666441873851</guid>
+            <guid isPermaLink="false">1666534835949</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -2987,7 +2997,7 @@
                 <![CDATA[ /news-30-12-2021.xml ]]>
             </title>
             <link>https://news.abplive.com/news-30-12-2021.xml</link>
-            <guid isPermaLink="false">1666441873852</guid>
+            <guid isPermaLink="false">1666534835950</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -2997,7 +3007,7 @@
                 <![CDATA[ /news-29-12-2021.xml ]]>
             </title>
             <link>https://news.abplive.com/news-29-12-2021.xml</link>
-            <guid isPermaLink="false">1666441873853</guid>
+            <guid isPermaLink="false">1666534835951</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -3007,7 +3017,7 @@
                 <![CDATA[ /news-28-12-2021.xml ]]>
             </title>
             <link>https://news.abplive.com/news-28-12-2021.xml</link>
-            <guid isPermaLink="false">1666441873854</guid>
+            <guid isPermaLink="false">1666534835952</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -3017,7 +3027,7 @@
                 <![CDATA[ /news-27-12-2021.xml ]]>
             </title>
             <link>https://news.abplive.com/news-27-12-2021.xml</link>
-            <guid isPermaLink="false">1666441873855</guid>
+            <guid isPermaLink="false">1666534835953</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -3027,7 +3037,7 @@
                 <![CDATA[ /news-26-12-2021.xml ]]>
             </title>
             <link>https://news.abplive.com/news-26-12-2021.xml</link>
-            <guid isPermaLink="false">1666441873856</guid>
+            <guid isPermaLink="false">1666534835954</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -3037,7 +3047,7 @@
                 <![CDATA[ /news-25-12-2021.xml ]]>
             </title>
             <link>https://news.abplive.com/news-25-12-2021.xml</link>
-            <guid isPermaLink="false">1666441873857</guid>
+            <guid isPermaLink="false">1666534835955</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -3047,7 +3057,7 @@
                 <![CDATA[ /news-24-12-2021.xml ]]>
             </title>
             <link>https://news.abplive.com/news-24-12-2021.xml</link>
-            <guid isPermaLink="false">1666441873858</guid>
+            <guid isPermaLink="false">1666534835956</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -3057,7 +3067,7 @@
                 <![CDATA[ /news-23-12-2021.xml ]]>
             </title>
             <link>https://news.abplive.com/news-23-12-2021.xml</link>
-            <guid isPermaLink="false">1666441873859</guid>
+            <guid isPermaLink="false">1666534835957</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -3067,7 +3077,7 @@
                 <![CDATA[ /news-22-12-2021.xml ]]>
             </title>
             <link>https://news.abplive.com/news-22-12-2021.xml</link>
-            <guid isPermaLink="false">1666441873860</guid>
+            <guid isPermaLink="false">1666534835958</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -3077,7 +3087,7 @@
                 <![CDATA[ /news-21-12-2021.xml ]]>
             </title>
             <link>https://news.abplive.com/news-21-12-2021.xml</link>
-            <guid isPermaLink="false">1666441873861</guid>
+            <guid isPermaLink="false">1666534835959</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -3087,7 +3097,7 @@
                 <![CDATA[ /news-20-12-2021.xml ]]>
             </title>
             <link>https://news.abplive.com/news-20-12-2021.xml</link>
-            <guid isPermaLink="false">1666441873862</guid>
+            <guid isPermaLink="false">1666534835960</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -3097,7 +3107,7 @@
                 <![CDATA[ /news-19-12-2021.xml ]]>
             </title>
             <link>https://news.abplive.com/news-19-12-2021.xml</link>
-            <guid isPermaLink="false">1666441873863</guid>
+            <guid isPermaLink="false">1666534835961</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -3107,7 +3117,7 @@
                 <![CDATA[ /news-18-12-2021.xml ]]>
             </title>
             <link>https://news.abplive.com/news-18-12-2021.xml</link>
-            <guid isPermaLink="false">1666441873864</guid>
+            <guid isPermaLink="false">1666534835962</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -3117,7 +3127,7 @@
                 <![CDATA[ /news-17-12-2021.xml ]]>
             </title>
             <link>https://news.abplive.com/news-17-12-2021.xml</link>
-            <guid isPermaLink="false">1666441873865</guid>
+            <guid isPermaLink="false">1666534835963</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -3127,7 +3137,7 @@
                 <![CDATA[ /news-16-12-2021.xml ]]>
             </title>
             <link>https://news.abplive.com/news-16-12-2021.xml</link>
-            <guid isPermaLink="false">1666441873866</guid>
+            <guid isPermaLink="false">1666534835964</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -3137,7 +3147,7 @@
                 <![CDATA[ /news-15-12-2021.xml ]]>
             </title>
             <link>https://news.abplive.com/news-15-12-2021.xml</link>
-            <guid isPermaLink="false">1666441873867</guid>
+            <guid isPermaLink="false">1666534835965</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -3147,7 +3157,7 @@
                 <![CDATA[ /news-14-12-2021.xml ]]>
             </title>
             <link>https://news.abplive.com/news-14-12-2021.xml</link>
-            <guid isPermaLink="false">1666441873868</guid>
+            <guid isPermaLink="false">1666534835966</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -3157,7 +3167,7 @@
                 <![CDATA[ /news-13-12-2021.xml ]]>
             </title>
             <link>https://news.abplive.com/news-13-12-2021.xml</link>
-            <guid isPermaLink="false">1666441873869</guid>
+            <guid isPermaLink="false">1666534835967</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -3167,7 +3177,7 @@
                 <![CDATA[ /news-12-12-2021.xml ]]>
             </title>
             <link>https://news.abplive.com/news-12-12-2021.xml</link>
-            <guid isPermaLink="false">1666441873870</guid>
+            <guid isPermaLink="false">1666534835968</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -3177,7 +3187,7 @@
                 <![CDATA[ /news-11-12-2021.xml ]]>
             </title>
             <link>https://news.abplive.com/news-11-12-2021.xml</link>
-            <guid isPermaLink="false">1666441873871</guid>
+            <guid isPermaLink="false">1666534835969</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -3187,7 +3197,7 @@
                 <![CDATA[ /news-10-12-2021.xml ]]>
             </title>
             <link>https://news.abplive.com/news-10-12-2021.xml</link>
-            <guid isPermaLink="false">1666441873872</guid>
+            <guid isPermaLink="false">1666534835970</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -3197,7 +3207,7 @@
                 <![CDATA[ /news-09-12-2021.xml ]]>
             </title>
             <link>https://news.abplive.com/news-09-12-2021.xml</link>
-            <guid isPermaLink="false">1666441873873</guid>
+            <guid isPermaLink="false">1666534835971</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -3207,7 +3217,7 @@
                 <![CDATA[ /news-08-12-2021.xml ]]>
             </title>
             <link>https://news.abplive.com/news-08-12-2021.xml</link>
-            <guid isPermaLink="false">1666441873874</guid>
+            <guid isPermaLink="false">1666534835972</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -3217,7 +3227,7 @@
                 <![CDATA[ /news-07-12-2021.xml ]]>
             </title>
             <link>https://news.abplive.com/news-07-12-2021.xml</link>
-            <guid isPermaLink="false">1666441873875</guid>
+            <guid isPermaLink="false">1666534835973</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -3227,7 +3237,7 @@
                 <![CDATA[ /news-06-12-2021.xml ]]>
             </title>
             <link>https://news.abplive.com/news-06-12-2021.xml</link>
-            <guid isPermaLink="false">1666441873876</guid>
+            <guid isPermaLink="false">1666534835974</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -3237,7 +3247,7 @@
                 <![CDATA[ /news-05-12-2021.xml ]]>
             </title>
             <link>https://news.abplive.com/news-05-12-2021.xml</link>
-            <guid isPermaLink="false">1666441873877</guid>
+            <guid isPermaLink="false">1666534835975</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -3247,7 +3257,7 @@
                 <![CDATA[ /news-04-12-2021.xml ]]>
             </title>
             <link>https://news.abplive.com/news-04-12-2021.xml</link>
-            <guid isPermaLink="false">1666441873878</guid>
+            <guid isPermaLink="false">1666534835976</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -3257,7 +3267,7 @@
                 <![CDATA[ /news-03-12-2021.xml ]]>
             </title>
             <link>https://news.abplive.com/news-03-12-2021.xml</link>
-            <guid isPermaLink="false">1666441873879</guid>
+            <guid isPermaLink="false">1666534835977</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -3267,7 +3277,7 @@
                 <![CDATA[ /news-02-12-2021.xml ]]>
             </title>
             <link>https://news.abplive.com/news-02-12-2021.xml</link>
-            <guid isPermaLink="false">1666441873880</guid>
+            <guid isPermaLink="false">1666534835978</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -3277,7 +3287,7 @@
                 <![CDATA[ /news-01-12-2021.xml ]]>
             </title>
             <link>https://news.abplive.com/news-01-12-2021.xml</link>
-            <guid isPermaLink="false">1666441873881</guid>
+            <guid isPermaLink="false">1666534835979</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -3287,7 +3297,7 @@
                 <![CDATA[ /news-30-11-2021.xml ]]>
             </title>
             <link>https://news.abplive.com/news-30-11-2021.xml</link>
-            <guid isPermaLink="false">1666441873882</guid>
+            <guid isPermaLink="false">1666534835980</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -3297,7 +3307,7 @@
                 <![CDATA[ /news-29-11-2021.xml ]]>
             </title>
             <link>https://news.abplive.com/news-29-11-2021.xml</link>
-            <guid isPermaLink="false">1666441873883</guid>
+            <guid isPermaLink="false">1666534835981</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -3307,7 +3317,7 @@
                 <![CDATA[ /news-28-11-2021.xml ]]>
             </title>
             <link>https://news.abplive.com/news-28-11-2021.xml</link>
-            <guid isPermaLink="false">1666441873884</guid>
+            <guid isPermaLink="false">1666534835982</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -3317,7 +3327,7 @@
                 <![CDATA[ /news-27-11-2021.xml ]]>
             </title>
             <link>https://news.abplive.com/news-27-11-2021.xml</link>
-            <guid isPermaLink="false">1666441873885</guid>
+            <guid isPermaLink="false">1666534835983</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -3327,7 +3337,7 @@
                 <![CDATA[ /news-26-11-2021.xml ]]>
             </title>
             <link>https://news.abplive.com/news-26-11-2021.xml</link>
-            <guid isPermaLink="false">1666441873886</guid>
+            <guid isPermaLink="false">1666534835984</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -3337,7 +3347,7 @@
                 <![CDATA[ /news-25-11-2021.xml ]]>
             </title>
             <link>https://news.abplive.com/news-25-11-2021.xml</link>
-            <guid isPermaLink="false">1666441873887</guid>
+            <guid isPermaLink="false">1666534835985</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -3347,7 +3357,7 @@
                 <![CDATA[ /news-24-11-2021.xml ]]>
             </title>
             <link>https://news.abplive.com/news-24-11-2021.xml</link>
-            <guid isPermaLink="false">1666441873888</guid>
+            <guid isPermaLink="false">1666534835986</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -3357,7 +3367,7 @@
                 <![CDATA[ /news-23-11-2021.xml ]]>
             </title>
             <link>https://news.abplive.com/news-23-11-2021.xml</link>
-            <guid isPermaLink="false">1666441873889</guid>
+            <guid isPermaLink="false">1666534835987</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -3367,7 +3377,7 @@
                 <![CDATA[ /news-22-11-2021.xml ]]>
             </title>
             <link>https://news.abplive.com/news-22-11-2021.xml</link>
-            <guid isPermaLink="false">1666441873890</guid>
+            <guid isPermaLink="false">1666534835988</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -3377,7 +3387,7 @@
                 <![CDATA[ /news-21-11-2021.xml ]]>
             </title>
             <link>https://news.abplive.com/news-21-11-2021.xml</link>
-            <guid isPermaLink="false">1666441873891</guid>
+            <guid isPermaLink="false">1666534835989</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -3387,7 +3397,7 @@
                 <![CDATA[ /news-20-11-2021.xml ]]>
             </title>
             <link>https://news.abplive.com/news-20-11-2021.xml</link>
-            <guid isPermaLink="false">1666441873892</guid>
+            <guid isPermaLink="false">1666534835990</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -3397,7 +3407,7 @@
                 <![CDATA[ /news-19-11-2021.xml ]]>
             </title>
             <link>https://news.abplive.com/news-19-11-2021.xml</link>
-            <guid isPermaLink="false">1666441873893</guid>
+            <guid isPermaLink="false">1666534835991</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -3407,7 +3417,7 @@
                 <![CDATA[ /news-18-11-2021.xml ]]>
             </title>
             <link>https://news.abplive.com/news-18-11-2021.xml</link>
-            <guid isPermaLink="false">1666441873894</guid>
+            <guid isPermaLink="false">1666534835992</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -3417,7 +3427,7 @@
                 <![CDATA[ /news-17-11-2021.xml ]]>
             </title>
             <link>https://news.abplive.com/news-17-11-2021.xml</link>
-            <guid isPermaLink="false">1666441873895</guid>
+            <guid isPermaLink="false">1666534835993</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -3427,7 +3437,7 @@
                 <![CDATA[ /news-16-11-2021.xml ]]>
             </title>
             <link>https://news.abplive.com/news-16-11-2021.xml</link>
-            <guid isPermaLink="false">1666441873896</guid>
+            <guid isPermaLink="false">1666534835994</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -3437,7 +3447,7 @@
                 <![CDATA[ /news-15-11-2021.xml ]]>
             </title>
             <link>https://news.abplive.com/news-15-11-2021.xml</link>
-            <guid isPermaLink="false">1666441873897</guid>
+            <guid isPermaLink="false">1666534835995</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -3447,7 +3457,7 @@
                 <![CDATA[ /news-14-11-2021.xml ]]>
             </title>
             <link>https://news.abplive.com/news-14-11-2021.xml</link>
-            <guid isPermaLink="false">1666441873898</guid>
+            <guid isPermaLink="false">1666534835996</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -3457,7 +3467,7 @@
                 <![CDATA[ /news-13-11-2021.xml ]]>
             </title>
             <link>https://news.abplive.com/news-13-11-2021.xml</link>
-            <guid isPermaLink="false">1666441873899</guid>
+            <guid isPermaLink="false">1666534835997</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -3467,7 +3477,7 @@
                 <![CDATA[ /news-12-11-2021.xml ]]>
             </title>
             <link>https://news.abplive.com/news-12-11-2021.xml</link>
-            <guid isPermaLink="false">1666441873900</guid>
+            <guid isPermaLink="false">1666534835998</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -3477,7 +3487,7 @@
                 <![CDATA[ /news-11-11-2021.xml ]]>
             </title>
             <link>https://news.abplive.com/news-11-11-2021.xml</link>
-            <guid isPermaLink="false">1666441873901</guid>
+            <guid isPermaLink="false">1666534835999</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -3487,7 +3497,7 @@
                 <![CDATA[ /news-10-11-2021.xml ]]>
             </title>
             <link>https://news.abplive.com/news-10-11-2021.xml</link>
-            <guid isPermaLink="false">1666441873902</guid>
+            <guid isPermaLink="false">1666534836000</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -3497,7 +3507,7 @@
                 <![CDATA[ /news-09-11-2021.xml ]]>
             </title>
             <link>https://news.abplive.com/news-09-11-2021.xml</link>
-            <guid isPermaLink="false">1666441873903</guid>
+            <guid isPermaLink="false">1666534836001</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -3507,7 +3517,7 @@
                 <![CDATA[ /news-08-11-2021.xml ]]>
             </title>
             <link>https://news.abplive.com/news-08-11-2021.xml</link>
-            <guid isPermaLink="false">1666441873904</guid>
+            <guid isPermaLink="false">1666534836002</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -3517,7 +3527,7 @@
                 <![CDATA[ /news-07-11-2021.xml ]]>
             </title>
             <link>https://news.abplive.com/news-07-11-2021.xml</link>
-            <guid isPermaLink="false">1666441873905</guid>
+            <guid isPermaLink="false">1666534836003</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -3527,7 +3537,7 @@
                 <![CDATA[ /news-06-11-2021.xml ]]>
             </title>
             <link>https://news.abplive.com/news-06-11-2021.xml</link>
-            <guid isPermaLink="false">1666441873906</guid>
+            <guid isPermaLink="false">1666534836004</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -3537,7 +3547,7 @@
                 <![CDATA[ /news-05-11-2021.xml ]]>
             </title>
             <link>https://news.abplive.com/news-05-11-2021.xml</link>
-            <guid isPermaLink="false">1666441873907</guid>
+            <guid isPermaLink="false">1666534836005</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -3547,7 +3557,7 @@
                 <![CDATA[ /news-04-11-2021.xml ]]>
             </title>
             <link>https://news.abplive.com/news-04-11-2021.xml</link>
-            <guid isPermaLink="false">1666441873908</guid>
+            <guid isPermaLink="false">1666534836006</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -3557,7 +3567,7 @@
                 <![CDATA[ /news-03-11-2021.xml ]]>
             </title>
             <link>https://news.abplive.com/news-03-11-2021.xml</link>
-            <guid isPermaLink="false">1666441873909</guid>
+            <guid isPermaLink="false">1666534836007</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -3567,7 +3577,7 @@
                 <![CDATA[ /news-02-11-2021.xml ]]>
             </title>
             <link>https://news.abplive.com/news-02-11-2021.xml</link>
-            <guid isPermaLink="false">1666441873910</guid>
+            <guid isPermaLink="false">1666534836008</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -3577,7 +3587,7 @@
                 <![CDATA[ /news-01-11-2021.xml ]]>
             </title>
             <link>https://news.abplive.com/news-01-11-2021.xml</link>
-            <guid isPermaLink="false">1666441873911</guid>
+            <guid isPermaLink="false">1666534836009</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -3587,7 +3597,7 @@
                 <![CDATA[ /news-31-10-2021.xml ]]>
             </title>
             <link>https://news.abplive.com/news-31-10-2021.xml</link>
-            <guid isPermaLink="false">1666441873912</guid>
+            <guid isPermaLink="false">1666534836010</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -3597,7 +3607,7 @@
                 <![CDATA[ /news-30-10-2021.xml ]]>
             </title>
             <link>https://news.abplive.com/news-30-10-2021.xml</link>
-            <guid isPermaLink="false">1666441873913</guid>
+            <guid isPermaLink="false">1666534836011</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -3607,7 +3617,7 @@
                 <![CDATA[ /news-29-10-2021.xml ]]>
             </title>
             <link>https://news.abplive.com/news-29-10-2021.xml</link>
-            <guid isPermaLink="false">1666441873914</guid>
+            <guid isPermaLink="false">1666534836012</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -3617,7 +3627,7 @@
                 <![CDATA[ /news-28-10-2021.xml ]]>
             </title>
             <link>https://news.abplive.com/news-28-10-2021.xml</link>
-            <guid isPermaLink="false">1666441873915</guid>
+            <guid isPermaLink="false">1666534836013</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -3627,7 +3637,7 @@
                 <![CDATA[ /news-27-10-2021.xml ]]>
             </title>
             <link>https://news.abplive.com/news-27-10-2021.xml</link>
-            <guid isPermaLink="false">1666441873916</guid>
+            <guid isPermaLink="false">1666534836014</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -3637,7 +3647,7 @@
                 <![CDATA[ /news-26-10-2021.xml ]]>
             </title>
             <link>https://news.abplive.com/news-26-10-2021.xml</link>
-            <guid isPermaLink="false">1666441873917</guid>
+            <guid isPermaLink="false">1666534836015</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -3647,7 +3657,7 @@
                 <![CDATA[ /news-25-10-2021.xml ]]>
             </title>
             <link>https://news.abplive.com/news-25-10-2021.xml</link>
-            <guid isPermaLink="false">1666441873918</guid>
+            <guid isPermaLink="false">1666534836016</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -3657,17 +3667,7 @@
                 <![CDATA[ /news-24-10-2021.xml ]]>
             </title>
             <link>https://news.abplive.com/news-24-10-2021.xml</link>
-            <guid isPermaLink="false">1666441873919</guid>
-            <dc:creator>
-                <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
-            </dc:creator>
-        </item>
-        <item>
-            <title>
-                <![CDATA[ /news-23-10-2021.xml ]]>
-            </title>
-            <link>https://news.abplive.com/news-23-10-2021.xml</link>
-            <guid isPermaLink="false">1666441873920</guid>
+            <guid isPermaLink="false">1666534836017</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>

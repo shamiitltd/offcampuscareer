@@ -136,9 +136,9 @@ async function signInViaEmail( email, password ) {
 }
 
 async function resetpassFunct( email ) {
-    await loadingSpinner.classList.remove( 'invisible' );
+    loadingSpinner.classList.remove( 'invisible' );
     let res = await axios.get( `/resetpassword/${email}` );
-    await loadingSpinner.classList.add( 'invisible' );
+    loadingSpinner.classList.add( 'invisible' );
     if ( res.data === 'success' ) {
         let prurl = check_cookie_name( 'PRURL' );
         let strurl = decodeURIComponent( prurl );
@@ -181,7 +181,7 @@ async function updatePassFunction( email, password, token ) {
         'password': password,
         'token': token
     };
-    await loadingSpinner.classList.remove( 'invisible' );
+    loadingSpinner.classList.remove( 'invisible' );
     let res = await axios.post( `/resetNewPassword`, formData );
     const formData2 = {
         'email': email,
@@ -189,7 +189,7 @@ async function updatePassFunction( email, password, token ) {
     };
     if ( res.data === 'success' ) {
         let res2 = await axios.post( `/signinUser`, formData2 );
-        await loadingSpinner.classList.add( 'invisible' );
+        loadingSpinner.classList.add( 'invisible' );
         if ( res2.data === 'success' ) {
             window.location.href = '/';
         } else {
@@ -198,9 +198,36 @@ async function updatePassFunction( email, password, token ) {
             rperror.textContent = res2.data;
         }
     } else {
-        await loadingSpinner.classList.add( 'invisible' );
+        loadingSpinner.classList.add( 'invisible' );
         let rperror = document.getElementById( 'rperror' );
         rperror.classList.remove( 'invisible' );
         rperror.textContent = res.data;
+    }
+}
+
+const deleteRssButtons = document.querySelectorAll( ".deleteRss" );
+if ( deleteRssButtons ) {
+    for ( let i = 0; i < deleteRssButtons.length; i++ ) {
+        deleteRssButtons[ i ].addEventListener( 'click', async ( e ) => {
+            loadingSpinner.classList.remove( 'invisible' );
+            const rowgroup = document.getElementById( `row${i+1}` );
+            deleteRssData( deleteRssButtons[ i ], rowgroup );
+        } )
+    }
+}
+
+async function deleteRssData( deleteRssButton, rowgroup ) {
+    let rssid = deleteRssButton.dataset.rssid;
+    const formData = {
+        rssid: rssid
+    };
+    if ( confirm( 'Are you sure you want to delete?' ) ) {
+        let res = await axios.post( `/deleteRssfile`, formData );
+        loadingSpinner.classList.add( 'invisible' );
+        rowgroup.classList.add( 'invisible' );
+        alert( res.data );
+    } else {
+        loadingSpinner.classList.add( 'invisible' );
+        alert( "Not Deleted!!!" );
     }
 }

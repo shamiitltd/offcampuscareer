@@ -4,19 +4,19 @@
     xmlns:media="http://search.yahoo.com/mrss/" version="2.0">
     <channel>
         <title>
-            <![CDATA[ offcamuscareer.com ]]>
+            <![CDATA[ offcampuscareer.com ]]>
         </title>
         <description>
-            <![CDATA[ offcamuscareer.com ]]>
+            <![CDATA[ offcampuscareer.com ]]>
         </description>
         <link>https://www.offcampuscareer.com/sitemapscanner/new</link>
         <image>
             <url>https://www.offcampuscareer.com/favicon.ico</url>
-            <title>offcamuscareer.com</title>
+            <title>offcampuscareer.com</title>
             <link>https://www.offcampuscareer.com/sitemapscanner/new</link>
         </image>
         <generator>https://www.offcampuscareer.com</generator>
-        <lastBuildDate>Sat Oct 22 2022 09:16:48 GMT+0000 (Coordinated Universal Time)</lastBuildDate>
+        <lastBuildDate>Sun Oct 23 2022 13:03:14 GMT+0000 (Coordinated Universal Time)</lastBuildDate>
         <atom:link href="https://www.offcampuscareer.com/feeds/S1zRrFuO6.xml" rel="self" type="application/rss+xml"/>
         <language>
             <![CDATA[ en ]]>
@@ -27,7 +27,7 @@
                 <![CDATA[ Coronavirus ]]>
             </title>
             <link>https://www.worldometers.info/coronavirus/</link>
-            <guid isPermaLink="false">1666430208577</guid>
+            <guid isPermaLink="false">1666530194681</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -37,7 +37,7 @@
                 <![CDATA[ Weekly Trends ]]>
             </title>
             <link>https://www.worldometers.info/coronavirus/weekly-trends/</link>
-            <guid isPermaLink="false">1666430208578</guid>
+            <guid isPermaLink="false">1666530194682</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -47,7 +47,7 @@
                 <![CDATA[ See more graphs ]]>
             </title>
             <link>https://www.worldometers.info/coronavirus/worldwide-graphs/</link>
-            <guid isPermaLink="false">1666430208579</guid>
+            <guid isPermaLink="false">1666530194683</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -57,7 +57,7 @@
                 <![CDATA[ daily ]]>
             </title>
             <link>https://www.worldometers.info#coronavirus-cases-daily</link>
-            <guid isPermaLink="false">1666430208580</guid>
+            <guid isPermaLink="false">1666530194684</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -67,7 +67,7 @@
                 <![CDATA[ linear ]]>
             </title>
             <link>https://www.worldometers.info#coronavirus-cases-linear</link>
-            <guid isPermaLink="false">1666430208581</guid>
+            <guid isPermaLink="false">1666530194685</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -77,7 +77,7 @@
                 <![CDATA[ logarithmic ]]>
             </title>
             <link>https://www.worldometers.info#coronavirus-cases-log</link>
-            <guid isPermaLink="false">1666430208582</guid>
+            <guid isPermaLink="false">1666530194686</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -87,7 +87,7 @@
                 <![CDATA[ daily ]]>
             </title>
             <link>https://www.worldometers.info#coronavirus-deaths-daily</link>
-            <guid isPermaLink="false">1666430208583</guid>
+            <guid isPermaLink="false">1666530194687</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -97,7 +97,7 @@
                 <![CDATA[ linear ]]>
             </title>
             <link>https://www.worldometers.info#coronavirus-deaths-linear</link>
-            <guid isPermaLink="false">1666430208584</guid>
+            <guid isPermaLink="false">1666530194688</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -107,7 +107,7 @@
                 <![CDATA[ logarithmic ]]>
             </title>
             <link>https://www.worldometers.info#coronavirus-deaths-log</link>
-            <guid isPermaLink="false">1666430208585</guid>
+            <guid isPermaLink="false">1666530194689</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -117,7 +117,7 @@
                 <![CDATA[ Learn more about Worldometer's COVID-19 data ]]>
             </title>
             <link>https://www.worldometers.info/coronavirus/about/</link>
-            <guid isPermaLink="false">1666430208586</guid>
+            <guid isPermaLink="false">1666530194690</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -127,687 +127,7 @@
                 <![CDATA[ WEEKLY TRENDS ]]>
             </title>
             <link>https://www.worldometers.info/coronavirus/weekly-trends/#weekly_table</link>
-            <guid isPermaLink="false">1666430208587</guid>
-            <dc:creator>
-                <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
-            </dc:creator>
-        </item>
-        <item>
-            <title>
-                <![CDATA[ Poland ]]>
-            </title>
-            <link>https://www.worldometers.info/coronavirus/country/poland/</link>
-            <guid isPermaLink="false">1666430208588</guid>
-            <dc:creator>
-                <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
-            </dc:creator>
-        </item>
-        <item>
-            <title>
-                <![CDATA[ Slovakia ]]>
-            </title>
-            <link>https://www.worldometers.info/coronavirus/country/slovakia/</link>
-            <guid isPermaLink="false">1666430208589</guid>
-            <dc:creator>
-                <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
-            </dc:creator>
-        </item>
-        <item>
-            <title>
-                <![CDATA[ Russia ]]>
-            </title>
-            <link>https://www.worldometers.info/coronavirus/country/russia/</link>
-            <guid isPermaLink="false">1666430208590</guid>
-            <dc:creator>
-                <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
-            </dc:creator>
-        </item>
-        <item>
-            <title>
-                <![CDATA[ Japan ]]>
-            </title>
-            <link>https://www.worldometers.info/coronavirus/country/japan/</link>
-            <guid isPermaLink="false">1666430208591</guid>
-            <dc:creator>
-                <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
-            </dc:creator>
-        </item>
-        <item>
-            <title>
-                <![CDATA[ Lithuania ]]>
-            </title>
-            <link>https://www.worldometers.info/coronavirus/country/lithuania/</link>
-            <guid isPermaLink="false">1666430208592</guid>
-            <dc:creator>
-                <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
-            </dc:creator>
-        </item>
-        <item>
-            <title>
-                <![CDATA[ Czechia ]]>
-            </title>
-            <link>https://www.worldometers.info/coronavirus/country/czech-republic/</link>
-            <guid isPermaLink="false">1666430208593</guid>
-            <dc:creator>
-                <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
-            </dc:creator>
-        </item>
-        <item>
-            <title>
-                <![CDATA[ Taiwan ]]>
-            </title>
-            <link>https://www.worldometers.info/coronavirus/country/taiwan/</link>
-            <guid isPermaLink="false">1666430208594</guid>
-            <dc:creator>
-                <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
-            </dc:creator>
-        </item>
-        <item>
-            <title>
-                <![CDATA[ Kazakhstan ]]>
-            </title>
-            <link>https://www.worldometers.info/coronavirus/country/kazakhstan/</link>
-            <guid isPermaLink="false">1666430208595</guid>
-            <dc:creator>
-                <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
-            </dc:creator>
-        </item>
-        <item>
-            <title>
-                <![CDATA[ Pakistan ]]>
-            </title>
-            <link>https://www.worldometers.info/coronavirus/country/pakistan/</link>
-            <guid isPermaLink="false">1666430208596</guid>
-            <dc:creator>
-                <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
-            </dc:creator>
-        </item>
-        <item>
-            <title>
-                <![CDATA[ Laos ]]>
-            </title>
-            <link>https://www.worldometers.info/coronavirus/country/laos/</link>
-            <guid isPermaLink="false">1666430208597</guid>
-            <dc:creator>
-                <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
-            </dc:creator>
-        </item>
-        <item>
-            <title>
-                <![CDATA[ South Korea ]]>
-            </title>
-            <link>https://www.worldometers.info/coronavirus/country/south-korea/</link>
-            <guid isPermaLink="false">1666430208598</guid>
-            <dc:creator>
-                <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
-            </dc:creator>
-        </item>
-        <item>
-            <title>
-                <![CDATA[ Australia ]]>
-            </title>
-            <link>https://www.worldometers.info/coronavirus/country/australia/</link>
-            <guid isPermaLink="false">1666430208599</guid>
-            <dc:creator>
-                <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
-            </dc:creator>
-        </item>
-        <item>
-            <title>
-                <![CDATA[ source ]]>
-            </title>
-            <link>https://www.health.gov.au/news/health-alerts/novel-coronavirus-2019-ncov-health-alert/coronavirus-covid-19-current-situation-and-case-numbers</link>
-            <guid isPermaLink="false">1666430208600</guid>
-            <dc:creator>
-                <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
-            </dc:creator>
-        </item>
-        <item>
-            <title>
-                <![CDATA[ source ]]>
-            </title>
-            <link>https://www.dhhs.vic.gov.au/coronavirus-covid-19-daily-update</link>
-            <guid isPermaLink="false">1666430208601</guid>
-            <dc:creator>
-                <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
-            </dc:creator>
-        </item>
-        <item>
-            <title>
-                <![CDATA[ China ]]>
-            </title>
-            <link>https://www.worldometers.info/coronavirus/country/china/</link>
-            <guid isPermaLink="false">1666430208602</guid>
-            <dc:creator>
-                <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
-            </dc:creator>
-        </item>
-        <item>
-            <title>
-                <![CDATA[ Venezuela ]]>
-            </title>
-            <link>https://www.worldometers.info/coronavirus/country/venezuela/</link>
-            <guid isPermaLink="false">1666430208603</guid>
-            <dc:creator>
-                <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
-            </dc:creator>
-        </item>
-        <item>
-            <title>
-                <![CDATA[ Timor-Leste ]]>
-            </title>
-            <link>https://www.worldometers.info/coronavirus/country/timor-leste/</link>
-            <guid isPermaLink="false">1666430208604</guid>
-            <dc:creator>
-                <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
-            </dc:creator>
-        </item>
-        <item>
-            <title>
-                <![CDATA[ San Marino ]]>
-            </title>
-            <link>https://www.worldometers.info/coronavirus/country/san-marino/</link>
-            <guid isPermaLink="false">1666430208605</guid>
-            <dc:creator>
-                <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
-            </dc:creator>
-        </item>
-        <item>
-            <title>
-                <![CDATA[ Mexico ]]>
-            </title>
-            <link>https://www.worldometers.info/coronavirus/country/mexico/</link>
-            <guid isPermaLink="false">1666430208606</guid>
-            <dc:creator>
-                <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
-            </dc:creator>
-        </item>
-        <item>
-            <title>
-                <![CDATA[ Germany ]]>
-            </title>
-            <link>https://www.worldometers.info/coronavirus/country/germany/</link>
-            <guid isPermaLink="false">1666430208607</guid>
-            <dc:creator>
-                <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
-            </dc:creator>
-        </item>
-        <item>
-            <title>
-                <![CDATA[ Brazil ]]>
-            </title>
-            <link>https://www.worldometers.info/coronavirus/country/brazil/</link>
-            <guid isPermaLink="false">1666430208608</guid>
-            <dc:creator>
-                <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
-            </dc:creator>
-        </item>
-        <item>
-            <title>
-                <![CDATA[ source ]]>
-            </title>
-            <link>https://g1.globo.com/saude/coronavirus/noticia/2022/10/21/brasil-tem-37-novas-mortes-por-covid-media-de-mortes-se-mantem-em-queda.ghtml</link>
-            <guid isPermaLink="false">1666430208609</guid>
-            <dc:creator>
-                <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
-            </dc:creator>
-        </item>
-        <item>
-            <title>
-                <![CDATA[ Norway ]]>
-            </title>
-            <link>https://www.worldometers.info/coronavirus/country/norway/</link>
-            <guid isPermaLink="false">1666430208610</guid>
-            <dc:creator>
-                <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
-            </dc:creator>
-        </item>
-        <item>
-            <title>
-                <![CDATA[ source ]]>
-            </title>
-            <link>https://www.vg.no/spesial/corona/</link>
-            <guid isPermaLink="false">1666430208611</guid>
-            <dc:creator>
-                <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
-            </dc:creator>
-        </item>
-        <item>
-            <title>
-                <![CDATA[ Mauritius ]]>
-            </title>
-            <link>https://www.worldometers.info/coronavirus/country/mauritius/</link>
-            <guid isPermaLink="false">1666430208612</guid>
-            <dc:creator>
-                <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
-            </dc:creator>
-        </item>
-        <item>
-            <title>
-                <![CDATA[ Mayotte ]]>
-            </title>
-            <link>https://www.worldometers.info/coronavirus/country/mayotte/</link>
-            <guid isPermaLink="false">1666430208613</guid>
-            <dc:creator>
-                <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
-            </dc:creator>
-        </item>
-        <item>
-            <title>
-                <![CDATA[ Papua New Guinea ]]>
-            </title>
-            <link>https://www.worldometers.info/coronavirus/country/papua-new-guinea/</link>
-            <guid isPermaLink="false">1666430208614</guid>
-            <dc:creator>
-                <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
-            </dc:creator>
-        </item>
-        <item>
-            <title>
-                <![CDATA[ Uzbekistan ]]>
-            </title>
-            <link>https://www.worldometers.info/coronavirus/country/uzbekistan/</link>
-            <guid isPermaLink="false">1666430208615</guid>
-            <dc:creator>
-                <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
-            </dc:creator>
-        </item>
-        <item>
-            <title>
-                <![CDATA[ Azerbaijan ]]>
-            </title>
-            <link>https://www.worldometers.info/coronavirus/country/azerbaijan/</link>
-            <guid isPermaLink="false">1666430208616</guid>
-            <dc:creator>
-                <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
-            </dc:creator>
-        </item>
-        <item>
-            <title>
-                <![CDATA[ Mongolia ]]>
-            </title>
-            <link>https://www.worldometers.info/coronavirus/country/mongolia/</link>
-            <guid isPermaLink="false">1666430208617</guid>
-            <dc:creator>
-                <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
-            </dc:creator>
-        </item>
-        <item>
-            <title>
-                <![CDATA[ Cuba ]]>
-            </title>
-            <link>https://www.worldometers.info/coronavirus/country/cuba/</link>
-            <guid isPermaLink="false">1666430208618</guid>
-            <dc:creator>
-                <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
-            </dc:creator>
-        </item>
-        <item>
-            <title>
-                <![CDATA[ Guyana ]]>
-            </title>
-            <link>https://www.worldometers.info/coronavirus/country/guyana/</link>
-            <guid isPermaLink="false">1666430208619</guid>
-            <dc:creator>
-                <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
-            </dc:creator>
-        </item>
-        <item>
-            <title>
-                <![CDATA[ Côte d'Ivoire ]]>
-            </title>
-            <link>https://www.worldometers.info/coronavirus/country/cote-d-ivoire/</link>
-            <guid isPermaLink="false">1666430208620</guid>
-            <dc:creator>
-                <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
-            </dc:creator>
-        </item>
-        <item>
-            <title>
-                <![CDATA[ Paraguay ]]>
-            </title>
-            <link>https://www.worldometers.info/coronavirus/country/paraguay/</link>
-            <guid isPermaLink="false">1666430208621</guid>
-            <dc:creator>
-                <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
-            </dc:creator>
-        </item>
-        <item>
-            <title>
-                <![CDATA[ Guatemala ]]>
-            </title>
-            <link>https://www.worldometers.info/coronavirus/country/guatemala/</link>
-            <guid isPermaLink="false">1666430208622</guid>
-            <dc:creator>
-                <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
-            </dc:creator>
-        </item>
-        <item>
-            <title>
-                <![CDATA[ Ecuador ]]>
-            </title>
-            <link>https://www.worldometers.info/coronavirus/country/ecuador/</link>
-            <guid isPermaLink="false">1666430208623</guid>
-            <dc:creator>
-                <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
-            </dc:creator>
-        </item>
-        <item>
-            <title>
-                <![CDATA[ Bulgaria ]]>
-            </title>
-            <link>https://www.worldometers.info/coronavirus/country/bulgaria/</link>
-            <guid isPermaLink="false">1666430208624</guid>
-            <dc:creator>
-                <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
-            </dc:creator>
-        </item>
-        <item>
-            <title>
-                <![CDATA[ source ]]>
-            </title>
-            <link>https://coronavirus.bg/bg/</link>
-            <guid isPermaLink="false">1666430208625</guid>
-            <dc:creator>
-                <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
-            </dc:creator>
-        </item>
-        <item>
-            <title>
-                <![CDATA[ Spain ]]>
-            </title>
-            <link>https://www.worldometers.info/coronavirus/country/spain/</link>
-            <guid isPermaLink="false">1666430208626</guid>
-            <dc:creator>
-                <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
-            </dc:creator>
-        </item>
-        <item>
-            <title>
-                <![CDATA[ Algeria ]]>
-            </title>
-            <link>https://www.worldometers.info/coronavirus/country/algeria/</link>
-            <guid isPermaLink="false">1666430208627</guid>
-            <dc:creator>
-                <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
-            </dc:creator>
-        </item>
-        <item>
-            <title>
-                <![CDATA[ source ]]>
-            </title>
-            <link>https://www.aps.dz/sante-science-technologie/146467-coronavirus-2-nouveaux-cas-et-aucun-deces</link>
-            <guid isPermaLink="false">1666430208628</guid>
-            <dc:creator>
-                <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
-            </dc:creator>
-        </item>
-        <item>
-            <title>
-                <![CDATA[ Malaysia ]]>
-            </title>
-            <link>https://www.worldometers.info/coronavirus/country/malaysia/</link>
-            <guid isPermaLink="false">1666430208629</guid>
-            <dc:creator>
-                <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
-            </dc:creator>
-        </item>
-        <item>
-            <title>
-                <![CDATA[ Serbia ]]>
-            </title>
-            <link>https://www.worldometers.info/coronavirus/country/serbia/</link>
-            <guid isPermaLink="false">1666430208630</guid>
-            <dc:creator>
-                <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
-            </dc:creator>
-        </item>
-        <item>
-            <title>
-                <![CDATA[ India ]]>
-            </title>
-            <link>https://www.worldometers.info/coronavirus/country/india/</link>
-            <guid isPermaLink="false">1666430208631</guid>
-            <dc:creator>
-                <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
-            </dc:creator>
-        </item>
-        <item>
-            <title>
-                <![CDATA[ Singapore ]]>
-            </title>
-            <link>https://www.worldometers.info/coronavirus/country/singapore/</link>
-            <guid isPermaLink="false">1666430208632</guid>
-            <dc:creator>
-                <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
-            </dc:creator>
-        </item>
-        <item>
-            <title>
-                <![CDATA[ Mauritania ]]>
-            </title>
-            <link>https://www.worldometers.info/coronavirus/country/mauritania/</link>
-            <guid isPermaLink="false">1666430208633</guid>
-            <dc:creator>
-                <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
-            </dc:creator>
-        </item>
-        <item>
-            <title>
-                <![CDATA[ Lebanon ]]>
-            </title>
-            <link>https://www.worldometers.info/coronavirus/country/lebanon/</link>
-            <guid isPermaLink="false">1666430208634</guid>
-            <dc:creator>
-                <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
-            </dc:creator>
-        </item>
-        <item>
-            <title>
-                <![CDATA[ Monaco ]]>
-            </title>
-            <link>https://www.worldometers.info/coronavirus/country/monaco/</link>
-            <guid isPermaLink="false">1666430208635</guid>
-            <dc:creator>
-                <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
-            </dc:creator>
-        </item>
-        <item>
-            <title>
-                <![CDATA[ Kenya ]]>
-            </title>
-            <link>https://www.worldometers.info/coronavirus/country/kenya/</link>
-            <guid isPermaLink="false">1666430208636</guid>
-            <dc:creator>
-                <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
-            </dc:creator>
-        </item>
-        <item>
-            <title>
-                <![CDATA[ Mali ]]>
-            </title>
-            <link>https://www.worldometers.info/coronavirus/country/mali/</link>
-            <guid isPermaLink="false">1666430208637</guid>
-            <dc:creator>
-                <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
-            </dc:creator>
-        </item>
-        <item>
-            <title>
-                <![CDATA[ Albania ]]>
-            </title>
-            <link>https://www.worldometers.info/coronavirus/country/albania/</link>
-            <guid isPermaLink="false">1666430208638</guid>
-            <dc:creator>
-                <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
-            </dc:creator>
-        </item>
-        <item>
-            <title>
-                <![CDATA[ Togo ]]>
-            </title>
-            <link>https://www.worldometers.info/coronavirus/country/togo/</link>
-            <guid isPermaLink="false">1666430208639</guid>
-            <dc:creator>
-                <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
-            </dc:creator>
-        </item>
-        <item>
-            <title>
-                <![CDATA[ Bahrain ]]>
-            </title>
-            <link>https://www.worldometers.info/coronavirus/country/bahrain/</link>
-            <guid isPermaLink="false">1666430208640</guid>
-            <dc:creator>
-                <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
-            </dc:creator>
-        </item>
-        <item>
-            <title>
-                <![CDATA[ South Africa ]]>
-            </title>
-            <link>https://www.worldometers.info/coronavirus/country/south-africa/</link>
-            <guid isPermaLink="false">1666430208641</guid>
-            <dc:creator>
-                <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
-            </dc:creator>
-        </item>
-        <item>
-            <title>
-                <![CDATA[ France ]]>
-            </title>
-            <link>https://www.worldometers.info/coronavirus/country/france/</link>
-            <guid isPermaLink="false">1666430208642</guid>
-            <dc:creator>
-                <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
-            </dc:creator>
-        </item>
-        <item>
-            <title>
-                <![CDATA[ source ]]>
-            </title>
-            <link>https://www.santepubliquefrance.fr/dossiers/coronavirus-covid-19/coronavirus-chiffres-cles-et-evolution-de-la-covid-19-en-france-et-dans-le-monde</link>
-            <guid isPermaLink="false">1666430208643</guid>
-            <dc:creator>
-                <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
-            </dc:creator>
-        </item>
-        <item>
-            <title>
-                <![CDATA[ Myanmar ]]>
-            </title>
-            <link>https://www.worldometers.info/coronavirus/country/myanmar/</link>
-            <guid isPermaLink="false">1666430208644</guid>
-            <dc:creator>
-                <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
-            </dc:creator>
-        </item>
-        <item>
-            <title>
-                <![CDATA[ Israel ]]>
-            </title>
-            <link>https://www.worldometers.info/coronavirus/country/israel/</link>
-            <guid isPermaLink="false">1666430208645</guid>
-            <dc:creator>
-                <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
-            </dc:creator>
-        </item>
-        <item>
-            <title>
-                <![CDATA[ Sri Lanka ]]>
-            </title>
-            <link>https://www.worldometers.info/coronavirus/country/sri-lanka/</link>
-            <guid isPermaLink="false">1666430208646</guid>
-            <dc:creator>
-                <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
-            </dc:creator>
-        </item>
-        <item>
-            <title>
-                <![CDATA[ Morocco ]]>
-            </title>
-            <link>https://www.worldometers.info/coronavirus/country/morocco/</link>
-            <guid isPermaLink="false">1666430208647</guid>
-            <dc:creator>
-                <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
-            </dc:creator>
-        </item>
-        <item>
-            <title>
-                <![CDATA[ Chile ]]>
-            </title>
-            <link>https://www.worldometers.info/coronavirus/country/chile/</link>
-            <guid isPermaLink="false">1666430208648</guid>
-            <dc:creator>
-                <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
-            </dc:creator>
-        </item>
-        <item>
-            <title>
-                <![CDATA[ Italy ]]>
-            </title>
-            <link>https://www.worldometers.info/coronavirus/country/italy/</link>
-            <guid isPermaLink="false">1666430208649</guid>
-            <dc:creator>
-                <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
-            </dc:creator>
-        </item>
-        <item>
-            <title>
-                <![CDATA[ Burundi ]]>
-            </title>
-            <link>https://www.worldometers.info/coronavirus/country/burundi/</link>
-            <guid isPermaLink="false">1666430208650</guid>
-            <dc:creator>
-                <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
-            </dc:creator>
-        </item>
-        <item>
-            <title>
-                <![CDATA[ Montenegro ]]>
-            </title>
-            <link>https://www.worldometers.info/coronavirus/country/montenegro/</link>
-            <guid isPermaLink="false">1666430208651</guid>
-            <dc:creator>
-                <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
-            </dc:creator>
-        </item>
-        <item>
-            <title>
-                <![CDATA[ the Republic of North Macedonia ]]>
-            </title>
-            <link>https://www.worldometers.info/coronavirus/country/macedonia/</link>
-            <guid isPermaLink="false">1666430208652</guid>
-            <dc:creator>
-                <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
-            </dc:creator>
-        </item>
-        <item>
-            <title>
-                <![CDATA[ the Netherlands ]]>
-            </title>
-            <link>https://www.worldometers.info/coronavirus/country/netherlands/</link>
-            <guid isPermaLink="false">1666430208653</guid>
-            <dc:creator>
-                <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
-            </dc:creator>
-        </item>
-        <item>
-            <title>
-                <![CDATA[ source ]]>
-            </title>
-            <link>https://allecijfers.nl/nieuws/statistieken-over-het-corona-virus-en-covid19/#corona_kerncijfers</link>
-            <guid isPermaLink="false">1666430208654</guid>
-            <dc:creator>
-                <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
-            </dc:creator>
-        </item>
-        <item>
-            <title>
-                <![CDATA[ Qatar ]]>
-            </title>
-            <link>https://www.worldometers.info/coronavirus/country/qatar/</link>
-            <guid isPermaLink="false">1666430208655</guid>
+            <guid isPermaLink="false">1666530194691</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -817,17 +137,7 @@
                 <![CDATA[ Iran ]]>
             </title>
             <link>https://www.worldometers.info/coronavirus/country/iran/</link>
-            <guid isPermaLink="false">1666430208656</guid>
-            <dc:creator>
-                <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
-            </dc:creator>
-        </item>
-        <item>
-            <title>
-                <![CDATA[ Austria ]]>
-            </title>
-            <link>https://www.worldometers.info/coronavirus/country/austria/</link>
-            <guid isPermaLink="false">1666430208657</guid>
+            <guid isPermaLink="false">1666530194692</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -837,37 +147,17 @@
                 <![CDATA[ Bangladesh ]]>
             </title>
             <link>https://www.worldometers.info/coronavirus/country/bangladesh/</link>
-            <guid isPermaLink="false">1666430208658</guid>
+            <guid isPermaLink="false">1666530194693</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
         </item>
         <item>
             <title>
-                <![CDATA[ Romania ]]>
+                <![CDATA[ Azerbaijan ]]>
             </title>
-            <link>https://www.worldometers.info/coronavirus/country/romania/</link>
-            <guid isPermaLink="false">1666430208659</guid>
-            <dc:creator>
-                <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
-            </dc:creator>
-        </item>
-        <item>
-            <title>
-                <![CDATA[ Bosnia and Herzegovina ]]>
-            </title>
-            <link>https://www.worldometers.info/coronavirus/country/bosnia-and-herzegovina/</link>
-            <guid isPermaLink="false">1666430208660</guid>
-            <dc:creator>
-                <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
-            </dc:creator>
-        </item>
-        <item>
-            <title>
-                <![CDATA[ Nepal ]]>
-            </title>
-            <link>https://www.worldometers.info/coronavirus/country/nepal/</link>
-            <guid isPermaLink="false">1666430208661</guid>
+            <link>https://www.worldometers.info/coronavirus/country/azerbaijan/</link>
+            <guid isPermaLink="false">1666530194694</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -877,87 +167,7 @@
                 <![CDATA[ Saudi Arabia ]]>
             </title>
             <link>https://www.worldometers.info/coronavirus/country/saudi-arabia/</link>
-            <guid isPermaLink="false">1666430208662</guid>
-            <dc:creator>
-                <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
-            </dc:creator>
-        </item>
-        <item>
-            <title>
-                <![CDATA[ Denmark ]]>
-            </title>
-            <link>https://www.worldometers.info/coronavirus/country/denmark/</link>
-            <guid isPermaLink="false">1666430208663</guid>
-            <dc:creator>
-                <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
-            </dc:creator>
-        </item>
-        <item>
-            <title>
-                <![CDATA[ Latvia ]]>
-            </title>
-            <link>https://www.worldometers.info/coronavirus/country/latvia/</link>
-            <guid isPermaLink="false">1666430208664</guid>
-            <dc:creator>
-                <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
-            </dc:creator>
-        </item>
-        <item>
-            <title>
-                <![CDATA[ Liechtenstein ]]>
-            </title>
-            <link>https://www.worldometers.info/coronavirus/country/liechtenstein/</link>
-            <guid isPermaLink="false">1666430208665</guid>
-            <dc:creator>
-                <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
-            </dc:creator>
-        </item>
-        <item>
-            <title>
-                <![CDATA[ Slovenia ]]>
-            </title>
-            <link>https://www.worldometers.info/coronavirus/country/slovenia/</link>
-            <guid isPermaLink="false">1666430208666</guid>
-            <dc:creator>
-                <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
-            </dc:creator>
-        </item>
-        <item>
-            <title>
-                <![CDATA[ the Philippines ]]>
-            </title>
-            <link>https://www.worldometers.info/coronavirus/country/philippines/</link>
-            <guid isPermaLink="false">1666430208667</guid>
-            <dc:creator>
-                <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
-            </dc:creator>
-        </item>
-        <item>
-            <title>
-                <![CDATA[ Vietnam ]]>
-            </title>
-            <link>https://www.worldometers.info/coronavirus/country/viet-nam/</link>
-            <guid isPermaLink="false">1666430208668</guid>
-            <dc:creator>
-                <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
-            </dc:creator>
-        </item>
-        <item>
-            <title>
-                <![CDATA[ Croatia ]]>
-            </title>
-            <link>https://www.worldometers.info/coronavirus/country/croatia/</link>
-            <guid isPermaLink="false">1666430208669</guid>
-            <dc:creator>
-                <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
-            </dc:creator>
-        </item>
-        <item>
-            <title>
-                <![CDATA[ Indonesia ]]>
-            </title>
-            <link>https://www.worldometers.info/coronavirus/country/indonesia/</link>
-            <guid isPermaLink="false">1666430208670</guid>
+            <guid isPermaLink="false">1666530194695</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -967,17 +177,57 @@
                 <![CDATA[ China, Hong Kong SAR ]]>
             </title>
             <link>https://www.worldometers.info/coronavirus/country/china-hong-kong-sar/</link>
-            <guid isPermaLink="false">1666430208671</guid>
+            <guid isPermaLink="false">1666530194696</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
         </item>
         <item>
             <title>
-                <![CDATA[ Malta ]]>
+                <![CDATA[ Vietnam ]]>
             </title>
-            <link>https://www.worldometers.info/coronavirus/country/malta/</link>
-            <guid isPermaLink="false">1666430208672</guid>
+            <link>https://www.worldometers.info/coronavirus/country/viet-nam/</link>
+            <guid isPermaLink="false">1666530194697</guid>
+            <dc:creator>
+                <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
+            </dc:creator>
+        </item>
+        <item>
+            <title>
+                <![CDATA[ the Philippines ]]>
+            </title>
+            <link>https://www.worldometers.info/coronavirus/country/philippines/</link>
+            <guid isPermaLink="false">1666530194698</guid>
+            <dc:creator>
+                <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
+            </dc:creator>
+        </item>
+        <item>
+            <title>
+                <![CDATA[ Indonesia ]]>
+            </title>
+            <link>https://www.worldometers.info/coronavirus/country/indonesia/</link>
+            <guid isPermaLink="false">1666530194699</guid>
+            <dc:creator>
+                <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
+            </dc:creator>
+        </item>
+        <item>
+            <title>
+                <![CDATA[ Slovenia ]]>
+            </title>
+            <link>https://www.worldometers.info/coronavirus/country/slovenia/</link>
+            <guid isPermaLink="false">1666530194700</guid>
+            <dc:creator>
+                <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
+            </dc:creator>
+        </item>
+        <item>
+            <title>
+                <![CDATA[ Croatia ]]>
+            </title>
+            <link>https://www.worldometers.info/coronavirus/country/croatia/</link>
+            <guid isPermaLink="false">1666530194701</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -987,7 +237,37 @@
                 <![CDATA[ the United Arab Emirates ]]>
             </title>
             <link>https://www.worldometers.info/coronavirus/country/united-arab-emirates/</link>
-            <guid isPermaLink="false">1666430208673</guid>
+            <guid isPermaLink="false">1666530194702</guid>
+            <dc:creator>
+                <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
+            </dc:creator>
+        </item>
+        <item>
+            <title>
+                <![CDATA[ Nepal ]]>
+            </title>
+            <link>https://www.worldometers.info/coronavirus/country/nepal/</link>
+            <guid isPermaLink="false">1666530194703</guid>
+            <dc:creator>
+                <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
+            </dc:creator>
+        </item>
+        <item>
+            <title>
+                <![CDATA[ Malta ]]>
+            </title>
+            <link>https://www.worldometers.info/coronavirus/country/malta/</link>
+            <guid isPermaLink="false">1666530194704</guid>
+            <dc:creator>
+                <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
+            </dc:creator>
+        </item>
+        <item>
+            <title>
+                <![CDATA[ Poland ]]>
+            </title>
+            <link>https://www.worldometers.info/coronavirus/country/poland/</link>
+            <guid isPermaLink="false">1666530194705</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -997,57 +277,107 @@
                 <![CDATA[ Afghanistan ]]>
             </title>
             <link>https://www.worldometers.info/coronavirus/country/afghanistan/</link>
-            <guid isPermaLink="false">1666430208674</guid>
+            <guid isPermaLink="false">1666530194706</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
         </item>
         <item>
             <title>
-                <![CDATA[ Peru ]]>
+                <![CDATA[ Slovakia ]]>
             </title>
-            <link>https://www.worldometers.info/coronavirus/country/peru/</link>
-            <guid isPermaLink="false">1666430208675</guid>
+            <link>https://www.worldometers.info/coronavirus/country/slovakia/</link>
+            <guid isPermaLink="false">1666530194707</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
         </item>
         <item>
             <title>
-                <![CDATA[ Bolivia ]]>
+                <![CDATA[ Russia ]]>
             </title>
-            <link>https://www.worldometers.info/coronavirus/country/bolivia/</link>
-            <guid isPermaLink="false">1666430208676</guid>
+            <link>https://www.worldometers.info/coronavirus/country/russia/</link>
+            <guid isPermaLink="false">1666530194708</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
         </item>
         <item>
             <title>
-                <![CDATA[ the United States ]]>
+                <![CDATA[ Japan ]]>
             </title>
-            <link>https://www.worldometers.info/coronavirus/country/us/</link>
-            <guid isPermaLink="false">1666430208677</guid>
+            <link>https://www.worldometers.info/coronavirus/country/japan/</link>
+            <guid isPermaLink="false">1666530194709</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
         </item>
         <item>
             <title>
-                <![CDATA[ French Polynesia ]]>
+                <![CDATA[ Lithuania ]]>
             </title>
-            <link>https://www.worldometers.info/coronavirus/country/french-polynesia/</link>
-            <guid isPermaLink="false">1666430208678</guid>
+            <link>https://www.worldometers.info/coronavirus/country/lithuania/</link>
+            <guid isPermaLink="false">1666530194710</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
         </item>
         <item>
             <title>
-                <![CDATA[ Channel Islands ]]>
+                <![CDATA[ Czechia ]]>
             </title>
-            <link>https://www.worldometers.info/coronavirus/country/channel-islands/</link>
-            <guid isPermaLink="false">1666430208679</guid>
+            <link>https://www.worldometers.info/coronavirus/country/czech-republic/</link>
+            <guid isPermaLink="false">1666530194711</guid>
+            <dc:creator>
+                <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
+            </dc:creator>
+        </item>
+        <item>
+            <title>
+                <![CDATA[ Taiwan ]]>
+            </title>
+            <link>https://www.worldometers.info/coronavirus/country/taiwan/</link>
+            <guid isPermaLink="false">1666530194712</guid>
+            <dc:creator>
+                <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
+            </dc:creator>
+        </item>
+        <item>
+            <title>
+                <![CDATA[ Pakistan ]]>
+            </title>
+            <link>https://www.worldometers.info/coronavirus/country/pakistan/</link>
+            <guid isPermaLink="false">1666530194713</guid>
+            <dc:creator>
+                <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
+            </dc:creator>
+        </item>
+        <item>
+            <title>
+                <![CDATA[ Laos ]]>
+            </title>
+            <link>https://www.worldometers.info/coronavirus/country/laos/</link>
+            <guid isPermaLink="false">1666530194714</guid>
+            <dc:creator>
+                <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
+            </dc:creator>
+        </item>
+        <item>
+            <title>
+                <![CDATA[ South Korea ]]>
+            </title>
+            <link>https://www.worldometers.info/coronavirus/country/south-korea/</link>
+            <guid isPermaLink="false">1666530194715</guid>
+            <dc:creator>
+                <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
+            </dc:creator>
+        </item>
+        <item>
+            <title>
+                <![CDATA[ Australia ]]>
+            </title>
+            <link>https://www.worldometers.info/coronavirus/country/australia/</link>
+            <guid isPermaLink="false">1666530194716</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -1056,98 +386,198 @@
             <title>
                 <![CDATA[ source ]]>
             </title>
-            <link>https://g1.globo.com/saude/coronavirus/noticia/2022/10/20/brasil-tem-66-novas-mortes-por-covid-media-de-mortes-esta-em-queda-ha-uma-semana.ghtml</link>
-            <guid isPermaLink="false">1666430208680</guid>
+            <link>https://www.health.gov.au/news/health-alerts/novel-coronavirus-2019-ncov-health-alert/coronavirus-covid-19-current-situation-and-case-numbers</link>
+            <guid isPermaLink="false">1666530194717</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
         </item>
         <item>
             <title>
-                <![CDATA[ Syria ]]>
+                <![CDATA[ source ]]>
             </title>
-            <link>https://www.worldometers.info/coronavirus/country/syria/</link>
-            <guid isPermaLink="false">1666430208681</guid>
+            <link>https://www.dhhs.vic.gov.au/coronavirus-covid-19-daily-update</link>
+            <guid isPermaLink="false">1666530194718</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
         </item>
         <item>
             <title>
-                <![CDATA[ French Guiana ]]>
+                <![CDATA[ China ]]>
             </title>
-            <link>https://www.worldometers.info/coronavirus/country/french-guiana/</link>
-            <guid isPermaLink="false">1666430208682</guid>
+            <link>https://www.worldometers.info/coronavirus/country/china/</link>
+            <guid isPermaLink="false">1666530194719</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
         </item>
         <item>
             <title>
-                <![CDATA[ Vanuatu ]]>
+                <![CDATA[ Brazil ]]>
             </title>
-            <link>https://www.worldometers.info/coronavirus/country/vanuatu/</link>
-            <guid isPermaLink="false">1666430208683</guid>
+            <link>https://www.worldometers.info/coronavirus/country/brazil/</link>
+            <guid isPermaLink="false">1666530194720</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
         </item>
         <item>
             <title>
-                <![CDATA[ Réunion ]]>
+                <![CDATA[ source ]]>
             </title>
-            <link>https://www.worldometers.info/coronavirus/country/reunion/</link>
-            <guid isPermaLink="false">1666430208684</guid>
+            <link>https://g1.globo.com/saude/coronavirus/noticia/2022/10/22/brasil-registra-84-novas-mortes-por-covid-media-movel-volta-a-estabilidade.ghtml</link>
+            <guid isPermaLink="false">1666530194721</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
         </item>
         <item>
             <title>
-                <![CDATA[ Equatorial Guinea ]]>
+                <![CDATA[ Guyana ]]>
             </title>
-            <link>https://www.worldometers.info/coronavirus/country/equatorial-guinea/</link>
-            <guid isPermaLink="false">1666430208685</guid>
+            <link>https://www.worldometers.info/coronavirus/country/guyana/</link>
+            <guid isPermaLink="false">1666530194722</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
         </item>
         <item>
             <title>
-                <![CDATA[ Fiji ]]>
+                <![CDATA[ Côte d'Ivoire ]]>
             </title>
-            <link>https://www.worldometers.info/coronavirus/country/fiji/</link>
-            <guid isPermaLink="false">1666430208686</guid>
+            <link>https://www.worldometers.info/coronavirus/country/cote-d-ivoire/</link>
+            <guid isPermaLink="false">1666530194723</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
         </item>
         <item>
             <title>
-                <![CDATA[ Colombia ]]>
+                <![CDATA[ Nigeria ]]>
             </title>
-            <link>https://www.worldometers.info/coronavirus/country/colombia/</link>
-            <guid isPermaLink="false">1666430208687</guid>
+            <link>https://www.worldometers.info/coronavirus/country/nigeria/</link>
+            <guid isPermaLink="false">1666530194724</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
         </item>
         <item>
             <title>
-                <![CDATA[ the DR Congo ]]>
+                <![CDATA[ Guatemala ]]>
             </title>
-            <link>https://www.worldometers.info/coronavirus/country/democratic-republic-of-the-congo/</link>
-            <guid isPermaLink="false">1666430208688</guid>
+            <link>https://www.worldometers.info/coronavirus/country/guatemala/</link>
+            <guid isPermaLink="false">1666530194725</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
         </item>
         <item>
             <title>
-                <![CDATA[ Ghana ]]>
+                <![CDATA[ Norway ]]>
             </title>
-            <link>https://www.worldometers.info/coronavirus/country/ghana/</link>
-            <guid isPermaLink="false">1666430208689</guid>
+            <link>https://www.worldometers.info/coronavirus/country/norway/</link>
+            <guid isPermaLink="false">1666530194726</guid>
+            <dc:creator>
+                <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
+            </dc:creator>
+        </item>
+        <item>
+            <title>
+                <![CDATA[ source ]]>
+            </title>
+            <link>https://www.vg.no/spesial/corona/</link>
+            <guid isPermaLink="false">1666530194727</guid>
+            <dc:creator>
+                <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
+            </dc:creator>
+        </item>
+        <item>
+            <title>
+                <![CDATA[ Bulgaria ]]>
+            </title>
+            <link>https://www.worldometers.info/coronavirus/country/bulgaria/</link>
+            <guid isPermaLink="false">1666530194728</guid>
+            <dc:creator>
+                <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
+            </dc:creator>
+        </item>
+        <item>
+            <title>
+                <![CDATA[ source ]]>
+            </title>
+            <link>https://coronavirus.bg/bg/</link>
+            <guid isPermaLink="false">1666530194729</guid>
+            <dc:creator>
+                <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
+            </dc:creator>
+        </item>
+        <item>
+            <title>
+                <![CDATA[ Bahrain ]]>
+            </title>
+            <link>https://www.worldometers.info/coronavirus/country/bahrain/</link>
+            <guid isPermaLink="false">1666530194730</guid>
+            <dc:creator>
+                <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
+            </dc:creator>
+        </item>
+        <item>
+            <title>
+                <![CDATA[ Malaysia ]]>
+            </title>
+            <link>https://www.worldometers.info/coronavirus/country/malaysia/</link>
+            <guid isPermaLink="false">1666530194731</guid>
+            <dc:creator>
+                <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
+            </dc:creator>
+        </item>
+        <item>
+            <title>
+                <![CDATA[ Israel ]]>
+            </title>
+            <link>https://www.worldometers.info/coronavirus/country/israel/</link>
+            <guid isPermaLink="false">1666530194732</guid>
+            <dc:creator>
+                <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
+            </dc:creator>
+        </item>
+        <item>
+            <title>
+                <![CDATA[ Cyprus ]]>
+            </title>
+            <link>https://www.worldometers.info/coronavirus/country/cyprus/</link>
+            <guid isPermaLink="false">1666530194733</guid>
+            <dc:creator>
+                <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
+            </dc:creator>
+        </item>
+        <item>
+            <title>
+                <![CDATA[ India ]]>
+            </title>
+            <link>https://www.worldometers.info/coronavirus/country/india/</link>
+            <guid isPermaLink="false">1666530194734</guid>
+            <dc:creator>
+                <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
+            </dc:creator>
+        </item>
+        <item>
+            <title>
+                <![CDATA[ Singapore ]]>
+            </title>
+            <link>https://www.worldometers.info/coronavirus/country/singapore/</link>
+            <guid isPermaLink="false">1666530194735</guid>
+            <dc:creator>
+                <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
+            </dc:creator>
+        </item>
+        <item>
+            <title>
+                <![CDATA[ Lebanon ]]>
+            </title>
+            <link>https://www.worldometers.info/coronavirus/country/lebanon/</link>
+            <guid isPermaLink="false">1666530194736</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -1157,7 +587,17 @@
                 <![CDATA[ Malawi ]]>
             </title>
             <link>https://www.worldometers.info/coronavirus/country/malawi/</link>
-            <guid isPermaLink="false">1666430208690</guid>
+            <guid isPermaLink="false">1666530194737</guid>
+            <dc:creator>
+                <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
+            </dc:creator>
+        </item>
+        <item>
+            <title>
+                <![CDATA[ Albania ]]>
+            </title>
+            <link>https://www.worldometers.info/coronavirus/country/albania/</link>
+            <guid isPermaLink="false">1666530194738</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -1167,7 +607,597 @@
                 <![CDATA[ Ethiopia ]]>
             </title>
             <link>https://www.worldometers.info/coronavirus/country/ethiopia/</link>
-            <guid isPermaLink="false">1666430208691</guid>
+            <guid isPermaLink="false">1666530194739</guid>
+            <dc:creator>
+                <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
+            </dc:creator>
+        </item>
+        <item>
+            <title>
+                <![CDATA[ Togo ]]>
+            </title>
+            <link>https://www.worldometers.info/coronavirus/country/togo/</link>
+            <guid isPermaLink="false">1666530194740</guid>
+            <dc:creator>
+                <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
+            </dc:creator>
+        </item>
+        <item>
+            <title>
+                <![CDATA[ France ]]>
+            </title>
+            <link>https://www.worldometers.info/coronavirus/country/france/</link>
+            <guid isPermaLink="false">1666530194741</guid>
+            <dc:creator>
+                <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
+            </dc:creator>
+        </item>
+        <item>
+            <title>
+                <![CDATA[ source ]]>
+            </title>
+            <link>https://www.santepubliquefrance.fr/dossiers/coronavirus-covid-19/coronavirus-chiffres-cles-et-evolution-de-la-covid-19-en-france-et-dans-le-monde</link>
+            <guid isPermaLink="false">1666530194742</guid>
+            <dc:creator>
+                <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
+            </dc:creator>
+        </item>
+        <item>
+            <title>
+                <![CDATA[ Montenegro ]]>
+            </title>
+            <link>https://www.worldometers.info/coronavirus/country/montenegro/</link>
+            <guid isPermaLink="false">1666530194743</guid>
+            <dc:creator>
+                <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
+            </dc:creator>
+        </item>
+        <item>
+            <title>
+                <![CDATA[ Sri Lanka ]]>
+            </title>
+            <link>https://www.worldometers.info/coronavirus/country/sri-lanka/</link>
+            <guid isPermaLink="false">1666530194744</guid>
+            <dc:creator>
+                <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
+            </dc:creator>
+        </item>
+        <item>
+            <title>
+                <![CDATA[ Morocco ]]>
+            </title>
+            <link>https://www.worldometers.info/coronavirus/country/morocco/</link>
+            <guid isPermaLink="false">1666530194745</guid>
+            <dc:creator>
+                <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
+            </dc:creator>
+        </item>
+        <item>
+            <title>
+                <![CDATA[ Chile ]]>
+            </title>
+            <link>https://www.worldometers.info/coronavirus/country/chile/</link>
+            <guid isPermaLink="false">1666530194746</guid>
+            <dc:creator>
+                <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
+            </dc:creator>
+        </item>
+        <item>
+            <title>
+                <![CDATA[ Italy ]]>
+            </title>
+            <link>https://www.worldometers.info/coronavirus/country/italy/</link>
+            <guid isPermaLink="false">1666530194747</guid>
+            <dc:creator>
+                <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
+            </dc:creator>
+        </item>
+        <item>
+            <title>
+                <![CDATA[ Cuba ]]>
+            </title>
+            <link>https://www.worldometers.info/coronavirus/country/cuba/</link>
+            <guid isPermaLink="false">1666530194748</guid>
+            <dc:creator>
+                <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
+            </dc:creator>
+        </item>
+        <item>
+            <title>
+                <![CDATA[ Serbia ]]>
+            </title>
+            <link>https://www.worldometers.info/coronavirus/country/serbia/</link>
+            <guid isPermaLink="false">1666530194749</guid>
+            <dc:creator>
+                <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
+            </dc:creator>
+        </item>
+        <item>
+            <title>
+                <![CDATA[ Qatar ]]>
+            </title>
+            <link>https://www.worldometers.info/coronavirus/country/qatar/</link>
+            <guid isPermaLink="false">1666530194750</guid>
+            <dc:creator>
+                <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
+            </dc:creator>
+        </item>
+        <item>
+            <title>
+                <![CDATA[ Austria ]]>
+            </title>
+            <link>https://www.worldometers.info/coronavirus/country/austria/</link>
+            <guid isPermaLink="false">1666530194751</guid>
+            <dc:creator>
+                <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
+            </dc:creator>
+        </item>
+        <item>
+            <title>
+                <![CDATA[ Romania ]]>
+            </title>
+            <link>https://www.worldometers.info/coronavirus/country/romania/</link>
+            <guid isPermaLink="false">1666530194752</guid>
+            <dc:creator>
+                <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
+            </dc:creator>
+        </item>
+        <item>
+            <title>
+                <![CDATA[ Peru ]]>
+            </title>
+            <link>https://www.worldometers.info/coronavirus/country/peru/</link>
+            <guid isPermaLink="false">1666530194754</guid>
+            <dc:creator>
+                <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
+            </dc:creator>
+        </item>
+        <item>
+            <title>
+                <![CDATA[ Kazakhstan ]]>
+            </title>
+            <link>https://www.worldometers.info/coronavirus/country/kazakhstan/</link>
+            <guid isPermaLink="false">1666530194755</guid>
+            <dc:creator>
+                <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
+            </dc:creator>
+        </item>
+        <item>
+            <title>
+                <![CDATA[ the United States ]]>
+            </title>
+            <link>https://www.worldometers.info/coronavirus/country/us/</link>
+            <guid isPermaLink="false">1666530194756</guid>
+            <dc:creator>
+                <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
+            </dc:creator>
+        </item>
+        <item>
+            <title>
+                <![CDATA[ Venezuela ]]>
+            </title>
+            <link>https://www.worldometers.info/coronavirus/country/venezuela/</link>
+            <guid isPermaLink="false">1666530194757</guid>
+            <dc:creator>
+                <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
+            </dc:creator>
+        </item>
+        <item>
+            <title>
+                <![CDATA[ Timor-Leste ]]>
+            </title>
+            <link>https://www.worldometers.info/coronavirus/country/timor-leste/</link>
+            <guid isPermaLink="false">1666530194758</guid>
+            <dc:creator>
+                <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
+            </dc:creator>
+        </item>
+        <item>
+            <title>
+                <![CDATA[ San Marino ]]>
+            </title>
+            <link>https://www.worldometers.info/coronavirus/country/san-marino/</link>
+            <guid isPermaLink="false">1666530194759</guid>
+            <dc:creator>
+                <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
+            </dc:creator>
+        </item>
+        <item>
+            <title>
+                <![CDATA[ Mexico ]]>
+            </title>
+            <link>https://www.worldometers.info/coronavirus/country/mexico/</link>
+            <guid isPermaLink="false">1666530194760</guid>
+            <dc:creator>
+                <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
+            </dc:creator>
+        </item>
+        <item>
+            <title>
+                <![CDATA[ Germany ]]>
+            </title>
+            <link>https://www.worldometers.info/coronavirus/country/germany/</link>
+            <guid isPermaLink="false">1666530194761</guid>
+            <dc:creator>
+                <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
+            </dc:creator>
+        </item>
+        <item>
+            <title>
+                <![CDATA[ source ]]>
+            </title>
+            <link>https://g1.globo.com/saude/coronavirus/noticia/2022/10/21/brasil-tem-37-novas-mortes-por-covid-media-de-mortes-se-mantem-em-queda.ghtml</link>
+            <guid isPermaLink="false">1666530194762</guid>
+            <dc:creator>
+                <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
+            </dc:creator>
+        </item>
+        <item>
+            <title>
+                <![CDATA[ Mauritius ]]>
+            </title>
+            <link>https://www.worldometers.info/coronavirus/country/mauritius/</link>
+            <guid isPermaLink="false">1666530194763</guid>
+            <dc:creator>
+                <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
+            </dc:creator>
+        </item>
+        <item>
+            <title>
+                <![CDATA[ Mayotte ]]>
+            </title>
+            <link>https://www.worldometers.info/coronavirus/country/mayotte/</link>
+            <guid isPermaLink="false">1666530194764</guid>
+            <dc:creator>
+                <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
+            </dc:creator>
+        </item>
+        <item>
+            <title>
+                <![CDATA[ Papua New Guinea ]]>
+            </title>
+            <link>https://www.worldometers.info/coronavirus/country/papua-new-guinea/</link>
+            <guid isPermaLink="false">1666530194765</guid>
+            <dc:creator>
+                <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
+            </dc:creator>
+        </item>
+        <item>
+            <title>
+                <![CDATA[ Uzbekistan ]]>
+            </title>
+            <link>https://www.worldometers.info/coronavirus/country/uzbekistan/</link>
+            <guid isPermaLink="false">1666530194766</guid>
+            <dc:creator>
+                <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
+            </dc:creator>
+        </item>
+        <item>
+            <title>
+                <![CDATA[ Mongolia ]]>
+            </title>
+            <link>https://www.worldometers.info/coronavirus/country/mongolia/</link>
+            <guid isPermaLink="false">1666530194767</guid>
+            <dc:creator>
+                <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
+            </dc:creator>
+        </item>
+        <item>
+            <title>
+                <![CDATA[ Paraguay ]]>
+            </title>
+            <link>https://www.worldometers.info/coronavirus/country/paraguay/</link>
+            <guid isPermaLink="false">1666530194768</guid>
+            <dc:creator>
+                <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
+            </dc:creator>
+        </item>
+        <item>
+            <title>
+                <![CDATA[ Ecuador ]]>
+            </title>
+            <link>https://www.worldometers.info/coronavirus/country/ecuador/</link>
+            <guid isPermaLink="false">1666530194769</guid>
+            <dc:creator>
+                <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
+            </dc:creator>
+        </item>
+        <item>
+            <title>
+                <![CDATA[ Spain ]]>
+            </title>
+            <link>https://www.worldometers.info/coronavirus/country/spain/</link>
+            <guid isPermaLink="false">1666530194770</guid>
+            <dc:creator>
+                <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
+            </dc:creator>
+        </item>
+        <item>
+            <title>
+                <![CDATA[ Algeria ]]>
+            </title>
+            <link>https://www.worldometers.info/coronavirus/country/algeria/</link>
+            <guid isPermaLink="false">1666530194771</guid>
+            <dc:creator>
+                <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
+            </dc:creator>
+        </item>
+        <item>
+            <title>
+                <![CDATA[ source ]]>
+            </title>
+            <link>https://www.aps.dz/sante-science-technologie/146467-coronavirus-2-nouveaux-cas-et-aucun-deces</link>
+            <guid isPermaLink="false">1666530194772</guid>
+            <dc:creator>
+                <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
+            </dc:creator>
+        </item>
+        <item>
+            <title>
+                <![CDATA[ Mauritania ]]>
+            </title>
+            <link>https://www.worldometers.info/coronavirus/country/mauritania/</link>
+            <guid isPermaLink="false">1666530194773</guid>
+            <dc:creator>
+                <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
+            </dc:creator>
+        </item>
+        <item>
+            <title>
+                <![CDATA[ Monaco ]]>
+            </title>
+            <link>https://www.worldometers.info/coronavirus/country/monaco/</link>
+            <guid isPermaLink="false">1666530194774</guid>
+            <dc:creator>
+                <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
+            </dc:creator>
+        </item>
+        <item>
+            <title>
+                <![CDATA[ Kenya ]]>
+            </title>
+            <link>https://www.worldometers.info/coronavirus/country/kenya/</link>
+            <guid isPermaLink="false">1666530194775</guid>
+            <dc:creator>
+                <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
+            </dc:creator>
+        </item>
+        <item>
+            <title>
+                <![CDATA[ Mali ]]>
+            </title>
+            <link>https://www.worldometers.info/coronavirus/country/mali/</link>
+            <guid isPermaLink="false">1666530194776</guid>
+            <dc:creator>
+                <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
+            </dc:creator>
+        </item>
+        <item>
+            <title>
+                <![CDATA[ South Africa ]]>
+            </title>
+            <link>https://www.worldometers.info/coronavirus/country/south-africa/</link>
+            <guid isPermaLink="false">1666530194777</guid>
+            <dc:creator>
+                <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
+            </dc:creator>
+        </item>
+        <item>
+            <title>
+                <![CDATA[ Myanmar ]]>
+            </title>
+            <link>https://www.worldometers.info/coronavirus/country/myanmar/</link>
+            <guid isPermaLink="false">1666530194778</guid>
+            <dc:creator>
+                <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
+            </dc:creator>
+        </item>
+        <item>
+            <title>
+                <![CDATA[ Burundi ]]>
+            </title>
+            <link>https://www.worldometers.info/coronavirus/country/burundi/</link>
+            <guid isPermaLink="false">1666530194779</guid>
+            <dc:creator>
+                <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
+            </dc:creator>
+        </item>
+        <item>
+            <title>
+                <![CDATA[ the Republic of North Macedonia ]]>
+            </title>
+            <link>https://www.worldometers.info/coronavirus/country/macedonia/</link>
+            <guid isPermaLink="false">1666530194780</guid>
+            <dc:creator>
+                <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
+            </dc:creator>
+        </item>
+        <item>
+            <title>
+                <![CDATA[ the Netherlands ]]>
+            </title>
+            <link>https://www.worldometers.info/coronavirus/country/netherlands/</link>
+            <guid isPermaLink="false">1666530194781</guid>
+            <dc:creator>
+                <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
+            </dc:creator>
+        </item>
+        <item>
+            <title>
+                <![CDATA[ source ]]>
+            </title>
+            <link>https://allecijfers.nl/nieuws/statistieken-over-het-corona-virus-en-covid19/#corona_kerncijfers</link>
+            <guid isPermaLink="false">1666530194782</guid>
+            <dc:creator>
+                <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
+            </dc:creator>
+        </item>
+        <item>
+            <title>
+                <![CDATA[ Bosnia and Herzegovina ]]>
+            </title>
+            <link>https://www.worldometers.info/coronavirus/country/bosnia-and-herzegovina/</link>
+            <guid isPermaLink="false">1666530194783</guid>
+            <dc:creator>
+                <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
+            </dc:creator>
+        </item>
+        <item>
+            <title>
+                <![CDATA[ Denmark ]]>
+            </title>
+            <link>https://www.worldometers.info/coronavirus/country/denmark/</link>
+            <guid isPermaLink="false">1666530194784</guid>
+            <dc:creator>
+                <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
+            </dc:creator>
+        </item>
+        <item>
+            <title>
+                <![CDATA[ Latvia ]]>
+            </title>
+            <link>https://www.worldometers.info/coronavirus/country/latvia/</link>
+            <guid isPermaLink="false">1666530194785</guid>
+            <dc:creator>
+                <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
+            </dc:creator>
+        </item>
+        <item>
+            <title>
+                <![CDATA[ Liechtenstein ]]>
+            </title>
+            <link>https://www.worldometers.info/coronavirus/country/liechtenstein/</link>
+            <guid isPermaLink="false">1666530194786</guid>
+            <dc:creator>
+                <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
+            </dc:creator>
+        </item>
+        <item>
+            <title>
+                <![CDATA[ Bolivia ]]>
+            </title>
+            <link>https://www.worldometers.info/coronavirus/country/bolivia/</link>
+            <guid isPermaLink="false">1666530194787</guid>
+            <dc:creator>
+                <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
+            </dc:creator>
+        </item>
+        <item>
+            <title>
+                <![CDATA[ French Polynesia ]]>
+            </title>
+            <link>https://www.worldometers.info/coronavirus/country/french-polynesia/</link>
+            <guid isPermaLink="false">1666530194788</guid>
+            <dc:creator>
+                <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
+            </dc:creator>
+        </item>
+        <item>
+            <title>
+                <![CDATA[ Channel Islands ]]>
+            </title>
+            <link>https://www.worldometers.info/coronavirus/country/channel-islands/</link>
+            <guid isPermaLink="false">1666530194789</guid>
+            <dc:creator>
+                <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
+            </dc:creator>
+        </item>
+        <item>
+            <title>
+                <![CDATA[ source ]]>
+            </title>
+            <link>https://g1.globo.com/saude/coronavirus/noticia/2022/10/20/brasil-tem-66-novas-mortes-por-covid-media-de-mortes-esta-em-queda-ha-uma-semana.ghtml</link>
+            <guid isPermaLink="false">1666530194790</guid>
+            <dc:creator>
+                <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
+            </dc:creator>
+        </item>
+        <item>
+            <title>
+                <![CDATA[ Syria ]]>
+            </title>
+            <link>https://www.worldometers.info/coronavirus/country/syria/</link>
+            <guid isPermaLink="false">1666530194791</guid>
+            <dc:creator>
+                <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
+            </dc:creator>
+        </item>
+        <item>
+            <title>
+                <![CDATA[ French Guiana ]]>
+            </title>
+            <link>https://www.worldometers.info/coronavirus/country/french-guiana/</link>
+            <guid isPermaLink="false">1666530194792</guid>
+            <dc:creator>
+                <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
+            </dc:creator>
+        </item>
+        <item>
+            <title>
+                <![CDATA[ Vanuatu ]]>
+            </title>
+            <link>https://www.worldometers.info/coronavirus/country/vanuatu/</link>
+            <guid isPermaLink="false">1666530194793</guid>
+            <dc:creator>
+                <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
+            </dc:creator>
+        </item>
+        <item>
+            <title>
+                <![CDATA[ Réunion ]]>
+            </title>
+            <link>https://www.worldometers.info/coronavirus/country/reunion/</link>
+            <guid isPermaLink="false">1666530194794</guid>
+            <dc:creator>
+                <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
+            </dc:creator>
+        </item>
+        <item>
+            <title>
+                <![CDATA[ Equatorial Guinea ]]>
+            </title>
+            <link>https://www.worldometers.info/coronavirus/country/equatorial-guinea/</link>
+            <guid isPermaLink="false">1666530194795</guid>
+            <dc:creator>
+                <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
+            </dc:creator>
+        </item>
+        <item>
+            <title>
+                <![CDATA[ Fiji ]]>
+            </title>
+            <link>https://www.worldometers.info/coronavirus/country/fiji/</link>
+            <guid isPermaLink="false">1666530194796</guid>
+            <dc:creator>
+                <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
+            </dc:creator>
+        </item>
+        <item>
+            <title>
+                <![CDATA[ Colombia ]]>
+            </title>
+            <link>https://www.worldometers.info/coronavirus/country/colombia/</link>
+            <guid isPermaLink="false">1666530194797</guid>
+            <dc:creator>
+                <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
+            </dc:creator>
+        </item>
+        <item>
+            <title>
+                <![CDATA[ the DR Congo ]]>
+            </title>
+            <link>https://www.worldometers.info/coronavirus/country/democratic-republic-of-the-congo/</link>
+            <guid isPermaLink="false">1666530194798</guid>
+            <dc:creator>
+                <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
+            </dc:creator>
+        </item>
+        <item>
+            <title>
+                <![CDATA[ Ghana ]]>
+            </title>
+            <link>https://www.worldometers.info/coronavirus/country/ghana/</link>
+            <guid isPermaLink="false">1666530194799</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -1177,7 +1207,7 @@
                 <![CDATA[ source ]]>
             </title>
             <link>https://www.aps.dz/sante-science-technologie/146432-coronavirus-un-1-nouveau-cas-et-aucun-deces-ces-dernieres-24h-en-algerie</link>
-            <guid isPermaLink="false">1666430208692</guid>
+            <guid isPermaLink="false">1666530194800</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -1187,7 +1217,7 @@
                 <![CDATA[ Finland ]]>
             </title>
             <link>https://www.worldometers.info/coronavirus/country/finland/</link>
-            <guid isPermaLink="false">1666430208693</guid>
+            <guid isPermaLink="false">1666530194801</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -1197,7 +1227,7 @@
                 <![CDATA[ Cambodia ]]>
             </title>
             <link>https://www.worldometers.info/coronavirus/country/cambodia/</link>
-            <guid isPermaLink="false">1666430208694</guid>
+            <guid isPermaLink="false">1666530194802</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -1207,7 +1237,7 @@
                 <![CDATA[ Trinidad and Tobago ]]>
             </title>
             <link>https://www.worldometers.info/coronavirus/country/trinidad-and-tobago/</link>
-            <guid isPermaLink="false">1666430208695</guid>
+            <guid isPermaLink="false">1666530194803</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -1217,7 +1247,7 @@
                 <![CDATA[ Eritrea ]]>
             </title>
             <link>https://www.worldometers.info/coronavirus/country/eritrea/</link>
-            <guid isPermaLink="false">1666430208696</guid>
+            <guid isPermaLink="false">1666530194804</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -1227,7 +1257,7 @@
                 <![CDATA[ the Cayman Islands ]]>
             </title>
             <link>https://www.worldometers.info/coronavirus/country/cayman-islands/</link>
-            <guid isPermaLink="false">1666430208697</guid>
+            <guid isPermaLink="false">1666530194805</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -1237,7 +1267,7 @@
                 <![CDATA[ Bermuda ]]>
             </title>
             <link>https://www.worldometers.info/coronavirus/country/bermuda/</link>
-            <guid isPermaLink="false">1666430208698</guid>
+            <guid isPermaLink="false">1666530194806</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -1247,7 +1277,7 @@
                 <![CDATA[ source ]]>
             </title>
             <link>https://www.gov.bm/coronavirus-covid19-update</link>
-            <guid isPermaLink="false">1666430208699</guid>
+            <guid isPermaLink="false">1666530194807</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -1257,7 +1287,7 @@
                 <![CDATA[ the Caribbean Netherlands ]]>
             </title>
             <link>https://www.worldometers.info/coronavirus/country/caribbean-netherlands/</link>
-            <guid isPermaLink="false">1666430208700</guid>
+            <guid isPermaLink="false">1666530194808</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -1267,7 +1297,7 @@
                 <![CDATA[ Andorra ]]>
             </title>
             <link>https://www.worldometers.info/coronavirus/country/andorra/</link>
-            <guid isPermaLink="false">1666430208701</guid>
+            <guid isPermaLink="false">1666530194809</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -1277,7 +1307,7 @@
                 <![CDATA[ source ]]>
             </title>
             <link>https://www.govern.ad/coronavirus</link>
-            <guid isPermaLink="false">1666430208702</guid>
+            <guid isPermaLink="false">1666530194810</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -1287,7 +1317,7 @@
                 <![CDATA[ Rwanda ]]>
             </title>
             <link>https://www.worldometers.info/coronavirus/country/rwanda/</link>
-            <guid isPermaLink="false">1666430208703</guid>
+            <guid isPermaLink="false">1666530194811</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -1297,7 +1327,7 @@
                 <![CDATA[ source ]]>
             </title>
             <link>https://g1.globo.com/saude/coronavirus/noticia/2022/10/19/brasil-tem-102-novas-mortes-por-covid-media-de-mortes-esta-em-queda.ghtml</link>
-            <guid isPermaLink="false">1666430208704</guid>
+            <guid isPermaLink="false">1666530194812</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -1307,7 +1337,7 @@
                 <![CDATA[ Samoa ]]>
             </title>
             <link>https://www.worldometers.info/coronavirus/country/samoa/</link>
-            <guid isPermaLink="false">1666430208705</guid>
+            <guid isPermaLink="false">1666530194813</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -1317,7 +1347,7 @@
                 <![CDATA[ Hungary ]]>
             </title>
             <link>https://www.worldometers.info/coronavirus/country/hungary/</link>
-            <guid isPermaLink="false">1666430208706</guid>
+            <guid isPermaLink="false">1666530194814</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -1327,7 +1357,7 @@
                 <![CDATA[ Moldova ]]>
             </title>
             <link>https://www.worldometers.info/coronavirus/country/moldova/</link>
-            <guid isPermaLink="false">1666430208707</guid>
+            <guid isPermaLink="false">1666530194815</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -1337,7 +1367,7 @@
                 <![CDATA[ source ]]>
             </title>
             <link>https://www.aps.dz/sante-science-technologie/146375-coronavirus-deux-2-nouveaux-cas-et-aucun-deces</link>
-            <guid isPermaLink="false">1666430208708</guid>
+            <guid isPermaLink="false">1666530194816</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -1347,7 +1377,7 @@
                 <![CDATA[ Sao Tome and Principe ]]>
             </title>
             <link>https://www.worldometers.info/coronavirus/country/sao-tome-and-principe/</link>
-            <guid isPermaLink="false">1666430208709</guid>
+            <guid isPermaLink="false">1666530194817</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -1357,7 +1387,7 @@
                 <![CDATA[ the Marshall Islands ]]>
             </title>
             <link>https://www.worldometers.info/coronavirus/country/marshall-islands/</link>
-            <guid isPermaLink="false">1666430208710</guid>
+            <guid isPermaLink="false">1666530194818</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -1367,7 +1397,7 @@
                 <![CDATA[ Bhutan ]]>
             </title>
             <link>https://www.worldometers.info/coronavirus/country/bhutan/</link>
-            <guid isPermaLink="false">1666430208711</guid>
+            <guid isPermaLink="false">1666530194819</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -1377,7 +1407,7 @@
                 <![CDATA[ source ]]>
             </title>
             <link>https://g1.globo.com/saude/coronavirus/noticia/2022/10/18/brasil-tem-83-novas-mortes-por-covid-media-de-mortes-continua-em-queda.ghtml</link>
-            <guid isPermaLink="false">1666430208712</guid>
+            <guid isPermaLink="false">1666530194820</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -1387,7 +1417,7 @@
                 <![CDATA[ Iceland ]]>
             </title>
             <link>https://www.worldometers.info/coronavirus/country/iceland/</link>
-            <guid isPermaLink="false">1666430208713</guid>
+            <guid isPermaLink="false">1666530194821</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -1397,7 +1427,7 @@
                 <![CDATA[ Panama ]]>
             </title>
             <link>https://www.worldometers.info/coronavirus/country/panama/</link>
-            <guid isPermaLink="false">1666430208714</guid>
+            <guid isPermaLink="false">1666530194822</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -1407,7 +1437,7 @@
                 <![CDATA[ the State of Palestine ]]>
             </title>
             <link>https://www.worldometers.info/coronavirus/country/state-of-palestine/</link>
-            <guid isPermaLink="false">1666430208715</guid>
+            <guid isPermaLink="false">1666530194823</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -1417,7 +1447,7 @@
                 <![CDATA[ source ]]>
             </title>
             <link>https://corona.ps/</link>
-            <guid isPermaLink="false">1666430208716</guid>
+            <guid isPermaLink="false">1666530194824</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -1427,7 +1457,7 @@
                 <![CDATA[ Tunisia ]]>
             </title>
             <link>https://www.worldometers.info/coronavirus/country/tunisia/</link>
-            <guid isPermaLink="false">1666430208717</guid>
+            <guid isPermaLink="false">1666530194825</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -1437,7 +1467,7 @@
                 <![CDATA[ source ]]>
             </title>
             <link>https://www.aps.dz/sante-science-technologie/146326-coronavirus-9-nouveaux-cas-et-aucun-deces-ces-dernieres-24h-en-algerie</link>
-            <guid isPermaLink="false">1666430208718</guid>
+            <guid isPermaLink="false">1666530194826</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -1447,7 +1477,7 @@
                 <![CDATA[ Estonia ]]>
             </title>
             <link>https://www.worldometers.info/coronavirus/country/estonia/</link>
-            <guid isPermaLink="false">1666430208719</guid>
+            <guid isPermaLink="false">1666530194827</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -1457,7 +1487,7 @@
                 <![CDATA[ Switzerland ]]>
             </title>
             <link>https://www.worldometers.info/coronavirus/country/switzerland/</link>
-            <guid isPermaLink="false">1666430208720</guid>
+            <guid isPermaLink="false">1666530194828</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -1467,7 +1497,7 @@
                 <![CDATA[ Belgium ]]>
             </title>
             <link>https://www.worldometers.info/coronavirus/country/belgium/</link>
-            <guid isPermaLink="false">1666430208721</guid>
+            <guid isPermaLink="false">1666530194829</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -1477,7 +1507,7 @@
                 <![CDATA[ Zambia ]]>
             </title>
             <link>https://www.worldometers.info/coronavirus/country/zambia/</link>
-            <guid isPermaLink="false">1666430208722</guid>
+            <guid isPermaLink="false">1666530194830</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -1487,7 +1517,7 @@
                 <![CDATA[ Chad ]]>
             </title>
             <link>https://www.worldometers.info/coronavirus/country/chad/</link>
-            <guid isPermaLink="false">1666430208723</guid>
+            <guid isPermaLink="false">1666530194831</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -1497,7 +1527,7 @@
                 <![CDATA[ Sint Maarten ]]>
             </title>
             <link>https://www.worldometers.info/coronavirus/country/sint-maarten/</link>
-            <guid isPermaLink="false">1666430208724</guid>
+            <guid isPermaLink="false">1666530194832</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -1507,7 +1537,7 @@
                 <![CDATA[ Maldives ]]>
             </title>
             <link>https://www.worldometers.info/coronavirus/country/maldives/</link>
-            <guid isPermaLink="false">1666430208725</guid>
+            <guid isPermaLink="false">1666530194833</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -1517,7 +1547,7 @@
                 <![CDATA[ Libya ]]>
             </title>
             <link>https://www.worldometers.info/coronavirus/country/libya/</link>
-            <guid isPermaLink="false">1666430208726</guid>
+            <guid isPermaLink="false">1666530194834</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -1527,7 +1557,7 @@
                 <![CDATA[ Kuwait ]]>
             </title>
             <link>https://www.worldometers.info/coronavirus/country/kuwait/</link>
-            <guid isPermaLink="false">1666430208727</guid>
+            <guid isPermaLink="false">1666530194835</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -1537,7 +1567,7 @@
                 <![CDATA[ Kyrgyzstan ]]>
             </title>
             <link>https://www.worldometers.info/coronavirus/country/kyrgyzstan/</link>
-            <guid isPermaLink="false">1666430208728</guid>
+            <guid isPermaLink="false">1666530194836</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -1547,7 +1577,7 @@
                 <![CDATA[ Honduras ]]>
             </title>
             <link>https://www.worldometers.info/coronavirus/country/honduras/</link>
-            <guid isPermaLink="false">1666430208729</guid>
+            <guid isPermaLink="false">1666530194837</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -1557,7 +1587,7 @@
                 <![CDATA[ Belize ]]>
             </title>
             <link>https://www.worldometers.info/coronavirus/country/belize/</link>
-            <guid isPermaLink="false">1666430208730</guid>
+            <guid isPermaLink="false">1666530194838</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -1567,7 +1597,7 @@
                 <![CDATA[ Armenia ]]>
             </title>
             <link>https://www.worldometers.info/coronavirus/country/armenia/</link>
-            <guid isPermaLink="false">1666430208731</guid>
+            <guid isPermaLink="false">1666530194839</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -1577,7 +1607,7 @@
                 <![CDATA[ source ]]>
             </title>
             <link>https://g1.globo.com/saude/coronavirus/noticia/2022/10/17/brasil-tem-96-novas-mortes-por-covid-media-de-mortes-se-mantem-em-queda.ghtml</link>
-            <guid isPermaLink="false">1666430208732</guid>
+            <guid isPermaLink="false">1666530194840</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -1587,7 +1617,7 @@
                 <![CDATA[ Sudan ]]>
             </title>
             <link>https://www.worldometers.info/coronavirus/country/sudan/</link>
-            <guid isPermaLink="false">1666430208733</guid>
+            <guid isPermaLink="false">1666530194841</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -1597,7 +1627,7 @@
                 <![CDATA[ Uruguay ]]>
             </title>
             <link>https://www.worldometers.info/coronavirus/country/uruguay/</link>
-            <guid isPermaLink="false">1666430208734</guid>
+            <guid isPermaLink="false">1666530194842</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -1607,7 +1637,7 @@
                 <![CDATA[ source ]]>
             </title>
             <link>https://www.aps.dz/sante-science-technologie/146269-coronavirus-17-nouveaux-cas-et-aucun-deces-ces-dernieres-24h-en-algerie</link>
-            <guid isPermaLink="false">1666430208735</guid>
+            <guid isPermaLink="false">1666530194843</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -1617,7 +1647,7 @@
                 <![CDATA[ New Zealand ]]>
             </title>
             <link>https://www.worldometers.info/coronavirus/country/new-zealand/</link>
-            <guid isPermaLink="false">1666430208736</guid>
+            <guid isPermaLink="false">1666530194844</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -1627,57 +1657,27 @@
                 <![CDATA[ source ]]>
             </title>
             <link>https://www.health.govt.nz/covid-19-novel-coronavirus/covid-19-data-and-statistics/covid-19-current-cases</link>
-            <guid isPermaLink="false">1666430208737</guid>
+            <guid isPermaLink="false">1666530194845</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
         </item>
         <item>
             <title>
-                <![CDATA[ the Dominican Republic ]]>
+                <![CDATA[ 5 COVID symptoms seen in 'vaccinated people' ]]>
             </title>
-            <link>https://www.worldometers.info/coronavirus/country/dominican-republic/</link>
-            <guid isPermaLink="false">1666430208738</guid>
+            <link>https://timesofindia.indiatimes.com/life-style/health-fitness/health-news/coronavirus-study-finds-5-covid-symptoms-most-commonly-seen-in-vaccinated-people/photostory/95012810.cms</link>
+            <guid isPermaLink="false">1666530194846</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
         </item>
         <item>
             <title>
-                <![CDATA[ source ]]>
+                <![CDATA[ Coronavirus: Boston University lab did not create deadly new... ]]>
             </title>
-            <link>https://www.aps.dz/sante-science-technologie/146195-coronavirus-10-nouveaux-cas-et-aucun-deces-ces-dernieres-24h-en-algerie</link>
-            <guid isPermaLink="false">1666430208739</guid>
-            <dc:creator>
-                <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
-            </dc:creator>
-        </item>
-        <item>
-            <title>
-                <![CDATA[ source ]]>
-            </title>
-            <link>https://g1.globo.com/saude/coronavirus/noticia/2022/10/16/media-de-obitos-por-covid-segue-em-queda-no-brasil-sao-687-mil-mortes-desde-o-inicio-da-pandemia.ghtml</link>
-            <guid isPermaLink="false">1666430208740</guid>
-            <dc:creator>
-                <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
-            </dc:creator>
-        </item>
-        <item>
-            <title>
-                <![CDATA[ Zimbabwe ]]>
-            </title>
-            <link>https://www.worldometers.info/coronavirus/country/zimbabwe/</link>
-            <guid isPermaLink="false">1666430208741</guid>
-            <dc:creator>
-                <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
-            </dc:creator>
-        </item>
-        <item>
-            <title>
-                <![CDATA[ Barbados ]]>
-            </title>
-            <link>https://www.worldometers.info/coronavirus/country/barbados/</link>
-            <guid isPermaLink="false">1666430208742</guid>
+            <link>https://timesofindia.indiatimes.com/life-style/health-fitness/health-news/coronavirus-boston-university-lab-did-not-create-deadly-new-covid-strain-experts-slam-misinformation/photostory/95030885.cms</link>
+            <guid isPermaLink="false">1666530194847</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -1687,17 +1687,7 @@
                 <![CDATA[ Coronavirus prevention: COVID-19 measures to take if you're ... ]]>
             </title>
             <link>https://timesofindia.indiatimes.com/life-style/health-fitness/health-news/coronavirus-prevention-covid-19-measures-to-take-if-youre-planning-a-party-this-diwali/photostory/95009190.cms</link>
-            <guid isPermaLink="false">1666430208743</guid>
-            <dc:creator>
-                <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
-            </dc:creator>
-        </item>
-        <item>
-            <title>
-                <![CDATA[ Cause Of New Omicron Variant ]]>
-            </title>
-            <link>https://timesofindia.indiatimes.com/life-style/health-fitness/health-news/coronavirus-former-aiims-director-cautions-against-new-omicron-variants-in-india-says-situation-is-different-now/photostory/95007260.cms</link>
-            <guid isPermaLink="false">1666430208744</guid>
+            <guid isPermaLink="false">1666530194848</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -1707,7 +1697,7 @@
                 <![CDATA[ See All ]]>
             </title>
             <link>https://timesofindia.indiatimes.com/life-style/health-fitness/coronavirus</link>
-            <guid isPermaLink="false">1666430208745</guid>
+            <guid isPermaLink="false">1666530194849</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -1717,7 +1707,7 @@
                 <![CDATA[ Coronavirus Prevention ]]>
             </title>
             <link>https://timesofindia.indiatimes.com/life-style/health-fitness/coronavirus-prevention</link>
-            <guid isPermaLink="false">1666430208746</guid>
+            <guid isPermaLink="false">1666530194850</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -1727,7 +1717,7 @@
                 <![CDATA[ Coronavirus Treatment ]]>
             </title>
             <link>https://timesofindia.indiatimes.com/life-style/health-fitness/coronavirus-treatment</link>
-            <guid isPermaLink="false">1666430208747</guid>
+            <guid isPermaLink="false">1666530194851</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -1737,17 +1727,27 @@
                 <![CDATA[ Coronavirus Symptoms ]]>
             </title>
             <link>https://timesofindia.indiatimes.com/life-style/health-fitness/coronavirus-symptoms</link>
-            <guid isPermaLink="false">1666430208748</guid>
+            <guid isPermaLink="false">1666530194852</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
         </item>
         <item>
             <title>
-                <![CDATA[ Coronavirus: If you had COVID, several of your organs could ... ]]>
+                <![CDATA[ Cause Of New Omicron Variant ]]>
+            </title>
+            <link>https://timesofindia.indiatimes.com/life-style/health-fitness/health-news/coronavirus-former-aiims-director-cautions-against-new-omicron-variants-in-india-says-situation-is-different-now/photostory/95007260.cms</link>
+            <guid isPermaLink="false">1666530194853</guid>
+            <dc:creator>
+                <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
+            </dc:creator>
+        </item>
+        <item>
+            <title>
+                <![CDATA[ Coronavirus: If you had COVID, several of your organs could be aging 3-4 years faster, study finds ]]>
             </title>
             <link>https://timesofindia.indiatimes.com/life-style/health-fitness/health-news/coronavirus-if-you-had-covid-several-of-your-organs-could-be-aging-3-4-years-faster-study-finds/photostory/94987906.cms</link>
-            <guid isPermaLink="false">1666430208749</guid>
+            <guid isPermaLink="false">1666530194854</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -1757,7 +1757,7 @@
                 <![CDATA[ Coronavirus: Do's and Don'ts to protect yourself against top 5 COVID symptoms this Diwali ]]>
             </title>
             <link>https://timesofindia.indiatimes.com/life-style/health-fitness/health-news/coronavirus-dos-and-donts-to-protect-yourself-against-top-5-covid-symptoms-this-diwali/photostory/94959921.cms</link>
-            <guid isPermaLink="false">1666430208750</guid>
+            <guid isPermaLink="false">1666530194855</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -1767,7 +1767,7 @@
                 <![CDATA[ Coronavirus: Highly infectious Omicron BQ.1 sub-variant now found in India, experts warn it ‘should not be ignored’ ]]>
             </title>
             <link>https://timesofindia.indiatimes.com/life-style/health-fitness/health-news/coronavirus-highly-infectious-omicron-bq-1-sub-variant-now-found-in-india-experts-warn-it-should-not-be-ignored/photostory/94938287.cms</link>
-            <guid isPermaLink="false">1666430208751</guid>
+            <guid isPermaLink="false">1666530194856</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -1777,7 +1777,7 @@
                 <![CDATA[ Coronavirus: Loss of sense of taste or smell could be a symptom of flu as well as COVID, research says ]]>
             </title>
             <link>https://timesofindia.indiatimes.com/life-style/health-fitness/health-news/coronavirus-loss-of-sense-of-taste-or-smell-could-be-a-symptom-of-flu-as-well-as-covid-research-says/photostory/94913512.cms</link>
-            <guid isPermaLink="false">1666430208752</guid>
+            <guid isPermaLink="false">1666530194857</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -1787,7 +1787,7 @@
                 <![CDATA[ Coronavirus: Has your exercise capacity reduced after COVID? Here's what new study says ]]>
             </title>
             <link>https://timesofindia.indiatimes.com/life-style/health-fitness/health-news/coronavirus-has-your-exercise-capacity-reduced-after-covid-heres-what-new-study-says/photostory/94877006.cms</link>
-            <guid isPermaLink="false">1666430208753</guid>
+            <guid isPermaLink="false">1666530194858</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -1797,7 +1797,7 @@
                 <![CDATA[ Coronavirus: People with COVID are more likely to experience scratchiness than those with a cold ]]>
             </title>
             <link>https://timesofindia.indiatimes.com/life-style/health-fitness/health-news/coronavirus-people-with-covid-are-more-likely-to-experience-scratchiness-than-those-with-a-cold/photostory/94859179.cms</link>
-            <guid isPermaLink="false">1666430208754</guid>
+            <guid isPermaLink="false">1666530194859</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -1807,7 +1807,7 @@
                 <![CDATA[ Coronavirus: Possible symptoms that can tell if you have COVID-19, cold or the flu ]]>
             </title>
             <link>https://timesofindia.indiatimes.com/life-style/health-fitness/health-news/coronavirus-possible-symptoms-that-can-tell-if-you-have-covid-19-cold-or-the-flu/photostory/94856034.cms</link>
-            <guid isPermaLink="false">1666430208755</guid>
+            <guid isPermaLink="false">1666530194860</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -1817,7 +1817,7 @@
                 <![CDATA[ Coronavirus: THIS is how COVID cough looks like ]]>
             </title>
             <link>https://timesofindia.indiatimes.com/life-style/health-fitness/health-news/coronavirus-this-is-how-covid-cough-looks-like/photostory/94807688.cms</link>
-            <guid isPermaLink="false">1666430208756</guid>
+            <guid isPermaLink="false">1666530194861</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -1827,7 +1827,7 @@
                 <![CDATA[ Coronavirus: India's first antidote against COVID 'VINCOV-19' ready for phase 3 clinical trial ]]>
             </title>
             <link>https://timesofindia.indiatimes.com/life-style/health-fitness/health-news/coronavirus-indias-first-antidote-against-covid-vincov-19-ready-for-phase-3-clinical-trial/articleshow/94802442.cms</link>
-            <guid isPermaLink="false">1666430208757</guid>
+            <guid isPermaLink="false">1666530194862</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -1837,7 +1837,7 @@
                 <![CDATA[ Coronavirus: New COVID variants, BF.7 and BA.5.1.7 found in China; may pose a greater risk, say experts ]]>
             </title>
             <link>https://timesofindia.indiatimes.com/life-style/health-fitness/health-news/coronavirus-new-covid-variants-bf-7-and-ba-5-1-7-found-in-china-may-pose-a-greater-risk-say-experts/photostory/94777334.cms</link>
-            <guid isPermaLink="false">1666430208758</guid>
+            <guid isPermaLink="false">1666530194863</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -1847,7 +1847,7 @@
                 <![CDATA[ Coronavirus: THIS change in skin colour can indicate severe COVID-19 infection ]]>
             </title>
             <link>https://timesofindia.indiatimes.com/life-style/health-fitness/health-news/coronavirus-this-change-in-skin-colour-can-indicate-severe-covid-19-infection/photostory/94763610.cms</link>
-            <guid isPermaLink="false">1666430208759</guid>
+            <guid isPermaLink="false">1666530194864</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -1857,7 +1857,7 @@
                 <![CDATA[ Coronavirus: Key characteristics of a COVID sore throat; and other top symptoms to note ]]>
             </title>
             <link>https://timesofindia.indiatimes.com/life-style/health-fitness/health-news/coronavirus-key-characteristics-of-a-covid-sore-throat-and-other-top-symptoms-to-note/photostory/94704956.cms</link>
-            <guid isPermaLink="false">1666430208760</guid>
+            <guid isPermaLink="false">1666530194865</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -1867,7 +1867,7 @@
                 <![CDATA[ Coronavirus: THIS COVID symptom is now more 'dominant' than fever or loss of smell and taste ]]>
             </title>
             <link>https://timesofindia.indiatimes.com/life-style/health-fitness/health-news/coronavirus-this-covid-symptom-is-now-more-dominant-than-fever-or-loss-of-smell-and-taste/photostory/94635850.cms</link>
-            <guid isPermaLink="false">1666430208761</guid>
+            <guid isPermaLink="false">1666530194866</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -1877,17 +1877,7 @@
                 <![CDATA[ Coronavirus: Study links personality changes in young adults to COVID-19 ]]>
             </title>
             <link>https://timesofindia.indiatimes.com/life-style/health-fitness/health-news/coronavirus-study-links-personality-changes-in-young-adults-to-covid-19/photostory/94615467.cms</link>
-            <guid isPermaLink="false">1666430208762</guid>
-            <dc:creator>
-                <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
-            </dc:creator>
-        </item>
-        <item>
-            <title>
-                <![CDATA[ Coronavirus: Why you still need to tell people if you get COVID ]]>
-            </title>
-            <link>https://timesofindia.indiatimes.com/life-style/health-fitness/health-news/coronavirus-why-you-still-need-to-tell-people-if-you-get-covid/photostory/94458936.cms</link>
-            <guid isPermaLink="false">1666430208763</guid>
+            <guid isPermaLink="false">1666530194867</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -1897,27 +1887,17 @@
                 <![CDATA[ To stay safe in the fight against COVID-19, wear a mask, Ind... ]]>
             </title>
             <link>https://timesofindia.indiatimes.com/life-style/coronavirus/to-stay-safe-in-the-fight-against-covid-19-wear-a-mask-india/articleshow/74999093.cms</link>
-            <guid isPermaLink="false">1666430208764</guid>
+            <guid isPermaLink="false">1666530194868</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
         </item>
         <item>
             <title>
-                <![CDATA[ Coronavirus vaccine: Who needs, and who may not require a COVID booster shot right now ]]>
+                <![CDATA[ Don’t be an annoying neighbour in lockdown! ]]>
             </title>
-            <link>https://timesofindia.indiatimes.com/life-style/coronavirus/coronavirus-vaccine-who-needs-and-who-may-not-require-a-covid-booster-shot-right-now/photostory/86530278.cms</link>
-            <guid isPermaLink="false">1666430208765</guid>
-            <dc:creator>
-                <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
-            </dc:creator>
-        </item>
-        <item>
-            <title>
-                <![CDATA[ Coronavirus pandemic inspires artwork ]]>
-            </title>
-            <link>https://timesofindia.indiatimes.com/life-style/coronavirus/coronavirus-pandemic-inspires-artwork/articleshow/75381429.cms</link>
-            <guid isPermaLink="false">1666430208766</guid>
+            <link>https://timesofindia.indiatimes.com/life-style/coronavirus/dont-be-an-annoying-neighbour-in-lockdown/articleshow/76121273.cms</link>
+            <guid isPermaLink="false">1666530194869</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -1927,7 +1907,17 @@
                 <![CDATA[ Job portals see an increase in female applicants for WFH job... ]]>
             </title>
             <link>https://timesofindia.indiatimes.com/life-style/coronavirus/job-portals-see-an-increase-in-female-applicants-for-wfh-job-vacancies/articleshow/76262365.cms</link>
-            <guid isPermaLink="false">1666430208767</guid>
+            <guid isPermaLink="false">1666530194870</guid>
+            <dc:creator>
+                <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
+            </dc:creator>
+        </item>
+        <item>
+            <title>
+                <![CDATA[ Coronavirus vaccine: Who needs, and who may not require a COVID booster shot right now ]]>
+            </title>
+            <link>https://timesofindia.indiatimes.com/life-style/coronavirus/coronavirus-vaccine-who-needs-and-who-may-not-require-a-covid-booster-shot-right-now/photostory/86530278.cms</link>
+            <guid isPermaLink="false">1666530194871</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -1937,7 +1927,17 @@
                 <![CDATA[ Soundarya Sharma stuck in LA amid the coronavirus outbreak ]]>
             </title>
             <link>https://timesofindia.indiatimes.com/life-style/coronavirus/soundarya-sharma-stuck-in-la-amid-the-coronavirus-outbreak/articleshow/74759145.cms</link>
-            <guid isPermaLink="false">1666430208768</guid>
+            <guid isPermaLink="false">1666530194872</guid>
+            <dc:creator>
+                <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
+            </dc:creator>
+        </item>
+        <item>
+            <title>
+                <![CDATA[ Coronavirus pandemic inspires artwork ]]>
+            </title>
+            <link>https://timesofindia.indiatimes.com/life-style/coronavirus/coronavirus-pandemic-inspires-artwork/articleshow/75381429.cms</link>
+            <guid isPermaLink="false">1666530194873</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -1947,7 +1947,27 @@
                 <![CDATA[ Saluting mothers who are leading the fight against COVID-19 ]]>
             </title>
             <link>https://timesofindia.indiatimes.com/life-style/coronavirus/saluting-mothers-who-are-leading-the-fight-against-covid-19/articleshow/75652647.cms</link>
-            <guid isPermaLink="false">1666430208769</guid>
+            <guid isPermaLink="false">1666530194874</guid>
+            <dc:creator>
+                <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
+            </dc:creator>
+        </item>
+        <item>
+            <title>
+                <![CDATA[ What is lockdown fatigue and how to deal with it? ]]>
+            </title>
+            <link>https://timesofindia.indiatimes.com/life-style/coronavirus/what-is-lockdown-fatigue-and-how-to-deal-with-it/articleshow/75789494.cms</link>
+            <guid isPermaLink="false">1666530194875</guid>
+            <dc:creator>
+                <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
+            </dc:creator>
+        </item>
+        <item>
+            <title>
+                <![CDATA[ Coronavirus: Why you still need to tell people if you get COVID ]]>
+            </title>
+            <link>https://timesofindia.indiatimes.com/life-style/health-fitness/health-news/coronavirus-why-you-still-need-to-tell-people-if-you-get-covid/photostory/94458936.cms</link>
+            <guid isPermaLink="false">1666530194876</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -1957,7 +1977,7 @@
                 <![CDATA[ Coronavirus: How to protect yourself from COVID-19 and Flu coinfection this winter? ]]>
             </title>
             <link>https://timesofindia.indiatimes.com/life-style/health-fitness/health-news/coronavirus-how-to-protect-yourself-from-covid-19-and-flu-coinfection-this-winter/photostory/94556038.cms</link>
-            <guid isPermaLink="false">1666430208770</guid>
+            <guid isPermaLink="false">1666530194877</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -1967,7 +1987,7 @@
                 <![CDATA[ Coronavirus: Study reveals three types of conditions that may increase the risk of COVID-19 death ]]>
             </title>
             <link>https://timesofindia.indiatimes.com/life-style/health-fitness/health-news/coronavirus-study-reveals-three-types-of-conditions-that-may-increase-the-risk-of-covid-19-death/photostory/94507083.cms</link>
-            <guid isPermaLink="false">1666430208771</guid>
+            <guid isPermaLink="false">1666530194878</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -1977,7 +1997,7 @@
                 <![CDATA[ ​Coronavirus: 75% of people with long COVID take a year to recover, finds study​ ]]>
             </title>
             <link>https://timesofindia.indiatimes.com/life-style/health-fitness/health-news/coronavirus-75-of-people-with-long-covid-take-a-year-to-recover-finds-study/photostory/94507720.cms</link>
-            <guid isPermaLink="false">1666430208772</guid>
+            <guid isPermaLink="false">1666530194879</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -1987,7 +2007,7 @@
                 <![CDATA[ Coronavirus: Noticing more grey hairs? Could be due to COVID infection ]]>
             </title>
             <link>https://timesofindia.indiatimes.com/life-style/health-fitness/health-news/coronavirus-noticing-more-grey-hairs-could-be-due-to-covid-infection/photostory/94479841.cms</link>
-            <guid isPermaLink="false">1666430208773</guid>
+            <guid isPermaLink="false">1666530194880</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -1997,7 +2017,7 @@
                 <![CDATA[ Coronavirus: Study finds THIS gut problem is common among those infected after COVID vaccination ]]>
             </title>
             <link>https://timesofindia.indiatimes.com/life-style/health-fitness/health-news/coronavirus-study-finds-this-gut-problem-is-common-among-those-infected-after-covid-vaccination/photostory/94475425.cms</link>
-            <guid isPermaLink="false">1666430208774</guid>
+            <guid isPermaLink="false">1666530194881</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -2007,7 +2027,7 @@
                 <![CDATA[ Coronavirus vs. flu: Which is riskier and more dangerous now? ]]>
             </title>
             <link>https://timesofindia.indiatimes.com/life-style/health-fitness/health-news/coronavirus-vs-flu-which-is-riskier-and-more-dangerous-now/photostory/94431749.cms</link>
-            <guid isPermaLink="false">1666430208775</guid>
+            <guid isPermaLink="false">1666530194882</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -2017,27 +2037,17 @@
                 <![CDATA[ Coronavirus: Chickenpox-like rash and other less talked about troubling symptoms ]]>
             </title>
             <link>https://timesofindia.indiatimes.com/life-style/health-fitness/health-news/coronavirus-chickenpox-like-rash-and-other-less-talked-about-troubling-symptoms/photostory/94417116.cms</link>
-            <guid isPermaLink="false">1666430208776</guid>
+            <guid isPermaLink="false">1666530194883</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
         </item>
         <item>
             <title>
-                <![CDATA[ Yoga teacher Prarthana Makhija lists out breathing techniques beneficial for COVID-19 patients ]]>
+                <![CDATA[ BU lab did not create deadly new COVID strain ]]>
             </title>
-            <link>https://timesofindia.indiatimes.com/life-style/coronavirus/yoga-teacher-prarthana-makhija-lists-out-breathing-techniques-beneficial-for-covid-19-patients/articleshow/79207696.cms</link>
-            <guid isPermaLink="false">1666430208777</guid>
-            <dc:creator>
-                <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
-            </dc:creator>
-        </item>
-        <item>
-            <title>
-                <![CDATA[ COVID measures if you're planning Diwali party ]]>
-            </title>
-            <link>https://timesofindia.indiatimes.com/life-style/health-fitness/health-news/coronavirus-prevention-covid-19-measures-to-take-if-youre-planning-a-party-this-diwali/photostory/95009213.cms</link>
-            <guid isPermaLink="false">1666430208778</guid>
+            <link>https://timesofindia.indiatimes.com/life-style/health-fitness/health-news/coronavirus-boston-university-lab-did-not-create-deadly-new-covid-strain-experts-slam-misinformation/photostory/95030909.cms</link>
+            <guid isPermaLink="false">1666530194884</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -2047,7 +2057,7 @@
                 <![CDATA[ Coronavirus disease (COVID-19) ]]>
             </title>
             <link>https://www.who.int/redirect-pages/mega-menu/health-topics/popular/coronavirus-disease-(covid-19)</link>
-            <guid isPermaLink="false">1666430208779</guid>
+            <guid isPermaLink="false">1666530194885</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -2057,7 +2067,7 @@
                 <![CDATA[ COVID-19 pandemic ]]>
             </title>
             <link>https://www.who.int/redirect-pages/mega-menu/emergencies/emergencies/novel-coronavirus-(2019-ncov)</link>
-            <guid isPermaLink="false">1666430208780</guid>
+            <guid isPermaLink="false">1666530194886</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -2067,7 +2077,7 @@
                 <![CDATA[ Advice for policy-makers ]]>
             </title>
             <link>https://www.who.int/emergencies/diseases/novel-coronavirus-2019/covid-19-policy-briefs</link>
-            <guid isPermaLink="false">1666430208781</guid>
+            <guid isPermaLink="false">1666530194887</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -2077,7 +2087,7 @@
                 <![CDATA[ Advice for the public ]]>
             </title>
             <link>https://www.who.int/emergencies/diseases/novel-coronavirus-2019/advice-for-public</link>
-            <guid isPermaLink="false">1666430208782</guid>
+            <guid isPermaLink="false">1666530194888</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -2087,7 +2097,7 @@
                 <![CDATA[ Mythbusters ]]>
             </title>
             <link>https://www.who.int/emergencies/diseases/novel-coronavirus-2019/advice-for-public/myth-busters</link>
-            <guid isPermaLink="false">1666430208783</guid>
+            <guid isPermaLink="false">1666530194889</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -2097,7 +2107,7 @@
                 <![CDATA[ Question and Answers ]]>
             </title>
             <link>https://www.who.int/emergencies/diseases/novel-coronavirus-2019/question-and-answers-hub</link>
-            <guid isPermaLink="false">1666430208784</guid>
+            <guid isPermaLink="false">1666530194890</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -2107,7 +2117,7 @@
                 <![CDATA[ Travel Advice ]]>
             </title>
             <link>https://www.who.int/emergencies/diseases/novel-coronavirus-2019/travel-advice</link>
-            <guid isPermaLink="false">1666430208785</guid>
+            <guid isPermaLink="false">1666530194891</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -2118,7 +2128,7 @@
 WHO's conversation in science. ]]>
             </title>
             <link>https://www.who.int/emergencies/diseases/novel-coronavirus-2019/media-resources/science-in-5</link>
-            <guid isPermaLink="false">1666430208786</guid>
+            <guid isPermaLink="false">1666530194892</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -2128,7 +2138,7 @@ WHO's conversation in science. ]]>
                 <![CDATA[ All technical guidance on COVID-19 ]]>
             </title>
             <link>https://www.who.int/emergencies/diseases/novel-coronavirus-2019/technical-guidance</link>
-            <guid isPermaLink="false">1666430208787</guid>
+            <guid isPermaLink="false">1666530194893</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -2138,7 +2148,7 @@ WHO's conversation in science. ]]>
                 <![CDATA[ COVID-19 Vaccines ]]>
             </title>
             <link>https://www.who.int/emergencies/diseases/novel-coronavirus-2019/covid-19-vaccines</link>
-            <guid isPermaLink="false">1666430208788</guid>
+            <guid isPermaLink="false">1666530194894</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -2148,7 +2158,7 @@ WHO's conversation in science. ]]>
                 <![CDATA[ COVID-19 vaccine delivery partnership ]]>
             </title>
             <link>https://www.who.int/emergencies/diseases/novel-coronavirus-2019/covid-19-vaccines/covid-19-vaccine-delivery-partnership</link>
-            <guid isPermaLink="false">1666430208789</guid>
+            <guid isPermaLink="false">1666530194895</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -2158,7 +2168,7 @@ WHO's conversation in science. ]]>
                 <![CDATA[ COVID-19 Vaccines Advice ]]>
             </title>
             <link>https://www.who.int/emergencies/diseases/novel-coronavirus-2019/covid-19-vaccines/advice</link>
-            <guid isPermaLink="false">1666430208790</guid>
+            <guid isPermaLink="false">1666530194896</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -2168,7 +2178,7 @@ WHO's conversation in science. ]]>
                 <![CDATA[ Diagnostics ]]>
             </title>
             <link>https://extranet.who.int/pqweb/vitro-diagnostics/coronavirus-disease-covid-19-pandemic-%e2%80%94-emergency-use-listing-procedure-eul-open</link>
-            <guid isPermaLink="false">1666430208791</guid>
+            <guid isPermaLink="false">1666530194897</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -2178,7 +2188,7 @@ WHO's conversation in science. ]]>
                 <![CDATA[ Latest updates and data ]]>
             </title>
             <link>https://www.who.int/emergencies/diseases/novel-coronavirus-2019/situation-reports</link>
-            <guid isPermaLink="false">1666430208792</guid>
+            <guid isPermaLink="false">1666530194898</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -2188,7 +2198,7 @@ WHO's conversation in science. ]]>
                 <![CDATA[ Timeline of WHO's Response to COVID-19 ]]>
             </title>
             <link>https://www.who.int/emergencies/diseases/novel-coronavirus-2019/interactive-timeline</link>
-            <guid isPermaLink="false">1666430208793</guid>
+            <guid isPermaLink="false">1666530194899</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -2198,7 +2208,7 @@ WHO's conversation in science. ]]>
                 <![CDATA[ Weekly COVID-19 Operations Updates → ]]>
             </title>
             <link>https://www.who.int/emergencies/diseases/novel-coronavirus-2019/strategies-and-plans</link>
-            <guid isPermaLink="false">1666430208794</guid>
+            <guid isPermaLink="false">1666530194900</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -2208,7 +2218,7 @@ WHO's conversation in science. ]]>
                 <![CDATA[ COVID-19 Supply Chain System ]]>
             </title>
             <link>https://www.who.int/emergencies/diseases/novel-coronavirus-2019/covid-19-operations</link>
-            <guid isPermaLink="false">1666430208795</guid>
+            <guid isPermaLink="false">1666530194901</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -2218,7 +2228,7 @@ WHO's conversation in science. ]]>
                 <![CDATA[ Funding ]]>
             </title>
             <link>https://www.who.int/emergencies/diseases/novel-coronavirus-2019/donors-and-partners/funding</link>
-            <guid isPermaLink="false">1666430208796</guid>
+            <guid isPermaLink="false">1666530194902</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -2228,7 +2238,7 @@ WHO's conversation in science. ]]>
                 <![CDATA[ Global research on coronavirus disease (COVID-19) ]]>
             </title>
             <link>https://www.who.int/emergencies/diseases/novel-coronavirus-2019/global-research-on-novel-coronavirus-2019-ncov</link>
-            <guid isPermaLink="false">1666430208797</guid>
+            <guid isPermaLink="false">1666530194903</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -2238,7 +2248,7 @@ WHO's conversation in science. ]]>
                 <![CDATA[ The Unity Studies: WHO Sero-epidemiological Investigations Protocols ]]>
             </title>
             <link>https://www.who.int/emergencies/diseases/novel-coronavirus-2019/technical-guidance/early-investigations</link>
-            <guid isPermaLink="false">1666430208798</guid>
+            <guid isPermaLink="false">1666530194904</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -2248,7 +2258,7 @@ WHO's conversation in science. ]]>
                 <![CDATA[ About Coronavirus disease (COVID-19 ]]>
             </title>
             <link>https://www.who.int/health-topics/coronavirus</link>
-            <guid isPermaLink="false">1666430208799</guid>
+            <guid isPermaLink="false">1666530194905</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -2258,7 +2268,7 @@ WHO's conversation in science. ]]>
                 <![CDATA[ Origins of the SARS-CoV-2 virus → ]]>
             </title>
             <link>https://www.who.int/emergencies/diseases/novel-coronavirus-2019/origins-of-the-virus</link>
-            <guid isPermaLink="false">1666430208800</guid>
+            <guid isPermaLink="false">1666530194906</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -2268,7 +2278,7 @@ WHO's conversation in science. ]]>
                 <![CDATA[ All media resources → ]]>
             </title>
             <link>https://www.who.int/emergencies/diseases/novel-coronavirus-2019/media-resources/news</link>
-            <guid isPermaLink="false">1666430208801</guid>
+            <guid isPermaLink="false">1666530194907</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -2278,7 +2288,7 @@ WHO's conversation in science. ]]>
                 <![CDATA[  ]]>
             </title>
             <link>https://www.who.int/redirect-pages/page/novel-coronavirus-(covid-19)-situation-dashboard</link>
-            <guid isPermaLink="false">1666430208802</guid>
+            <guid isPermaLink="false">1666530194908</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -2288,7 +2298,7 @@ WHO's conversation in science. ]]>
                 <![CDATA[ WHO’s response in countries ]]>
             </title>
             <link>https://www.who.int/emergencies/diseases/novel-coronavirus-2019/who-response-in-countries</link>
-            <guid isPermaLink="false">1666430208803</guid>
+            <guid isPermaLink="false">1666530194909</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -2298,7 +2308,7 @@ WHO's conversation in science. ]]>
                 <![CDATA[ Videos ]]>
             </title>
             <link>https://www.who.int/emergencies/diseases/novel-coronavirus-2019/advice-for-public/videos</link>
-            <guid isPermaLink="false">1666430208804</guid>
+            <guid isPermaLink="false">1666530194910</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -2308,7 +2318,7 @@ WHO's conversation in science. ]]>
                 <![CDATA[ Training ]]>
             </title>
             <link>https://www.who.int/emergencies/diseases/novel-coronavirus-2019/training/online-training</link>
-            <guid isPermaLink="false">1666430208805</guid>
+            <guid isPermaLink="false">1666530194911</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -2319,7 +2329,7 @@ WHO's conversation in science. ]]>
 Take part in WHO's campaigns → ]]>
             </title>
             <link>https://www.who.int/campaigns/connecting-the-world-to-combat-coronavirus</link>
-            <guid isPermaLink="false">1666430208806</guid>
+            <guid isPermaLink="false">1666530194912</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -2329,7 +2339,7 @@ Take part in WHO's campaigns → ]]>
                 <![CDATA[ United Nations website on coronavirus → ]]>
             </title>
             <link>http://www.un.org/coronavirus</link>
-            <guid isPermaLink="false">1666430208807</guid>
+            <guid isPermaLink="false">1666530194913</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -2339,7 +2349,7 @@ Take part in WHO's campaigns → ]]>
                 <![CDATA[ WHO Director General's Special Envoys on COVID-19 → ]]>
             </title>
             <link>https://www.who.int/emergencies/diseases/novel-coronavirus-2019/who-director-general-s-special-envoys-on-covid-19-preparedness-and-response</link>
-            <guid isPermaLink="false">1666430208808</guid>
+            <guid isPermaLink="false">1666530194914</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>

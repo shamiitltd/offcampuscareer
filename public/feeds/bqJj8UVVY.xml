@@ -4,19 +4,19 @@
     xmlns:media="http://search.yahoo.com/mrss/" version="2.0">
     <channel>
         <title>
-            <![CDATA[ offcamuscareer.com ]]>
+            <![CDATA[ offcampuscareer.com ]]>
         </title>
         <description>
-            <![CDATA[ offcamuscareer.com ]]>
+            <![CDATA[ offcampuscareer.com ]]>
         </description>
         <link>https://www.offcampuscareer.com/sitemapscanner/new</link>
         <image>
             <url>https://www.offcampuscareer.com/favicon.ico</url>
-            <title>offcamuscareer.com</title>
+            <title>offcampuscareer.com</title>
             <link>https://www.offcampuscareer.com/sitemapscanner/new</link>
         </image>
         <generator>https://www.offcampuscareer.com</generator>
-        <lastBuildDate>Sat Oct 22 2022 10:45:28 GMT+0000 (Coordinated Universal Time)</lastBuildDate>
+        <lastBuildDate>Sun Oct 23 2022 12:46:39 GMT+0000 (Coordinated Universal Time)</lastBuildDate>
         <atom:link href="https://www.offcampuscareer.com/feeds/bqJj8UVVY.xml" rel="self" type="application/rss+xml"/>
         <language>
             <![CDATA[ en ]]>
@@ -27,7 +27,7 @@
                 <![CDATA[  ]]>
             </title>
             <link>https://www.usatoday.com/sports/</link>
-            <guid isPermaLink="false">1666435528151</guid>
+            <guid isPermaLink="false">1666529199406</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -37,7 +37,7 @@
                 <![CDATA[ Football ]]>
             </title>
             <link>https://usatodayhss.com/category/sports/football</link>
-            <guid isPermaLink="false">1666435528152</guid>
+            <guid isPermaLink="false">1666529199407</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -47,7 +47,7 @@
                 <![CDATA[ USA TODAY Sports/American Volleyball Coaches Association girls volleyball Super 25 ]]>
             </title>
             <link>https://usatodayhss.com/2022/usa-today-sports-american-volleyball-coaches-association-girls-volleyball-super-25-week-8</link>
-            <guid isPermaLink="false">1666435528153</guid>
+            <guid isPermaLink="false">1666529199408</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -57,7 +57,7 @@
                 <![CDATA[ Social Buzz of the Week: Week 6 highlights ]]>
             </title>
             <link>https://usatodayhss.com/2022/high-school-sports-top-plays-week-6-highlights-from-social-media-twitter-instagram</link>
-            <guid isPermaLink="false">1666435528154</guid>
+            <guid isPermaLink="false">1666529199409</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -67,7 +67,7 @@
                 <![CDATA[ USA TODAY Sports/American Volleyball Coaches Association girls volleyball regional rankings ]]>
             </title>
             <link>https://usatodayhss.com/2022/usa-today-sports-american-volleyball-coaches-association-girls-volleyball-regional-rankings-week-8</link>
-            <guid isPermaLink="false">1666435528155</guid>
+            <guid isPermaLink="false">1666529199410</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -77,7 +77,17 @@
                 <![CDATA[ Girls Volleyball ]]>
             </title>
             <link>https://usatodayhss.com/category/sports/girls-volleyball</link>
-            <guid isPermaLink="false">1666435528156</guid>
+            <guid isPermaLink="false">1666529199411</guid>
+            <dc:creator>
+                <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
+            </dc:creator>
+        </item>
+        <item>
+            <title>
+                <![CDATA[ Girls Basketball ]]>
+            </title>
+            <link>https://usatodayhss.com/category/sports/girls-basketball</link>
+            <guid isPermaLink="false">1666529199412</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -87,7 +97,7 @@
                 <![CDATA[ Boys Basketball ]]>
             </title>
             <link>https://usatodayhss.com/category/sports/boys-basketball</link>
-            <guid isPermaLink="false">1666435528157</guid>
+            <guid isPermaLink="false">1666529199413</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -97,7 +107,7 @@
                 <![CDATA[ Manage Push Notifications ]]>
             </title>
             <link>https://sportswire.usatoday.com/manage-push-notifications/</link>
-            <guid isPermaLink="false">1666435528158</guid>
+            <guid isPermaLink="false">1666529199414</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -107,7 +117,7 @@
                 <![CDATA[ Skip to main navigation ]]>
             </title>
             <link>https://www.nbcsportsedge.com#main-menu</link>
-            <guid isPermaLink="false">1666435528159</guid>
+            <guid isPermaLink="false">1666529199415</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -117,7 +127,7 @@
                 <![CDATA[  ]]>
             </title>
             <link>https://www.nbcsportsedge.com//edge-plus.nbcsports.com/?utm_int=edge1346</link>
-            <guid isPermaLink="false">1666435528160</guid>
+            <guid isPermaLink="false">1666529199416</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -127,7 +137,7 @@
                 <![CDATA[ Draft Guide ]]>
             </title>
             <link>https://www.nbcsportsedge.com#premium-menu-draft-guide</link>
-            <guid isPermaLink="false">1666435528161</guid>
+            <guid isPermaLink="false">1666529199417</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -137,7 +147,7 @@
                 <![CDATA[ Season Tools ]]>
             </title>
             <link>https://www.nbcsportsedge.com#premium-menu-season-pass</link>
-            <guid isPermaLink="false">1666435528162</guid>
+            <guid isPermaLink="false">1666529199418</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -147,7 +157,7 @@
                 <![CDATA[ DFS Tools ]]>
             </title>
             <link>https://www.nbcsportsedge.com#premium-menu-dfs-toolkit</link>
-            <guid isPermaLink="false">1666435528163</guid>
+            <guid isPermaLink="false">1666529199419</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -157,7 +167,7 @@
                 <![CDATA[ Betting Tools ]]>
             </title>
             <link>https://www.nbcsportsedge.com#premium-menu-betting-tools</link>
-            <guid isPermaLink="false">1666435528164</guid>
+            <guid isPermaLink="false">1666529199420</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -167,7 +177,7 @@
                 <![CDATA[  ]]>
             </title>
             <link>https://www.nbcsportsedge.com/</link>
-            <guid isPermaLink="false">1666435528165</guid>
+            <guid isPermaLink="false">1666529199421</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -177,7 +187,7 @@
                 <![CDATA[ NFL Home ]]>
             </title>
             <link>https://www.nbcsportsedge.com/sports/nfl/football</link>
-            <guid isPermaLink="false">1666435528166</guid>
+            <guid isPermaLink="false">1666529199422</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -187,7 +197,7 @@
                 <![CDATA[ Player News ]]>
             </title>
             <link>https://www.nbcsportsedge.com/football/nfl/player-news</link>
-            <guid isPermaLink="false">1666435528167</guid>
+            <guid isPermaLink="false">1666529199423</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -197,7 +207,7 @@
                 <![CDATA[ Headlines ]]>
             </title>
             <link>https://www.nbcsportsedge.com/football/nfl/player-news?category=headlines</link>
-            <guid isPermaLink="false">1666435528168</guid>
+            <guid isPermaLink="false">1666529199424</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -207,7 +217,7 @@
                 <![CDATA[ Transactions ]]>
             </title>
             <link>https://www.nbcsportsedge.com/football/nfl/player-news?category=transactions</link>
-            <guid isPermaLink="false">1666435528169</guid>
+            <guid isPermaLink="false">1666529199425</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -217,7 +227,7 @@
                 <![CDATA[ Season Tools ]]>
             </title>
             <link>https://edge-plus.nbcsportsedge.com/nfl/season-pass</link>
-            <guid isPermaLink="false">1666435528170</guid>
+            <guid isPermaLink="false">1666529199426</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -227,7 +237,7 @@
                 <![CDATA[ Berry Homepage ]]>
             </title>
             <link>https://www.nbcsportsedge.com/matthew-berry</link>
-            <guid isPermaLink="false">1666435528171</guid>
+            <guid isPermaLink="false">1666529199427</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -237,7 +247,7 @@
                 <![CDATA[ Rankings ]]>
             </title>
             <link>https://www.nbcsportsedge.com/article/matthew-berrys-weekly-fantasy-football-rankings/matthew-berrys-week-7-fantasy-football</link>
-            <guid isPermaLink="false">1666435528172</guid>
+            <guid isPermaLink="false">1666529199428</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -247,7 +257,7 @@
                 <![CDATA[ Week 7 Fantasy Football Rankings ]]>
             </title>
             <link>https://www.nbcsportsedge.com/article/nfl-rankings/week-7-fantasy-football-rankings-october-20-2022</link>
-            <guid isPermaLink="false">1666435528173</guid>
+            <guid isPermaLink="false">1666529199429</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -257,7 +267,7 @@
                 <![CDATA[ NFL Betting ]]>
             </title>
             <link>https://www.nbcsportsedge.com/features/nfl?column=bet</link>
-            <guid isPermaLink="false">1666435528174</guid>
+            <guid isPermaLink="false">1666529199430</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -267,7 +277,7 @@
                 <![CDATA[ NFL ]]>
             </title>
             <link>https://edge-plus-bet.nbcsportsedge.com/nfl/live_odds</link>
-            <guid isPermaLink="false">1666435528175</guid>
+            <guid isPermaLink="false">1666529199431</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -277,7 +287,7 @@
                 <![CDATA[ Futures ]]>
             </title>
             <link>https://edge-plus-bet.nbcsports.com/nfl/futures</link>
-            <guid isPermaLink="false">1666435528176</guid>
+            <guid isPermaLink="false">1666529199432</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -287,7 +297,7 @@
                 <![CDATA[ More NFL Columns ]]>
             </title>
             <link>https://www.nbcsportsedge.com/features/nfl</link>
-            <guid isPermaLink="false">1666435528177</guid>
+            <guid isPermaLink="false">1666529199433</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -297,7 +307,7 @@
                 <![CDATA[ Content Hub ]]>
             </title>
             <link>https://www.nbcsportsedge.com/article/week-ahead/nbc-sports-edges-nfl-week-7-content-hub</link>
-            <guid isPermaLink="false">1666435528178</guid>
+            <guid isPermaLink="false">1666529199434</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -307,7 +317,7 @@
                 <![CDATA[ Waiver Wire ]]>
             </title>
             <link>https://www.nbcsportsedge.com/article/waiver-wired/waiver-wire-week-7-you-want-wandale</link>
-            <guid isPermaLink="false">1666435528179</guid>
+            <guid isPermaLink="false">1666529199435</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -317,7 +327,7 @@
                 <![CDATA[ Start/Sit ]]>
             </title>
             <link>https://www.nbcsportsedge.com/article/start-em-or-sit-em/week-7-start-em-or-sit-em-october-21-2022</link>
-            <guid isPermaLink="false">1666435528180</guid>
+            <guid isPermaLink="false">1666529199436</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -327,17 +337,17 @@
                 <![CDATA[ Flex Finder ]]>
             </title>
             <link>https://www.nbcsportsedge.com/article/flex-finder/optimal-flex-plays-play-rondale-moore-now</link>
-            <guid isPermaLink="false">1666435528181</guid>
+            <guid isPermaLink="false">1666529199437</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
         </item>
         <item>
             <title>
-                <![CDATA[ The Walkthrough ]]>
+                <![CDATA[ More ]]>
             </title>
             <link>https://www.nbcsportsedge.com/article/friday-walkthrough/walkthrough-week-7-st-brown-shallows</link>
-            <guid isPermaLink="false">1666435528182</guid>
+            <guid isPermaLink="false">1666529199438</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -347,7 +357,7 @@
                 <![CDATA[ DFS Building Blocks ]]>
             </title>
             <link>https://www.nbcsportsedge.com/article/dfs-building-blocks/dfs-building-blocks-week-7-fantasy-breakdown</link>
-            <guid isPermaLink="false">1666435528183</guid>
+            <guid isPermaLink="false">1666529199439</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -357,7 +367,7 @@
                 <![CDATA[ Videos ]]>
             </title>
             <link>https://www.nbcsportsedge.com/videos/football/nfl</link>
-            <guid isPermaLink="false">1666435528184</guid>
+            <guid isPermaLink="false">1666529199440</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -367,7 +377,7 @@
                 <![CDATA[ Teams ]]>
             </title>
             <link>https://www.nbcsportsedge.com/football/nfl/teams</link>
-            <guid isPermaLink="false">1666435528185</guid>
+            <guid isPermaLink="false">1666529199441</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -377,7 +387,7 @@
                 <![CDATA[ Arizona Cardinals ]]>
             </title>
             <link>https://www.nbcsportsedge.com/football/nfl/teams/arz/arizona-cardinals</link>
-            <guid isPermaLink="false">1666435528186</guid>
+            <guid isPermaLink="false">1666529199442</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -387,7 +397,7 @@
                 <![CDATA[ Atlanta Falcons ]]>
             </title>
             <link>https://www.nbcsportsedge.com/football/nfl/teams/atl/atlanta-falcons</link>
-            <guid isPermaLink="false">1666435528187</guid>
+            <guid isPermaLink="false">1666529199443</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -397,7 +407,7 @@
                 <![CDATA[ Baltimore Ravens ]]>
             </title>
             <link>https://www.nbcsportsedge.com/football/nfl/teams/bal/baltimore-ravens</link>
-            <guid isPermaLink="false">1666435528188</guid>
+            <guid isPermaLink="false">1666529199444</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -407,7 +417,7 @@
                 <![CDATA[ Buffalo Bills ]]>
             </title>
             <link>https://www.nbcsportsedge.com/football/nfl/teams/buf/buffalo-bills</link>
-            <guid isPermaLink="false">1666435528189</guid>
+            <guid isPermaLink="false">1666529199445</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -417,7 +427,7 @@
                 <![CDATA[ Carolina Panthers ]]>
             </title>
             <link>https://www.nbcsportsedge.com/football/nfl/teams/car/carolina-panthers</link>
-            <guid isPermaLink="false">1666435528190</guid>
+            <guid isPermaLink="false">1666529199446</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -427,7 +437,7 @@
                 <![CDATA[ Chicago Bears ]]>
             </title>
             <link>https://www.nbcsportsedge.com/football/nfl/teams/chi/chicago-bears</link>
-            <guid isPermaLink="false">1666435528191</guid>
+            <guid isPermaLink="false">1666529199447</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -437,7 +447,7 @@
                 <![CDATA[ Cincinnati Bengals ]]>
             </title>
             <link>https://www.nbcsportsedge.com/football/nfl/teams/cin/cincinnati-bengals</link>
-            <guid isPermaLink="false">1666435528192</guid>
+            <guid isPermaLink="false">1666529199448</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -447,7 +457,7 @@
                 <![CDATA[ Cleveland Browns ]]>
             </title>
             <link>https://www.nbcsportsedge.com/football/nfl/teams/cle/cleveland-browns</link>
-            <guid isPermaLink="false">1666435528193</guid>
+            <guid isPermaLink="false">1666529199449</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -457,7 +467,7 @@
                 <![CDATA[ Dallas Cowboys ]]>
             </title>
             <link>https://www.nbcsportsedge.com/football/nfl/teams/dal/dallas-cowboys</link>
-            <guid isPermaLink="false">1666435528194</guid>
+            <guid isPermaLink="false">1666529199450</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -467,7 +477,7 @@
                 <![CDATA[ Denver Broncos ]]>
             </title>
             <link>https://www.nbcsportsedge.com/football/nfl/teams/den/denver-broncos</link>
-            <guid isPermaLink="false">1666435528195</guid>
+            <guid isPermaLink="false">1666529199451</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -477,7 +487,7 @@
                 <![CDATA[ Detroit Lions ]]>
             </title>
             <link>https://www.nbcsportsedge.com/football/nfl/teams/det/detroit-lions</link>
-            <guid isPermaLink="false">1666435528196</guid>
+            <guid isPermaLink="false">1666529199452</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -487,7 +497,7 @@
                 <![CDATA[ Green Bay Packers ]]>
             </title>
             <link>https://www.nbcsportsedge.com/football/nfl/teams/gb/green-bay-packers</link>
-            <guid isPermaLink="false">1666435528197</guid>
+            <guid isPermaLink="false">1666529199453</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -497,7 +507,7 @@
                 <![CDATA[ Houston Texans ]]>
             </title>
             <link>https://www.nbcsportsedge.com/football/nfl/teams/hou/houston-texans</link>
-            <guid isPermaLink="false">1666435528198</guid>
+            <guid isPermaLink="false">1666529199454</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -507,7 +517,7 @@
                 <![CDATA[ Indianapolis Colts ]]>
             </title>
             <link>https://www.nbcsportsedge.com/football/nfl/teams/ind/indianapolis-colts</link>
-            <guid isPermaLink="false">1666435528199</guid>
+            <guid isPermaLink="false">1666529199455</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -517,7 +527,7 @@
                 <![CDATA[ Jacksonville Jaguars ]]>
             </title>
             <link>https://www.nbcsportsedge.com/football/nfl/teams/jac/jacksonville-jaguars</link>
-            <guid isPermaLink="false">1666435528200</guid>
+            <guid isPermaLink="false">1666529199456</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -527,7 +537,7 @@
                 <![CDATA[ Kansas City Chiefs ]]>
             </title>
             <link>https://www.nbcsportsedge.com/football/nfl/teams/kc/kansas-city-chiefs</link>
-            <guid isPermaLink="false">1666435528201</guid>
+            <guid isPermaLink="false">1666529199457</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -537,7 +547,7 @@
                 <![CDATA[ Las Vegas Raiders ]]>
             </title>
             <link>https://www.nbcsportsedge.com/football/nfl/teams/oak/oakland-raiders</link>
-            <guid isPermaLink="false">1666435528202</guid>
+            <guid isPermaLink="false">1666529199458</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -547,7 +557,7 @@
                 <![CDATA[ Los Angeles Chargers ]]>
             </title>
             <link>https://www.nbcsportsedge.com/football/nfl/teams/lac/los-angeles-chargers</link>
-            <guid isPermaLink="false">1666435528203</guid>
+            <guid isPermaLink="false">1666529199459</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -557,7 +567,7 @@
                 <![CDATA[ Los Angeles Rams ]]>
             </title>
             <link>https://www.nbcsportsedge.com/football/nfl/teams/lar/los-angeles-rams</link>
-            <guid isPermaLink="false">1666435528204</guid>
+            <guid isPermaLink="false">1666529199460</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -567,7 +577,7 @@
                 <![CDATA[ Miami Dolphins ]]>
             </title>
             <link>https://www.nbcsportsedge.com/football/nfl/teams/mia/miami-dolphins</link>
-            <guid isPermaLink="false">1666435528205</guid>
+            <guid isPermaLink="false">1666529199461</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -577,7 +587,7 @@
                 <![CDATA[ Minnesota Vikings ]]>
             </title>
             <link>https://www.nbcsportsedge.com/football/nfl/teams/min/minnesota-vikings</link>
-            <guid isPermaLink="false">1666435528206</guid>
+            <guid isPermaLink="false">1666529199462</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -587,7 +597,7 @@
                 <![CDATA[ New England Patriots ]]>
             </title>
             <link>https://www.nbcsportsedge.com/football/nfl/teams/ne/new-england-patriots</link>
-            <guid isPermaLink="false">1666435528207</guid>
+            <guid isPermaLink="false">1666529199463</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -597,7 +607,7 @@
                 <![CDATA[ New Orleans Saints ]]>
             </title>
             <link>https://www.nbcsportsedge.com/football/nfl/teams/no/new-orleans-saints</link>
-            <guid isPermaLink="false">1666435528208</guid>
+            <guid isPermaLink="false">1666529199464</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -607,7 +617,7 @@
                 <![CDATA[ New York Giants ]]>
             </title>
             <link>https://www.nbcsportsedge.com/football/nfl/teams/nyg/new-york-giants</link>
-            <guid isPermaLink="false">1666435528209</guid>
+            <guid isPermaLink="false">1666529199465</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -617,7 +627,7 @@
                 <![CDATA[ New York Jets ]]>
             </title>
             <link>https://www.nbcsportsedge.com/football/nfl/teams/nyj/new-york-jets</link>
-            <guid isPermaLink="false">1666435528210</guid>
+            <guid isPermaLink="false">1666529199466</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -627,7 +637,7 @@
                 <![CDATA[ Philadelphia Eagles ]]>
             </title>
             <link>https://www.nbcsportsedge.com/football/nfl/teams/phi/philadelphia-eagles</link>
-            <guid isPermaLink="false">1666435528211</guid>
+            <guid isPermaLink="false">1666529199467</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -637,7 +647,7 @@
                 <![CDATA[ Pittsburgh Steelers ]]>
             </title>
             <link>https://www.nbcsportsedge.com/football/nfl/teams/pit/pittsburgh-steelers</link>
-            <guid isPermaLink="false">1666435528212</guid>
+            <guid isPermaLink="false">1666529199468</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -647,7 +657,7 @@
                 <![CDATA[ San Francisco 49ers ]]>
             </title>
             <link>https://www.nbcsportsedge.com/football/nfl/teams/sf/san-francisco-49ers</link>
-            <guid isPermaLink="false">1666435528213</guid>
+            <guid isPermaLink="false">1666529199469</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -657,7 +667,7 @@
                 <![CDATA[ Seattle Seahawks ]]>
             </title>
             <link>https://www.nbcsportsedge.com/football/nfl/teams/sea/seattle-seahawks</link>
-            <guid isPermaLink="false">1666435528214</guid>
+            <guid isPermaLink="false">1666529199470</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -667,7 +677,7 @@
                 <![CDATA[ Tampa Bay Buccaneers ]]>
             </title>
             <link>https://www.nbcsportsedge.com/football/nfl/teams/tb/tampa-bay-buccaneers</link>
-            <guid isPermaLink="false">1666435528215</guid>
+            <guid isPermaLink="false">1666529199471</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -677,7 +687,7 @@
                 <![CDATA[ Tennessee Titans ]]>
             </title>
             <link>https://www.nbcsportsedge.com/football/nfl/teams/ten/tennessee-titans</link>
-            <guid isPermaLink="false">1666435528216</guid>
+            <guid isPermaLink="false">1666529199472</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -687,7 +697,7 @@
                 <![CDATA[ Washington Commanders ]]>
             </title>
             <link>https://www.nbcsportsedge.com/football/nfl/teams/was/washington-commanders</link>
-            <guid isPermaLink="false">1666435528217</guid>
+            <guid isPermaLink="false">1666529199473</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -697,7 +707,7 @@
                 <![CDATA[ Injury Report ]]>
             </title>
             <link>https://www.nbcsportsedge.com/football/nfl/injury-report</link>
-            <guid isPermaLink="false">1666435528218</guid>
+            <guid isPermaLink="false">1666529199474</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -707,7 +717,7 @@
                 <![CDATA[ Depth Charts ]]>
             </title>
             <link>https://www.nbcsportsedge.com/football/nfl/depth-charts</link>
-            <guid isPermaLink="false">1666435528219</guid>
+            <guid isPermaLink="false">1666529199475</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -717,7 +727,7 @@
                 <![CDATA[ Standings ]]>
             </title>
             <link>https://www.nbcsportsedge.com/football/nfl/standings</link>
-            <guid isPermaLink="false">1666435528220</guid>
+            <guid isPermaLink="false">1666529199476</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -727,7 +737,7 @@
                 <![CDATA[ Podcast ]]>
             </title>
             <link>https://www.nbcsportsedge.com/podcasts/nfl</link>
-            <guid isPermaLink="false">1666435528221</guid>
+            <guid isPermaLink="false">1666529199477</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -737,7 +747,7 @@
                 <![CDATA[ Contracts ]]>
             </title>
             <link>https://www.nbcsportsedge.com/football/nfl/teams/arz/arizona-cardinals?category=contracts</link>
-            <guid isPermaLink="false">1666435528222</guid>
+            <guid isPermaLink="false">1666529199478</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -747,7 +757,7 @@
                 <![CDATA[ NBA ]]>
             </title>
             <link>https://www.nbcsportsedge.com/sports/nba/basketball</link>
-            <guid isPermaLink="false">1666435528223</guid>
+            <guid isPermaLink="false">1666529199479</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -757,7 +767,7 @@
                 <![CDATA[ Draft Guide ]]>
             </title>
             <link>https://edge-plus.nbcsportsedge.com/nba/draft-guide</link>
-            <guid isPermaLink="false">1666435528224</guid>
+            <guid isPermaLink="false">1666529199480</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -767,7 +777,7 @@
                 <![CDATA[ Player News ]]>
             </title>
             <link>https://www.nbcsportsedge.com/basketball/nba/player-news</link>
-            <guid isPermaLink="false">1666435528225</guid>
+            <guid isPermaLink="false">1666529199481</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -777,7 +787,7 @@
                 <![CDATA[ Headlines ]]>
             </title>
             <link>https://www.nbcsportsedge.com/basketball/nba/player-news?category=headlines</link>
-            <guid isPermaLink="false">1666435528226</guid>
+            <guid isPermaLink="false">1666529199482</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -787,7 +797,7 @@
                 <![CDATA[ Transactions ]]>
             </title>
             <link>https://www.nbcsportsedge.com/basketball/nba/player-news?category=transactions</link>
-            <guid isPermaLink="false">1666435528227</guid>
+            <guid isPermaLink="false">1666529199483</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -797,7 +807,7 @@
                 <![CDATA[ NBA Betting ]]>
             </title>
             <link>https://www.nbcsportsedge.com/features/nba?column=bet</link>
-            <guid isPermaLink="false">1666435528228</guid>
+            <guid isPermaLink="false">1666529199484</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -807,7 +817,7 @@
                 <![CDATA[ NBA ]]>
             </title>
             <link>https://edge-plus-bet.nbcsportsedge.com/nba/live_odds</link>
-            <guid isPermaLink="false">1666435528229</guid>
+            <guid isPermaLink="false">1666529199485</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -817,7 +827,7 @@
                 <![CDATA[ NBA ]]>
             </title>
             <link>https://edge-plus-bet.nbcsportsedge.com/nba/futures</link>
-            <guid isPermaLink="false">1666435528230</guid>
+            <guid isPermaLink="false">1666529199486</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -827,7 +837,7 @@
                 <![CDATA[ More NBA Columns ]]>
             </title>
             <link>https://www.nbcsportsedge.com/features/nba</link>
-            <guid isPermaLink="false">1666435528231</guid>
+            <guid isPermaLink="false">1666529199487</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -837,7 +847,7 @@
                 <![CDATA[ Videos ]]>
             </title>
             <link>https://www.nbcsportsedge.com/videos/basketball/nba</link>
-            <guid isPermaLink="false">1666435528232</guid>
+            <guid isPermaLink="false">1666529199488</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -847,7 +857,7 @@
                 <![CDATA[ Teams ]]>
             </title>
             <link>https://www.nbcsportsedge.com/basketball/nba/teams</link>
-            <guid isPermaLink="false">1666435528233</guid>
+            <guid isPermaLink="false">1666529199489</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -857,7 +867,7 @@
                 <![CDATA[ Atlanta Hawks ]]>
             </title>
             <link>https://www.nbcsportsedge.com/basketball/nba/teams/atl/atlanta-hawks</link>
-            <guid isPermaLink="false">1666435528234</guid>
+            <guid isPermaLink="false">1666529199490</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -867,7 +877,7 @@
                 <![CDATA[ Boston Celtics ]]>
             </title>
             <link>https://www.nbcsportsedge.com/basketball/nba/teams/bos/boston-celtics</link>
-            <guid isPermaLink="false">1666435528235</guid>
+            <guid isPermaLink="false">1666529199491</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -877,7 +887,7 @@
                 <![CDATA[ Brooklyn Nets ]]>
             </title>
             <link>https://www.nbcsportsedge.com/basketball/nba/teams/bkn/brooklyn-nets</link>
-            <guid isPermaLink="false">1666435528236</guid>
+            <guid isPermaLink="false">1666529199492</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -887,7 +897,7 @@
                 <![CDATA[ Charlotte Hornets ]]>
             </title>
             <link>https://www.nbcsportsedge.com/basketball/nba/teams/cha/charlotte-hornets</link>
-            <guid isPermaLink="false">1666435528237</guid>
+            <guid isPermaLink="false">1666529199493</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -897,7 +907,7 @@
                 <![CDATA[ Chicago Bulls ]]>
             </title>
             <link>https://www.nbcsportsedge.com/basketball/nba/teams/chi/chicago-bulls</link>
-            <guid isPermaLink="false">1666435528238</guid>
+            <guid isPermaLink="false">1666529199494</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -907,7 +917,7 @@
                 <![CDATA[ Cleveland Cavaliers ]]>
             </title>
             <link>https://www.nbcsportsedge.com/basketball/nba/teams/cle/cleveland-cavaliers</link>
-            <guid isPermaLink="false">1666435528239</guid>
+            <guid isPermaLink="false">1666529199495</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -917,7 +927,7 @@
                 <![CDATA[ Dallas Mavericks ]]>
             </title>
             <link>https://www.nbcsportsedge.com/basketball/nba/teams/dal/dallas-mavericks</link>
-            <guid isPermaLink="false">1666435528240</guid>
+            <guid isPermaLink="false">1666529199496</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -927,7 +937,7 @@
                 <![CDATA[ Denver Nuggets ]]>
             </title>
             <link>https://www.nbcsportsedge.com/basketball/nba/teams/den/denver-nuggets</link>
-            <guid isPermaLink="false">1666435528241</guid>
+            <guid isPermaLink="false">1666529199497</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -937,7 +947,7 @@
                 <![CDATA[ Detroit Pistons ]]>
             </title>
             <link>https://www.nbcsportsedge.com/basketball/nba/teams/det/detroit-pistons</link>
-            <guid isPermaLink="false">1666435528242</guid>
+            <guid isPermaLink="false">1666529199498</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -947,7 +957,7 @@
                 <![CDATA[ Golden State Warriors ]]>
             </title>
             <link>https://www.nbcsportsedge.com/basketball/nba/teams/gs/golden-state-warriors</link>
-            <guid isPermaLink="false">1666435528243</guid>
+            <guid isPermaLink="false">1666529199499</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -957,7 +967,7 @@
                 <![CDATA[ Houston Rockets ]]>
             </title>
             <link>https://www.nbcsportsedge.com/basketball/nba/teams/hou/houston-rockets</link>
-            <guid isPermaLink="false">1666435528244</guid>
+            <guid isPermaLink="false">1666529199500</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -967,7 +977,7 @@
                 <![CDATA[ Indiana Pacers ]]>
             </title>
             <link>https://www.nbcsportsedge.com/basketball/nba/teams/ind/indiana-pacers</link>
-            <guid isPermaLink="false">1666435528245</guid>
+            <guid isPermaLink="false">1666529199501</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -977,7 +987,7 @@
                 <![CDATA[ Los Angeles Clippers ]]>
             </title>
             <link>https://www.nbcsportsedge.com/basketball/nba/teams/lac/los-angeles-clippers</link>
-            <guid isPermaLink="false">1666435528246</guid>
+            <guid isPermaLink="false">1666529199502</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -987,7 +997,7 @@
                 <![CDATA[ Los Angeles Lakers ]]>
             </title>
             <link>https://www.nbcsportsedge.com/basketball/nba/teams/lak/los-angeles-lakers</link>
-            <guid isPermaLink="false">1666435528247</guid>
+            <guid isPermaLink="false">1666529199503</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -997,7 +1007,7 @@
                 <![CDATA[ Memphis Grizzlies ]]>
             </title>
             <link>https://www.nbcsportsedge.com/basketball/nba/teams/mem/memphis-grizzlies</link>
-            <guid isPermaLink="false">1666435528248</guid>
+            <guid isPermaLink="false">1666529199504</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -1007,7 +1017,7 @@
                 <![CDATA[ Miami Heat ]]>
             </title>
             <link>https://www.nbcsportsedge.com/basketball/nba/teams/mia/miami-heat</link>
-            <guid isPermaLink="false">1666435528249</guid>
+            <guid isPermaLink="false">1666529199505</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -1017,7 +1027,7 @@
                 <![CDATA[ Milwaukee Bucks ]]>
             </title>
             <link>https://www.nbcsportsedge.com/basketball/nba/teams/mlw/milwaukee-bucks</link>
-            <guid isPermaLink="false">1666435528250</guid>
+            <guid isPermaLink="false">1666529199506</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -1027,7 +1037,7 @@
                 <![CDATA[ Minnesota Timberwolves ]]>
             </title>
             <link>https://www.nbcsportsedge.com/basketball/nba/teams/min/minnesota-timberwolves</link>
-            <guid isPermaLink="false">1666435528251</guid>
+            <guid isPermaLink="false">1666529199507</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -1037,7 +1047,7 @@
                 <![CDATA[ New Orleans Pelicans ]]>
             </title>
             <link>https://www.nbcsportsedge.com/basketball/nba/teams/no/new-orleans-pelicans</link>
-            <guid isPermaLink="false">1666435528252</guid>
+            <guid isPermaLink="false">1666529199508</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -1047,7 +1057,7 @@
                 <![CDATA[ New York Knicks ]]>
             </title>
             <link>https://www.nbcsportsedge.com/basketball/nba/teams/ny/new-york-knicks</link>
-            <guid isPermaLink="false">1666435528253</guid>
+            <guid isPermaLink="false">1666529199509</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -1057,7 +1067,7 @@
                 <![CDATA[ Oklahoma City Thunder ]]>
             </title>
             <link>https://www.nbcsportsedge.com/basketball/nba/teams/okc/oklahoma-city-thunder</link>
-            <guid isPermaLink="false">1666435528254</guid>
+            <guid isPermaLink="false">1666529199510</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -1067,7 +1077,7 @@
                 <![CDATA[ Orlando Magic ]]>
             </title>
             <link>https://www.nbcsportsedge.com/basketball/nba/teams/orl/orlando-magic</link>
-            <guid isPermaLink="false">1666435528255</guid>
+            <guid isPermaLink="false">1666529199511</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -1077,7 +1087,7 @@
                 <![CDATA[ Philadelphia 76ers ]]>
             </title>
             <link>https://www.nbcsportsedge.com/basketball/nba/teams/phi/philadelphia-76ers</link>
-            <guid isPermaLink="false">1666435528256</guid>
+            <guid isPermaLink="false">1666529199512</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -1087,7 +1097,7 @@
                 <![CDATA[ Phoenix Suns ]]>
             </title>
             <link>https://www.nbcsportsedge.com/basketball/nba/teams/pho/phoenix-suns</link>
-            <guid isPermaLink="false">1666435528257</guid>
+            <guid isPermaLink="false">1666529199513</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -1097,7 +1107,7 @@
                 <![CDATA[ Portland Trail Blazers ]]>
             </title>
             <link>https://www.nbcsportsedge.com/basketball/nba/teams/por/portland-trail-blazers</link>
-            <guid isPermaLink="false">1666435528258</guid>
+            <guid isPermaLink="false">1666529199514</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -1107,7 +1117,7 @@
                 <![CDATA[ Sacramento Kings ]]>
             </title>
             <link>https://www.nbcsportsedge.com/basketball/nba/teams/sac/sacramento-kings</link>
-            <guid isPermaLink="false">1666435528259</guid>
+            <guid isPermaLink="false">1666529199515</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -1117,7 +1127,7 @@
                 <![CDATA[ San Antonio Spurs ]]>
             </title>
             <link>https://www.nbcsportsedge.com/basketball/nba/teams/sa/san-antonio-spurs</link>
-            <guid isPermaLink="false">1666435528260</guid>
+            <guid isPermaLink="false">1666529199516</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -1127,7 +1137,7 @@
                 <![CDATA[ Toronto Raptors ]]>
             </title>
             <link>https://www.nbcsportsedge.com/basketball/nba/teams/tor/toronto-raptors</link>
-            <guid isPermaLink="false">1666435528261</guid>
+            <guid isPermaLink="false">1666529199517</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -1137,7 +1147,7 @@
                 <![CDATA[ Utah Jazz ]]>
             </title>
             <link>https://www.nbcsportsedge.com/basketball/nba/teams/uta/utah-jazz</link>
-            <guid isPermaLink="false">1666435528262</guid>
+            <guid isPermaLink="false">1666529199518</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -1147,7 +1157,7 @@
                 <![CDATA[ Washington Wizards ]]>
             </title>
             <link>https://www.nbcsportsedge.com/basketball/nba/teams/was/washington-wizards</link>
-            <guid isPermaLink="false">1666435528263</guid>
+            <guid isPermaLink="false">1666529199519</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -1157,7 +1167,7 @@
                 <![CDATA[ Injury Report ]]>
             </title>
             <link>https://www.nbcsportsedge.com/basketball/nba/injury-report</link>
-            <guid isPermaLink="false">1666435528264</guid>
+            <guid isPermaLink="false">1666529199520</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -1167,7 +1177,7 @@
                 <![CDATA[ Depth Charts ]]>
             </title>
             <link>https://www.nbcsportsedge.com/basketball/nba/depth-charts</link>
-            <guid isPermaLink="false">1666435528265</guid>
+            <guid isPermaLink="false">1666529199521</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -1177,7 +1187,7 @@
                 <![CDATA[ Standings ]]>
             </title>
             <link>https://www.nbcsportsedge.com/basketball/nba/standings</link>
-            <guid isPermaLink="false">1666435528266</guid>
+            <guid isPermaLink="false">1666529199522</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -1187,7 +1197,7 @@
                 <![CDATA[ Podcast ]]>
             </title>
             <link>https://www.nbcsportsedge.com/podcasts/nba</link>
-            <guid isPermaLink="false">1666435528267</guid>
+            <guid isPermaLink="false">1666529199523</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -1197,7 +1207,7 @@
                 <![CDATA[ Contracts ]]>
             </title>
             <link>https://www.nbcsportsedge.com/basketball/nba/teams/atl/atlanta-hawks?category=contracts</link>
-            <guid isPermaLink="false">1666435528268</guid>
+            <guid isPermaLink="false">1666529199524</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -1207,7 +1217,7 @@
                 <![CDATA[ MLB ]]>
             </title>
             <link>https://www.nbcsportsedge.com/sports/mlb/baseball</link>
-            <guid isPermaLink="false">1666435528269</guid>
+            <guid isPermaLink="false">1666529199525</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -1217,7 +1227,7 @@
                 <![CDATA[ Season Tools ]]>
             </title>
             <link>https://edge-plus.nbcsportsedge.com/mlb/seasonpass</link>
-            <guid isPermaLink="false">1666435528270</guid>
+            <guid isPermaLink="false">1666529199526</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -1227,7 +1237,7 @@
                 <![CDATA[ Player News ]]>
             </title>
             <link>https://www.nbcsportsedge.com/baseball/mlb/player-news</link>
-            <guid isPermaLink="false">1666435528271</guid>
+            <guid isPermaLink="false">1666529199527</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -1237,7 +1247,7 @@
                 <![CDATA[ Headlines ]]>
             </title>
             <link>https://www.nbcsportsedge.com/baseball/mlb/player-news?category=headlines</link>
-            <guid isPermaLink="false">1666435528272</guid>
+            <guid isPermaLink="false">1666529199528</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -1247,7 +1257,7 @@
                 <![CDATA[ Transactions ]]>
             </title>
             <link>https://www.nbcsportsedge.com/baseball/mlb/player-news?category=transactions</link>
-            <guid isPermaLink="false">1666435528273</guid>
+            <guid isPermaLink="false">1666529199529</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -1257,7 +1267,7 @@
                 <![CDATA[ MLB Betting ]]>
             </title>
             <link>https://www.nbcsportsedge.com/features/mlb?column=bet</link>
-            <guid isPermaLink="false">1666435528274</guid>
+            <guid isPermaLink="false">1666529199530</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -1267,7 +1277,7 @@
                 <![CDATA[ MLB ]]>
             </title>
             <link>https://edge-plus-bet.nbcsportsedge.com/mlb/live_odds</link>
-            <guid isPermaLink="false">1666435528275</guid>
+            <guid isPermaLink="false">1666529199531</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -1277,7 +1287,7 @@
                 <![CDATA[ MLB ]]>
             </title>
             <link>https://edge-plus-bet.nbcsportsedge.com/mlb/futures</link>
-            <guid isPermaLink="false">1666435528276</guid>
+            <guid isPermaLink="false">1666529199532</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -1287,7 +1297,7 @@
                 <![CDATA[ More MLB Columns ]]>
             </title>
             <link>https://www.nbcsportsedge.com/features/mlb</link>
-            <guid isPermaLink="false">1666435528277</guid>
+            <guid isPermaLink="false">1666529199533</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -1297,7 +1307,7 @@
                 <![CDATA[ Videos ]]>
             </title>
             <link>https://www.nbcsportsedge.com/videos/baseball/mlb</link>
-            <guid isPermaLink="false">1666435528278</guid>
+            <guid isPermaLink="false">1666529199534</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -1307,7 +1317,7 @@
                 <![CDATA[ Teams ]]>
             </title>
             <link>https://www.nbcsportsedge.com/baseball/mlb/teams</link>
-            <guid isPermaLink="false">1666435528279</guid>
+            <guid isPermaLink="false">1666529199535</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -1317,7 +1327,7 @@
                 <![CDATA[ Arizona Diamondbacks ]]>
             </title>
             <link>https://www.nbcsportsedge.com/baseball/mlb/teams/arz/arizona-diamondbacks</link>
-            <guid isPermaLink="false">1666435528280</guid>
+            <guid isPermaLink="false">1666529199536</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -1327,7 +1337,7 @@
                 <![CDATA[ Atlanta Braves ]]>
             </title>
             <link>https://www.nbcsportsedge.com/baseball/mlb/teams/atl/atlanta-braves</link>
-            <guid isPermaLink="false">1666435528281</guid>
+            <guid isPermaLink="false">1666529199537</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -1337,7 +1347,7 @@
                 <![CDATA[ Baltimore Orioles ]]>
             </title>
             <link>https://www.nbcsportsedge.com/baseball/mlb/teams/bal/baltimore-orioles</link>
-            <guid isPermaLink="false">1666435528282</guid>
+            <guid isPermaLink="false">1666529199538</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -1347,7 +1357,7 @@
                 <![CDATA[ Boston Red Sox ]]>
             </title>
             <link>https://www.nbcsportsedge.com/baseball/mlb/teams/bos/boston-red-sox</link>
-            <guid isPermaLink="false">1666435528283</guid>
+            <guid isPermaLink="false">1666529199539</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -1357,7 +1367,7 @@
                 <![CDATA[ Chicago Cubs ]]>
             </title>
             <link>https://www.nbcsportsedge.com/baseball/mlb/teams/chc/chicago-cubs</link>
-            <guid isPermaLink="false">1666435528285</guid>
+            <guid isPermaLink="false">1666529199540</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -1367,7 +1377,7 @@
                 <![CDATA[ Chicago White Sox ]]>
             </title>
             <link>https://www.nbcsportsedge.com/baseball/mlb/teams/cws/chicago-white-sox</link>
-            <guid isPermaLink="false">1666435528286</guid>
+            <guid isPermaLink="false">1666529199541</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -1377,7 +1387,7 @@
                 <![CDATA[ Cincinnati Reds ]]>
             </title>
             <link>https://www.nbcsportsedge.com/baseball/mlb/teams/cin/cincinnati-reds</link>
-            <guid isPermaLink="false">1666435528287</guid>
+            <guid isPermaLink="false">1666529199542</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -1387,7 +1397,7 @@
                 <![CDATA[ Cleveland Guardians ]]>
             </title>
             <link>https://www.nbcsportsedge.com/baseball/mlb/teams/cle/cleveland-guardians</link>
-            <guid isPermaLink="false">1666435528288</guid>
+            <guid isPermaLink="false">1666529199543</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -1397,7 +1407,7 @@
                 <![CDATA[ Colorado Rockies ]]>
             </title>
             <link>https://www.nbcsportsedge.com/baseball/mlb/teams/col/colorado-rockies</link>
-            <guid isPermaLink="false">1666435528289</guid>
+            <guid isPermaLink="false">1666529199544</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -1407,7 +1417,7 @@
                 <![CDATA[ Detroit Tigers ]]>
             </title>
             <link>https://www.nbcsportsedge.com/baseball/mlb/teams/det/detroit-tigers</link>
-            <guid isPermaLink="false">1666435528290</guid>
+            <guid isPermaLink="false">1666529199545</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -1417,7 +1427,7 @@
                 <![CDATA[ Houston Astros ]]>
             </title>
             <link>https://www.nbcsportsedge.com/baseball/mlb/teams/hou/houston-astros</link>
-            <guid isPermaLink="false">1666435528291</guid>
+            <guid isPermaLink="false">1666529199546</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -1427,7 +1437,7 @@
                 <![CDATA[ Kansas City Royals ]]>
             </title>
             <link>https://www.nbcsportsedge.com/baseball/mlb/teams/kc/kansas-city-royals</link>
-            <guid isPermaLink="false">1666435528292</guid>
+            <guid isPermaLink="false">1666529199547</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -1437,7 +1447,7 @@
                 <![CDATA[ Los Angeles Angels ]]>
             </title>
             <link>https://www.nbcsportsedge.com/baseball/mlb/teams/laa/los-angeles-angels</link>
-            <guid isPermaLink="false">1666435528293</guid>
+            <guid isPermaLink="false">1666529199548</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -1447,7 +1457,7 @@
                 <![CDATA[ Los Angeles Dodgers ]]>
             </title>
             <link>https://www.nbcsportsedge.com/baseball/mlb/teams/la/los-angeles-dodgers</link>
-            <guid isPermaLink="false">1666435528294</guid>
+            <guid isPermaLink="false">1666529199549</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -1457,7 +1467,7 @@
                 <![CDATA[ Miami Marlins ]]>
             </title>
             <link>https://www.nbcsportsedge.com/baseball/mlb/teams/mia/miami-marlins</link>
-            <guid isPermaLink="false">1666435528295</guid>
+            <guid isPermaLink="false">1666529199550</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -1467,7 +1477,7 @@
                 <![CDATA[ Milwaukee Brewers ]]>
             </title>
             <link>https://www.nbcsportsedge.com/baseball/mlb/teams/mlw/milwaukee-brewers</link>
-            <guid isPermaLink="false">1666435528296</guid>
+            <guid isPermaLink="false">1666529199551</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -1477,7 +1487,7 @@
                 <![CDATA[ Minnesota Twins ]]>
             </title>
             <link>https://www.nbcsportsedge.com/baseball/mlb/teams/min/minnesota-twins</link>
-            <guid isPermaLink="false">1666435528297</guid>
+            <guid isPermaLink="false">1666529199552</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -1487,7 +1497,7 @@
                 <![CDATA[ New York Mets ]]>
             </title>
             <link>https://www.nbcsportsedge.com/baseball/mlb/teams/nym/new-york-mets</link>
-            <guid isPermaLink="false">1666435528298</guid>
+            <guid isPermaLink="false">1666529199553</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -1497,7 +1507,7 @@
                 <![CDATA[ New York Yankees ]]>
             </title>
             <link>https://www.nbcsportsedge.com/baseball/mlb/teams/nyy/new-york-yankees</link>
-            <guid isPermaLink="false">1666435528299</guid>
+            <guid isPermaLink="false">1666529199554</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -1507,7 +1517,7 @@
                 <![CDATA[ Oakland Athletics ]]>
             </title>
             <link>https://www.nbcsportsedge.com/baseball/mlb/teams/oak/oakland-athletics</link>
-            <guid isPermaLink="false">1666435528300</guid>
+            <guid isPermaLink="false">1666529199555</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -1517,7 +1527,7 @@
                 <![CDATA[ Philadelphia Phillies ]]>
             </title>
             <link>https://www.nbcsportsedge.com/baseball/mlb/teams/phi/philadelphia-phillies</link>
-            <guid isPermaLink="false">1666435528301</guid>
+            <guid isPermaLink="false">1666529199556</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -1527,7 +1537,7 @@
                 <![CDATA[ Pittsburgh Pirates ]]>
             </title>
             <link>https://www.nbcsportsedge.com/baseball/mlb/teams/pit/pittsburgh-pirates</link>
-            <guid isPermaLink="false">1666435528302</guid>
+            <guid isPermaLink="false">1666529199557</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -1537,7 +1547,7 @@
                 <![CDATA[ San Diego Padres ]]>
             </title>
             <link>https://www.nbcsportsedge.com/baseball/mlb/teams/sd/san-diego-padres</link>
-            <guid isPermaLink="false">1666435528303</guid>
+            <guid isPermaLink="false">1666529199558</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -1547,7 +1557,7 @@
                 <![CDATA[ San Francisco Giants ]]>
             </title>
             <link>https://www.nbcsportsedge.com/baseball/mlb/teams/sf/san-francisco-giants</link>
-            <guid isPermaLink="false">1666435528304</guid>
+            <guid isPermaLink="false">1666529199559</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -1557,7 +1567,7 @@
                 <![CDATA[ Seattle Mariners ]]>
             </title>
             <link>https://www.nbcsportsedge.com/baseball/mlb/teams/sea/seattle-mariners</link>
-            <guid isPermaLink="false">1666435528305</guid>
+            <guid isPermaLink="false">1666529199560</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -1567,7 +1577,7 @@
                 <![CDATA[ St. Louis Cardinals ]]>
             </title>
             <link>https://www.nbcsportsedge.com/baseball/mlb/teams/stl/st-louis-cardinals</link>
-            <guid isPermaLink="false">1666435528306</guid>
+            <guid isPermaLink="false">1666529199561</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -1577,7 +1587,7 @@
                 <![CDATA[ Tampa Bay Rays ]]>
             </title>
             <link>https://www.nbcsportsedge.com/baseball/mlb/teams/tb/tampa-bay-rays</link>
-            <guid isPermaLink="false">1666435528307</guid>
+            <guid isPermaLink="false">1666529199562</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -1587,7 +1597,7 @@
                 <![CDATA[ Texas Rangers ]]>
             </title>
             <link>https://www.nbcsportsedge.com/baseball/mlb/teams/tex/texas-rangers</link>
-            <guid isPermaLink="false">1666435528308</guid>
+            <guid isPermaLink="false">1666529199563</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -1597,7 +1607,7 @@
                 <![CDATA[ Toronto Blue Jays ]]>
             </title>
             <link>https://www.nbcsportsedge.com/baseball/mlb/teams/tor/toronto-blue-jays</link>
-            <guid isPermaLink="false">1666435528309</guid>
+            <guid isPermaLink="false">1666529199564</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -1607,7 +1617,7 @@
                 <![CDATA[ Washington Nationals ]]>
             </title>
             <link>https://www.nbcsportsedge.com/baseball/mlb/teams/was/washington-nationals</link>
-            <guid isPermaLink="false">1666435528310</guid>
+            <guid isPermaLink="false">1666529199565</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -1617,7 +1627,7 @@
                 <![CDATA[ Injury Report ]]>
             </title>
             <link>https://www.nbcsportsedge.com/baseball/mlb/injury-report</link>
-            <guid isPermaLink="false">1666435528311</guid>
+            <guid isPermaLink="false">1666529199566</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -1627,7 +1637,7 @@
                 <![CDATA[ Depth Charts ]]>
             </title>
             <link>https://www.nbcsportsedge.com/baseball/mlb/depth-charts</link>
-            <guid isPermaLink="false">1666435528312</guid>
+            <guid isPermaLink="false">1666529199567</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -1637,7 +1647,7 @@
                 <![CDATA[ Standings ]]>
             </title>
             <link>https://www.nbcsportsedge.com/baseball/mlb/standings</link>
-            <guid isPermaLink="false">1666435528313</guid>
+            <guid isPermaLink="false">1666529199568</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -1647,7 +1657,7 @@
                 <![CDATA[ Daily Lineups ]]>
             </title>
             <link>https://www.nbcsportsedge.com/baseball/mlb/daily-lineups</link>
-            <guid isPermaLink="false">1666435528314</guid>
+            <guid isPermaLink="false">1666529199569</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -1657,7 +1667,7 @@
                 <![CDATA[ Podcast ]]>
             </title>
             <link>https://www.nbcsportsedge.com/podcasts/mlb</link>
-            <guid isPermaLink="false">1666435528315</guid>
+            <guid isPermaLink="false">1666529199570</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -1667,7 +1677,7 @@
                 <![CDATA[ Contracts ]]>
             </title>
             <link>https://www.nbcsportsedge.com/baseball/mlb/teams/arz/arizona-diamondbacks?category=contracts</link>
-            <guid isPermaLink="false">1666435528316</guid>
+            <guid isPermaLink="false">1666529199571</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -1677,7 +1687,7 @@
                 <![CDATA[ College Football ]]>
             </title>
             <link>https://www.nbcsportsedge.com/sports/cfb/college-football</link>
-            <guid isPermaLink="false">1666435528317</guid>
+            <guid isPermaLink="false">1666529199572</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -1687,7 +1697,7 @@
                 <![CDATA[ CFB ]]>
             </title>
             <link>https://www.nbcsportsedge.com/betting/cfb</link>
-            <guid isPermaLink="false">1666435528318</guid>
+            <guid isPermaLink="false">1666529199573</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -1697,7 +1707,7 @@
                 <![CDATA[ CFB ]]>
             </title>
             <link>https://edge-plus-bet.nbcsportsedge.com/cfb/live_odds</link>
-            <guid isPermaLink="false">1666435528319</guid>
+            <guid isPermaLink="false">1666529199574</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -1707,7 +1717,7 @@
                 <![CDATA[ CFB ]]>
             </title>
             <link>https://edge-plus-bet.nbcsportsedge.com/cfb/futures</link>
-            <guid isPermaLink="false">1666435528320</guid>
+            <guid isPermaLink="false">1666529199575</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -1717,7 +1727,7 @@
                 <![CDATA[ More College Football Columns ]]>
             </title>
             <link>https://www.nbcsportsedge.com/features/cfb</link>
-            <guid isPermaLink="false">1666435528321</guid>
+            <guid isPermaLink="false">1666529199576</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -1727,7 +1737,7 @@
                 <![CDATA[ Videos ]]>
             </title>
             <link>https://www.nbcsportsedge.com/videos/college-football/cfb</link>
-            <guid isPermaLink="false">1666435528322</guid>
+            <guid isPermaLink="false">1666529199577</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -1737,7 +1747,7 @@
                 <![CDATA[ WWE ]]>
             </title>
             <link>https://www.nbcsportsedge.com/sports/wwe/pro-wrestling</link>
-            <guid isPermaLink="false">1666435528323</guid>
+            <guid isPermaLink="false">1666529199578</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -1747,7 +1757,7 @@
                 <![CDATA[ WWE Rankings: Bianca Belair Rises to the Top ]]>
             </title>
             <link>https://www.nbcsportsedge.com/article/superstar-power-rankings/wwe-rankings-bianca-belair-rises-top</link>
-            <guid isPermaLink="false">1666435528324</guid>
+            <guid isPermaLink="false">1666529199579</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -1757,27 +1767,27 @@
                 <![CDATA[ WWE Extreme Rules Predictions ]]>
             </title>
             <link>https://www.nbcsportsedge.com/article/wwe-predictions/wwe-extreme-rules-predictions</link>
-            <guid isPermaLink="false">1666435528325</guid>
+            <guid isPermaLink="false">1666529199580</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
         </item>
         <item>
             <title>
-                <![CDATA[ How to watch Matthew Berry ]]>
+                <![CDATA[ How to watch Matthew Berry on NBC Sports ]]>
             </title>
             <link>https://www.nbcsportsedge.com/article/matthew-berrys-lovehate/how-watch-matthew-berry-nbc-sports</link>
-            <guid isPermaLink="false">1666435528326</guid>
+            <guid isPermaLink="false">1666529199581</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
         </item>
         <item>
             <title>
-                <![CDATA[ Love/Hate ]]>
+                <![CDATA[ More ]]>
             </title>
             <link>https://www.nbcsportsedge.com/article/matthew-berrys-lovehate/matthew-berrys-lovehate-week-7</link>
-            <guid isPermaLink="false">1666435528327</guid>
+            <guid isPermaLink="false">1666529199582</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -1787,7 +1797,7 @@
                 <![CDATA[ GOLF ]]>
             </title>
             <link>https://www.nbcsportsedge.com/sports/golf/golf</link>
-            <guid isPermaLink="false">1666435528328</guid>
+            <guid isPermaLink="false">1666529199583</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -1797,7 +1807,7 @@
                 <![CDATA[ More ]]>
             </title>
             <link>https://www.nbcsportsedge.com/golf/golf/player-news</link>
-            <guid isPermaLink="false">1666435528329</guid>
+            <guid isPermaLink="false">1666529199584</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -1807,7 +1817,7 @@
                 <![CDATA[ Headlines ]]>
             </title>
             <link>https://www.nbcsportsedge.com/golf/golf/player-news?category=headlines</link>
-            <guid isPermaLink="false">1666435528330</guid>
+            <guid isPermaLink="false">1666529199585</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -1817,7 +1827,7 @@
                 <![CDATA[ Golf Betting ]]>
             </title>
             <link>https://www.nbcsportsedge.com/features/golf?column=bet</link>
-            <guid isPermaLink="false">1666435528331</guid>
+            <guid isPermaLink="false">1666529199586</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -1827,7 +1837,7 @@
                 <![CDATA[ Live Leaderboard ]]>
             </title>
             <link>https://edge-plus-bet.nbcsports.com/pga/leaderboard</link>
-            <guid isPermaLink="false">1666435528332</guid>
+            <guid isPermaLink="false">1666529199587</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -1837,7 +1847,7 @@
                 <![CDATA[ DFS Tools ]]>
             </title>
             <link>https://edge-plus-dfs.nbcsportsedge.com/pga/optimizer</link>
-            <guid isPermaLink="false">1666435528333</guid>
+            <guid isPermaLink="false">1666529199588</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -1847,7 +1857,7 @@
                 <![CDATA[ Golf ]]>
             </title>
             <link>https://edge-plus-bet.nbcsportsedge.com/pga/futures</link>
-            <guid isPermaLink="false">1666435528334</guid>
+            <guid isPermaLink="false">1666529199589</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -1857,7 +1867,7 @@
                 <![CDATA[ More GOLF Columns ]]>
             </title>
             <link>https://www.nbcsportsedge.com/features/golf</link>
-            <guid isPermaLink="false">1666435528335</guid>
+            <guid isPermaLink="false">1666529199590</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -1867,7 +1877,7 @@
                 <![CDATA[ Videos ]]>
             </title>
             <link>https://www.nbcsportsedge.com/videos/golf/golf</link>
-            <guid isPermaLink="false">1666435528336</guid>
+            <guid isPermaLink="false">1666529199591</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -1877,7 +1887,7 @@
                 <![CDATA[ Injury Report ]]>
             </title>
             <link>https://www.nbcsportsedge.com/golf/golf/injury-report</link>
-            <guid isPermaLink="false">1666435528337</guid>
+            <guid isPermaLink="false">1666529199592</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -1887,7 +1897,7 @@
                 <![CDATA[ PL ]]>
             </title>
             <link>https://www.nbcsportsedge.com/sports/pl/soccer</link>
-            <guid isPermaLink="false">1666435528338</guid>
+            <guid isPermaLink="false">1666529199593</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -1897,7 +1907,7 @@
                 <![CDATA[ Soccer Betting ]]>
             </title>
             <link>https://www.nbcsportsedge.com/features/pl/bet</link>
-            <guid isPermaLink="false">1666435528339</guid>
+            <guid isPermaLink="false">1666529199594</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -1907,7 +1917,7 @@
                 <![CDATA[ Premier League ]]>
             </title>
             <link>https://edge-plus-bet.nbcsportsedge.com/pl/futures</link>
-            <guid isPermaLink="false">1666435528340</guid>
+            <guid isPermaLink="false">1666529199595</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -1917,7 +1927,7 @@
                 <![CDATA[ Videos ]]>
             </title>
             <link>https://www.nbcsportsedge.com/videos/soccer/pl</link>
-            <guid isPermaLink="false">1666435528341</guid>
+            <guid isPermaLink="false">1666529199596</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -1927,7 +1937,7 @@
                 <![CDATA[ Columns ]]>
             </title>
             <link>https://www.nbcsports.com/edge/features/pl</link>
-            <guid isPermaLink="false">1666435528342</guid>
+            <guid isPermaLink="false">1666529199597</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -1937,7 +1947,7 @@
                 <![CDATA[ NHL ]]>
             </title>
             <link>https://www.nbcsportsedge.com/sports/nhl/hockey</link>
-            <guid isPermaLink="false">1666435528343</guid>
+            <guid isPermaLink="false">1666529199598</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -1947,7 +1957,7 @@
                 <![CDATA[ NHL Betting ]]>
             </title>
             <link>https://www.nbcsportsedge.com/features/nhl/bet</link>
-            <guid isPermaLink="false">1666435528344</guid>
+            <guid isPermaLink="false">1666529199599</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -1957,7 +1967,7 @@
                 <![CDATA[ NHL ]]>
             </title>
             <link>https://edge-plus-bet.nbcsportsedge.com/nhl/live_odds</link>
-            <guid isPermaLink="false">1666435528345</guid>
+            <guid isPermaLink="false">1666529199600</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -1967,7 +1977,7 @@
                 <![CDATA[ NHL ]]>
             </title>
             <link>https://edge-plus-bet.nbcsportsedge.com/nhl/futures</link>
-            <guid isPermaLink="false">1666435528346</guid>
+            <guid isPermaLink="false">1666529199601</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -1977,7 +1987,7 @@
                 <![CDATA[ More NHL Columns ]]>
             </title>
             <link>https://www.nbcsportsedge.com/features/nhl</link>
-            <guid isPermaLink="false">1666435528347</guid>
+            <guid isPermaLink="false">1666529199602</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -1987,7 +1997,7 @@
                 <![CDATA[ Videos ]]>
             </title>
             <link>https://www.nbcsportsedge.com/videos/hockey/nhl</link>
-            <guid isPermaLink="false">1666435528348</guid>
+            <guid isPermaLink="false">1666529199603</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -1997,7 +2007,7 @@
                 <![CDATA[ Tennis ]]>
             </title>
             <link>https://www.nbcsportsedge.com/sports/ten/tennis</link>
-            <guid isPermaLink="false">1666435528349</guid>
+            <guid isPermaLink="false">1666529199604</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -2007,7 +2017,7 @@
                 <![CDATA[ WNBA ]]>
             </title>
             <link>https://www.nbcsportsedge.com/sports/wnba/womens-basketball</link>
-            <guid isPermaLink="false">1666435528350</guid>
+            <guid isPermaLink="false">1666529199605</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -2017,7 +2027,7 @@
                 <![CDATA[ Betting Home ]]>
             </title>
             <link>https://www.nbcsportsedge.com/bet</link>
-            <guid isPermaLink="false">1666435528351</guid>
+            <guid isPermaLink="false">1666529199606</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -2027,7 +2037,7 @@
                 <![CDATA[ CBB ]]>
             </title>
             <link>https://edge-plus-bet.nbcsportsedge.com/cbb/live_odds</link>
-            <guid isPermaLink="false">1666435528352</guid>
+            <guid isPermaLink="false">1666529199607</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -2037,7 +2047,7 @@
                 <![CDATA[ NFL ]]>
             </title>
             <link>https://edge-plus-bet.nbcsportsedge.com/nfl/futures</link>
-            <guid isPermaLink="false">1666435528353</guid>
+            <guid isPermaLink="false">1666529199608</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -2047,7 +2057,7 @@
                 <![CDATA[ CBB ]]>
             </title>
             <link>https://edge-plus-bet.nbcsportsedge.com/cbb/futures</link>
-            <guid isPermaLink="false">1666435528354</guid>
+            <guid isPermaLink="false">1666529199609</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -2057,7 +2067,7 @@
                 <![CDATA[ Odds Converter ]]>
             </title>
             <link>https://edge-plus-bet.nbcsportsedge.com/bet_tools/odds_converter</link>
-            <guid isPermaLink="false">1666435528355</guid>
+            <guid isPermaLink="false">1666529199610</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -2067,7 +2077,7 @@
                 <![CDATA[ Parlay Calculator ]]>
             </title>
             <link>https://edge-plus-bet.nbcsportsedge.com/bet_tools/parlay_calculator</link>
-            <guid isPermaLink="false">1666435528356</guid>
+            <guid isPermaLink="false">1666529199611</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -2077,7 +2087,7 @@
                 <![CDATA[ Hedge Calculator ]]>
             </title>
             <link>https://edge-plus-bet.nbcsportsedge.com/bet_tools/hedge_calculator</link>
-            <guid isPermaLink="false">1666435528357</guid>
+            <guid isPermaLink="false">1666529199612</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -2087,7 +2097,7 @@
                 <![CDATA[ Battle of the Bets ]]>
             </title>
             <link>https://www.nbcsportsedge.com/article/multimedia/battle-bets-content-hub</link>
-            <guid isPermaLink="false">1666435528358</guid>
+            <guid isPermaLink="false">1666529199613</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -2097,7 +2107,7 @@
                 <![CDATA[ NFL ]]>
             </title>
             <link>https://www.nbcsportsedge.com/betting/nfl</link>
-            <guid isPermaLink="false">1666435528359</guid>
+            <guid isPermaLink="false">1666529199614</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -2107,7 +2117,7 @@
                 <![CDATA[ NBA ]]>
             </title>
             <link>https://www.nbcsportsedge.com/betting/nba</link>
-            <guid isPermaLink="false">1666435528360</guid>
+            <guid isPermaLink="false">1666529199615</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -2117,7 +2127,7 @@
                 <![CDATA[ MLB ]]>
             </title>
             <link>https://www.nbcsportsedge.com/betting/mlb</link>
-            <guid isPermaLink="false">1666435528361</guid>
+            <guid isPermaLink="false">1666529199616</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -2127,7 +2137,7 @@
                 <![CDATA[ Golf ]]>
             </title>
             <link>https://www.nbcsportsedge.com/betting/golf</link>
-            <guid isPermaLink="false">1666435528362</guid>
+            <guid isPermaLink="false">1666529199617</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -2137,7 +2147,7 @@
                 <![CDATA[ Soccer ]]>
             </title>
             <link>https://www.nbcsportsedge.com/betting/soccer</link>
-            <guid isPermaLink="false">1666435528363</guid>
+            <guid isPermaLink="false">1666529199618</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -2147,7 +2157,7 @@
                 <![CDATA[ NHL ]]>
             </title>
             <link>https://www.nbcsportsedge.com/betting/nhl</link>
-            <guid isPermaLink="false">1666435528364</guid>
+            <guid isPermaLink="false">1666529199619</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -2157,7 +2167,7 @@
                 <![CDATA[ MMA ]]>
             </title>
             <link>https://www.nbcsportsedge.com/sports/mma/mma</link>
-            <guid isPermaLink="false">1666435528365</guid>
+            <guid isPermaLink="false">1666529199620</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -2167,7 +2177,7 @@
                 <![CDATA[ Boxing ]]>
             </title>
             <link>https://www.nbcsportsedge.com/sports/box/boxing</link>
-            <guid isPermaLink="false">1666435528366</guid>
+            <guid isPermaLink="false">1666529199621</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -2177,7 +2187,7 @@
                 <![CDATA[ Horse Racing ]]>
             </title>
             <link>https://www.nbcsportsedge.com/sports/hor/horse-racing</link>
-            <guid isPermaLink="false">1666435528367</guid>
+            <guid isPermaLink="false">1666529199622</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -2187,7 +2197,7 @@
                 <![CDATA[ CBB ]]>
             </title>
             <link>https://www.nbcsportsedge.com/sports/cbb/college-basketball</link>
-            <guid isPermaLink="false">1666435528368</guid>
+            <guid isPermaLink="false">1666529199623</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -2197,7 +2207,7 @@
                 <![CDATA[ Betting 101 ]]>
             </title>
             <link>https://www.nbcsportsedge.com#menu</link>
-            <guid isPermaLink="false">1666435528369</guid>
+            <guid isPermaLink="false">1666529199624</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -2207,7 +2217,7 @@
                 <![CDATA[ Futures ]]>
             </title>
             <link>https://www.nbcsportsedge.com/article/nfl-betting/betting-101-how-bet-futures</link>
-            <guid isPermaLink="false">1666435528370</guid>
+            <guid isPermaLink="false">1666529199626</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -2217,7 +2227,7 @@
                 <![CDATA[ Getting the Best Number ]]>
             </title>
             <link>https://www.nbcsportsedge.com/article/nfl-betting/betting-101-how-get-best-number</link>
-            <guid isPermaLink="false">1666435528371</guid>
+            <guid isPermaLink="false">1666529199627</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -2227,7 +2237,7 @@
                 <![CDATA[ Parlays ]]>
             </title>
             <link>https://www.nbcsportsedge.com/article/nfl-betting/betting-101-how-make-parlays</link>
-            <guid isPermaLink="false">1666435528372</guid>
+            <guid isPermaLink="false">1666529199628</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -2237,7 +2247,7 @@
                 <![CDATA[ Market Timing ]]>
             </title>
             <link>https://www.nbcsportsedge.com/article/nfl-betting/betting-101-market-timing</link>
-            <guid isPermaLink="false">1666435528373</guid>
+            <guid isPermaLink="false">1666529199629</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -2247,7 +2257,7 @@
                 <![CDATA[ Player Value Relative to Spread ]]>
             </title>
             <link>https://www.nbcsportsedge.com/article/nfl-betting/betting-101-player-value-relative-spread</link>
-            <guid isPermaLink="false">1666435528374</guid>
+            <guid isPermaLink="false">1666529199630</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -2257,7 +2267,7 @@
                 <![CDATA[ Line Movement & Middling ]]>
             </title>
             <link>https://www.nbcsportsedge.com/article/nfl-betting/betting-101-line-movement-and-middling</link>
-            <guid isPermaLink="false">1666435528375</guid>
+            <guid isPermaLink="false">1666529199631</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -2267,7 +2277,7 @@
                 <![CDATA[ Teasers ]]>
             </title>
             <link>https://www.nbcsportsedge.com/article/nfl-betting/betting-101-how-properly-bet-nfl-teasers</link>
-            <guid isPermaLink="false">1666435528376</guid>
+            <guid isPermaLink="false">1666529199632</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -2277,7 +2287,7 @@
                 <![CDATA[ Buying Points ]]>
             </title>
             <link>https://www.nbcsportsedge.com/article/nfl-betting/betting-101-when-buy-points</link>
-            <guid isPermaLink="false">1666435528377</guid>
+            <guid isPermaLink="false">1666529199633</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -2287,7 +2297,7 @@
                 <![CDATA[ Derivative Markets ]]>
             </title>
             <link>https://www.nbcsportsedge.com/article/nfl-betting/betting-101-how-bet-derivative-markets</link>
-            <guid isPermaLink="false">1666435528378</guid>
+            <guid isPermaLink="false">1666529199634</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -2297,7 +2307,7 @@
                 <![CDATA[ Forums ]]>
             </title>
             <link>https://forums.nbcsportsedge.com/</link>
-            <guid isPermaLink="false">1666435528379</guid>
+            <guid isPermaLink="false">1666529199635</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -2307,7 +2317,7 @@
                 <![CDATA[ ROTO App ]]>
             </title>
             <link>https://www.nbcsportsedge.com/app</link>
-            <guid isPermaLink="false">1666435528380</guid>
+            <guid isPermaLink="false">1666529199636</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -2317,7 +2327,7 @@
                 <![CDATA[ Predictor ]]>
             </title>
             <link>https://www.nbcsportsedge.com/predictor</link>
-            <guid isPermaLink="false">1666435528381</guid>
+            <guid isPermaLink="false">1666529199637</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -2327,7 +2337,7 @@
                 <![CDATA[ Help ]]>
             </title>
             <link>https://www.nbcsportsedge.com/frequently-asked-questions</link>
-            <guid isPermaLink="false">1666435528382</guid>
+            <guid isPermaLink="false">1666529199638</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -2337,27 +2347,7 @@
                 <![CDATA[ Premium ]]>
             </title>
             <link>https://www.nbcsportsedge.com#</link>
-            <guid isPermaLink="false">1666435528383</guid>
-            <dc:creator>
-                <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
-            </dc:creator>
-        </item>
-        <item>
-            <title>
-                <![CDATA[ More ]]>
-            </title>
-            <link>https://www.nbcsportsedge.com/article/odds-and-ends/chalk-talk-staff-picks-week-8-favorites</link>
-            <guid isPermaLink="false">1666435528384</guid>
-            <dc:creator>
-                <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
-            </dc:creator>
-        </item>
-        <item>
-            <title>
-                <![CDATA[ More ]]>
-            </title>
-            <link>https://www.nbcsportsedge.com/article/waiver-wired/nba-waiver-wired-week-1-0</link>
-            <guid isPermaLink="false">1666435528385</guid>
+            <guid isPermaLink="false">1666529199639</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -2367,7 +2357,7 @@
                 <![CDATA[ GET MORE PICKS ]]>
             </title>
             <link>https://edge-plus.nbcsportsedge.com/pricing?utm_tags=edge2296</link>
-            <guid isPermaLink="false">1666435528386</guid>
+            <guid isPermaLink="false">1666529199640</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -2377,7 +2367,7 @@
                 <![CDATA[ NFL ]]>
             </title>
             <link>https://www.nbcsportsedge.com/nfl</link>
-            <guid isPermaLink="false">1666435528387</guid>
+            <guid isPermaLink="false">1666529199641</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -2385,19 +2375,9 @@
         <item>
             <title>
                 <![CDATA[ More ]]>
-            </title>
-            <link>https://www.nbcsportsedge.com/article/press-coverage/press-coverage-russ-lockett-keenan-allen</link>
-            <guid isPermaLink="false">1666435528388</guid>
-            <dc:creator>
-                <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
-            </dc:creator>
-        </item>
-        <item>
-            <title>
-                <![CDATA[ Week 7 Fantasy Football Rankings: RB ]]>
             </title>
             <link>https://www.nbcsportsedge.com/article/nfl-rankings/week-7-fantasy-football-rankings-rb-october-20-2022</link>
-            <guid isPermaLink="false">1666435528389</guid>
+            <guid isPermaLink="false">1666529199642</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -2405,19 +2385,19 @@
         <item>
             <title>
                 <![CDATA[ More ]]>
+            </title>
+            <link>https://www.nbcsportsedge.com/article/pickup-day/pickup-day-october-23-2022</link>
+            <guid isPermaLink="false">1666529199643</guid>
+            <dc:creator>
+                <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
+            </dc:creator>
+        </item>
+        <item>
+            <title>
+                <![CDATA[ Pickup of the Day ]]>
             </title>
             <link>https://www.nbcsportsedge.com/article/pickup-day/pickup-day-october-22-2022</link>
-            <guid isPermaLink="false">1666435528390</guid>
-            <dc:creator>
-                <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
-            </dc:creator>
-        </item>
-        <item>
-            <title>
-                <![CDATA[ Waiver Wire Pickups Podcast: Week 1 ]]>
-            </title>
-            <link>https://www.nbcsportsedge.com/article/podcasts/waiver-wire-pickups-podcast-week-1-october-21-2022</link>
-            <guid isPermaLink="false">1666435528391</guid>
+            <guid isPermaLink="false">1666529199644</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -2426,8 +2406,18 @@
             <title>
                 <![CDATA[ More ]]>
             </title>
+            <link>https://www.nbcsportsedge.com/article/odds-and-ends/mlb-best-bets-october-22</link>
+            <guid isPermaLink="false">1666529199645</guid>
+            <dc:creator>
+                <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
+            </dc:creator>
+        </item>
+        <item>
+            <title>
+                <![CDATA[ MLB Best Bets for October 21 ]]>
+            </title>
             <link>https://www.nbcsportsedge.com/article/odds-and-ends/mlb-best-bets-october-21</link>
-            <guid isPermaLink="false">1666435528392</guid>
+            <guid isPermaLink="false">1666529199646</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -2437,17 +2427,7 @@
                 <![CDATA[ Team Roundup: Chicago Cubs ]]>
             </title>
             <link>https://www.nbcsportsedge.com/article/team-roundups/team-roundup-chicago-cubs</link>
-            <guid isPermaLink="false">1666435528393</guid>
-            <dc:creator>
-                <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
-            </dc:creator>
-        </item>
-        <item>
-            <title>
-                <![CDATA[ MLB Best Bets for October 20 ]]>
-            </title>
-            <link>https://www.nbcsportsedge.com/article/odds-and-ends/mlb-best-bets-october-20-october-20-2022</link>
-            <guid isPermaLink="false">1666435528394</guid>
+            <guid isPermaLink="false">1666529199647</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -2456,28 +2436,18 @@
             <title>
                 <![CDATA[ More ]]>
             </title>
+            <link>https://www.nbcsportsedge.com/article/battle-bets/battle-bets-content-hub</link>
+            <guid isPermaLink="false">1666529199648</guid>
+            <dc:creator>
+                <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
+            </dc:creator>
+        </item>
+        <item>
+            <title>
+                <![CDATA[ Week 8 CFB Player Props Primer ]]>
+            </title>
             <link>https://www.nbcsportsedge.com/article/weekly-picks/week-8-cfb-player-props-primer-october-21-2022</link>
-            <guid isPermaLink="false">1666435528395</guid>
-            <dc:creator>
-                <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
-            </dc:creator>
-        </item>
-        <item>
-            <title>
-                <![CDATA[ College Football Week 8 Bets: Boise St, SDSU ]]>
-            </title>
-            <link>https://www.nbcsportsedge.com/article/dalzells-dish/college-football-week-8-bets-boise-st-sdsu</link>
-            <guid isPermaLink="false">1666435528396</guid>
-            <dc:creator>
-                <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
-            </dc:creator>
-        </item>
-        <item>
-            <title>
-                <![CDATA[ Bet the OSU Offense to Score Early and Often ]]>
-            </title>
-            <link>https://www.nbcsportsedge.com/article/big-ten-bets/bet-osu-offense-score-early-and-often</link>
-            <guid isPermaLink="false">1666435528397</guid>
+            <guid isPermaLink="false">1666529199649</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -2487,7 +2457,7 @@
                 <![CDATA[ CJ Cup: Young is a perfect FRL Option ]]>
             </title>
             <link>https://www.nbcsportsedge.com/article/odds-and-ends/cj-cup-young-perfect-frl-option</link>
-            <guid isPermaLink="false">1666435528398</guid>
+            <guid isPermaLink="false">1666529199650</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -2497,7 +2467,7 @@
                 <![CDATA[ CJ CUP Matchups: Firm and Fast Stars ]]>
             </title>
             <link>https://www.nbcsportsedge.com/article/odds-and-ends/cj-cup-matchups-firm-and-fast-stars</link>
-            <guid isPermaLink="false">1666435528399</guid>
+            <guid isPermaLink="false">1666529199651</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -2507,7 +2477,7 @@
                 <![CDATA[ More ]]>
             </title>
             <link>https://www.nbcsportsedge.com/article/superstar-power-rankings/wwe-ranks-rollins-riding-high-us-champ</link>
-            <guid isPermaLink="false">1666435528400</guid>
+            <guid isPermaLink="false">1666529199652</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -2517,7 +2487,7 @@
                 <![CDATA[ More WWE Columns ]]>
             </title>
             <link>https://www.nbcsportsedge.com/features/wwe</link>
-            <guid isPermaLink="false">1666435528401</guid>
+            <guid isPermaLink="false">1666529199653</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -2526,8 +2496,18 @@
             <title>
                 <![CDATA[ More ]]>
             </title>
+            <link>https://www.nbcsportsedge.com/article/berniers-best/epl-overlays-october-23</link>
+            <guid isPermaLink="false">1666529199654</guid>
+            <dc:creator>
+                <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
+            </dc:creator>
+        </item>
+        <item>
+            <title>
+                <![CDATA[ PL Best Bets: Low-scoring in West Midlands ]]>
+            </title>
             <link>https://www.nbcsportsedge.com/article/odds-and-ends/pl-best-bets-low-scoring-west-midlands</link>
-            <guid isPermaLink="false">1666435528402</guid>
+            <guid isPermaLink="false">1666529199655</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -2537,17 +2517,7 @@
                 <![CDATA[ EPL Overlays for October 22 ]]>
             </title>
             <link>https://www.nbcsportsedge.com/article/berniers-best/epl-overlays-october-22</link>
-            <guid isPermaLink="false">1666435528403</guid>
-            <dc:creator>
-                <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
-            </dc:creator>
-        </item>
-        <item>
-            <title>
-                <![CDATA[ EPL Overlays for October 16 ]]>
-            </title>
-            <link>https://www.nbcsportsedge.com/article/berniers-best/epl-overlays-october-16</link>
-            <guid isPermaLink="false">1666435528404</guid>
+            <guid isPermaLink="false">1666529199656</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -2557,7 +2527,7 @@
                 <![CDATA[ More PL Columns ]]>
             </title>
             <link>https://www.nbcsportsedge.com/features/pl</link>
-            <guid isPermaLink="false">1666435528405</guid>
+            <guid isPermaLink="false">1666529199657</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -2567,7 +2537,7 @@
                 <![CDATA[ More ]]>
             </title>
             <link>https://www.nbcsportsedge.com/article/berniers-best/nhl-projections-and-bets-october-21</link>
-            <guid isPermaLink="false">1666435528406</guid>
+            <guid isPermaLink="false">1666529199658</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -2577,7 +2547,7 @@
                 <![CDATA[ NHL Projections and Bets for October 20 ]]>
             </title>
             <link>https://www.nbcsportsedge.com/article/berniers-best/nhl-projections-and-bets-october-20</link>
-            <guid isPermaLink="false">1666435528407</guid>
+            <guid isPermaLink="false">1666529199659</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -2587,7 +2557,7 @@
                 <![CDATA[ NHL Projections and Bets for October 19 ]]>
             </title>
             <link>https://www.nbcsportsedge.com/article/berniers-best/nhl-projections-and-bets-october-19</link>
-            <guid isPermaLink="false">1666435528408</guid>
+            <guid isPermaLink="false">1666529199660</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -2597,7 +2567,7 @@
                 <![CDATA[ More ]]>
             </title>
             <link>https://www.nbcsportsedge.com/article/odds-and-ends/tennis-best-bets-october-21-october-20-2022</link>
-            <guid isPermaLink="false">1666435528409</guid>
+            <guid isPermaLink="false">1666529199661</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -2607,7 +2577,7 @@
                 <![CDATA[ Tennis Best Bets for October 14 ]]>
             </title>
             <link>https://www.nbcsportsedge.com/article/odds-and-ends/tennis-best-bets-october-14</link>
-            <guid isPermaLink="false">1666435528410</guid>
+            <guid isPermaLink="false">1666529199662</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -2617,7 +2587,7 @@
                 <![CDATA[ Tennis Best Bets for October 13 ]]>
             </title>
             <link>https://www.nbcsportsedge.com/article/odds-and-ends/tennis-best-bets-october-13-october-12-2022</link>
-            <guid isPermaLink="false">1666435528411</guid>
+            <guid isPermaLink="false">1666529199663</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -2627,7 +2597,7 @@
                 <![CDATA[ More Tennis Columns ]]>
             </title>
             <link>https://www.nbcsportsedge.com/features/ten</link>
-            <guid isPermaLink="false">1666435528412</guid>
+            <guid isPermaLink="false">1666529199664</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -2637,7 +2607,7 @@
                 <![CDATA[ More ]]>
             </title>
             <link>https://www.nbcsportsedge.com/article/berniers-best/weekend-stakes-previews-october-22</link>
-            <guid isPermaLink="false">1666435528413</guid>
+            <guid isPermaLink="false">1666529199665</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -2647,7 +2617,7 @@
                 <![CDATA[ Weekend Stakes Previews for October 15 ]]>
             </title>
             <link>https://www.nbcsportsedge.com/article/berniers-best/weekend-stakes-previews-october-15</link>
-            <guid isPermaLink="false">1666435528414</guid>
+            <guid isPermaLink="false">1666529199666</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -2657,7 +2627,7 @@
                 <![CDATA[ Weekend Stakes Previews for October 8, 9 ]]>
             </title>
             <link>https://www.nbcsportsedge.com/article/berniers-best/weekend-stakes-previews-october-8-9</link>
-            <guid isPermaLink="false">1666435528415</guid>
+            <guid isPermaLink="false">1666529199667</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -2667,7 +2637,7 @@
                 <![CDATA[ More Horse Racing Columns ]]>
             </title>
             <link>https://www.nbcsportsedge.com/features/hor</link>
-            <guid isPermaLink="false">1666435528416</guid>
+            <guid isPermaLink="false">1666529199668</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -2677,7 +2647,7 @@
                 <![CDATA[ NASCAR ]]>
             </title>
             <link>https://www.nbcsportsedge.com/sports/nas/auto-racing</link>
-            <guid isPermaLink="false">1666435528417</guid>
+            <guid isPermaLink="false">1666529199669</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -2687,7 +2657,7 @@
                 <![CDATA[ More ]]>
             </title>
             <link>https://www.nbcsportsedge.com/article/cap-considerations/firekeepers-casino-400-dfs-gems-august-05-2022</link>
-            <guid isPermaLink="false">1666435528418</guid>
+            <guid isPermaLink="false">1666529199670</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -2697,7 +2667,7 @@
                 <![CDATA[ FireKeepers Casino 400 Dark Horses ]]>
             </title>
             <link>https://www.nbcsportsedge.com/article/best-bets/firekeepers-casino-400-dark-horses-august-04-2022</link>
-            <guid isPermaLink="false">1666435528419</guid>
+            <guid isPermaLink="false">1666529199671</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -2707,7 +2677,7 @@
                 <![CDATA[ Beaver’s Best Bets for the FireKeepers Casino ]]>
             </title>
             <link>https://www.nbcsportsedge.com/article/best-bets/beavers-best-bets-firekeepers-casino</link>
-            <guid isPermaLink="false">1666435528420</guid>
+            <guid isPermaLink="false">1666529199672</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -2717,7 +2687,7 @@
                 <![CDATA[ More NASCAR Columns ]]>
             </title>
             <link>https://www.nbcsportsedge.com/features/nas</link>
-            <guid isPermaLink="false">1666435528421</guid>
+            <guid isPermaLink="false">1666529199673</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -2727,7 +2697,7 @@
                 <![CDATA[ More ]]>
             </title>
             <link>https://www.nbcsportsedge.com/article/ike-fights/ufc-277-undercard-preview</link>
-            <guid isPermaLink="false">1666435528422</guid>
+            <guid isPermaLink="false">1666529199674</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -2737,7 +2707,7 @@
                 <![CDATA[ Aspinall vs. Blaydes Undercard Preview ]]>
             </title>
             <link>https://www.nbcsportsedge.com/article/ike-fights/aspinall-vs-blaydes-undercard-preview</link>
-            <guid isPermaLink="false">1666435528423</guid>
+            <guid isPermaLink="false">1666529199675</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -2747,7 +2717,7 @@
                 <![CDATA[ UFC on ABC 3 Betting Guide: Ortega v Rodriguez ]]>
             </title>
             <link>https://www.nbcsportsedge.com/article/clinch/ufc-abc-3-betting-guide-ortega-v-rodriguez</link>
-            <guid isPermaLink="false">1666435528424</guid>
+            <guid isPermaLink="false">1666529199676</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -2757,7 +2727,7 @@
                 <![CDATA[ More MMA Columns ]]>
             </title>
             <link>https://www.nbcsportsedge.com/features/mma</link>
-            <guid isPermaLink="false">1666435528425</guid>
+            <guid isPermaLink="false">1666529199677</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -2767,7 +2737,7 @@
                 <![CDATA[ More ]]>
             </title>
             <link>https://www.nbcsportsedge.com/article/ike-fights/beterbiev-vs-smith-preview</link>
-            <guid isPermaLink="false">1666435528426</guid>
+            <guid isPermaLink="false">1666529199678</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -2777,7 +2747,7 @@
                 <![CDATA[ George Kambosos Jr. vs. Devin Haney Preview ]]>
             </title>
             <link>https://www.nbcsportsedge.com/article/ike-fights/george-kambosos-jr-vs-devin-haney-preview</link>
-            <guid isPermaLink="false">1666435528427</guid>
+            <guid isPermaLink="false">1666529199679</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -2787,7 +2757,7 @@
                 <![CDATA[ Benavidez vs. Lemieux Preview ]]>
             </title>
             <link>https://www.nbcsportsedge.com/article/ike-fights/benavidez-vs-lemieux-preview</link>
-            <guid isPermaLink="false">1666435528428</guid>
+            <guid isPermaLink="false">1666529199680</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -2797,7 +2767,7 @@
                 <![CDATA[ More Boxing Columns ]]>
             </title>
             <link>https://www.nbcsportsedge.com/features/box</link>
-            <guid isPermaLink="false">1666435528429</guid>
+            <guid isPermaLink="false">1666529199681</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -2807,7 +2777,7 @@
                 <![CDATA[ More ]]>
             </title>
             <link>https://www.nbcsportsedge.com/article/wolfs-wagers/wnba-offseason-2023-championship-odds-movers</link>
-            <guid isPermaLink="false">1666435528430</guid>
+            <guid isPermaLink="false">1666529199682</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -2817,7 +2787,7 @@
                 <![CDATA[ WNBA Finals: Value on Finals MVP and Props ]]>
             </title>
             <link>https://www.nbcsportsedge.com/article/wolfs-wagers/wnba-finals-value-finals-mvp-and-props</link>
-            <guid isPermaLink="false">1666435528431</guid>
+            <guid isPermaLink="false">1666529199683</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -2827,7 +2797,7 @@
                 <![CDATA[ WNBA Finals: Game 2 Props and Betting Preview ]]>
             </title>
             <link>https://www.nbcsportsedge.com/article/wolfs-wagers/wnba-finals-game-2-props-and-betting-preview</link>
-            <guid isPermaLink="false">1666435528432</guid>
+            <guid isPermaLink="false">1666529199684</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -2837,7 +2807,7 @@
                 <![CDATA[ More WNBA Columns ]]>
             </title>
             <link>https://www.nbcsportsedge.com/features/wnba</link>
-            <guid isPermaLink="false">1666435528433</guid>
+            <guid isPermaLink="false">1666529199685</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -2847,7 +2817,7 @@
                 <![CDATA[ More ]]>
             </title>
             <link>https://www.nbcsportsedge.com/article/odds-and-ends/cbb-edge-finder-unc-kansas-national-title</link>
-            <guid isPermaLink="false">1666435528434</guid>
+            <guid isPermaLink="false">1666529199686</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -2857,7 +2827,7 @@
                 <![CDATA[ Breaking down UNC-Kansas and The Masters ]]>
             </title>
             <link>https://www.nbcsportsedge.com/article/bet-edge-podcast/breaking-down-unc-kansas-and-masters</link>
-            <guid isPermaLink="false">1666435528435</guid>
+            <guid isPermaLink="false">1666529199687</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -2867,7 +2837,7 @@
                 <![CDATA[ March Madness Content Hub ]]>
             </title>
             <link>https://www.nbcsportsedge.com/article/week-ahead/march-madness-content-hub</link>
-            <guid isPermaLink="false">1666435528436</guid>
+            <guid isPermaLink="false">1666529199688</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -2877,7 +2847,7 @@
                 <![CDATA[ More CBB Columns ]]>
             </title>
             <link>https://www.nbcsportsedge.com/features/cbb</link>
-            <guid isPermaLink="false">1666435528437</guid>
+            <guid isPermaLink="false">1666529199689</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -2887,7 +2857,7 @@
                 <![CDATA[ Contact Us ]]>
             </title>
             <link>https://www.nbcsportsedge.com/edge/contact-us</link>
-            <guid isPermaLink="false">1666435528438</guid>
+            <guid isPermaLink="false">1666529199690</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -2897,7 +2867,7 @@
                 <![CDATA[ FAQs ]]>
             </title>
             <link>https://www.nbcsportsedge.com/edge/frequently-asked-questions</link>
-            <guid isPermaLink="false">1666435528439</guid>
+            <guid isPermaLink="false">1666529199691</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -2907,7 +2877,7 @@
                 <![CDATA[ Terms of Service ]]>
             </title>
             <link>http://www.nbcsports.com/terms-use</link>
-            <guid isPermaLink="false">1666435528440</guid>
+            <guid isPermaLink="false">1666529199692</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -2917,7 +2887,7 @@
                 <![CDATA[ Tickets ]]>
             </title>
             <link>http://www.stubhub.com/?ref=nbcsports_rw</link>
-            <guid isPermaLink="false">1666435528441</guid>
+            <guid isPermaLink="false">1666529199693</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -2927,7 +2897,7 @@
                 <![CDATA[ Sports Jobs ]]>
             </title>
             <link>http://www.workinsports.com/nbc-sports-jobs/?ref=1525</link>
-            <guid isPermaLink="false">1666435528442</guid>
+            <guid isPermaLink="false">1666529199694</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -2937,7 +2907,7 @@
                 <![CDATA[ NBCSportsEDGE: @NBCSportsEDGE ]]>
             </title>
             <link>http://twitter.com/nbcsportsedge</link>
-            <guid isPermaLink="false">1666435528443</guid>
+            <guid isPermaLink="false">1666529199695</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -2947,7 +2917,7 @@
                 <![CDATA[ Baseball Draft Guide ]]>
             </title>
             <link>https://edge-plus.nbcsports.com/mlb/draft-guide</link>
-            <guid isPermaLink="false">1666435528444</guid>
+            <guid isPermaLink="false">1666529199696</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -2957,7 +2927,7 @@
                 <![CDATA[ Baseball Season Tools ]]>
             </title>
             <link>https://edge-plus.nbcsports.com/mlb/seasonpass</link>
-            <guid isPermaLink="false">1666435528445</guid>
+            <guid isPermaLink="false">1666529199697</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -2967,7 +2937,7 @@
                 <![CDATA[ Baseball DFS Tools ]]>
             </title>
             <link>https://edge-plus-dfs.nbcsports.com/mlb/optimizer</link>
-            <guid isPermaLink="false">1666435528446</guid>
+            <guid isPermaLink="false">1666529199698</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -2977,7 +2947,7 @@
                 <![CDATA[ Baseball Betting Tools ]]>
             </title>
             <link>https://edge-plus-bet.nbcsports.com/mlb/edge_finder</link>
-            <guid isPermaLink="false">1666435528447</guid>
+            <guid isPermaLink="false">1666529199699</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -2987,7 +2957,7 @@
                 <![CDATA[ Basketball Draft Guide ]]>
             </title>
             <link>https://edge-plus.nbcsports.com/nba/draft-guide</link>
-            <guid isPermaLink="false">1666435528448</guid>
+            <guid isPermaLink="false">1666529199700</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -2997,7 +2967,7 @@
                 <![CDATA[ Basketball Season Tools ]]>
             </title>
             <link>https://edge-plus.nbcsports.com/nba/season-pass</link>
-            <guid isPermaLink="false">1666435528449</guid>
+            <guid isPermaLink="false">1666529199701</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -3007,7 +2977,7 @@
                 <![CDATA[ Basketball DFS Tools ]]>
             </title>
             <link>https://edge-plus-dfs.nbcsports.com/nba/optimizer</link>
-            <guid isPermaLink="false">1666435528450</guid>
+            <guid isPermaLink="false">1666529199702</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -3017,7 +2987,7 @@
                 <![CDATA[ Basketball Betting Tools ]]>
             </title>
             <link>https://edge-plus-bet.nbcsports.com/nba/edge_finder</link>
-            <guid isPermaLink="false">1666435528451</guid>
+            <guid isPermaLink="false">1666529199703</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -3027,7 +2997,7 @@
                 <![CDATA[ Football Draft Guide ]]>
             </title>
             <link>https://edge-plus.nbcsports.com/nfl/draft-guide</link>
-            <guid isPermaLink="false">1666435528452</guid>
+            <guid isPermaLink="false">1666529199704</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -3037,7 +3007,7 @@
                 <![CDATA[ Football Season Tools ]]>
             </title>
             <link>https://edge-plus.nbcsports.com/nfl/season-pass</link>
-            <guid isPermaLink="false">1666435528453</guid>
+            <guid isPermaLink="false">1666529199705</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -3047,7 +3017,7 @@
                 <![CDATA[ Football DFS Tools ]]>
             </title>
             <link>https://edge-plus-dfs.nbcsports.com/nfl/optimizer</link>
-            <guid isPermaLink="false">1666435528454</guid>
+            <guid isPermaLink="false">1666529199706</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -3057,7 +3027,7 @@
                 <![CDATA[ Football Betting Tools ]]>
             </title>
             <link>https://edge-plus-bet.nbcsports.com/nfl/edge_finder</link>
-            <guid isPermaLink="false">1666435528455</guid>
+            <guid isPermaLink="false">1666529199707</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -3067,7 +3037,7 @@
                 <![CDATA[ Hockey Draft Guide ]]>
             </title>
             <link>https://edge-plus.nbcsports.com/nhl/draft-guide</link>
-            <guid isPermaLink="false">1666435528456</guid>
+            <guid isPermaLink="false">1666529199708</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -3077,7 +3047,7 @@
                 <![CDATA[ Hockey Season Tools ]]>
             </title>
             <link>https://edge-plus.nbcsports.com/nhl/season-pass</link>
-            <guid isPermaLink="false">1666435528457</guid>
+            <guid isPermaLink="false">1666529199709</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -3087,7 +3057,7 @@
                 <![CDATA[ Hockey DFS Tools ]]>
             </title>
             <link>https://edge-plus-dfs.nbcsports.com/nhl/optimizer</link>
-            <guid isPermaLink="false">1666435528458</guid>
+            <guid isPermaLink="false">1666529199710</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>
@@ -3097,7 +3067,7 @@
                 <![CDATA[ Hockey Betting Tools ]]>
             </title>
             <link>https://edge-plus-bet.nbcsports.com/nhl/edge_finder</link>
-            <guid isPermaLink="false">1666435528459</guid>
+            <guid isPermaLink="false">1666529199711</guid>
             <dc:creator>
                 <![CDATA[ https://www.offcampuscareer.com/sitemapscanner/new ]]>
             </dc:creator>

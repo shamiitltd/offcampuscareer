@@ -11,8 +11,8 @@ const {
 const {
     getJobTimePeriodType,
     uploadToDynamoDB,
-    checkAuthentication,
     uploadDividedDataToBDs,
+    checkAuthentication,
     deleteDataFromBothDBsById
 } = require( './libraries/normal_functions' );
 const {
@@ -30,10 +30,13 @@ const routes = express.Router();
 const bcrypt = require( 'bcrypt' );
 const saltRounds = 10;
 
-routes.post( '/postEditorial', ( req, res ) => {
-    uploadToDynamoDB( tables.names[ 0 ], '/', req, res );
+routes.post( '/postEditorial', checkAuthentication, ( req, res ) => {
+    if ( req.admin || req.editor ) {
+        uploadToDynamoDB( tables.names[ 0 ], '/', req, res );
+    } else {
+        res.redirect( '/nopage' );
+    }
 } )
-
 
 routes.post( '/postCourse', checkAuthentication, ( req, res ) => {
     let dataObject = req.body;
@@ -75,42 +78,59 @@ routes.post( '/resetNewPassword', async ( req, res ) => {
     resetNewPasswordFunction( dataObject, res );
 } )
 
-routes.post( '/postExitingForWomens', async ( req, res ) => {
+routes.post( '/postExitingForWomens', checkAuthentication, async ( req, res ) => {
     let dataObject = await req.body;
-    await uploadDividedDataToBDs( ForwomenData, tables.names[ 2 ], dataObject );
-    res.redirect( '/forwomen' );
+    if ( req.admin || req.editor ) {
+        await uploadDividedDataToBDs( ForwomenData, tables.names[ 2 ], dataObject, res, '/forwomen' );
+    } else {
+        res.redirect( '/nopage' );
+    }
 } )
 
-routes.post( '/postInternships', async ( req, res ) => {
+routes.post( '/postInternships', checkAuthentication, async ( req, res ) => {
     let newInternship = req.body;
-    newInternship = await getJobTimePeriodType( newInternship );
-    await uploadDividedDataToBDs( InternshipsData, tables.names[ 4 ], newInternship );
-    res.redirect( '/internships' );
+    if ( req.admin || req.editor ) {
+        newInternship = await getJobTimePeriodType( newInternship );
+        await uploadDividedDataToBDs( InternshipsData, tables.names[ 4 ], newInternship, res, '/internships' );
+    } else {
+        res.redirect( '/nopage' );
+    }
 } )
 
-routes.post( '/postJob', async ( req, res ) => {
+routes.post( '/postJob', checkAuthentication, async ( req, res ) => {
     let dataObject = req.body;
-    dataObject = await getJobTimePeriodType( dataObject );
-    await uploadDividedDataToBDs( JobsData, tables.names[ 6 ], dataObject );
-    res.redirect( '/jobs' );
+    if ( req.admin || req.editor ) {
+        dataObject = await getJobTimePeriodType( dataObject );
+        await uploadDividedDataToBDs( JobsData, tables.names[ 6 ], dataObject, res, '/jobs' );
+    } else {
+        res.redirect( '/nopage' );
+    }
 } )
 
-routes.post( '/postReferral', async ( req, res ) => {
+routes.post( '/postReferral', checkAuthentication, async ( req, res ) => {
     let dataObject = req.body;
-    dataObject = await getJobTimePeriodType( dataObject );
-    await uploadDividedDataToBDs( ReferralsData, tables.names[ 8 ], dataObject );
-    res.redirect( '/referral' );
+    if ( req.admin || req.editor ) {
+        dataObject = await getJobTimePeriodType( dataObject );
+        await uploadDividedDataToBDs( ReferralsData, tables.names[ 8 ], dataObject, res, '/referral' );
+    } else {
+        res.redirect( '/nopage' );
+    }
 } )
 
-routes.post( '/postScholarship', async ( req, res ) => {
+routes.post( '/postScholarship', checkAuthentication, async ( req, res ) => {
     let dataObject = req.body;
-    await uploadDividedDataToBDs( ScholarshipsData, tables.names[ 10 ], dataObject );
-    res.redirect( '/scholarships' );
+    if ( req.admin || req.editor ) {
+        await uploadDividedDataToBDs( ScholarshipsData, tables.names[ 10 ], dataObject, res, '/scholarships' );
+    } else {
+        res.redirect( '/nopage' );
+    }
 } )
 
-routes.post( '/deleteDataFromDb', async ( req, res ) => {
+routes.post( '/deleteDataFromDb', checkAuthentication, async ( req, res ) => {
     let infoObject = req.body;
-    await deleteDataFromBothDBsById( infoObject );
+    if ( req.admin ) {
+        await deleteDataFromBothDBsById( infoObject );
+    }
     res.redirect( `/${infoObject.database}` );
 } )
 
