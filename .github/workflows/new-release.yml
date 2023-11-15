@@ -1,0 +1,163 @@
+name: New Server Clean, Build, Deploy, Migrate
+
+on:
+  push:
+    branches: [ "master", "develop" ]
+  pull_request:
+    branches: [ "master" , "develop" ]
+  workflow_dispatch: # Manually run this workflow
+  
+jobs:
+  CLEANING-READY:
+    name: Clean Ready
+    runs-on: ubuntu-latest
+    environment: CLEAN
+    steps:
+      - name: Cleaning Permission okay
+        run: echo "Cleaning ready"
+  CLEANING:
+    name: Clean NEWSERVER
+    runs-on: ubuntu-latest
+    environment: NEWSERVER
+    needs: CLEANING-READY
+    steps:
+      - name: Cleaning NEWSERVER ftp server
+        run: |
+          sshpass -p "${{ secrets.SSH_PASSWORD }}" ssh -o StrictHostKeyChecking=no "${{ secrets.SSH_USER }}" << 'EOF'
+            cd "htdocs/${{ secrets.FTP_SERVER }}"
+            [ "$(basename "$(pwd)")" = "${{ secrets.FTP_SERVER }}" ] && rm -rf ./*
+          EOF
+
+
+  BUILD:
+    name: Build code
+    runs-on: ubuntu-latest
+    needs: CLEANING
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v3
+      
+      - name: Use Node.js with V18
+        uses: actions/setup-node@v3
+        with:
+          node-version: 18
+          cache: 'npm'
+      - run: npm ci
+      - run: npm run build --if-present
+      #- run: npm test
+
+      - name: Copy .env
+        run: cp -n .env.example .env
+
+      - name: Zip Repository
+        run: |
+          zip -r release.zip .
+        working-directory: ${{ github.workspace }}
+
+      - name: Upload ZIP Artifact
+        uses: actions/upload-artifact@v3
+        with:
+          name: release
+          path: release.zip
+          retention-days: 10
+
+
+  PRODUCTION:
+    name: Deploy in NEWSERVER
+    runs-on: ubuntu-latest
+    environment: NEWSERVER
+    needs: BUILD
+    steps:
+      - name: Download ZIP Artifact
+        uses: actions/download-artifact@v3
+        with:
+          name: release
+          path: release
+
+      - name: 📂 Sync files
+        uses: SamKirkland/FTP-Deploy-Action@v4.3.4
+        with:
+          server: ${{ secrets.FTP_SERVER }}
+          username: ${{ secrets.FTP_USERNAME }}
+          password: ${{ secrets.FTP_PASSWORD }}
+          local-dir: ./release/
+          exclude: |
+            **/.git*
+            **/.git*/**
+
+      - name: SSH into the server and unzip release.zip
+        run: |
+          sshpass -p "${{ secrets.SSH_PASSWORD }}" ssh -o StrictHostKeyChecking=no "${{ secrets.SSH_USER }}" << 'EOF'
+            cd "htdocs/${{ secrets.FTP_SERVER }}"
+            yes | unzip release.zip -d release
+          EOF
+
+      - name: Copy .env.example and .env, .htaccess from release directory only for php
+        run: |
+          sshpass -p "${{ secrets.SSH_PASSWORD }}" ssh -o StrictHostKeyChecking=no "${{ secrets.SSH_USER }}" << 'EOF'
+            cd "htdocs/${{ secrets.FTP_SERVER }}"
+            cp release/.env.example .env.example
+            cp release/.env .env
+            cp release/.htaccess .htaccess
+            rsync -av release/ . #recursively copy files
+            #Prepare .env file
+            sed -i "s/APP_ENV=.*/APP_ENV=${{ vars.APP_ENV }}/" .env
+            sed -i "s/APP_DEBUG=.*/APP_DEBUG=${{ vars.APP_DEBUG }}/" .env
+            sed -i "s/DB_DATABASE=.*/DB_DATABASE=${{ secrets.DB_DATABASE }}/" .env
+            sed -i "s/DB_USERNAME=.*/DB_USERNAME=${{ secrets.DB_USERNAME }}/" .env
+            sed -i "s/DB_PASSWORD=.*/DB_PASSWORD=${{ secrets.DB_PASSWORD }}/" .env
+          EOF
+          
+      - name: Remove the 'release' directory and .zip
+        run: |
+          sshpass -p "${{ secrets.SSH_PASSWORD }}" ssh -o StrictHostKeyChecking=no "${{ secrets.SSH_USER }}" << 'EOF'
+            cd "htdocs/${{ secrets.FTP_SERVER }}"
+            rm -rf release
+            rm -rf .git
+            rm release.zip
+          EOF
+
+            
+  MIGRATION-READY:
+    name: Migration Ready
+    runs-on: ubuntu-latest
+    environment: MIGRATE
+    #needs: ["CLEANING", "BUILD", "PRODUCTION"]
+    steps:
+      - name: Migration Permission okay
+        run: echo "Migrate ready"
+
+  SEED-READY:
+    name: SEED Ready
+    runs-on: ubuntu-latest
+    environment: SEED
+    steps:
+      - name: SEED Permission okay
+        run: echo "SEED ready"
+
+  MIGRATION-NEWSERVER:
+    name: Run in NEWSERVER
+    runs-on: ubuntu-latest
+    environment: NEWSERVER
+    needs: ["MIGRATION-READY", "PRODUCTION"]
+    steps:
+      - name: Running/Restarting NEWSERVER
+        run: |
+          sshpass -p "${{ secrets.SSH_PASSWORD }}" ssh -o StrictHostKeyChecking=no "${{ secrets.SSH_USER }}" << 'EOF'
+            cd "htdocs/${{ secrets.FTP_SERVER }}"
+            pm2 stop app.js
+            pm2 start app.js
+          EOF
+          
+  SEED-NEWSERVER:
+    name: SEED in NEWSERVER
+    runs-on: ubuntu-latest
+    environment: NEWSERVER
+    needs: ["SEED-READY", "MIGRATION-NEWSERVER"]
+    steps:
+      - name: SEED the Database in NEWSERVER
+        run: |
+          sshpass -p "${{ secrets.SSH_PASSWORD }}" ssh -o StrictHostKeyChecking=no "${{ secrets.SSH_USER }}" << 'EOF'
+            cd "htdocs/${{ secrets.FTP_SERVER }}"
+            #php artisan db:seed --force
+          EOF
